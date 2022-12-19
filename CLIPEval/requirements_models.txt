@@ -1,0 +1,5 @@
+flagai
+cn_clip
+multilingual_clip
+transformers
+open_clip_torch

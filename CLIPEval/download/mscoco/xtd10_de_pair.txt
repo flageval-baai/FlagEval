@@ -1,0 +1,1000 @@
+COCO_train2014_000000061844.jpg,Oberliga Basketball Spiel mit Spieler von Pittsburgh Pirates gehen durch die Heimat
+COCO_train2014_000000061849.jpg,Eine Katze spielt mit seinen Pfoten an einer Computer-Maus auf einem Schreibtisch .
+COCO_train2014_000000061850.jpg,Vogelschwarm Das Starten von Wasser in der Nähe von langen Pier am offenen Meer .
+COCO_train2014_000000061852.jpg,Schwarz-Weiß-Foto eines Offiziers bietet ein Element zum hinsetzen
+COCO_train2014_000000061854.jpg,Eine Schüssel Gemüsebrühe , mit Fritten und einer Flasche Wasser daneben .
+COCO_train2014_000000061865.jpg,der schwarzgekleidete mann fährt auf einem snowboard in dem eisigen gebiet .
+COCO_train2014_000000061867.jpg,Eine Gruppe von Zebras , bewegt sich in einem dicht grünen Feld .
+COCO_train2014_000000061877.jpg,Drei Frauen spielen ein Videospiel vor Zuschauern .
+COCO_train2014_000000061881.jpg,Ein Bett mit zwei Kissen und Beine einer Frau mit Schuhen auf dem Bett .
+COCO_train2014_000000061892.jpg,mann im anzug macht foto im büro
+COCO_train2014_000000061895.jpg,Ein Mann eine Welle zu reiten auf einem Surfbrett in den Ozean .
+COCO_train2014_000000061904.jpg,ein sehr schön aussehendes Motorrad steht neben einem Auto auf einem Parkplatz
+COCO_train2014_000000061911.jpg,Ein Wohnzimmer mit Couch , Sessel , TV und einem orientalischen Teppich .
+COCO_train2014_000000061918.jpg,ein junger Mann , trägt ein schwarzes Hemd und blauer Krawatte vor einem Wald .
+COCO_train2014_000000061919.jpg,Eine kleine Giraffe
+COCO_train2014_000000061936.jpg,Ein Badezimmer hat gemusterte Wände , ein Urinal und eine Toilette .
+COCO_train2014_000000061945.jpg,Während der Nachtzeit steht ein Auto in einer asiatischen Stadt an einer roten Ampel .
+COCO_train2014_000000061946.jpg,ein teller , der ein halbes erdnussbutter und gelee brötchen und ein kleines mit lamm gestopftes tier hat .
+COCO_train2014_000000061949.jpg,Ein Vogel hat sich auf einen Bananenbaum mit vielen Blättern niedergelassen .
+COCO_train2014_000000061951.jpg,eine Reihe Radfahrer bahnen sich ihren Weg durch die enge Straße , durch Gebäude und Fußgänger hindurch .
+COCO_train2014_000000061966.jpg,eine Statue einer Frau , Putting etwas in einer Toilette .
+COCO_train2014_000000061982.jpg,Ein Mann in einem Anzug mit Hut fährt auf einem Fahrrad .
+COCO_train2014_000000061992.jpg,ein Stadtbus , eine Straße umgeben von hohen Gebäuden entlangfahrend .
+COCO_train2014_000000062017.jpg,Eine Giraffe schaut über seiner linken , während in einer grasbewachsenen Bereich .
+COCO_train2014_000000062029.jpg,Eine Gruppe von jungen Frauen Schleifen nebeneinander holding Tennisschläger .
+COCO_train2014_000000062030.jpg,ein Mann auf einem Tennisplatz im Begriff , auf einem Tennisball streichen
+COCO_train2014_000000062031.jpg,Ein Skifahrer steigt durch die Luft , als eine Menschenmenge an schaut .
+COCO_train2014_000000062038.jpg,mehrere Weingläser haben nur ein wenig Wein in jedem von ihnen .
+COCO_train2014_000000062046.jpg,ein sehr kleines Badezimmer hat Toiletten und alles passt zusamen
+COCO_train2014_000000062048.jpg,Ein Mann und ein Junge sind am Stand kiten .
+COCO_train2014_000000062053.jpg,ein geöffneter Laptop auf einem Schreibtisch , nebst Papieren , Büchern und elektronischen Geräten .
+COCO_train2014_000000062057.jpg,Eine Ansicht einer Stadtstraße mit mehreren Doppeldeckerbusse parkten entlang der Seite , wie Autos fahren durch .
+COCO_train2014_000000062067.jpg,Drei Männer auf Skien fliegen über blauem Wasser .
+COCO_train2014_000000062075.jpg,eine Pizza auf einem Tisch mit einer Schüssel mit Trauben und Getränke .
+COCO_train2014_000000062127.jpg,Menschen , mit und ohne Schiehern , balablabla
+COCO_train2014_000000062128.jpg,ein Mann , neben einem Mann mit erhobenem Arm in einem Raum stehend .
+COCO_train2014_000000062129.jpg,Mann in lila Top und Jeans , vor vier Kühe in Futter Stift .
+COCO_train2014_000000062131.jpg,ein Bild von einem Vogel auf der Rückseite eines Stuhls außerhalb thront .
+COCO_train2014_000000062132.jpg,bär hält britische fahne im anhänger
+COCO_train2014_000000062160.jpg,Eine Nahaufnahme von einem Zug auf einem Bahngleis .
+COCO_train2014_000000062173.jpg,ein Mann mit einem Hut , neben einem "No Smoking"-Schild stehend
+COCO_train2014_000000062175.jpg,Ein Laptop-Computer steht auf einem Computer-Schreibtisch neben einer Tastatur .
+COCO_train2014_000000062193.jpg,Foto aus dem Fahrzeug auf Gebirgs schmalen Gebirgspass der Suche sehr gefährlich mit hohen steilen Abfall abgebaut .
+COCO_train2014_000000062195.jpg,Zwei Leute , die auf dem Rücken eines Elefanten sitzen .
+COCO_train2014_000000062203.jpg,ein Mann packte ein Bündel von Bananen aus einem großen Display von Containern
+COCO_train2014_000000062204.jpg,Ein Monstertruck fliegt im Rahmen einer Show durch die Luft .
+COCO_train2014_000000062209.jpg,zwei Bildschirme und Tastaturen , die nebeneinander auf einem Schreibtisch stehen .
+COCO_train2014_000000062216.jpg,Da gibt es ein es , falls Autos , welche geschält sind , in der Park-Lore . (???? WTF?)
+COCO_train2014_000000062219.jpg,Eine große Obstschale , die Granatapfel , Kiwis , Zitronen , Limetten und Melone enthält .
+COCO_train2014_000000062225.jpg,ein Flugzeug gleitet durch die Luft , in der Nähe auf den Boden .
+COCO_train2014_000000062226.jpg,Ein Tennisspieler starrt auf den Ball mit zurückgezogenem Schläger .
+COCO_train2014_000000062231.jpg,eine Katze , die auf der Wiese in der Nähe eines Vogels steht
+COCO_train2014_000000062233.jpg,Einige Personen spielen mit Controlern ein Spiel .
+COCO_train2014_000000062237.jpg,Eine Katze sitzt auf dem Tisch , auf Papieren vor einem Computer .
+COCO_train2014_000000062245.jpg,Ein Mann und eine Frau fahren Ski
+COCO_train2014_000000062246.jpg,eine Person im Skianzug , unter einen Schild , das Anweisungen gibt , posierend
+COCO_train2014_000000062257.jpg,eine Nahaufnahme zweier Gepäcktaschen mit einem abgebrochenen Rad
+COCO_train2014_000000062261.jpg,ein Stofftier im Besitz einer Nintendo Wii-Controller mit einem Schild mit der Aufschrift 'Jedermann für Tennis
+COCO_train2014_000000062263.jpg,Ein paar Zebras stehen in einem staubigen Feld .
+COCO_train2014_000000062272.jpg,der junge Baby Verlegung auf dem Bauch neben dem Buch auf dem Bett .
+COCO_train2014_000000062276.jpg,einem schwamm in der Mitte des Wassers , wie Auto über die Brücke passieren .
+COCO_train2014_000000062279.jpg,ein Tisch mit Tellern und Geschirr mit einer Vielfalt an Essen und einer Babyflasche .
+COCO_train2014_000000062292.jpg,Ein Bett sitzend gegen eine graue Wand neben einem Fenster .
+COCO_train2014_000000062293.jpg,Eine Gruppe von Fußgängern zu Fuß Vergangenheit eine U-Bahn in einer U-Bahnstation .
+COCO_train2014_000000062295.jpg,ein snowboardfahrer landet auf der piste und ist im begriff nach vorn zu fallen .
+COCO_train2014_000000062301.jpg,ein kleiner Vogel sitzt auf einem Zweig einer grünen Pflanze .
+COCO_train2014_000000062307.jpg,Einem blauen Stuhl sitzen in einem Garten voller Schnee mit Schnee bedeckt .
+COCO_train2014_000000062313.jpg,teller mit essen und becher neben einer plastikwanne
+COCO_train2014_000000062324.jpg,eine Gruppe von Soldaten schneiden eines riesigen Kuchen bei einer Zeremonie ab .
+COCO_train2014_000000062329.jpg,Einen verbeulten blauen Hochgeschwindigkeitszug mit einem Mann , der auf der Außenseite .
+COCO_train2014_000000062336.jpg,Ein Mann sitzt auf einer Couch  neben einem anderen Mann .
+COCO_train2014_000000062337.jpg,ein braunes und ein weisses Pferd stehn mitten im Gras .
+COCO_train2014_000000062344.jpg,Eine Person bereite Brokkoli auf einem Ofen in der Küche vor .
+COCO_train2014_000000062348.jpg,ein Tisch mit Platten von Frühstück Essen und Getränke auf sie .
+COCO_train2014_000000062350.jpg,ein großer uhrenturm aus dem oben raucht quillt .
+COCO_train2014_000000062351.jpg,ein Flugzeug ist gerade gestartet und fliegt durch den Sonnenschein .
+COCO_train2014_000000062357.jpg,Ein Vogel streckt seinen Kopf durch Blätter auf der Wasseroberfläche .
+COCO_train2014_000000062376.jpg,ein Bürotisch mit einen Monitor und eine Tastatur im Raum .
+COCO_train2014_000000062386.jpg,ein Bett mit Bettwäsche und Kissen steht in der Nähe eines Fensters durch das die Sonne herein scheint .
+COCO_train2014_000000062387.jpg,eine Reihe von Autos wartet auf Fußgänger , die in den Prozess der Kreuzung der Straße , während die Ampel grün , auf einer belebten Straße in der Stadt sind .
+COCO_train2014_000000062389.jpg,ein kleiner Raum , der gerade renoviert wird .
+COCO_train2014_000000062390.jpg,eine große Pepperoni-Pizza und ein Bier sind hier zu sehen .
+COCO_train2014_000000062392.jpg,ein kleines Mädchen , das auf einer Bank neben einem anderen kleinen Mädchen sitzt
+COCO_train2014_000000062395.jpg,ein Fahrrad , geparkt auf der Seite einer Straße , mit einem Kofferraum hinten drauf .
+COCO_train2014_000000062397.jpg,Der Mann fährt Skateboard um die Kegel
+COCO_train2014_000000062412.jpg,Ein Safeway-Lieferwagen fährt vor einem anderen Wagen .
+COCO_train2014_000000062420.jpg,ein Tennisspieler posiert für ein Bild in einem Schwarz-Weiß-Bild .
+COCO_train2014_000000062426.jpg,Eine alte mediterrane gelb Mosaik gefliestes Bad mit verzierten Hängeleuchte
+COCO_train2014_000000062427.jpg,Drei Giraffen gehen zusammen durch ein Feld mit Bäumen hinter ihnen .
+COCO_train2014_000000062440.jpg,Grünschwarzer Stoff angebunden an einen Mann auf dem Wasser .
+COCO_train2014_000000062442.jpg,ein Skifahrer posiert für ein Schuss auf den nächtlichen Pisten
+COCO_train2014_000000062446.jpg,Ein zu einem Viertel gefülltes Glas mit Wein auf einem Tisch .
+COCO_train2014_000000062455.jpg,eine Gruppe von Freunden , zwei Mädchen und ein Mann , Blick auf einen Wiimote .
+COCO_train2014_000000062464.jpg,Eine Menge von Menschen mit Regenschirmengehen auf einem bürgersteig an einem regnerischen Tag
+COCO_train2014_000000062468.jpg,eine Kuh , die in der Mitte einer Zaun-abgegrenzten Wiese steht
+COCO_train2014_000000062472.jpg,Der Tennisspieler rennt , um den Ball mit seinem Schläger zu erwischen
+COCO_train2014_000000062477.jpg,Ein Stopplicht in der Innenstadt .
+COCO_train2014_000000062478.jpg,Eien Ampel und Verkehrsschilder nahe eines Gebäudes , das viele Autos und Fußgänger passieren .
+COCO_train2014_000000062480.jpg,die frau hält ihrem Tennisschläger immer bereit , treffen .
+COCO_train2014_000000062481.jpg,Ein süsser kleiner brauner Teddybär sitzt auf einem Stein neben einem Busch .
+COCO_train2014_000000062531.jpg,Ein junger Mann mit einem grünen Hut nimmt eine selfie von sich selbst in der öffentlichen Toilette .
+COCO_train2014_000000062541.jpg,ein Mann fährt einem Skateboard über eine Rampe , während er einen Helm trägt .
+COCO_train2014_000000062543.jpg,ein Tisch mit Platten ein Sandwich anhält und Weingläser neben ihm
+COCO_train2014_000000062547.jpg,ein Paar Typen hängen mit einer Katze herum und surfen im Internet .
+COCO_train2014_000000062552.jpg,Eine große Pizza auf einem Tisch , der bereit schaut , um gegessen werden .
+COCO_train2014_000000062557.jpg,ein Paar Männer , die Tricks auf Skateboards bei Schienen machen .
+COCO_train2014_000000062558.jpg,Die Frau wartet , um ihre Koffer aus dem Wagen zu bekommen .
+COCO_train2014_000000062562.jpg,Ein Riesensandwich mit verschiedenem Gemüse und Truthahn .
+COCO_train2014_000000062574.jpg,Ein Mann draussen im Ozean auf einem Surfboard mit einem Segel .
+COCO_train2014_000000062581.jpg,Ein Bus Rahmen sitzt auf einem Kiesplatz mit Hunden im Hintergrund .
+COCO_train2014_000000062589.jpg,Eine Menge Schnee auf dem Boden und eine Parkuhr steht daraus hervor .
+COCO_train2014_000000062591.jpg,Suppe , ein Sandwich , eine Gurke und ein paar Chips sind alle auf dem Teller .
+COCO_train2014_000000062604.jpg,ein Gehweg zwischen Bankreihen in einer großen Kirche .
+COCO_train2014_000000062608.jpg,Eine teilweise gegessen Pizza mit Wein und eine Gabel auf den Tisch .
+COCO_train2014_000000062613.jpg,ein Mann trägt ein rotes Hemd spielt ein Tennisspiel
+COCO_train2014_000000062617.jpg,Ein Junge läuft einen Hügel hoch und hält einen Drachen in die Luft .
+COCO_train2014_000000062619.jpg,eine Stange mit vielen Fahnen von der Seite .
+COCO_train2014_000000062622.jpg,Ein Mann auf dem Strand fliegt einen Drachen über dem Meer .
+COCO_train2014_000000062648.jpg,Leute sitzen am Tisch und schauen auf ihre Teller .
+COCO_train2014_000000062652.jpg,Eine auf den Hinterfüssen stehende Katze reckt sich nach einem Bild eines Speedskaters im Fernsehen .
+COCO_train2014_000000062662.jpg,ein Haufen Gebäude zusammen gruppiert und eines hat eine Uhr in die Seite eingebaut
+COCO_train2014_000000062664.jpg,Pferde rennen , während ihre Gesichter nahe beieinander sind .
+COCO_train2014_000000062689.jpg,Ein Markt mit einem vollen Stand mit gelben und grünen Bananen und ein paar darüber hängend .
+COCO_train2014_000000062690.jpg,Das Paar sitzt auf der Bank auf dem Gehweg beim Wasser .
+COCO_train2014_000000062691.jpg,ein junger Mann mit kurzen , Spike - up Haare und ein Handtuch über die Schulter Rasuren Gefühle wie ein Mann hinter ihm in einem weißen Hut Passt eine Krawatte .
+COCO_train2014_000000062707.jpg,Ein ausgestelltes Motorrad mit vielen Menschen die im Hintergrund vorbeigehen .
+COCO_train2014_000000062710.jpg,Ein dunkler Raum mit einem großen Fenster und kein Vorhang , eine Staffelei und verschiedene Möbel .
+COCO_train2014_000000062715.jpg,eine Uhr Mannes auf einem Blatt auf einem hölzernen Oberfläche angezeigt
+COCO_train2014_000000062716.jpg,eine Pizza und eine Schüssel mit Gemüse auf einem Tisch nahe eines Toasters .
+COCO_train2014_000000062740.jpg,Ein großer Glockenturm am Ende einer Straße neben hohen Gebäuden .
+COCO_train2014_000000062743.jpg,Eine Gruppe von Personen mit Wein posieren für ein Foto an einem Tisch .
+COCO_train2014_000000062745.jpg,Eine "Angry Birds"-Geburtstagstorte auf einem Holztisch
+COCO_train2014_000000062756.jpg,Ein Gebäude welches zwei Mercedes Benz Autos daneben geparkt hat und ein Mann mit Krawatte und Mantelanzug läuft weg vom Autobereich .
+COCO_train2014_000000062759.jpg,der Mann und die Frau mit ihren Skiern posieren .
+COCO_train2014_000000062761.jpg,ein Mann auf einem Skateboard auf einem verzerrten Bild .
+COCO_train2014_000000062763.jpg,Zwei Personen stehen vor dem Kühlschrank und reden darüber , was drin ist .
+COCO_train2014_000000062766.jpg,Polizist bückt sich herunter um seine Arme um einen Mann zu legen der inmitten einer belebten Strasse von seinem Motorrad auf den Boden gefallen ist .
+COCO_train2014_000000062770.jpg,Ein großer Winkelschnappschuss eines Hauses , der ein Wohnzimmer , ein Esszimmer und eine Küche zeigt .
+COCO_train2014_000000062772.jpg,ein Zeichen im Gras das den Leuten zeigt  Tapton Wohnheim .
+COCO_train2014_000000062778.jpg,Reisende versammelten sich ,um ein Karussell in der Gepäckausgabe , auf einem Flughafen .
+COCO_train2014_000000062814.jpg,ein Mann ist auf seinen Knien in der Qual vor einem Laptop .
+COCO_train2014_000000062815.jpg,Ein Bus fährt die Straße runter in eine Stadt mit sehr kleinen Gebäuden .
+COCO_train2014_000000062821.jpg,Ein Mann steht in der Nähe von vier Müllwagen in einem Steinbruch bei Nacht .
+COCO_train2014_000000062833.jpg,ein Baseball-Spieler steht zu Hause Teller mit seinem Schläger in einem Yankees Jersey .
+COCO_train2014_000000062844.jpg,Außenansicht einer Stadt mit dem Strand und Drachen fliegen in den Himmel .
+COCO_train2014_000000062850.jpg,Eine Nahaufnahme einer Katze die auf einer Couch im Wohnzimmer sitzt .
+COCO_train2014_000000062852.jpg,eine Straße mit Autos gefüllt neben einem Line-Up der Straßenlaterne .
+COCO_train2014_000000062864.jpg,Could not translate
+COCO_train2014_000000062872.jpg,Ein Kerl fängt einen Frisbee während ein anderer ihm während eines Frisbee Turniers unter bewölktem Himmel nachsieht .
+COCO_train2014_000000062880.jpg,Schwarzweiss Foto einer Strasse mit Autos und Motorrädern auf der Strasse fahrend .
+COCO_train2014_000000062893.jpg,ein junges schwarzes Kind auf einem Fußboden sitzt vor einem Fernseher .
+COCO_train2014_000000062896.jpg,Ein junger Mann mit einem firsbee steht mit einer Gruppe von jungen Leuten in einem Feld .
+COCO_train2014_000000062923.jpg,Eine Frau in einem langen schwarzen Kleid und einem großen schwarzen Hut geht neber einem Kind mit einem Hut und geht auf dem Bürgersteig einer Allee entlang .
+COCO_train2014_000000062927.jpg,ein Vogel sitzt auf einem Pfosten nahe eines Bootdocks mit großen Schiffen im Hintergrund .
+COCO_train2014_000000062929.jpg,eine Gruppe Surfer reitet die Welle in dem Ozean .
+COCO_train2014_000000062941.jpg,ein united airlines flugzeug fliegt hoch in einem wolkenlosen himmel .
+COCO_train2014_000000062942.jpg,Ein kleiner blauer Truck geparkt auf einem Parkplatz vor dem Heimdepot .
+COCO_train2014_000000062943.jpg,Straßenschilder zeigen Richtungen und die Namen der Straßen vor von hohen Gebäuden .
+COCO_train2014_000000062957.jpg,Ein Teddybär sitzt auf dem Boden und guckt in die Kamera .
+COCO_train2014_000000062958.jpg,eine Gruppe von 5 Polizeimotorrädern stehn in einer Linie
+COCO_train2014_000000062964.jpg,eine U-Bahn Auto stoppt an einer Station , seine Türen geöffnet .
+COCO_train2014_000000062969.jpg,Typ in Shorts und einer Kappe fährt auf einer Mauer mit seinem Skateboard
+COCO_train2014_000000062995.jpg,ein Mann hält zu Dreharbeiten ein Mikrofon an einer Straßenecke einer Frauen
+COCO_train2014_000000063014.jpg,ein Snowboarder ist dabei , von einem Haufen Schnee abzuspringen .
+COCO_train2014_000000063017.jpg,Drei Tauben picken Brotkrumen vom Gehweg auf .
+COCO_train2014_000000063022.jpg,Eine Person auf einem Feld fliegt einen großen Drachen , während andere zu schauen
+COCO_train2014_000000063035.jpg,eine Nahaufnahme von einer Ampel mit einem Gebäude im Hintergrund
+COCO_train2014_000000063036.jpg,Ein junger Mann in Aktion auf einem Skateboard im Park .
+COCO_train2014_000000063043.jpg,ein Mann ziehen zwei Kühe durch Seile mit einer Menge von Menschen versammelten sich .
+COCO_train2014_000000063049.jpg,ein Doppeldecker-Bus mit großer Werbung ist nahe eines Fußwegs geparkt .
+COCO_train2014_000000063050.jpg,Eine Sitzbank neben einem Baum mit Bäumen im Hintergrund
+COCO_train2014_000000063075.jpg,eine Frisbee wird über einem sandigen Strand hoch in die Luft geworfen .
+COCO_train2014_000000063077.jpg,ein Mann blätterte in der Luft mit einem Snowboard über einem schneebedeckten Berg
+COCO_train2014_000000063079.jpg,Ein Pfosten mit einem Münzautomat drauf .
+COCO_train2014_000000063081.jpg,Ein Innenraum Wohnbereich mit Sofa , Tisch und Regal .
+COCO_train2014_000000063084.jpg,Das Sandwich liegt halbiert neben Scheiben von Gewürzgurken auf dem Tisch .
+COCO_train2014_000000063109.jpg,ein Mann mit Sonnenbrille und grünem Shirt ißt draussen ein Sandwich
+COCO_train2014_000000063115.jpg,Die drei Giraffen sind weg von der Kamera geleitet .
+COCO_train2014_000000063119.jpg,Ein Mann welches einen Schläger hält , wird von einer Menge von Leuten beobachtet .
+COCO_train2014_000000063121.jpg,Kindern Baseball spielen in einem Stadion in der Nacht als Schaulustige beobachten das Spiel .
+COCO_train2014_000000063123.jpg,Der Boden ist mit Taschen von Sachen übersät , während Stühle sind fast leer .
+COCO_train2014_000000063140.jpg,ein junger Mann , auf einer Bank inmitten eines saftig grünen Feldes sitzend .
+COCO_train2014_000000063143.jpg,ein Schreibtisch mit einer Tastatur , Lautsprecher und einen Monitor mit einem Auto auf dem Desktop .
+COCO_train2014_000000063147.jpg,Eine überflutete Parkbank und Lichtmast hinter einer Baumgruppe
+COCO_train2014_000000063163.jpg,ein Mädchen mit einem Spielzeug und sitzt auf einem Bett neben einer Puppe
+COCO_train2014_000000063166.jpg,ein Bild von einem jungen Mann lächelnd , während sitzt vor einem Glas Wein .
+COCO_train2014_000000063171.jpg,ein großer Topf  mit einem Baum und lila Blumen innendrin
+COCO_train2014_000000063182.jpg,Ein paar Schafe ,eins schaut nach unten und das andere rechts .
+COCO_train2014_000000063185.jpg,Ein Mann , welcher auf Wasserski steht , wird von einem Boot gezogen .
+COCO_train2014_000000063206.jpg,eine Lampe mit einem Straßenschild an seiner Seite .
+COCO_train2014_000000063209.jpg,zwei Frauen staning ganz in der Nähe Blick auf den Bildschirmen ihrer Handys .
+COCO_train2014_000000063214.jpg,ein Hund , der im Schnee mit einem Frisbee in seinem Maul
+COCO_train2014_000000063217.jpg,ein Boot befindet sich in einem Fluss mit einem Stadtbild im Hintergrund .
+COCO_train2014_000000063230.jpg,ein Coffee Shop mit Stühlen und Tischen außerhalb des Shops .
+COCO_train2014_000000063235.jpg,Ein Mädchen streichelt ein kleines Pony an einer Holzwand .
+COCO_train2014_000000063238.jpg,eine Reihe Kekse vor einer Reihe von Sandwichen
+COCO_train2014_000000063247.jpg,Ein Mann in einem Anzug lehnt sich an die Leiste neben dem Wasser .
+COCO_train2014_000000063248.jpg,Ein Mann sitzt in einem Fensterplatz neber einem großen Uhrturm .
+COCO_train2014_000000063251.jpg,eine Giraffe verdreht  seinen Kopf zu Essen einige laub auf einer Stange in einem Gehäuse
+COCO_train2014_000000063252.jpg,ein hund sitzt auf den stufen vor einem roten teppich
+COCO_train2014_000000064627.jpg,Ein Skifahrer dreht sich um und blickt wie andere Menschen im Hintergrund stehend .
+COCO_train2014_000000064634.jpg,ein Stück Erdbeerkuchen auf einem weißen Teller mit einer Gabel
+COCO_train2014_000000064635.jpg,Eine Gruppe von Menschen trägt weisse Klamotten und spielt Tennis .
+COCO_train2014_000000064659.jpg,Ein Tisch mit Telefon , Computer , Laptop , Handy und einer Flasche drauf .
+COCO_train2014_000000064681.jpg,eine Person mit einem Pizza Hut Rezept und ein Fan von Pizza und Pepsi
+COCO_train2014_000000064684.jpg,da steht ein kleiner Laptop mit einer Tatstatur davor .
+COCO_train2014_000000064694.jpg,Menschen fahren in den Waggongs eines alten Personenzuges .
+COCO_train2014_000000064697.jpg,EIne Box voller Donuts mit Strudeln ein paar mit Frischkäse .
+COCO_train2014_000000064704.jpg,eine volle Kühlschrank ist mit Kopfsalat , Zitronen und andere Gemüse und Lebensmitteln bestückt
+COCO_train2014_000000064705.jpg,Ein Mann auf einem Paar Skier ab einem schneebedeckten Hügel .
+COCO_train2014_000000064708.jpg,Ein weisser Hund liegt in der Mitte eines Koffers auf einem Holzboden .
+COCO_train2014_000000064722.jpg,eine Kuh geht in die Straße mit den Leuten
+COCO_train2014_000000064730.jpg,eine Person mit einer Nahrungsmittelkarte ran mit einem Bart , der von einem Mann .
+COCO_train2014_000000064731.jpg,Eine Frau , die unter einem Regenschirm ,ihre Hand austreckt , um Regentropfen fangen .
+COCO_train2014_000000064733.jpg,Wurst , Makkaroni und Käse , und Pizza sitzt auf einem Holztisch .
+COCO_train2014_000000064738.jpg,Ein Lastwagenfahrer auf der Strasse neben anderen LKWs und Autos
+COCO_train2014_000000064744.jpg,ein paar Männer fahren mit Motorrädern mit anderen Männern auf den Schultern .
+COCO_train2014_000000064749.jpg,junges Kind , welches einen Schläger hält , schaut durch einen Maschendrahtzaun .
+COCO_train2014_000000064750.jpg,eine junge Frau balanciert auf einem Surfbrett , wie ein Mann schwimmt trägt sein Board durch das Wasser hinter ihr .
+COCO_train2014_000000064751.jpg,Ein Zug innerhalb von einem Bahnhof neben einer Plattform .
+COCO_train2014_000000064765.jpg,Ein Hund liegt auf dem Gras und hat ein Spielzeug im Mund .
+COCO_train2014_000000064772.jpg,Schwarz-Weiß- Foto eines Mannes sitzt auf einem WC .
+COCO_train2014_000000064794.jpg,eine weiße Bank hat die Schatten auf sie und ist neben einer Tür .
+COCO_train2014_000000064795.jpg,Eine Gruppe von Menschen Reiten Ski über einem schneebedeckten Boden .
+COCO_train2014_000000064797.jpg,eine Nahaufnahme von drei Geier in einer Wiese mit hohem Korn
+COCO_train2014_000000064798.jpg,ein Geschirr auf einem weißen Teller , welcher Brokkoli , Pilze und Fleisch beinhaltet .
+COCO_train2014_000000064799.jpg,Ein Mädchen trägt eine Mütze und isst einen Donut welcher von einem Faden hängt .
+COCO_train2014_000000064800.jpg,ein alter Camper parkt in einer Ecke mit vielen Cupcake am DAch
+COCO_train2014_000000064802.jpg,eine Elefanten mutter  und ihr Baby gehen zu Fuß über den Schmutz mit Bäumen hinter ihnen .
+COCO_train2014_000000064804.jpg,eine Menge von den Enten , die auf einen Schmutzboden sitzen .
+COCO_train2014_000000064809.jpg,Ein Mann bereitet sich vor einen Tennisball über das Netz zu schlagen .
+COCO_train2014_000000064816.jpg,ein Mann steht neben einem braunen Pferd neben einem anderen Mann .
+COCO_train2014_000000064818.jpg,eine große braune Kuh stehen neben einem kleinen Mops an der Seite eines Hügels .
+COCO_train2014_000000064823.jpg,eine Nahaufnahme von einer Person mit auf dem Boden in der Nähe von einem Bett
+COCO_train2014_000000064827.jpg,ein Mädchen , welches vor einem Netz steht und einen Ball tritt .
+COCO_train2014_000000064828.jpg,Ein kleiner Junge hält ein Stofftier auf einem Bett und ein Mädchen steht auf dem Kopfteil .
+COCO_train2014_000000064834.jpg,ein Foto von einem Laptop auf einem Bett mit einem Fernseher im Hintergrund .
+COCO_train2014_000000064836.jpg,Die Karotten sind auf dem Herd neben einem Tablett von Sellerie und Karotten-Sticks .
+COCO_train2014_000000064866.jpg,da ist eine Bildcollage eines Stoppschildes und eines Starbucks-Schildes
+COCO_train2014_000000064870.jpg,eine Strassenecke mit einer Person die neben einem Schild sitzt , wo schau nach rechts drauf steht
+COCO_train2014_000000064890.jpg,Could not translate
+COCO_train2014_000000064893.jpg,Ein Schreibtisch mit einem Laptop , Malutensilien , ein Notizbuch und Stift auf ihm .
+COCO_train2014_000000064896.jpg,Eine Nahaufnahme von einer Tastatur und einer Maus auf dem Tisch .
+COCO_train2014_000000064897.jpg,Ein Mann fährt ein Skateboard die Seite einer Rampe hinauf .
+COCO_train2014_000000064899.jpg,das Fahrzeug befindet sich auf der Seite der Straße durch den Zaun mit den Tieren geparkt .
+COCO_train2014_000000064906.jpg,eine Nahaufnahme von einem kleinen Flugzeug bei einem start
+COCO_train2014_000000064908.jpg,Ein Mann sitzt oben auf einem grossen weissen Flugzeug , dass auf einem Parkplatz geparkt hat .
+COCO_train2014_000000064933.jpg,vier Fotos einer Dame in verschiedenen Posen mit Tennisschläger .
+COCO_train2014_000000064941.jpg,zwei Erwachsene und ein Kind auf Fahrrädern auf dem Seitenstreifen
+COCO_train2014_000000064948.jpg,einige Personen sitzen auf einer Bank vor einem Gewässer
+COCO_train2014_000000064953.jpg,eine rote Muldenkipper mit einer Schaufel auf der Vorderseite indem ein Polizeiauto
+COCO_train2014_000000064954.jpg,eine dreistufige weißen Kuchen auf einem silbernen Tablett mit weißen Rosen auf ihm daneben ein Blumenstrauß .
+COCO_train2014_000000064962.jpg,Die Giraffen erkunden den von Menschen gemachten Pfad welcher mit Steinen umrandet ist .
+COCO_train2014_000000065011.jpg,Ein Paar Männer schauen in die Kamera während einer ein Mobiltelefon hält .
+COCO_train2014_000000065012.jpg,Ein Tennisspieler ist im Begriff , eine Kugel , die das Netz mit einem Schläger gekreuzt getroffen .
+COCO_train2014_000000065016.jpg,eine Toilette in einem Badezimmer mit einem Kasten Geweben auf der Rückseite .
+COCO_train2014_000000065025.jpg,Da sind zwei Zebras in der Wildnis und essen Gras .
+COCO_train2014_000000065028.jpg,ein einzelnes Fahrzeug an einer Ampel , mitten in der Nacht .
+COCO_train2014_000000065029.jpg,Glasvasen mit Blumen und Wasser sind auf einem Granit-Tisch .
+COCO_train2014_000000065030.jpg,eine Person in einem blauen T - Shirt Reiten ein Surfbrett im Meer .
+COCO_train2014_000000065043.jpg,Eine Surferin trägt ihr weisses Surfboard hinaus auf den Ozean .
+COCO_train2014_000000065047.jpg,?
+COCO_train2014_000000065063.jpg,Frau hält die Zügel eines Pferdes vor einem Publikum .
+COCO_train2014_000000065072.jpg,Ein Wildtier steht neber einem Stopschild auf einem gepflastertem Weg .
+COCO_train2014_000000065080.jpg,ein weißer Lattenbankzur Fliesenbürgersteigverschraubt , mit der Bank ' s Mittelsitz Lamellen Spirale zusammengerollt , um ein Ende , mit Ziegelsteinstraße und Wohngebäude im Hintergrund .
+COCO_train2014_000000065085.jpg,Ein Überfluss an geschnittenen Karotten in einem Wassertopf mit einem Holzlöffel .
+COCO_train2014_000000065087.jpg,Einige Leute spielen mit einer Scheibe in einer grasbewachsenen Bereich .
+COCO_train2014_000000065095.jpg,ein erwachsener und ein Babyelefant laufen fort in einen Wald
+COCO_train2014_000000065098.jpg,ein LKW mit zwei Gegenstände auf es ist Pritsche sitzen .
+COCO_train2014_000000065135.jpg,ein Flugzeug wird auf der Landebahn gewaschen , während ein anderes in einiger Entfernung steht .
+COCO_train2014_000000065136.jpg,Ein hölzernes Geländer bedeckt mit Snowboards auf einem schneebedeckten Berg . .
+COCO_train2014_000000065139.jpg,van liegt an der Straße von einem Bremslicht und Arbeits Reparaturen gestoppt .
+COCO_train2014_000000065144.jpg,Ein paar Leute und ein weisser Uhrturm mit einer schwarzweissen Uhr .
+COCO_train2014_000000065153.jpg,Ansicht von einem Teil der Wand der Küche , mit Kühlschrank , Herd , Mikrowelle , Schränke und Theken .
+COCO_train2014_000000065156.jpg,eine Zebraherde steht auf auf einem Landstreifen zwischen zwei Flüssen
+COCO_train2014_000000065161.jpg,eine Person hat seine Hand wieder mit einem Schläger und seine Füße auseinander gespreizt .
+COCO_train2014_000000065162.jpg,Eine Gruppe von Männern in weiß und rot bei einem Baseball-Spiel .
+COCO_train2014_000000065163.jpg,Ein Kind versucht , ein grosses Stück Pizza zu essen .
+COCO_train2014_000000065166.jpg,ein braunes und rosa Hallo Kitty Tasche wird geleert und hielt eine grüne Geldbörse , Handy , Schlüssel , Geld , Medizin und Make-up .
+COCO_train2014_000000065177.jpg,ein Mann im Anzug steht vor der U-Bahn , die die Tür geöffnet hat .
+COCO_train2014_000000065179.jpg,Ein kleiner Junge mit einer Schaufel , um einen Pfad im Schnee zu löschen .
+COCO_train2014_000000065183.jpg,Leute stehen hinter einem kaputten Bus , während ein Zuschauer fotographiert und ein anderer inspiziert einen Hinterreifen .
+COCO_train2014_000000065189.jpg,ein Mann in einem üppig grünen Hügel laufen neben Wildvögeln .
+COCO_train2014_000000065191.jpg,Ein kleiner Junge sitzt auf einem Gepäckstück in einem Terminal .
+COCO_train2014_000000065195.jpg,Ein Elephant wird entlang der Fussgängerzone geführt während Vieh weidet bei einem grossen Schloss .
+COCO_train2014_000000065197.jpg,Zwei Leute auf Motorrädern , fahren auf der Autobahn in die Berge .
+COCO_train2014_000000065198.jpg,Vogel Mutter sitzt auf einem Baum und füttert ihre zwei Babys .
+COCO_train2014_000000065201.jpg,ein Teenager mit blau , grauem Haar trägt ein weiss und blaues Hemd mit einer roten Krawatte .
+COCO_train2014_000000065206.jpg,ein junges Mädchen , hält eine Fledermaus neben einem Hydranten .
+COCO_train2014_000000065207.jpg,Eine Person mit einem Computer , die bis zu einem Fernseher angeschlossen wird .
+COCO_train2014_000000065209.jpg,Ein junger Mann in schwarzem Jersey sitzt auf dem Feld mit einem Fußball .
+COCO_train2014_000000065211.jpg,ein Stoppschild auf einem Pfosten befindet sich vor einem Gebäude
+COCO_train2014_000000065213.jpg,Zwei Jets fliegen in Formation gegen einen weißen Hintergrund .
+COCO_train2014_000000065218.jpg,Ein Kopf Kohl und Karotten auf einem Schneidebrett .
+COCO_train2014_000000065220.jpg,ein rotköpfiger Typ macht das Peace-Zeichen während er neben einer Elefantenskulptur posiert .
+COCO_train2014_000000065245.jpg,eine Gruppe Männer versucht , einen großen Lastwagen die Straße hinauf zu schieben
+COCO_train2014_000000065247.jpg,eine Orange Badezimmer mit einer weißen Toilette sitzt unter einem Fenster .
+COCO_train2014_000000065252.jpg,ein Raum , der eine Dusche und eine Toilette drin hat
+COCO_train2014_000000065261.jpg,Knödel sind in einer Schüssel und verschiedene Essensgerichte sind neben kleineren Sossenschüsseln auf einem Tisch .
+COCO_train2014_000000065262.jpg,eine große 747 Jumbo Jet-Flugzeug  rollt  auf der Landebahn mit einem anderen Jet dahinter .
+COCO_train2014_000000065280.jpg,Zwei Sperrholztische mit verschiedenen Früchten einschließlich Beeren und Pfirsichen .
+COCO_train2014_000000065289.jpg,Ein offenes Buch steht auf einem Bett neben ein Kopfkissen
+COCO_train2014_000000065292.jpg,eine Frau mit einem Top sitzt auf einem Pferd
+COCO_train2014_000000065301.jpg,Ein rostiges rot-weisses Boot auf dem Grass bei einem Zaun .
+COCO_train2014_000000065307.jpg,Individuen werden hier gewürdigt und haben eine Menge Spaß
+COCO_train2014_000000065325.jpg,ein Stoppschild mit einem Richtungszeichen mit einen Möglichkeiten markiert einen Schnitt .
+COCO_train2014_000000065329.jpg,Eine Person sitzt in einem Stuhl mit einem Laptop und anderen Computern im Hintergrund .
+COCO_train2014_000000065334.jpg,Ein Boot ist an der Seite des Flusses angedockt , während ein Junge mit einem Hut und einem Hosenträger auf der Brücke daneben sitzt .
+COCO_train2014_000000065336.jpg,Ein Kühlschrank mit ein paar Magneten an der Seite .
+COCO_train2014_000000065343.jpg,Pflanzen sind auf einem Frühstückstisch , auf dem Essen für eine Person serviert ist , platziert .
+COCO_train2014_000000065345.jpg,Die Seite eines großen Elefanten unter den Bäumen und Sträuchern .
+COCO_train2014_000000065353.jpg,Zebras auf einem Feld mit grünem Grad und Bäumen im Hintergrund .
+COCO_train2014_000000065356.jpg,Ein kleiner schwarz-weisser Hund sitzt auf einem gelben Sessel
+COCO_train2014_000000065360.jpg,ein Flugzeug auf dem Rollfeld mit Flughafen LKW dahinter
+COCO_train2014_000000065371.jpg,Eine Person schiesst ein Foto von zwei Menschen mit dem Smartphone .
+COCO_train2014_000000065380.jpg,Ein Straßen- und Verkehrszeichen liegen auf einem Behälterstapel .
+COCO_train2014_000000065400.jpg,Ein sperrangelweit offener Lebensmittelladen , mit Bananen die von der Decke hängen , hat einen Hund und zwei Menschen die davorstehen sowie viele Schachteln mit Produkten .
+COCO_train2014_000000065404.jpg,eine Frau , die im Gras stehend mit einem Fußball .
+COCO_train2014_000000065407.jpg,Leute sitzen in einem Raum mit Laptops und Mitteilungs Bücher mit Namen von Personen .
+COCO_train2014_000000065420.jpg,ein paar Leute mit Regenschirmen gehen hinunter eine Stadtstraße
+COCO_train2014_000000065425.jpg,Alte Bilder eines Baseballschlägers der raus aufs Feld schaut .
+COCO_train2014_000000065426.jpg,eine Zahnbürste , welche die Wörter mystery toothbrush auf sich stehen hat , befindet sich in einem Waschbecken .
+COCO_train2014_000000065440.jpg,Der Baseball Spieler ist in der Mitte des Schlagens auf einem Hügel .
+COCO_train2014_000000065447.jpg,Sitz und Wartebereich mit kleinen Tischen und Bananen auf jedem Tisch .
+COCO_train2014_000000065448.jpg,Eine Brille liegt auf dem Schreibtisch neber einem Handy und Laptop .
+COCO_train2014_000000065456.jpg,Ein Mann geht durch einen Park und hält dabei eine weiße Frisbee-Scheibe .
+COCO_train2014_000000065457.jpg,Eine Katze sitzt in einem Waschbecken im Bad , welches von Zahnpasta und Schalen umgeben ist .
+COCO_train2014_000000065463.jpg,Eine Küche mit einer Speisekammer und einem Ofen drin .
+COCO_train2014_000000065484.jpg,Ein Zähler überhäuft mit vielen Gegenständen , beinhaltet einen Teekessel , einen Topf , eine Essenswaage und mehr .
+COCO_train2014_000000065488.jpg,eine Frau auf Skiern hält Ski Stöcke auf einer Schnee - überdachte Fläche vor einem Parkplatz
+COCO_train2014_000000065500.jpg,Eine Vierergruppe steht am Tennisnetz ein Mann trägt ein Kostüm .
+COCO_train2014_000000065504.jpg,Drei Pfannkuchen mit Butter auf einem gelben ovalem Teller .
+COCO_train2014_000000065509.jpg,ein Mann in einer Bar sitzt neben einem Alkoholflasche mit einem Handy .
+COCO_train2014_000000065515.jpg,eine Person , die auf einem U-Bahnsteig , als das Auto leitet sie
+COCO_train2014_000000065516.jpg,eine kuh steht in etwas neben einem gebäude
+COCO_train2014_000000065518.jpg,ein wenig Liga-Spiel mit einem Teig vorbereitet , seine dem Ball .
+COCO_train2014_000000065523.jpg,Ein Pferd und noch jemand ziehen einen Schlitten im Tag .
+COCO_train2014_000000065554.jpg,eine Frau in einem schwarz-weißen Shirt spielt Tennis
+COCO_train2014_000000065557.jpg,eine Draufsicht auf einen Mann Schneiden ein Stück Kuchen mit ein paar andere Gegenstände auf dem Tisch .
+COCO_train2014_000000065562.jpg,eine Zeichnung eines Baseballspielers ist über einem Bild eines Schlagmals platziert .
+COCO_train2014_000000065564.jpg,zwei Giraffen einen schaut oben , während der andere nach unten essen Biege
+COCO_train2014_000000065566.jpg,Ein roter Scooter geparkt auf dem Sand mit einem Sonnenuntergang im Hintergrund .
+COCO_train2014_000000065582.jpg,ein Bär schaut von hinten den Stamm einer Birke
+COCO_train2014_000000065584.jpg,großer roter Regenschirm befindet sich vor den Fenstern eines Gebäudes .
+COCO_train2014_000000065586.jpg,Eine lego Szene einer Stadt mit einem Polizeiwagen und andere Fahrzeuge und Charaktere .
+COCO_train2014_000000065587.jpg,ein Junge im blauen Hemd auf der Spitze eines Kühlschranks sitzen
+COCO_train2014_000000065588.jpg,ein bärtiger Mann mit dem langen Haar und den Gläsern ein Sandwich essend
+COCO_train2014_000000065594.jpg,Ein Typ mit einem Motorradhelm steht hinter einem Motorrad .
+COCO_train2014_000000065601.jpg,ein Make-up Tasche , Schal , Haarbürste , leichter , eine Brieftasche mit Geld und andere Einzelteile ausgebreitet auf einem Teppich .
+COCO_train2014_000000065610.jpg,Haushalt Bad mit bunten Kunst auf Fliesen und ähnliche Duschvorhang .
+COCO_train2014_000000065612.jpg,ein Stoppschild unter einer Ampel vor einem großen Gebäude
+COCO_train2014_000000065616.jpg,zwei Leute , an einem Tisch stehend und ein Messer nahe eines Kuchens haltend .
+COCO_train2014_000000065630.jpg,Ein Foto von einem Mann mit einem Rochenvorstand auf einem Baum .
+COCO_train2014_000000065632.jpg,ein Fußball-Spieler auf den Boden fallen , wie weitere Stürze über ihn
+COCO_train2014_000000065643.jpg,Einem überfüllten Kreuzung von Motorrädern , Autos und ein Golf-Cart -Fahrzeug .
+COCO_train2014_000000065668.jpg,offene Bauernmarkt mit verschiedenen Arten von Gemüse drin .
+COCO_train2014_000000065685.jpg,pflanzen und blumen in einer vase auf dem tisch
+COCO_train2014_000000065705.jpg,ein Doppeldeckerbus hebt sich ab von einem schwarzweissen Hintergrund .
+COCO_train2014_000000065712.jpg,eine Frau , die ein Dach um eine Gruppe von Leuten .
+COCO_train2014_000000065716.jpg,Ein Computermonitor und ein Laptop zeigen Bildschirmdateien in einem Büro .
+COCO_train2014_000000065732.jpg,Die Tischecke mit einem Handy und Schnur , zwei Fernbedienungen , Kontaktlinsenbox und ein untersetzer mit Glas .
+COCO_train2014_000000065737.jpg,die vollständige Sicht auf ein Badezimmer mit viel zu sehen .
+COCO_train2014_000000065753.jpg,Ein Mann in blauem Hemd und Shorts spielt Tennis .
+COCO_train2014_000000065755.jpg,eine Person ist auf einem Jetski über einer blauen Oberfläche .
+COCO_train2014_000000065769.jpg,Ein kleiner Junge in rot und rote Baseballmütze beißt in einen Hotdog .
+COCO_train2014_000000065776.jpg,Eine Sicht auf eine Menge Gepäck auf dem Bürgersteig am Flughafen .
+COCO_train2014_000000065781.jpg,Eine verchromte Küchenzeile mit einer passenden Microwelle darüber .
+COCO_train2014_000000065793.jpg,Der Laden hat eine Ausstattung von vielen Typen , Grössen und Farben von Teddybären .
+COCO_train2014_000000065816.jpg,eine Holzplattform hat einige gefaltete Laken und Bettzeug darauf liegen .
+COCO_train2014_000000065829.jpg,Eine Bild eines nassen Parkplatzes und Ampeln in der Nacht .
+COCO_train2014_000000065831.jpg,Eine Frau fallen aus einem Surfbrett , während eine Welle zu reiten .
+COCO_train2014_000000065835.jpg,Das Gericht auf dem Teller auf dem Tisch ist fertig zum Verzehr .
+COCO_train2014_000000065836.jpg,Ein paar Früchte wie Erdbeeren liegen neben einem Container Milch .
+COCO_train2014_000000065837.jpg,ein Wrap und ein Salet ist auf einer weissen Platte angerichtet .
+COCO_train2014_000000065841.jpg,ein Raum mit zwei Betten , zwei Lampen , zwei Bildern und einem Telefon in ihm .
+COCO_train2014_000000065842.jpg,Orangen werden in einem Metallbehälter zum Kochen gebracht .
+COCO_train2014_000000065855.jpg,a window looking out on a forest , with plants and knick knacks on the window .
+COCO_train2014_000000065859.jpg,eine Außenansicht mit einem Zug der doppelten Höhe auf dem links , einige Fahrräder parkte in der Mitte und in einem Bus auf dem Recht .
+COCO_train2014_000000065861.jpg,Ein Bild eines Badezimmer mit Duschbadewanne und einer weissen Toilette .
+COCO_train2014_000000065865.jpg,Vögel , auf dem Wasser ruhend , das von Bäumen umgeben ist .
+COCO_train2014_000000065869.jpg,ein Mann auf einem Snowboard hinunter einen schneebedeckten Hang .
+COCO_train2014_000000065880.jpg,Haupt-Liga-Basketball Spieler üben , auf dem Spielfeld ihre Würfe zwischen den Linien .
+COCO_train2014_000000065884.jpg,Eine Höhle mit großen Fenstern , Stühlen , einer Couch , einem Tisch und einem Fernseher .
+COCO_train2014_000000065891.jpg,Eine Gruppe von Autos , die unter einem Straßenschild und einer Ampel .
+COCO_train2014_000000065894.jpg,mehrere Boote auf dem Wasser und einem großen Gebäude im Hintergrund .
+COCO_train2014_000000065896.jpg,ein Weg , in dessen Zentrum ein Kissen liegt , auf dem eine Uhr platziert ist .
+COCO_train2014_000000065898.jpg,Eine Ansicht eines modernen Wohnraum während für Weihnachten dekoriert .
+COCO_train2014_000000065900.jpg,ein Surferfliegen durch die Luft , die in ein Wellenbad springt .
+COCO_train2014_000000065901.jpg,ein junger Mann fängt eine Welle auf einem blauen Surfboard .
+COCO_train2014_000000065905.jpg,Ein Tisch mit einer Edelstahlschüssel voller Salat und einer Pfanne mit Spargel .
+COCO_train2014_000000065916.jpg,ein Strassenschild , das eine Einbahnstrasse anzeigt , unter blauem Himmel .
+COCO_train2014_000000065924.jpg,die Straße hat viele Schilder , welche in zwei verschiedenen Sprachen verfasst sind .
+COCO_train2014_000000065938.jpg,Ein Regal mit Broadlaiben in der Ecke eines Raumes .
+COCO_train2014_000000065943.jpg,Ein Mann auf einem Pferd landet auf dem Rücken an einem Hinderniss .
+COCO_train2014_000000065953.jpg,ein Elefant wird von zwei Personen , neben einer Straße untersucht .
+COCO_train2014_000000065955.jpg,eine Gruppe Leute stehen auf einem üppigen grünen Feld und lassen Drachen Steigen .
+COCO_train2014_000000065957.jpg,Eine Frau in einem weissen Tennisoutfit teilt einen Tennisball aus .
+COCO_train2014_000000065961.jpg,Pferde grasen auf der Weide , mit schneebedeckten Bergen im Hintergrund .
+COCO_train2014_000000065962.jpg,Ein großer Bus und anderer Verkehr auf einer gefüllten städtischen Strasse .
+COCO_train2014_000000065965.jpg,eine Person zu Fuß über die Straße , während das Tragen eines Bananenkostüm auf dem Kopf .
+COCO_train2014_000000171179.jpg,ein gelber Feuerhydrant in der Mitte eines Parkplatzes
+COCO_train2014_000000171180.jpg,Ein Bus-Terminal mit mehreren geparkten Bussen und vielen Menschen , die  zu Fuß vor ihnen gehen .
+COCO_train2014_000000171185.jpg,eine Giraffe steht neben einem Baum wie die anderen Giraffen und sind hinter ihnen zu Fuß .
+COCO_train2014_000000171194.jpg,Ein Junge und ein Mädchen schauen zu , wie ein anderes Kind mit dem Skateboard springt .
+COCO_train2014_000000171208.jpg,pferde gruppe weided im gras neben einem bach
+COCO_train2014_000000171210.jpg,Was aussieht wie ein blasser Gipfel , zeigt andere Berge , Bäume und Tiefebenen hinter sich , und in dem Vordergrund ,  trägt eine junge Frau ,ein schwarz und weiß Outfit und hört Handy .
+COCO_train2014_000000171221.jpg,in einem eingezäunten bereich sieht man den kopf einer giraffe
+COCO_train2014_000000171231.jpg,Doppeldecker - Party-Bus sitzt auf einem Parkplatz .
+COCO_train2014_000000171235.jpg,Giraffenmutter und -kind im baumumsäumten Bereich eines Tierparks .
+COCO_train2014_000000171239.jpg,Eine Frau mit auf dem Bett in ihrer Unterwäsche Blick auf eine schwarz-weiße Katze .
+COCO_train2014_000000171262.jpg,Hund an der Leine  versucht Kuchen von einem Parkschachtisch vom anderen Mann  zu bekommen
+COCO_train2014_000000171269.jpg,junge sitzt auf dem gelben hydranten in der straße
+COCO_train2014_000000171270.jpg,Eine Menge von Menschen sitzen um Holztischen neben einem Brunnen .
+COCO_train2014_000000171272.jpg,eine motorradfahrende Person mit einer anderen Person , die in einem Beiwagen sitzt , auf einer Rennstrecke .
+COCO_train2014_000000171281.jpg,Ein Junge spielt Tennis mit seinem samt Schläger ausgestreckten Arm .
+COCO_train2014_000000171284.jpg,Mann mit zwei Papageien auf seinem Finger und einem Papagei auf seiner Schulter .
+COCO_train2014_000000171287.jpg,ein Mann reitet durch über einen Gehweg ein Skateboard
+COCO_train2014_000000171289.jpg,ein kleines Kind mit offenen Augen , eine Banane essend .
+COCO_train2014_000000171290.jpg,ein silberfarbener Güterzug fährt die Strecke hinunter einem etwas nebligen Tag
+COCO_train2014_000000171297.jpg,eine schöne junge Frau , liegt auf dem Bauch vor einem Laptop .
+COCO_train2014_000000171309.jpg,Der Teddybär trägt die rosa Outfit mit auf dem Bett neben einem Buch
+COCO_train2014_000000171315.jpg,Eine Vielzahl von ausgestopften Tieren sind in der Glasvitrinesitzt .
+COCO_train2014_000000171316.jpg,ein Zug fährt auf den Schienen vor den Bergen
+COCO_train2014_000000171321.jpg,Ein Tennisspieler mit einer Mütze hält einen Schläger .
+COCO_train2014_000000171328.jpg,ein Orangenbaum beladen mit reifen Früchten vor einem Haus .
+COCO_train2014_000000171330.jpg,Ein Ofen mit Pizza drinnen und Klötze nebendran .
+COCO_train2014_000000171339.jpg,Eine Stadtstraße in der Nacht mit einem aufgehellten KFC Schild .
+COCO_train2014_000000171353.jpg,Ein Mann die Zubereitung von Speisen auf einem Zähler in einer Küche .
+COCO_train2014_000000171363.jpg,eine Gruppe Leute mit Skiausrüstung steht an einer verschneiten Skipiste
+COCO_train2014_000000171374.jpg,Ein Bett mit einer Lampe , eine Katze und ein Stuhl daneben
+COCO_train2014_000000171376.jpg,Ein Hot Dog sitzt auf einer Styroporplatteneben einem Klecks Ketchup
+COCO_train2014_000000171378.jpg,ein Bus an einer Nassen straße in der Nacht
+COCO_train2014_000000171380.jpg,Ein Stopschild in mehreren Sprachen an der Einfahrt zu einem Parkplatz
+COCO_train2014_000000171381.jpg,ein WC-Sitz mit vielen Tasten und Funktionen beigefügt .
+COCO_train2014_000000171384.jpg,Ein Mann reitet auf einer Welle mit seinem Surfbrett und hält seine Arme hoch um Balnce zu halten
+COCO_train2014_000000171408.jpg,Drei Hunde auf einer Couch mit einem Fenster , mit einem Kürbis in der Front .
+COCO_train2014_000000171419.jpg,ein Bus , an der Seite einer Strasse in der Stadt geparkt .
+COCO_train2014_000000171422.jpg,Ein kanadischer Gepäckwagen und Abfertiger ladet Laderaum von einem Flugzeug aus .
+COCO_train2014_000000171429.jpg,eine Gurke , Käse , Senf , Ketchup und Mayonnaise Sandwich auf einem Teller mit einer Gabel einstechen .
+COCO_train2014_000000171430.jpg,Lokomotive Zug in Bewegung durch Landschaft mit Drähten oben
+COCO_train2014_000000171435.jpg,ein Bett mit einem Laptop-Computer , einem Hund und einige Kleider auf sie .
+COCO_train2014_000000171444.jpg,Eine Nahaufnahme eines Hotdogs mit Chili in einem offenen Behälter
+COCO_train2014_000000171449.jpg,eine Küche ist in erdfarbenen Tönen dekoriert und leuchtet blass
+COCO_train2014_000000171453.jpg,Ein standard Größen Bett ist leicht gemacht und wird neben einem Fenster gestellt .
+COCO_train2014_000000171467.jpg,a pizza in a pizza box cut into eight slices .
+COCO_train2014_000000171468.jpg,ein Pudel schaut nach einer Giraffe durch einen Gitterzaun in einem Zoo .
+COCO_train2014_000000171470.jpg,ein Zebra Gras iss grass von grünen Bäumen und Sträuchern
+COCO_train2014_000000171472.jpg,Eine Person mit mehreren offenen Taschen und Reisekoffern auf dem Boden .
+COCO_train2014_000000171478.jpg,ein Squadron an Kampfjets fliegen in Formation in den blauen Himmel .
+COCO_train2014_000000171479.jpg,Ein paar Leute rasen die Seite von einer Schnee bedeckten Piste runter .
+COCO_train2014_000000171484.jpg,Einige Giraffen hinter einem Zaun in der Nähe eines Gebäudes .
+COCO_train2014_000000171495.jpg,Ein Zug auf dem Gleis fährt durch eine Landschaft .
+COCO_train2014_000000171499.jpg,ein Passagier-Jet fliegt am Himmel an einem klaren , blauen Tag .
+COCO_train2014_000000171536.jpg,Ein Mann hält ein Telefon sitzt an einem Tisch mit Pizza und Wein .
+COCO_train2014_000000171564.jpg,viele schwarze und weiße Kühe in einem Stall strecken ihre Hälse , durch ein Gitter um zu essen .
+COCO_train2014_000000171566.jpg,Da sind viele junge Männer , die in zusammen in einem Raum sitzen .
+COCO_train2014_000000171581.jpg,Drei Leute reiten Pferde auf einem Strand in der Nähe des Wassers .
+COCO_train2014_000000171584.jpg,Ein Mann hält einen großen hölzernen Spatel mit Brot drauf .
+COCO_train2014_000000171585.jpg,ein Junge schwingt einen Tennisschläger über den Kopf auf einem Tennisplatz , mit Palmen im Hintergrund .
+COCO_train2014_000000171590.jpg,Einem männlichen Wanderer steht in der Mitte einer Straße mit einem Regenschirm .
+COCO_train2014_000000171607.jpg,Ein Mann , der mit einem Tennisschläger auf einem Tennisplatz steht .
+COCO_train2014_000000171637.jpg,Ein Jumbo-Jet Passagierflugzeug im Flug mit ausgefahrenem Fahrwerk .
+COCO_train2014_000000171639.jpg,zwei Erwachsene Zebras und ein Zebra Junges stehen auf einem Feld neben einen Holzpfahl .
+COCO_train2014_000000171647.jpg,Ein paar Bänke stehen in Bahnhof in der Nacht .
+COCO_train2014_000000171648.jpg,ein Baby in blühenden Pflanzen essen einen Schokoladenkuchen mit ihren Händen .
+COCO_train2014_000000171649.jpg,Ein Trio von Frauen spazieren mit Regenschirmen in der Hand
+COCO_train2014_000000171656.jpg,eine  Schatten Pflanze ist , die an der Wand von der Sonne ist
+COCO_train2014_000000171665.jpg,Eine Frau in einem hellblauen Shirt und dunkelblauen Hosen hält einen Tennisschläger .
+COCO_train2014_000000171698.jpg,zwei Teddybären sitzen am Ufer und etwas Wasser und Boote
+COCO_train2014_000000171729.jpg,ein Paar , das auf einem Bett mit zusammenpassenden Hemden und Jeans sitzt .
+COCO_train2014_000000171735.jpg,Eine Katze sitzt auf einem Stuhl unter einem Holztisch .
+COCO_train2014_000000171736.jpg,Ein rosa Handy vor einem Spiegel und Spielzeug Kuh .
+COCO_train2014_000000171737.jpg,eine Frau mit einem Tennisschläger , die auf einem Gericht .
+COCO_train2014_000000171742.jpg,eine Katze mit in der Nähe einer Reihe von aufgereiht Blumen in Vasen .
+COCO_train2014_000000171758.jpg,eine bearbeitete Fotografie von Verkehr einer Hauptstrasse einer Kleinstadt .
+COCO_train2014_000000171766.jpg,Ein Mann fährt ein Fahrrad durch eine Kreuzung mit einem 'Skating erlaubt' Symbol .
+COCO_train2014_000000171768.jpg,Zwei Giraffen sind nahe eines braunen Ziegelgebäudes während die Sicht auf die Stadt im Hintergrund ist .
+COCO_train2014_000000171785.jpg,In einem Skatepark macht eine Person einen Sprung mit dem Skateboard .
+COCO_train2014_000000171806.jpg,Ein diamantenformiges Schild steht mitten auf der Straße als Autos auf der Seite fahren .
+COCO_train2014_000000171808.jpg,Eine Frau in der Aktionspose während eines Wii-Spiels .
+COCO_train2014_000000171834.jpg,ein Pferd sich in der Nähe der Kamera , in einem Schwarz-Weiß-Foto .
+COCO_train2014_000000171837.jpg,ein Mann mit einem Strohhut  und ein Handy ans Ohr .
+COCO_train2014_000000171841.jpg,Ein Bus der geformt ist wie ein Boot reist auf einer Strasse .
+COCO_train2014_000000171845.jpg,Große Toiletten  werden zu Kunstwerken auf Podesten nach einer vorsichtigen Bearbeitung .
+COCO_train2014_000000171848.jpg,Ein Mann mit einen Rucksack immer auf einem grünen und weißen Reisebus .
+COCO_train2014_000000171875.jpg,Eine Person mit roter Krawatte und einem Abzeichen , Hände in den Taschen .
+COCO_train2014_000000171885.jpg,Ein großes Haus , dessen Vorderseite mit einer großen Uhr bestückt ist .
+COCO_train2014_000000171940.jpg,Ein Wohnzimmer , in dem sich violette Sofas und Halloweendekoration befindet .
+COCO_train2014_000000171943.jpg,Ein Mann und eine Frau schneiden den Kuchen auf ihrer Hochzeit
+COCO_train2014_000000171950.jpg,Ein Mann zu Hause Platte mit einem Baseballschläger , einen Ball mit getroffen .
+COCO_train2014_000000171959.jpg,ein Mann reitet auf einem Pferd neben einer Frau in einem Wald .
+COCO_train2014_000000171966.jpg,Ein Rad geparkt in einem Raum neber einem Tisch .
+COCO_train2014_000000171967.jpg,ein Baseball-Spieler versucht , seine Schwingen auf dem Spielfeld .
+COCO_train2014_000000171997.jpg,Eine Gruppe Männer spielen Baseball auf einem Feld
+COCO_train2014_000000172000.jpg,Eine Frau auf dem Rücken eines von einem Mann gefahrenen Motorrades .
+COCO_train2014_000000172010.jpg,Ein Wohnzimmer mit Couch , TV , einem Tisch und Holzfußboden .
+COCO_train2014_000000172012.jpg,Ein Sandwich auf einem Teller mit einer Dose Soda und einem Glas Soda mit den Händen von Jemandem .
+COCO_train2014_000000172017.jpg,ein Hund , auf einem Bett liegend , starrt durch ein Fenster aus dem Raum .
+COCO_train2014_000000172020.jpg,Die Krawatte einer Katze hat ein Marienkäferbild .
+COCO_train2014_000000172023.jpg,ein Abschluss oben eines Zugs auf einem Bahngleisespritha-Himmelhintergrund
+COCO_train2014_000000172036.jpg,Ein großer Bär steht auf einem Podest inmitten von Bäumen .
+COCO_train2014_000000172040.jpg,eine Küche mit einem Kühlschrank mit Gefrierfach sitzt neben einem Zähler .
+COCO_train2014_000000172051.jpg,Eine Platte mit Fleisch und Brokkoli ist auf dem Bild zu sehen .
+COCO_train2014_000000172056.jpg,Ein Mann der einen Burrito in der Hand hält und den Burrito isst .
+COCO_train2014_000000172059.jpg,Ein Auto auf einer Stadtstraße mit Straßenbeleuchtung in der Nacht .
+COCO_train2014_000000172062.jpg,Die Frau , die am Strand steht , hält einen gepunkteten Sonnenschirm .
+COCO_train2014_000000172085.jpg,ein ausgestopfter Bär in einem Kostüm sitzt auf einem Tresen
+COCO_train2014_000000172091.jpg,ein Zug , auf den Gleisen verweilend , mit einer Rauchfahne , aus dem Dach kommend .
+COCO_train2014_000000172092.jpg,Ein junges Mädchen sitzt auf einem Bett neben einer Holztafel .
+COCO_train2014_000000172096.jpg,Eine Katze guckt vom Fenster aus zu einen Vogel im Schnee .
+COCO_train2014_000000172105.jpg,Eine Frau in einem Querbinder Uniform , mit einem Licht , das hinter ihr .
+COCO_train2014_000000172121.jpg,Pizza mit Toppings serviert auf einem Tablett sitzt auf einem Tisch .
+COCO_train2014_000000172123.jpg,Ein Vogel hält ein stück von einer Orange  während er auf einem Ast sitzt .
+COCO_train2014_000000172135.jpg,ein Tisch voll mit vielen süßen Leckereien in einer Tasse und auf einem Tablet .
+COCO_train2014_000000172143.jpg,Karotten , Blaubeeren , Äpfel , Birnen , Paprikas und Gurken in einem Stapel .
+COCO_train2014_000000172148.jpg,Ein Hochgeschwindigkeitszug steht am Bahnsteig am Bahnhof .
+COCO_train2014_000000172151.jpg,Ein weiß , schwarzes Straßenschild mit einer Warnung , dass es keinen Ausgang zwischen Mitternacht und 7 .00 Uhr gibt .
+COCO_train2014_000000172156.jpg,Wir sehen eine Person die einen steilen Schihang heruntergehen .
+COCO_train2014_000000172158.jpg,Bänke unter einem Regenschirm sitzen unter Palmen auf dem Wasser gegenüber von einer großen Stadt .
+COCO_train2014_000000172160.jpg,ein Mann lehnt sich an der Haustür eines Tour-Bus in der Sonne
+COCO_train2014_000000172162.jpg,Eine Herde wilder Tiere ist in der Savanna an einem Wasser Loch .
+COCO_train2014_000000172163.jpg,öööööööööööööööööö
+COCO_train2014_000000172171.jpg,ein Doppeldecker- Bus , der auf aa Ziegelsteinstraße sitzt .
+COCO_train2014_000000172173.jpg,die Lokomotive wird langsamer , als sie einen Übergang mit angeschalteten Lichtern passiert .
+COCO_train2014_000000172176.jpg,ein kleiner Junge mit seinem Handschuh in der Hand ist bereit für den Fang .
+COCO_train2014_000000172187.jpg,Ein Mann im Kilt mit Dudelsack lehnt sich gegen die Fensterbank und spricht über in sein Handy .
+COCO_train2014_000000172196.jpg,ein junger Mann , der ein Skateboard fährt in der Mitte der Straße .
+COCO_train2014_000000172197.jpg,ein Batter , bereit den Ball zu schlagen , vor einem Catcher und einem Schiedsrichter während des Spiels .
+COCO_train2014_000000172211.jpg,das hintere Ende eines roten Eisenbahnzug auf Schienen
+COCO_train2014_000000172218.jpg,ein gebildetes Bett mit einer Lampe , einem Fenster und einem Bild nahe bei ihm .
+COCO_train2014_000000172226.jpg,Eine Vase mit getrockneten Blumen sitzt vor einem Kamin .
+COCO_train2014_000000172229.jpg,Ein Koffer voller Klamotten , einer Bürste und einem Buch .
+COCO_train2014_000000172232.jpg,eine alte rote Cola-Cola-Maschine auf der Seite eines Gebäudes .
+COCO_train2014_000000172233.jpg,ein Mann mit einem orangefarbenen Drachen auf einem Gras bedeckt Feld .
+COCO_train2014_000000172246.jpg,Eine Person läuft im Schnee und Gras und trägt Ski und Stöcke .
+COCO_train2014_000000172248.jpg,Die Uhr auf dem Gebäude ist sichtbar über den Bäumen .
+COCO_train2014_000000172255.jpg,eine Frau auf einer Brücke sieht einen LKW über den Fluss fahren .
+COCO_train2014_000000172264.jpg,ein Mann , der ein Surfbrett auf eine Welle im Ozean reitet .
+COCO_train2014_000000172276.jpg,eine orange Dessert mit einem grünen garnieren oben auf ihm und pulvrige Orange Unter stehen an der Spitze .
+COCO_train2014_000000172297.jpg,Rinder stehen außerhalb eines Cafés , in dem  Frühstück und Mittagessen serviert wird
+COCO_train2014_000000172303.jpg,eine Nahaufnahme von einer Giraffe auf dem dreckigen Boden in der Nähe von einem Busch .
+COCO_train2014_000000172310.jpg,ein Hund sitzt auf einem Skateboard mit grünen Rädern .
+COCO_train2014_000000172316.jpg,Ein Junge schlägt nach einem Ball wärend einem Baseball Spiel
+COCO_train2014_000000172322.jpg,Ein kuchen mit schokolade und Marshmallows und Syrup
+COCO_train2014_000000172324.jpg,Ein Mann in Unterwäsche und eine gequälte Ausdruck , Kupplungen seinem unteren Bereich , während eine Schere aloft halten .
+COCO_train2014_000000172328.jpg,ein weißer Bus , geparkt in der Nähe von einem Haufen an roten , orangenen und weißen geparkten Bussen .
+COCO_train2014_000000172340.jpg,eine Gruppe von Menschen , die sich vor einer Tafel stehen werden .
+COCO_train2014_000000172350.jpg,von unten gesehen , ein Eisbär , der in einem Glasboden-Pool
+COCO_train2014_000000172351.jpg,Eine Person macht einen Trick auf einem Skateboard in einem Skatepark .
+COCO_train2014_000000172361.jpg,ein Zwei-Ebenenbus mit einem offenen Abschnitt , der Leute hat , setzte in ihm .
+COCO_train2014_000000172366.jpg,All die harte Arbeit die in den Garten gesteckt wird , trägt ihre Früchte .
+COCO_train2014_000000172369.jpg,skatbordfaher ist senr geschickt macht tricks mit dem hut
+COCO_train2014_000000172370.jpg,Ein Schnee Skifahrer und ein Snowboarder mit einem Schwarzen Brett .
+COCO_train2014_000000172371.jpg,Ein Schwarzweissfoto von einem Mann , der in einem Schlafzimmer aus Ziegeln schläft .
+COCO_train2014_000000172376.jpg,ein Elefant , Wasser aufseinen Rückend sprühend , in einem staubigen Bereich neben einem Baum .
+COCO_train2014_000000172377.jpg,eine Frau ist unter einem bunten Sonnenschirm am Strand sitzen .
+COCO_train2014_000000172387.jpg,eine Frau mischt Zutaten in einem großen Topf auf dem Herd .
+COCO_train2014_000000172392.jpg,Eine Person auf dem Motorrad fährt auf einer Brücke über einem Gewässer .
+COCO_train2014_000000172398.jpg,ein Badezimmer mit einem Waschbecken , WC und Badewanne
+COCO_train2014_000000172405.jpg,Ein kleiner zusammengerollter Kater , schläft wie es aussieht auf einem Tisch .
+COCO_train2014_000000172406.jpg,ein Pferd mit Scheuklappen ist an einem Parkplatz festgebunden
+COCO_train2014_000000172420.jpg,eine Platte mit Salat , Chips und großen Weißbrotsandwichen mit Fleisch .
+COCO_train2014_000000172422.jpg,Ein Schreibtisch mit einem Laptop und eine Tasse Kaffee sitzt neben einem dekorierten Wand .
+COCO_train2014_000000172425.jpg,ein Mann im schwarzen T-Shirt macht einen Trick auf einem Skateboard .
+COCO_train2014_000000172426.jpg,Zwei Giraffen , die auf allen Vieren nebeneinander mit Gras , Büschen und Bäumen um sie herum .
+COCO_train2014_000000172434.jpg,Eine Kuh , die mit ihrem Kopf fest von jemand gehalten wird an einem Riemen fixiert .
+COCO_train2014_000000172463.jpg,ein kleines dreiteiliges Badezimmer mit Waschbecken , Toilette und Badewanne / Dusche .
+COCO_train2014_000000172467.jpg,Ein Mann hält eine Wii-Fernbedienung in der rechten Hand .
+COCO_train2014_000000172475.jpg,ein Buch Tasche mit einer Flasche in der es neben einem Koffer .
+COCO_train2014_000000172490.jpg,Es macht immer Spass einen guten Freund für den Ritt dabei zu haben .
+COCO_train2014_000000172492.jpg,fünf Drachen fliegen durch die Luft auf einem leicht bewölkt Tag .
+COCO_train2014_000000172501.jpg,Eine Frau hält einen Schirm wärend sie auf einer regenbedeckten Strasse steht .
+COCO_train2014_000000172506.jpg,eine Frau sitzt vor einem Kuchen hält ihre Hände
+COCO_train2014_000000172507.jpg,Ein Fleischklösch liegt auf Art von einem weißen Teller , neben einer Dose Cola .
+COCO_train2014_000000172509.jpg,eine Tabelle mit leckeren Snacks sitzt auf einem Tisch , die bereit sind zu essen .
+COCO_train2014_000000172537.jpg,die Vorderansicht eines amerikanischen Kampfflugzeugs , das zwei Propellern und zwei Pistolen vorne hat .
+COCO_train2014_000000172543.jpg,Eine Menschenmenge beobachtet , wie ein junger Teenager nimmt seine erste Fahrt auf einem Skateboard und fällt .
+COCO_train2014_000000172545.jpg,Eine Frau fährt ein Motorrad mit einem Kind
+COCO_train2014_000000172568.jpg,Ein rot weißer Feuer Hydrant steht gegenüber an der Ecke von einem großen Viktorianischen Gebäude .
+COCO_train2014_000000172574.jpg,ein Zug ist auf den Gleisen , in einem Wald mit diversen Leuten davor .
+COCO_train2014_000000172582.jpg,Ein blauer Feeurhydrant auf einem Gehweg in urbaner Umgebung .
+COCO_train2014_000000172597.jpg,Eine Frau sitzt auf dem bett  während ein Hund auf dem Bett liegt und die Katze auf dem Stuhl .
+COCO_train2014_000000172608.jpg,eine Hocktoilette neben einem Wasserbehälter in einer Toilette .
+COCO_train2014_000000172615.jpg,ein silberner und roter Zug fahren hinunter auf schienen  neben einer üppigen grünen Wiese
+COCO_train2014_000000172622.jpg,ein Garten von verschiedenen Pflanzen mit Drahtkegel , um ihr Wachstum zu führen .
+COCO_train2014_000000172637.jpg,Parkuhren , die in einer Reihe entlang der beleuchteten Straße stehen .
+COCO_train2014_000000172654.jpg,Ein grüner Feuerhydrant neber einer grünen Butts Dose .
+COCO_train2014_000000172655.jpg,ein braunes Kalb mit einem blauen Fleck in sein  Ohr und andere Vieh dahinter
+COCO_train2014_000000172665.jpg,Ein Boot mitten im Fluss und ein viel kleineres Boot weiter hinten .
+COCO_train2014_000000172669.jpg,Eine blaue Vase , eine bunte vase und eine weitere einzigartige blaue Vase zur Schau auf einem Tisch .
+COCO_train2014_000000172680.jpg,ein kleines Kind zeigt auf eine Dame mit den Händen hinter dem .
+COCO_train2014_000000172681.jpg,Ein Mann und ein Kind reiten auf dem Rücken eines Elefanten .
+COCO_train2014_000000172727.jpg,Eine Giraffe steht im hohen Gras zwischen den Bäumen in der Wildnis .
+COCO_train2014_000000172743.jpg,ein Bus fährt eine zugeschneite Straße herunter , nahe dem Days inn und den Suites .
+COCO_train2014_000000172751.jpg,ein Vogel sitzt auf einem orangenen Stuhl , schaut nach rechts hinaus
+COCO_train2014_000000172776.jpg,Ein Mann auf einem Skateboard der eine Rampe neben einer Kamera rauffährt .
+COCO_train2014_000000172778.jpg,Nahaufnahme einer Parkuhr auf dem Bordstein einer Stadtstraße .
+COCO_train2014_000000172784.jpg,Ein Gebäude mit einer Uhr auf der Vorderseite und an der Seite neben dem Wasser und anderen Gebäuden .
+COCO_train2014_000000172800.jpg,Ein brauner Teddybär sitzt oben auf einem blauen Sofa .
+COCO_train2014_000000172805.jpg,eine weiße Couch befindet sich gegenüber von dunklen Sesseln im Wohnzimmer
+COCO_train2014_000000435433.jpg,ein Stofftier Hund und seinen geliebten Besitzer in einem Tierkostüm
+COCO_train2014_000000435435.jpg,Zwei einen Weg Zeichen auf einem Strommast in entgegengesetzte Richtungen .
+COCO_train2014_000000435445.jpg,ein Lieferwagen entlädt sein Gepäck unter blauem flugzeug-besetzten Himmel
+COCO_train2014_000000435451.jpg,der alte Mann fährt auf dem Wagen hinter dem großen braunen Pferd in der unbefestigten Straße .
+COCO_train2014_000000435452.jpg,eine weiße Wanne , die nahe bei einer Badewanne in einem Badezimmer sitzt .
+COCO_train2014_000000435453.jpg,zwei Männer , die nebeneinander in einem Wohnzimmer .
+COCO_train2014_000000435454.jpg,Leute mit Gepäck stehen neben dem Zug der auf den Gleisen steht
+COCO_train2014_000000435456.jpg,Ein Mann mit hohem Hut , welcher weißes Makeup trägt und eine Karotte in seinem Mund hält , geht an einer Gruppe von Leuten vorbei .
+COCO_train2014_000000435458.jpg,Ein Gemisch aus Früchten und Gemüße wurde auf dem Schneidbrett zerschnitten .
+COCO_train2014_000000435460.jpg,eine Person kreuzt die Straße und er ist nicht am Zebrastreifen und ein Bus kommt .
+COCO_train2014_000000435468.jpg,Eine Dame schneidet Trauben von den Stielen auf einem Markt .
+COCO_train2014_000000435471.jpg,es gibt zwei Skifahrer , die gesehenes Hinuntergehen die Straße sind
+COCO_train2014_000000435473.jpg,Zwei Elefanten stehen Kopf an Kopf in einem offenen Bereich .
+COCO_train2014_000000435479.jpg,ein Paar Jungen , die Tricks auf Skateboards von einer Plattform vollführen .
+COCO_train2014_000000435482.jpg,Eine große U-Bahn- Bus ziehen weg von den Straßenrand in der Stadt .
+COCO_train2014_000000435488.jpg,ein vegetarisches Sandwich , halbiert ist auf einer roten Platte .
+COCO_train2014_000000435492.jpg,a person relaxing with his feet on his computer desk next to a computer .
+COCO_train2014_000000435495.jpg,Ein Mann schaut erstaunt einen anderen Mann an der mit seinen Händen arbeitet
+COCO_train2014_000000435499.jpg,Ein Mann blickt in den Spiegel , mit einem Bären auf seinem Kopf .
+COCO_train2014_000000435523.jpg,Da ist eine Pizza die in Stücke geschnitten ist .
+COCO_train2014_000000435543.jpg,Ein paar rot-weiße Scheren liegt auf einem Metallschrank .
+COCO_train2014_000000435544.jpg,Ein blauer und weißer Bus vor der blauen , weißen , gelben und rosa Blumen geparkt .
+COCO_train2014_000000435548.jpg,Eine Gruppe  von Leuten steht um einen Raum herum vor einem Mann .
+COCO_train2014_000000435549.jpg,Matratze im freien Schlafzimmer mit Spiegel auf der anderen Seite .
+COCO_train2014_000000435553.jpg,Ein Hund auf dem Rücksitz eines Autos bewegen auf einer Straße .
+COCO_train2014_000000435554.jpg,Eine Tennisspielerin bereitet sich während eines Tennismatchs auf den Ballkontakt vor oder schlägt gerade einen Ball ab .
+COCO_train2014_000000435556.jpg,eine Frau , neben einem älterend Mann in einem Lebensmittelladen stehend .
+COCO_train2014_000000435573.jpg,ein Mann mit einer Gitarre sitzt auf einem Bett mit einer Frau , wie sie in den  offenen Laptop schaut .
+COCO_train2014_000000435575.jpg,Ein Kind und ein Erwachsener spielen auf einem Baseballfeld Baseball .
+COCO_train2014_000000435579.jpg,ein junger Mensch macht ramping Ski- Board in einem grünen Schneeanzug .
+COCO_train2014_000000435583.jpg,eine Katze sitzt in einem Kühler , der auf einem Tisch steht .
+COCO_train2014_000000435584.jpg,Eine Katze schaut in die Kamera wärend Barack Obama im Fernsehen im Hintergrund ist .
+COCO_train2014_000000435612.jpg,ein einzelner Elefant steht in einem großen Gebiet trockenem Graslandgras .
+COCO_train2014_000000435620.jpg,ein Magazin mit einem Bagel-Sandwich , eine Tasse Obst , und eine Gabel .
+COCO_train2014_000000435623.jpg,Eine Nahaufnahme eines Graffiti an einer Seite eines Zuges .
+COCO_train2014_000000435632.jpg,eine junge person , die eine brille und eine baseballmütze trägt , vor einem Stahlschrank .
+COCO_train2014_000000435653.jpg,Zwei braune Schaffe stehen neben eine große Plastik Tonne
+COCO_train2014_000000435664.jpg,Ein Mann im grauen Shirt spielt ein Spiel mit einem Nintendo Wii Controler .
+COCO_train2014_000000435665.jpg,zwei Giraffen füttern aus einer Stange mit einem städtischen Skyline im Hintergrund .
+COCO_train2014_000000435673.jpg,Gentleman mit Brille und ein Satz von Hasenohren auf dem Kopf .
+COCO_train2014_000000435681.jpg,eine Person Blick auf ein Motorrad , das im Gras liegt
+COCO_train2014_000000435686.jpg,Eine Gruppe von Giraffen in freier Wildbahn , wie von einem Safari-Fahrzeug gesehen .
+COCO_train2014_000000435688.jpg,Tabelle Check roten und weißen Tischtuch und Multi farbigen Tasse Kuchen zum Verkauf .
+COCO_train2014_000000435690.jpg,ein Bett mit vielen Kissen in der Nähe von einem Fenster , das einen Blick auf die Stadt .
+COCO_train2014_000000435695.jpg,Ein junges Kind hält einen Schläger neber einen Tee-Ball .
+COCO_train2014_000000435698.jpg,Eine schwarze Katze die auf einer Bank vor einer roten Steinwand sitzt .
+COCO_train2014_000000435713.jpg,eine Person mit Hut und Krawatte blickt auf einen Gegenstand in seiner Hand .
+COCO_train2014_000000435716.jpg,Personen um einen runden Tisch zu sitzen mit Platten von Lebensmitteln und Wasser und Weingläser .
+COCO_train2014_000000435718.jpg,ein Mann wirft einen Tennisball in der Luft , um es zu dienen .
+COCO_train2014_000000435743.jpg,eine Frau mit Regenschirm läuft an einem Gemälde eines Künstlers vorbei .
+COCO_train2014_000000435750.jpg,eine Ampel vor einem Baum die auf Grün geschaltet hat . und grosses Gebäude .
+COCO_train2014_000000435755.jpg,dort ist ein wohnzimmer mit einem sofa , stühle und lampen .
+COCO_train2014_000000435758.jpg,eine Giraffe , ihren Kopf senkend , neben einer weiteren Giraffe , vor einem Drahtzaun .
+COCO_train2014_000000435764.jpg,ein roter Truck stoppte bei roten Licht eines dickköpfigen Personenkraftwagen mit Verkehr abseits der Distanz .
+COCO_train2014_000000435766.jpg,Die Kaffeetassen stehen auf dem Tisch mit ein paar Blumen in Flaschen .
+COCO_train2014_000000435777.jpg,ein Flugzeug mit ausgefahrenem Fahrwerk am Himmel .
+COCO_train2014_000000435787.jpg,ein Bed mit braunem Bezug in einer Schlafsaalumgebung .
+COCO_train2014_000000435792.jpg,eine Tigerkatze sitzt auf einem blauen Sofa mit ihm ist die Beine geöffnet .
+COCO_train2014_000000435803.jpg,Ein silbernes zwei Passagier Flugzeug mit einem Proppeler vor einem Gras Feld ,
+COCO_train2014_000000435805.jpg,Zwei Modellflugzeuge stehen auf einem Grasfeld
+COCO_train2014_000000435809.jpg,eine Küche mit einem Stahlkühlschrank , Herd und Ofen und einer Dunstabzugshaube über dem Ofen .
+COCO_train2014_000000435811.jpg,eine Gruppe von Bussen in einem Grundstück neben Autos geparkt .
+COCO_train2014_000000435814.jpg,zwei Männer , die sitzen und auf Papier schreiben , während zwei andere Männer hinter ihnen stehen .
+COCO_train2014_000000435829.jpg,ein roter Zug auf den Gleisen an einer Paketabholstation .
+COCO_train2014_000000435832.jpg,eine Couch und Fernsehen sitzen in einem Raum mit einem Fenster .
+COCO_train2014_000000435833.jpg,Eine Nahaufnahme einer Platte mit Pilzen , Karotten , Tomatem , Brokkoli  und Blumenkohl darauf .
+COCO_train2014_000000435839.jpg,die Rückseite eines auf einer geteilten Autobahn fahrenden Halblasters .
+COCO_train2014_000000435840.jpg,Eine große Pizza mit verschiedenen Spitzen auf sie auf dem Tisch sitzen .
+COCO_train2014_000000435841.jpg,Eine Person an einem Holztisch sitzen Essen ein Gebäck .
+COCO_train2014_000000435848.jpg,ein Badezimmer mit einem Waschbecken , einer Toilette und einem Fenster .
+COCO_train2014_000000435855.jpg,Ein man mit Rucksack und Anzug läuft die Straße auf der Seite hinunter .
+COCO_train2014_000000435869.jpg,Leute sitzen um einen langen Esstisch rum und trinken Wein .
+COCO_train2014_000000435882.jpg,Dies ist eine Nahaufnahme eines Keyboards und Ohrstöpsel .
+COCO_train2014_000000435885.jpg,Eine Gruppe von Leuten steht oberhalb eines Sandstrands .
+COCO_train2014_000000435886.jpg,Ein Stück Dessert mit Früchte ist auf dem Teller .
+COCO_train2014_000000435889.jpg,eine große Menge von Menschen mit mehreren fliegenden Drachen auf einem offenen Feld .
+COCO_train2014_000000435897.jpg,Ein Blick aus einem Autofenster auf einer Kreuzung auf der Strasse .
+COCO_train2014_000000435902.jpg,Eine Gruppe Giraffen steht auf einem trockenen Grasfeld .
+COCO_train2014_000000435908.jpg,eine Person , welche die Straße von einem blauen Bürgersteig vor Metallpfosten mit Straßenschildern auf ihm fegt
+COCO_train2014_000000435913.jpg,Ein paar Giraffen stehen neber einem Haufen Steine .
+COCO_train2014_000000435920.jpg,eine Pizza mit Pepperoni , Käse , Ricotta Käse und verziert mit Gemüse ist auf dem Tisch
+COCO_train2014_000000435923.jpg,eine kleine Gruppe von Zebra 's Wandert und grast auf goldenen Gräsern
+COCO_train2014_000000435924.jpg,ein Zug Absturz aus dem Zug Züge wurde reisen .
+COCO_train2014_000000435929.jpg,Ein Polizeiauto geparkt in der Mitte einer Strasse .
+COCO_train2014_000000435930.jpg,ein Hydrant , welcher so bemalt ist , dass er wie ein Feuerwehrhelm tragender Dalmatiner aussieht .
+COCO_train2014_000000435931.jpg,ein junger Mann , Brille und Krawatte tragend , posiert für ein Foto .
+COCO_train2014_000000435933.jpg,Ein roter Hydrant spritzt Wasser auf den Bürgersteig .
+COCO_train2014_000000435940.jpg,Ein Junge in einem lila Baseballuniform ist im Outfield .
+COCO_train2014_000000435951.jpg,Eine Gruppe von Männern stehen nebeneinander und halten einen Schläger .
+COCO_train2014_000000435963.jpg,kleinen Jungen und Mädchen sitzen am Tisch im sonnigen Speisesaal Färbung und macht Danksagungs-Türkei-Dekoration
+COCO_train2014_000000435975.jpg,ein Tisch mit einer Vase voller Rosen , einem Glas mit Wein und anderen persönlichen Dingen darauf
+COCO_train2014_000000435988.jpg,eine Nahaufnahme eines Gehen-Schildes , das den Umriss einer roten Person zeigt .
+COCO_train2014_000000435990.jpg,Ein Gruppenbild von Menschen , die sich vorbereiten , auf ein Boot zu steigen
+COCO_train2014_000000435994.jpg,Zwei Betten in einem bunten Zimmer mit blauem Deckel und einem Nachttisch-Lampe .
+COCO_train2014_000000436002.jpg,ein Motorrad auf einem Schild und einer Bank geparkt aus Baumstämmen
+COCO_train2014_000000436009.jpg,Ansicht eines am Himmel fliegenden Flugzeugs über schneebedeckten Bergen .
+COCO_train2014_000000436014.jpg,Katzen mit einem Laptop mit einem Mann sitzt neben ihm auf dem Tisch .
+COCO_train2014_000000436023.jpg,Der Tisch und die Mikrowelle wurden auf der Straßenseite zurückgelassen .
+COCO_train2014_000000436025.jpg,Ein Mann steht neber eine Frau beide halten Nintendo Wii Game Controller .
+COCO_train2014_000000436027.jpg,ein Badezimmer mit WC , Badewanne , drei Rollen von Gewebe und ein Waschbecken in ihm
+COCO_train2014_000000436031.jpg,Leute reiten einen Elefant die Straße runter neben einem Feld .
+COCO_train2014_000000436038.jpg,ein Mann das Gesicht einer anderen Person während der Sitzung von seinem Laptop
+COCO_train2014_000000436046.jpg,Eine Person unter einem Regenschirm auf der Fussgängerzone neben im Schnee geparkten Autos .
+COCO_train2014_000000436048.jpg,Ein gelbes Schild steht vor einem Drahtzaun und einem Schild .
+COCO_train2014_000000436056.jpg,ein Mann ein Skateboard reitet auf der Seite einer Schiene .
+COCO_train2014_000000436070.jpg,ein Mann , der oben auf Tennisplatz steht und einen Schläger hält .
+COCO_train2014_000000436073.jpg,ein Kind in ein Handtuch gewickelt bekommt seine Zähne geputzt
+COCO_train2014_000000436078.jpg,Eine kleine Gruppe von Leuten unter einem Vordach im Feld mit einem Pferd und Reiter daneben .
+COCO_train2014_000000436085.jpg,Ein Schwarz-Weiß- Foto von einem Güterbahnhof in einer großen Stadt .
+COCO_train2014_000000436092.jpg,manche roten Bananen und geschnittene Äpfel am Tisch neben dem Messer
+COCO_train2014_000000436105.jpg,Ein leeres Bett steht in einer Ecke eines Raumes mit einem offenen Fenster .
+COCO_train2014_000000436108.jpg,eine Frau die die Kerzen eines Kuchens mit einem Glasbehälter löscht
+COCO_train2014_000000436117.jpg,ein Smoothie und Fruchtjoghurtbecher befinden sich unter einem Stapel von Obst und Gemüse .
+COCO_train2014_000000436143.jpg,eine Kuh scheint zu laufen , während zwei Männer auf Pferden tragen Hüte mit Lassos gesehen .
+COCO_train2014_000000436145.jpg,Das Bett in diesem Raum hat viele Kissen und die Deckel wurden gestellt .
+COCO_train2014_000000436146.jpg,Menschen in einem Park fliegen verschiedene Arten und Größe Drachen an einem schönen Tag .
+COCO_train2014_000000436161.jpg,ein Orangenkuchen mit Schlagsahne Zuckerguss sitzt auf einem Teller neben einem Buch auf dem Tisch .
+COCO_train2014_000000436168.jpg,ein Mann und eine Frau sitzen an einem Tisch mit einer Pizzaschachtel drauf , in einem Raum mit einem Klavier .
+COCO_train2014_000000436182.jpg,Eine Pizza mit 1/4 der es ' s Scheiben fehlt .
+COCO_train2014_000000436185.jpg,Diese Küche ist mit allen weiße Schränke und eine schwarze Mikrowelle
+COCO_train2014_000000436188.jpg,ein Mann reitet an der Seite eine Rampe in einem Skate-Park .
+COCO_train2014_000000436195.jpg,Ein Haufen Bananen , Äpfel , Kartoffeln und Süßkartoffeln auf einem weissen Hintergrund .
+COCO_train2014_000000436199.jpg,eine kleine Veranda hat zwei weiße Stühle und eine graue und weiße Katze auf sie .
+COCO_train2014_000000436214.jpg,ein paar Katzen mit an der Spitze eines leeren Gepäckstück .
+COCO_train2014_000000436221.jpg,ein kleiner Junge hält ein Kite über einem schmutzigen Straße
+COCO_train2014_000000436246.jpg,ein Mann surft mit einer Leine an einem Mast angebunden
+COCO_train2014_000000436265.jpg,Could not translate
+COCO_train2014_000000436284.jpg,eine skateboardförmiges Stück Holz , das abblättert , mit einem aufgeschraubten Teil , welches irgendwo draussen zu stehen scheint .
+COCO_train2014_000000436287.jpg,der Turm des Gebäudes hat eine Uhr an seiner Vorderseite .
+COCO_train2014_000000436288.jpg,Etliche Leute sitzen entlang einer unbefestigten Strasse während ein Hund auf der Strasse ruht .
+COCO_train2014_000000436295.jpg,eine Schüssel mit gezuckerten Donuts befindet sich in der Nähe einer Schüssel mit Schokoladendonuts .
+COCO_train2014_000000436300.jpg,in einem europäischen Dorf hat ein roter Doppeldecker - Bus auf einer Straße  geparkt
+COCO_train2014_000000436302.jpg,ein schwarz-weiß Bild eines jungen Mannes draußen mit seinem Laptop
+COCO_train2014_000000436303.jpg,ein Specht , der auf der Seite von einem Baum suchen auf der Seite
+COCO_train2014_000000436306.jpg,Arm einer Person , mit 3 Bananen mit Gummibädern daran befestigt
+COCO_train2014_000000436318.jpg,Ein Vogel fliegt über einen Baum an einem klaren Tag .
+COCO_train2014_000000436319.jpg,ein Hemd angezogen mit einer Sonnenbrille und ein hemd mit ein paar Scheren  .
+COCO_train2014_000000436321.jpg,Eine altmodische Küche mit einer grün überzogenen Theke
+COCO_train2014_000000436333.jpg,Zwei kleine Mädchen in einem Raum mit anderen Leuten halten Einkaufstüten und Stofftiere .
+COCO_train2014_000000436354.jpg,Karotten , Bananen , Tomaten , Zucchini und Paprika sind verpackt und liegen im Ladenregal .
+COCO_train2014_000000436362.jpg,Vier Segelboote schwimmend auf irgendeiner Art von Gewässer .
+COCO_train2014_000000436370.jpg,Ein Snowboarder sitzt im Schnee am Fuße eines hohen Berges .
+COCO_train2014_000000436383.jpg,Eine Art von Schnickschnack das Donots und andere Nachspeisen darauf hat .
+COCO_train2014_000000436391.jpg,eine Frau auf dem Surfbrett auf der jeweils Magen auf einer Welle im Ozean .
+COCO_train2014_000000436394.jpg,Ein Mann im orangen Hemd bereitet sich auf die Angabe in einem Tennismatch vor
+COCO_train2014_000000436399.jpg,auf ein ganz in Schwarz -Weiß-Foto können wir in einem Stop-Schild ein Kerl hält die rot .
+COCO_train2014_000000436400.jpg,zwei Glasvasen , eine mit einer Blume und das andere mit zwei
+COCO_train2014_000000436406.jpg,ein großer Bus ist by einer Kurve neben einem Ratten-Ballon auf dem Bürgersteig geparkt
+COCO_train2014_000000436407.jpg,eine Pfanne mit Essen gefüllt  steht auf einem Rack neben Bananen .
+COCO_train2014_000000436410.jpg,eine Schale Nudeln mit Spinat und Fleisch und grüne Bohnen
+COCO_train2014_000000436411.jpg,Ein schwarzer Bär in einem Zoo legt sich auf ein paar Steine und isst einen Busch .
+COCO_train2014_000000436435.jpg,Eine große Menge von Bananen ' s gestapelt in einem Obststand .
+COCO_train2014_000000436436.jpg,Hier sind zwei Bären , einer auf dem Boden sitzt die andere auf einem Ast .
+COCO_train2014_000000436438.jpg,Da sind 2 Zebras , das eine steht und das andere sitzt auf dem Boden abgewandt .
+COCO_train2014_000000436440.jpg,Zwei Männer und eine Frau sitzen und lächeln während eine Pizza im Karton auf dem Tisch sitzt .
+COCO_train2014_000000436453.jpg,Eine Frau liest eine Gutenachtgeschichte zu zwei Kinder im Bett .
+COCO_train2014_000000436455.jpg,ein Mann seine Zähne säubert mit einer elektrischen Zahnbürste in einem Badezimmerspiegel
+COCO_train2014_000000436464.jpg,rote ampe schild mit straßennamen
+COCO_train2014_000000436468.jpg,eine Person , vor einem schmalen Fernseher im Bett liegend .
+COCO_train2014_000000436479.jpg,Ein rothaariger Mann der eine Weste mit einem Hemd und Krawatte trägt , macht ein Getränk in einer Bar .
+COCO_train2014_000000436481.jpg,skifahrer fährt in den spuren anderer im schnee
+COCO_train2014_000000436504.jpg,ein gut organisierter Bereich in der Küche ist gut gefüllt
+COCO_train2014_000000436507.jpg,Ein Geschäft mit Menschen sitzend die Früchte essen welche von der Decke hängen .
+COCO_train2014_000000436508.jpg,Ein Bett steht auf weißen Komoden während auf dem Bett ein Kuscheltier neben einer Katze sitzt .
+COCO_train2014_000000436515.jpg,Ein Mann benimmt sich wie ein Sonderling auf einer Party , wie hes , die gehen , um seine Zähne zu putzen .
+COCO_train2014_000000436519.jpg,Ein sauberes Wohnzimmer mit mehreren Sofas und einem Flachbildfernseher .
+COCO_train2014_000000436521.jpg,ein Tennisspieler ist immer bereit , den Ball zu schlagen und zwei Leute sind hinter ihr auf dem Tennisplatz .
+COCO_train2014_000000436522.jpg,?
+COCO_train2014_000000436538.jpg,hübsches junges  dunkelhaarige Mädchen sitzt in einem Fahrgeschäft und  hält ihren Teddy .
+COCO_train2014_000000436539.jpg,Eine Küche mit vielen Geräten und einem Zähler nach oben gefüllt .
+COCO_train2014_000000436544.jpg,eine glückliche Frau in einem weissen Kleid zeigt auf Donuts in einer Anrichte .
+COCO_train2014_000000436558.jpg,Eine Ampel über eine Straße , die zwischen einigen Gebäuden läuft hängen .
+COCO_train2014_000000436564.jpg,der Küchentheke hat eine Schneidebrett mit gehacktem Gemüse auf sie .
+COCO_train2014_000000436571.jpg,ein Gewässer mit mehreren kleinen Booten und einem großen Schiff angedockt , und Gebäude im Hintergrund .
+COCO_train2014_000000436578.jpg,Ein schwarzer Bär isst etwas vom totgefahrene tier mitten auf der Strasse .
+COCO_train2014_000000436579.jpg,ein großes Flugzeug befindet sich auf der Startbahn , mit Wolken im Hintergrund
+COCO_train2014_000000436580.jpg,eine Herde Schafe weidet auf einer üppigen grünen Wiese .
+COCO_train2014_000000436584.jpg,Bild suchen innerhalb eines aus Haus mit einer offenen Toilette .
+COCO_train2014_000000436585.jpg,Ich kann kaum das Fleisch auf der Platte mit Gemüse und Reis entdecken .
+COCO_train2014_000000436596.jpg,eine Gabel neben einem kleinen , runden Schokoladenkuchen mit pinkem Zuckerguss auf einem Teller mit geblümter Borde , auf einer hölzernen Oberfläche
+COCO_train2014_000000436600.jpg,Ein langer eines meist menschenleeren Straße erschossen mit einem Bus in den Hintergrund .
+COCO_train2014_000000436607.jpg,Ein gelber Feuer Hydrant steht in der Mitte von einem Bürgersteig .
+COCO_train2014_000000436611.jpg,ein Hydrant mit Peeling Farbe in einem Feld von einem Maschendrahtzaun
+COCO_train2014_000000436619.jpg,ein Kind , mit einer Toilettenpapierrolle im Badezimmer spielend .
+COCO_train2014_000000436620.jpg,Eine Gruppe von Leuten sitzt gemeinsam neben einem Baum .
+COCO_train2014_000000436621.jpg,eine Giraffe senkt seinen Kopf über den Zaun um von einem Mädchen einen Snack zu essen
+COCO_train2014_000000436626.jpg,eine große Anzahl von Stühlen sind miteinander nahe Wasser mit Booten geschoben .
+COCO_train2014_000000436627.jpg,eine Parkuhr mit 49 Minuten übrig .
+COCO_train2014_000000436632.jpg,Eine Giraffe , die auf einer unbefestigten Fläche in einem eingezäunten Bereich .
+COCO_train2014_000000436638.jpg,Ein kleiner brauner und weisser Hund liegen auf dem Gras in einer Scheune .
+COCO_train2014_000000436646.jpg,Ein  Singapore Airlines Verkehrsflugzeug landet auf der Piste neben dem Wasser .
+COCO_train2014_000000436647.jpg,die Katze sitzt auf dem Betonboden , darauf wartend , dass ihr Besitzer zurückkommt
+COCO_train2014_000000436649.jpg,ein Mann , der mit einer Bratpfanne Schwebe erscheint , und ein Messer in der Luft mit einem Baby , das angezeigt wird , um auf einen Zähler sitzen
+COCO_train2014_000000436651.jpg,Ein geparkter Pickup steht neber vielen Krabbenkäfigen auf einem alten Boot .
+COCO_train2014_000000436660.jpg,Ein Mann reitet ein Windsegel auf einer großen Fläche Wasser .
+COCO_train2014_000000436662.jpg,Ein Mann hält seinen Tennis Schläger während er auf dem Feld vor mehreren Stapel Taschen , Wasserflaschen und Versorgung steht .
+COCO_train2014_000000436665.jpg,ein Bündel Karotten , die durch ein Gummiband und anderes Gemüse auf einer gestreiften Tischdecke zusammengehalten werden .
+COCO_train2014_000000436685.jpg,ein Mann , vor einem Gebäude ein Snowboard eine Strasse herunterfahrend .
+COCO_train2014_000000436693.jpg,eine bauchige weißen Vase mit einer einzelnen stammten lila Blüte sitzt in einem völlig schwarzen Hintergrund .
+COCO_train2014_000000436698.jpg,Menschen sitzen lachend an einem runden langem Tisch in einem Restaurant .
+COCO_val2014_000000127068.jpg,ein Mann untersucht ein Surfboard , das ein Etikett hat .
+COCO_val2014_000000127074.jpg,Ein Mann hält einen Drachen mit einem Meer von Personen hinter ihm .
+COCO_val2014_000000127092.jpg,Eine Reihe Gebäude und eine Strass auf einem Hügel der sehr steil ist .
+COCO_val2014_000000127119.jpg,Ein Motorrad parkt draussen auf einem Parkplatz in der Nähe des Strandes .
+COCO_val2014_000000127120.jpg,Ein Mann steht auf der Bühne und singt während jemand ihm ein Bier reicht .
+COCO_val2014_000000127129.jpg,Ein Tisch voll mit Essen und zwei Gläsern mit Getränken .
+COCO_val2014_000000127135.jpg,ein kleines Schwein mit einem Zeichen mitten auf der Straße .
+COCO_val2014_000000127136.jpg,Ein kleines buntes Flugzeug steht ,  vor einem Hangar , auf dem Rollfeld .
+COCO_val2014_000000127141.jpg,Ein weisser Teller mit einer Serviette und einem Löffel mit Tomaten und schaumiger Flüssigkeit darauf .
+COCO_val2014_000000127153.jpg,zwei Frauen Überfahrt auf einem Zebrastreifen halten Sonnenschirme in der Sonne
+COCO_val2014_000000127161.jpg,Ein paar Stück von einer sehr kleinen Pizza mit einer Gabel in der Nähe
+COCO_val2014_000000127170.jpg,Ein Baby sitzt an einem weissen Tisch und auf dem Tisch befinden sich eine Babyflasche und ein Cupcake mit einer Eins darauf .
+COCO_val2014_000000127182.jpg,dies ist ein Schwarz-Weiß-Foto einer weißen Küche .
+COCO_val2014_000000127192.jpg,einem weißen Teller mit Pizza , Chicken Wings , einer Frühlingsrolle und Ranch Dressing .
+COCO_val2014_000000127259.jpg,Ein Schwarm Tauben versammelt herum um eine Person auf einer Parkbank sitzend .
+COCO_val2014_000000127263.jpg,Die Männer spielen auf einer Wiese eine Runde Frisbee .
+COCO_val2014_000000127270.jpg,eine Frau hebt Arme nach oben , damit sie jeweils einen Tennisball dienen
+COCO_val2014_000000127279.jpg,Mit Blick auf einen Hafen mit vielen Boote und eine Menschenmenge auf dem Dock .
+COCO_val2014_000000127313.jpg,eine Gruppe Hunde spielen Fangen im inneren Raum eines Hauses , während ein Mann da steht und zuguckt .
+COCO_val2014_000000127337.jpg,Dieses Hotelzimmer ist in einen Wohnbereich mit einem Sofa und einem Schlafbereich unterteilt
+COCO_val2014_000000127394.jpg,Die Menschen sind am Esstisch mit viel Essen um sie herum .
+COCO_val2014_000000127451.jpg,Zwei Männer reiten Snowboards in einem Schneesturm einen Abhang hinunter .
+COCO_val2014_000000127455.jpg,Ein Hydrant auf in einer Nachbarsstraße , umgeben von Bäumen und Sträuchern .
+COCO_val2014_000000127474.jpg,Zwei Mädchen tragen Plastik Feuerzeughelme und stehen neben einem brennenden Hydrant .
+COCO_val2014_000000127475.jpg,Diese Kuh hat einen Raum allem eigene für die Beweidung gefunden .
+COCO_val2014_000000127476.jpg,ein halb geschnittene Pizza auf einem Teller auf dem Tisch
+COCO_val2014_000000127477.jpg,Einen großen pelzigen schwarz-weiße Katze ist auf einem ledernen Koffer sitzt .
+COCO_val2014_000000127494.jpg,Ein weißer Teller des Essens tha schließt Fleisch und Gemüsepflanzen ein .
+COCO_val2014_000000127496.jpg,Dies ist eine Luftaufnahme von einem fast fertigen Waschraum in einem Haus welches noch dabei ist gebaut zu werden .
+COCO_val2014_000000127510.jpg,ein Baseballspieler fängt den Ball mit seinem Handschuh
+COCO_val2014_000000127514.jpg,Dieser Bursche fährt ein Skateboard vor einer Ziegel Mauer .
+COCO_val2014_000000127516.jpg,Ein Surfer ist meist verloren im Schaum , sobald sie auf dem Surfboard lag .
+COCO_val2014_000000127517.jpg,Eine Reihe Surfbretter stehen nebeneinander aus dem Sand hervor .
+COCO_val2014_000000127520.jpg,eine Person in einer reflektierende Weste steht auf der Straße in der Nähe einer Reihe von Bussen .
+COCO_val2014_000000127530.jpg,ein Mann im blauen Hemd und weißen Hosen Tennis spielen .
+COCO_val2014_000000127535.jpg,Ein großer Korb , dass hält eine Menge von reifen Bananen in sich .
+COCO_val2014_000000127556.jpg,Eine graue Katze schnüffelt ein Element , das vor ihm von einer Person gestellt wird .
+COCO_val2014_000000127573.jpg,eine Schildpatt gemusterte Katze sieht im Fernsehen einen Schmetterling .
+COCO_val2014_000000127576.jpg,ein kleines Plastikpferd sitzen auf einem großen roten Stuhl im Park
+COCO_val2014_000000127585.jpg,Ein Raum mit einem Stuhl und Sofa und mehreren Büchern .
+COCO_val2014_000000127587.jpg,Eine Herde Kühe die auf der Weide stehen und Grasen .
+COCO_val2014_000000127596.jpg,eine Frau ist , die Video von einigen Leuten auf einem Smartphone .
+COCO_val2014_000000127623.jpg,mann aus holz mit früschten
+COCO_val2014_000000127624.jpg,eine Skyline der Stadt mit einer U-Bahn um die Ecke kommt gezeigt .
+COCO_val2014_000000127626.jpg,Ein Backsteinhaus steht im Hintergrund in der Nähe von einem Haufen , von Straßenschildern auf einem Platz .
+COCO_val2014_000000127659.jpg,eine S-Bahn fährt  in einem Bahnhof wo Menschen auf einer Bank sitzen .
+COCO_val2014_000000127660.jpg,Ein Mädchen mit einem blauen Auge und Schweine-Schwänze sitzt in einem Koffer
+COCO_val2014_000000127668.jpg,Ein Flugzeug parkt auf einer Abdeckplane mit einem Rettungsdienst daneben .
+COCO_val2014_000000127669.jpg,ein junger Mann surft auf einer riesigen Welle .
+COCO_val2014_000000127671.jpg,gelben LKW innerhalb eines Gebäudes geparkt ist Haube oben .
+COCO_val2014_000000127702.jpg,Person , die ein Bild von einem Baum im Schnee .
+COCO_val2014_000000127749.jpg,eine Katze liegt auf dem Boden in der Nähe eines Teddybären .
+COCO_val2014_000000127751.jpg,Ein weissblauer Bus fährt auf einer städtischen Strasse an Häusern vorbei .
+COCO_val2014_000000127761.jpg,ein leeres Boot , welches an einem Pier an einem Strom festgebunden ist .
+COCO_val2014_000000127775.jpg,Eine Elefantenstatue in einem Park neben einer Strasse .
+COCO_val2014_000000127781.jpg,eine schwarze Katze unter einem Regenschirm sitzen auf dem Boden .
+COCO_val2014_000000127785.jpg,eine Gruppe von Giraffen läuft durch eine Wiese in einem Zoo
+COCO_val2014_000000127788.jpg,Sehr viele Fahrräder stehen in Fahrradständern auf der Straße .
+COCO_val2014_000000127801.jpg,ein Mann , sein Sprint Mobiltelefon haltend , mit den Worten kopfüber auf dem Bildschirm .
+COCO_val2014_000000127842.jpg,Ein Mann in einem Taucheranzug ist auf einem weissen Surfboard auf einem Fluss .
+COCO_val2014_000000127854.jpg,zwei Katzen zu besetzen eine Badewanne , einen Sitzt- und einen Liegt
+COCO_val2014_000000127865.jpg,Person , die auf den Bildschirm schauend vor einem weissen Computer sitzt .
+COCO_val2014_000000127873.jpg,Vier junge Kinder essen Kuchen von Papiertellern auf einem niedrigen Plastiktisch auf einer Terasse .
+COCO_val2014_000000127880.jpg,ein junges Mädchen , das vor einem Kind's-Toilette , eine Bürste halten sitzt .
+COCO_val2014_000000127910.jpg,Ein gut gemachtes Abendessen , an einem Tisch sitzend , das bereit ist gegessen zu werden .
+COCO_val2014_000000127911.jpg,Zwei Menschen laufen mit Regenschirmen eine Allee an einen regen Tag entlang .
+COCO_val2014_000000127914.jpg,Nahaufnahme einer Skateboarderhose mit Skatboard und einen seiner Schuhen
+COCO_val2014_000000127920.jpg,Ein schwarzes Pferd weidet auf einer Wiese in der Mitte eines Waldes .
+COCO_val2014_000000127955.jpg,Da sind zwei Braunbären , welche zusammen im Wasser spielen .
+COCO_val2014_000000127971.jpg,volunteer firemen with their truck shooting out a jet of water
+COCO_val2014_000000127984.jpg,ein Mann , an der dekorativen Wand einer Bahnstation entlang läuft .
+COCO_val2014_000000127987.jpg,Eine Basballspieler-Wackelkkopffigur neben zwei Computermonitoren auf einem Schreibtisch .
+COCO_val2014_000000127990.jpg,Ein Mann mit Skiern auf einem Hand mit Bergen im Hintergrund .
+COCO_val2014_000000127997.jpg,Ein Traktor Anhänger auf der einen Seite einer Straße und ein Auto  hinter einem anderen Auto , dass im Spiegel zu sehen ist .
+COCO_val2014_000000128014.jpg,Ein Raum mit einem Bett ist noch nicht gemacht , und das Badezimmer auch
+COCO_val2014_000000128034.jpg,zwei Leute , die zusammen draußen im Dunkeln und neben zwei Bussen stehen .
+COCO_val2014_000000128051.jpg,Ein Van ist auf dem Dach eines Busses auf der gleichen Tür .
+COCO_val2014_000000128058.jpg,Ein Tennisspieler bereitet sich auf seinen Aufschlag vor , in dem er seinen Arm noch oben hebt .
+COCO_val2014_000000128059.jpg,Eine Pizza , welche oben auf einer weißen Platte mit Käse und Soße bedeckt ist .
+COCO_val2014_000000128110.jpg,ein blaues Zeichen rangt über dem Fussweg neben der Strasse
+COCO_val2014_000000128112.jpg,ein Mann fährt auf Skiern eine Bergwand herunter , einem Weg folgend .
+COCO_val2014_000000128119.jpg,Ein Bus stopte am Straßenrand und holte Passagiere
+COCO_val2014_000000128140.jpg,ein kleines Mädchen in Skiausrüstung , welches auf einem Hügel Ski fährt , draußen im Schnee .
+COCO_val2014_000000128142.jpg,Batter stehen links von der Home Plate , während ein Schiedsrichter und Fänger schauen nach rechts ab .
+COCO_val2014_000000128148.jpg,das wohnzimmer ist geräumig und sauber und zum sitzen ledersofas
+COCO_val2014_000000128168.jpg,Ein Schulbus mit einem Schild , schnell mit dem Bus , sagt mit einer Zahnstange der Hemden und Topfpflanzen davor
+COCO_val2014_000000128180.jpg,Zwei Teile Pizza auf einem Teller mit einem Messer und Gabel auf dem Teller liegend .
+COCO_val2014_000000128201.jpg,Ein Restaurant ohne Tische im Sitzraum , nur Stühle und eine Pflanze .
+COCO_val2014_000000128224.jpg,Ein Brötchen , Melone und eine Tasse Tee auf dem Tisch .
+COCO_val2014_000000128262.jpg,Ein rotweisser Bus parkt vor einer kleinen Kirche .
+COCO_val2014_000000128280.jpg,eine Nahaufnahme Bild einiger Mandarinen in eine Schüssel geben
+COCO_val2014_000000128291.jpg,eine Nahaufnahme von einem Haufen  Gepäck in der Nähe von einem Zug
+COCO_val2014_000000128324.jpg,Herde von erwachsenen  und jungen Elefanten zu Fuß auf dem grasartigen Feldbereich .
+COCO_val2014_000000128372.jpg,ein Transitbus mit offenen Türen läd Passagiere ein
+COCO_val2014_000000128373.jpg,Eine Gruppe von verschieden großen und verschieden gefärbten Teddybären auf dem Display in einem Fenster .
+COCO_val2014_000000128377.jpg,Eine Gruppe von jungen Kindern in grünen Hemden essen Pizzastücker zusammen .
+COCO_val2014_000000128392.jpg,eine Person auf einen Spiegel und ein Waschbecken im Badezimmer
+COCO_val2014_000000128417.jpg,eine Person in einem SA-Mann -Outfit mit einem Regenschirm Balancieren auf einem Brett .
+COCO_val2014_000000128441.jpg,Blick auf die Straße mit Verkehrszeichen und Läden .
+COCO_val2014_000000128450.jpg,Eine gruppe von Jugendlichen lehnen mit den selben grauen T-Shirts an der Wand und schaun auf ihre Handys .
+COCO_val2014_000000128460.jpg,ein verschwommenes foto von einem burschen , der auf einem skateboard in einem skatepark fährt .
+COCO_val2014_000000128461.jpg,Ein Flugzeug fliegt durch den himmel an einem klaren Tag
+COCO_val2014_000000128476.jpg,frauen suchen bunte kuchen
+COCO_val2014_000000128506.jpg,ein Stofftier Ente sitzt zwischen zwei ausgestopften Bären .
+COCO_val2014_000000128515.jpg,ein Mann mit einem Bart und schwarzen Hemd über seinem Bett fliegen
+COCO_val2014_000000128516.jpg,Der Surfer hält seine Arme hoch als er durch die Welle reitet .
+COCO_val2014_000000128528.jpg,Ein Hund einer rote Tasche um seine Schultern läuft im Schnee umher
+COCO_val2014_000000128568.jpg,Eine Vase hat Blumen und eine Kerze sitzt neben ihn auf den Tisch .
+COCO_val2014_000000128570.jpg,ein entzückendes Kind , das im Wasser beim Halten auf ein Boogiebrett watet .
+COCO_val2014_000000128586.jpg,eine Frau , die einen großen schwarzen Hut trägt , interagiert mit einem kleinen Mädchen , als sie mit ihrem Kinderwagen spielt , der auch einen Schirm über sich hat .
+COCO_val2014_000000128598.jpg,Eine Gruppe von roten , gelben und orangen Früchten zusammengemischt .
+COCO_val2014_000000128602.jpg,Ein Mann , eine Frau und ein kleines Mädchen sitzen an einem Tisch und essen eine Mahlzeit zu Hause .
+COCO_val2014_000000128644.jpg,ein kleines Flugzeug parkt halb auf Beton und halb im Feld da der Boden nass ist .
+COCO_val2014_000000128654.jpg,Mann in der Luft zu erreichen zwischen den Beinen , um einen Frisbee zu erreichen .
+COCO_val2014_000000128658.jpg,Eine Waffel mit Sirup , eine Kugel Eiscreme und geschnittene Erdbeeren und Bananan auf einem Teller .
+COCO_val2014_000000128669.jpg,ein Foto , aufgenommen von einem Boot aus , mit einer langen Brücke im Hintergrund .
+COCO_val2014_000000128675.jpg,ein Parasailer in der Ferne mit zwei Surfern in den Vordergrund .
+COCO_val2014_000000128679.jpg,eine graue und weiße Katze sitzt im Fenster nahe bei einer Tigerkatze .
+COCO_val2014_000000128699.jpg,ein Mann springt auf seinem Skateboard in den Himmel
+COCO_val2014_000000128704.jpg,Ein Mann hält eine Mülltüte , während viele Leute um ihn herum rumsitzen und essen .
+COCO_val2014_000000128748.jpg,ein Schläger und ein Fänger reden mit dem Schiedsrichter bei der Home Plate .
+COCO_val2014_000000128756.jpg,Einen Außenbereich mit einem roten Regenschirm auf einem Straßenmarkt abdeckt und mehrere Leute um ihn herum stehen .
+COCO_val2014_000000128791.jpg,Spatz auf einem Ast , mit Schnabel Inspektion Blätter am Zweig .
+COCO_val2014_000000128812.jpg,Ein weißer Ofen mit einem Herd oben in einer Küche .
+COCO_val2014_000000128813.jpg,ein Schwarzweiss-Foto von zwei Teddybären sitzt neben Nikon-Kameras .
+COCO_val2014_000000128829.jpg,ein paar Parkuhren , die sich oben auf einem Rasenstück befinden .
+COCO_val2014_000000128830.jpg,Ein Mann mit einem tätowierten Arm und braunen abgeschnittenen Shorts schaut herunter auf sein Skateboard .
+COCO_val2014_000000128833.jpg,mmmmmmmmmmmmmmmmmmmmmmmm
+COCO_val2014_000000128842.jpg,Küche mit Edelstahl Ofen , Edelstahl Waschbecken , weisser Arbeitsplatte und weissem Boden mit schwarzen Stellen .
+COCO_val2014_000000128849.jpg,eine Frau kniet in der Nähe von einem Elefanten , um seinen Rüssel zu berühren .
+COCO_val2014_000000128891.jpg,ein vielfarbiger Vogel , welcher neben einem anderen Vogel auf einem Ast sitzt .
+COCO_val2014_000000128907.jpg,hell leuchtet die blaue Brücke im dunkel der Nacht
+COCO_val2014_000000128920.jpg,ein Mann mit dem Fahrrad auf einer Straße neben einem Straßenschild .
+COCO_val2014_000000128939.jpg,ein silbernes Auto unter einer grünen Ampel mit einem Mann auf dem Bürgersteig
+COCO_val2014_000000128970.jpg,Ein Korb voll mit Fernbedienungen und Kopfhörern ist auf der Theke .
+COCO_val2014_000000128978.jpg,ein junger man macht tricks auf seinem Fahrrad auf einer dreckigen Straße
+COCO_val2014_000000128992.jpg,Ein Zug kommt aus einem Tunnel , nähe eines großen Gebäudes
+COCO_val2014_000000129001.jpg,Eine Badewanne sitzt neben einem Waschbecken in einem Bad .
+COCO_val2014_000000129054.jpg,dfgdfg
+COCO_val2014_000000129062.jpg,Terrasse und vor einer Bar , die Hot Dogs serviert
+COCO_val2014_000000129065.jpg,Stadt Schnittpunkt mit einer Menge Leute in der Nacht .
+COCO_val2014_000000129100.jpg,Eine braune und weiße Kuh steht in ihrer Weide neben einem Fahrrad eine Spur mit Radfahrern .
+COCO_val2014_000000129113.jpg,eine Nahaufnahme eines Löffels euf einer hölzernen Oberfläche
+COCO_val2014_000000129135.jpg,ein Personenzug ist gelb und blau , und steht an einer Station .
+COCO_val2014_000000129139.jpg,eine Katze schläft auf dem Stuhl und eine Katze auf der Rückseite des Stuhls .
+COCO_val2014_000000129159.jpg,ein brauner Glockenturm aus Stein an einem bewölkten Tag gemacht
+COCO_val2014_000000129175.jpg,eine Gruppe von Personenen-Fahrt auf ein Boot unter einem Bogen .
+COCO_val2014_000000129186.jpg,Ein verschwommenes Foto eines Tennisschlägers und einem Tennisballs .
+COCO_val2014_000000129187.jpg,Ein Hund zur Festlegung von neben dem Hydranten Er ist bis zu gebunden .
+COCO_val2014_000000129285.jpg,Ein Zug fährt vorbei an Gebäuden in der Nähe einer Station
+COCO_val2014_000000129322.jpg,ein Bad , das eine kleine Trennwand neben sich hat .
+COCO_val2014_000000129339.jpg,Ein Kater ist meistens auf dem Teppich , aber mit den vorderen Pfoten in einem Schuh ruht er sich auf dem Paar Schuhe aus und macht den Schwanz gerade , dass er unter den hölzernen Hocker geht .
+COCO_val2014_000000129362.jpg,ein Vogel auf einem Ast sitzend vor einer Palme Typ Baum .
+COCO_val2014_000000129416.jpg,Eine Gruppe von Kühe in einem Feld in der Nähe eines Gewässers .
+COCO_val2014_000000129420.jpg,drei Männer , die Schwarz und Krawatten tragen und alchen über etwas , das sich außerhalb des Rahmens befindet .
+COCO_val2014_000000129431.jpg,ein Elefant geht auf einer Staubstrasse , während des Tages .
+COCO_val2014_000000129440.jpg,Eine Person mit einem blauen Hemd fliegt eine kite am Strand
+COCO_val2014_000000129492.jpg,Da sitzen zwei Kinder auf dem Boden , eins ist ein Baby .
+COCO_val2014_000000129502.jpg,ein Mann , der auf einer schneebedeckten Berg in einem schweren Jacke .
+COCO_val2014_000000129520.jpg,ein Pferderennen mit einem beiwagen
+COCO_val2014_000000129544.jpg,Eine Uhr mit einem  Schild darunter , wo draufsteht , dass die Strassenuhr die beste Qualität hat .
+COCO_val2014_000000129547.jpg,Ein rote Feuerhydrant steht in der Mitte von dem Bürgersteig
+COCO_val2014_000000129548.jpg,Eine Gruppe Skifahrer die einen Berghang in einem Schneesturm hochzieht
+COCO_val2014_000000129566.jpg,Ein grosser orangener Teppich in einem Raum mit vielen Stühlen und einem Schaukelstuhl .
+COCO_val2014_000000129571.jpg,Vier Mädchen posieren vor einem Bus , reklamieren den 1 Sekunden Film .
+COCO_val2014_000000129576.jpg,Ein Zimmer mit einem Holzboden enthält eine zerlegbare Couch , eine gepolsterte Sitzbank , einen Tisch , einen Fernseher und Fahrräder .
+COCO_val2014_000000129579.jpg,Schild mit drei Lichter vor einem Gebäude mit großen Uhr .
+COCO_val2014_000000129587.jpg,Ein Elefant frisst Grass und ein Fahrrad ist neben ihm
+COCO_val2014_000000129592.jpg,Ein roter Feuerhydrant steht in der Mitte vom Gras .
+COCO_val2014_000000129595.jpg,Ein Mann hält ein Pappschild neben einer Frau .
+COCO_val2014_000000129628.jpg,Ein Haufen von Menschen mit Snowboards von einem großen schneebedeckten Hügel .
+COCO_val2014_000000129632.jpg,eine Nahaufnahme von einem Zebra Beweidung in den Blättern .
+COCO_val2014_000000129637.jpg,Drei Plastikpferdefiguren stehen nebeneinander auf einem Regal .
+COCO_val2014_000000129645.jpg,Eine Person macht einen Trick auf einem Skateboard auf einer Treppe .
+COCO_val2014_000000129659.jpg,eine Frau ist zu sehen , das Essen an einem Tisch im Freien mit einem Teller Suppe und eine Rolle und ein Bier in den Vordergrund vor ihr .
+COCO_val2014_000000129663.jpg,Eine Frau in einem Doppelspiel schwingt ihren Tennisschläger , während ihr männlicher Partner bereitsteht .
+COCO_val2014_000000129675.jpg,ein kleiner Haufen von alten ledergebundenen Büchern mit einer Brille und einer Taschenuhr
+COCO_val2014_000000129690.jpg,eine Dame in Pink , die auf einer Bank sitzt neben einem stehenden Mann in einem beigen Anzug .
+COCO_val2014_000000129699.jpg,Eine Kreuzung mit einem Einbahnstrassenschild , Ampeln , einem Strassenschild und einem großen Gebäude .
+COCO_val2014_000000129706.jpg,ein Mann ist wie ein Clown Zauberer gekleidet , während des richtigen Bildes auf seinem Handy .
+COCO_val2014_000000129707.jpg,Die Hand einer Person hält ein Gästetelefon auf einem Cathay Pacific Flug .
+COCO_val2014_000000129735.jpg,ein Jockey auf einem Pferderennwettbewerb spingt eine Hürde mit seinem Pferd
+COCO_val2014_000000129739.jpg,ein Wohnzimmel mit Möbeln und einer Lampe in einer Ecke .
+COCO_val2014_000000129756.jpg,es gibt einen Mann , der auf einem Hügel mit Schafen und zwei Hunde
+COCO_val2014_000000129765.jpg,Leute in einer Linie bei einem Tisch mit Wasser , Trauben und Bananen
+COCO_val2014_000000129784.jpg,Ein Mann sitzt am Schreibtisch vor seinem Laptop .
+COCO_val2014_000000129786.jpg,Schmetterlingdesign Kaffeetisch vor einem Wandsofa entlang einer Spiegelwand mit blauen Vorhängen im Fenster mit Schmetterlingdesign Eingang zum nächsten Raum welcher ein Piano und einen Fernseher beinhaltet .
+COCO_val2014_000000129800.jpg,ein weißer Pick-up auf einem Parkplatz geparkt .
+COCO_val2014_000000129803.jpg,Ein braunes und ein weißes Pferd grasen auf üppigen grünen Gras .
+COCO_val2014_000000129812.jpg,Ein verschwommenes Bild eines Mannes , der mitten im Skisprung ist .
+COCO_val2014_000000129832.jpg,ein Computer sitzt oben auf einem Schreibtisch neben einem Licht .
+COCO_val2014_000000129852.jpg,Mädchen tragen Sonnenbrillen , dunkel , Hemd und demin capri ' s Frisbee spielen an einem schönen sonnigen Tag
+COCO_val2014_000000129855.jpg,eine nackte - Oberkörper Mann auf turbulente Wellen surfen
+COCO_val2014_000000129862.jpg,Ein Mann steht neben einer Frau vor einem Tisch
+COCO_val2014_000000129864.jpg,ein älterer Mann hält eine Katze auf seinem Schoß sitzend im Fahrersitz eines Autos .
+COCO_val2014_000000129886.jpg,Ein hoher Punkt eines Skiresorts und -lifts mit Leuten , die den Hügel runter gehen .
+COCO_val2014_000000129897.jpg,Vier Männer sitzen an einem Tisch mit Geschirr und Bier vor ihnen .
+COCO_val2014_000000129903.jpg,Zwei Straßenzeichen aufeinander auf einer Metallstange .
+COCO_val2014_000000129942.jpg,Ein Bild von einem Vogel , hockte neben einem anderen Vogel .
+COCO_val2014_000000129945.jpg,ein Baseballspieler schwingt den Schläger , während der Catcher und der Schiedsrichter zusehen

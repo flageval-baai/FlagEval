@@ -1,0 +1,4 @@
+scipy
+h5py
+kaggle
+datasets

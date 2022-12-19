@@ -1,0 +1,999 @@
+COCO_train2014_000000061844.jpg,kaleye geçen bir Pittsburgh Pirates oyuncusu ile büyük beyzbol ligi oyunu
+COCO_train2014_000000061849.jpg,bir bilgisayar faresinin üstüne patilerini koyan bir kedi
+COCO_train2014_000000061850.jpg,açık denizde uzun iskelenin yakınında sudan havalanan bir kuş sürüsü
+COCO_train2014_000000061852.jpg,oturan ayıya bir nesne sunan memurun siyah beyaz fotoğrafı
+COCO_train2014_000000061854.jpg,yanında kızarmış patates ve bir şişe su ile bir kase sebzeli Çin çorbası
+COCO_train2014_000000061865.jpg,buzlu alanda siyah kayak kıyafetli bir adam
+COCO_train2014_000000061867.jpg,canlı otların olduğu yeşil bir alanda yürüyen bir grup zebra
+COCO_train2014_000000061877.jpg,kalabalığın önünde aktif bir şekilde video oyunu oynayan üç kadın
+COCO_train2014_000000061881.jpg,iki yastıklı bir yatak ve yatakta uzanmış, ayakkabı giymiş bir kadının bacakları
+COCO_train2014_000000061892.jpg,bir ofis binasında fotoğraf için poz veren bir iş adamı
+COCO_train2014_000000061895.jpg,okyanusta sörf tahtasıyla dalga üstünde sörf yapan bir adam
+COCO_train2014_000000061904.jpg,bir park alanında bir arabanın yanında park edilmiş hoş görünümlü bir motosiklet
+COCO_train2014_000000061911.jpg,kanepe, sandalyeler, televizyon ve bir şark halısının bulunduğu bir oturma odası
+COCO_train2014_000000061918.jpg,bir ormanın önünde siyah gömlek giymiş ve mavi kravat takmış genç bir adam
+COCO_train2014_000000061919.jpg,küçük bir zürafa, çevresini kapatan dik bir tepeyi inceliyor
+COCO_train2014_000000061936.jpg,desenli duvarı olan, içinde pisuvar ve bir tuvalet bulunan bir banyo
+COCO_train2014_000000061945.jpg,gece vakti bir asya kentinde kırmızı ışıkta duran bir araba
+COCO_train2014_000000061946.jpg,fındık ezmeli ve jöleli yarım bir sandviç ve küçük bir kuzu şeklinde doldurulmuş bir oyuncak
+COCO_train2014_000000061949.jpg,çok yaprakları olan bir muz ağacının tepesine konmuş bir kuş
+COCO_train2014_000000061951.jpg,dar sokakta binalar arasından ilerleyen ve yayaları geçen bir dizi motosiklet sürücüsü
+COCO_train2014_000000061966.jpg,tuvalete bir şey koyan bir kadın heykeli
+COCO_train2014_000000061982.jpg,bisiklet süren takım elbiseli ve şapkalı bir adam
+COCO_train2014_000000061992.jpg,uzun binalarla çevrili bir caddeden geçen bir şehir içi otobüs
+COCO_train2014_000000062017.jpg,çimli bir alanda dururken sol tarafına bakan bir zürafa
+COCO_train2014_000000062029.jpg,tenis raketi tutarak yan yana duran bir grup genç kadın
+COCO_train2014_000000062030.jpg,tenis kortunda bir tenis topuna vurmak üzere olan bir adam
+COCO_train2014_000000062031.jpg,bir kayakçı kalabalığın bakışları önünde gökyüzüne yükseliyor
+COCO_train2014_000000062038.jpg,herbirinde biraz şarap olan birkaç şarap bardağı
+COCO_train2014_000000062046.jpg,çok küçük bir banyoda bir köşede birbirine değen lavabo, küvet ve tuvalet bulunuyor
+COCO_train2014_000000062048.jpg,bir adam ve bir çocuk kumsalda uçurtma uçuruyor
+COCO_train2014_000000062053.jpg,bir masada kağıtlar, kitaplar ve elektronik cihazlar arasında açık bir dizüstü bilgisayar
+COCO_train2014_000000062057.jpg,arabalar geçerken yolun kenarında park edilmiş birçok çift katlı otobüsle bir şehir manzarası
+COCO_train2014_000000062067.jpg,kayak yapan üç adam bir havuz dolusu mavi suyun üzerinde havalanıyor
+COCO_train2014_000000062075.jpg,bir masa üzerinde bir kase üzüm, içecekler ve pizza
+COCO_train2014_000000062127.jpg,hemen ileride kar yığınıyla kaplı binaların bulunduğu bir alan varken insanlar, kayaklı veya kayaksız, yalnızca trafik ışığının oranın yaya geçidi olduğunu kanıtlayacak kadar karla kaplanmış bir yaya geçidinden geçiyorlar
+COCO_train2014_000000062128.jpg,bir odada kolları havada olan bir adamın yakınında duran başka bir adam 
+COCO_train2014_000000062129.jpg,besleme ağılındaki dört ineğin önünde duran mor bir üst ve kot giymiş bir adam
+COCO_train2014_000000062131.jpg,dışarıdaki bir sandalyenin arkasına konmuş bir kuşun resmi
+COCO_train2014_000000062132.jpg,ingiliz bayrağı tutan birkaç oyuncak ayı römorkun içinde
+COCO_train2014_000000062160.jpg,tren rayındaki bir trenin yakın çekimi
+COCO_train2014_000000062173.jpg,sigara içilmez işaretinin yanında duran şapkalı bir adam
+COCO_train2014_000000062175.jpg,bir bilgisayar masasında klavyenin yanında duran bir dizüstü bilgisayar
+COCO_train2014_000000062193.jpg,aşağıdaki yüksek uçurumun çok tehlikeli göründüğü dar dağ geçidinde arabadan çekilmiş bir fotoğraf
+COCO_train2014_000000062195.jpg,bir filin üstünde oturan iki kişi
+COCO_train2014_000000062203.jpg,büyük konteynırlardan bir demet muz alan bir adam
+COCO_train2014_000000062204.jpg,bir gösteride havada uçan bir canavar kamyon
+COCO_train2014_000000062209.jpg,bir masaüstünde yan yana duran iki bilgisayar ekranı ve klavyesi
+COCO_train2014_000000062216.jpg,park alanına park edilmiş motosikletler var
+COCO_train2014_000000062219.jpg,içinde nar, kivi, limon, misket limonu ve kantalıp kavunu bulunan büyük bir meyve kasesi
+COCO_train2014_000000062225.jpg,havadan yere yakın bir biçimde süzülen bir uçak
+COCO_train2014_000000062226.jpg,raketi geri çekilmiş bir şekilde, topa gözünü diken bir tenis oyuncusu
+COCO_train2014_000000062231.jpg,çim üzerinde kuşun yanında duran bir kedi
+COCO_train2014_000000062233.jpg,uzaktan kumanda ile oyun oynayan bir grup insan
+COCO_train2014_000000062237.jpg,masade bilgisayarın önünde kağıtların üstünde oturan bir kedi
+COCO_train2014_000000062245.jpg,kros kayağı yapan bir adam ve bir kadın
+COCO_train2014_000000062246.jpg,yön gösteren bir tabelanın altında poz veren kayak kıyafeti giymiş kişi
+COCO_train2014_000000062257.jpg,bir tanesinin bir tekeri kırık olan iki valizin yakın çekimi
+COCO_train2014_000000062261.jpg,Nintendo wii kumandası ve "tenis oynamak isteyen var mı?" yazılı bir levha tutan doldurulmuş bir oyuncak hayvan
+COCO_train2014_000000062263.jpg,bir grup zebra tozlu bir alanda duruyor
+COCO_train2014_000000062272.jpg,küçük çocuk yatakta kitabın yanında karnının üzerine yatıyor
+COCO_train2014_000000062276.jpg,araba köprüden geçerken suyun ortasında duran bir kuğu
+COCO_train2014_000000062279.jpg,içlerinde çeşitli yiyeceklerden yapılmış yemeklerin olduğu tabakların ve bir biberonun olduğu bir masa
+COCO_train2014_000000062292.jpg,pencerenin yanında gri bir duvara yaslanmış bir yatak
+COCO_train2014_000000062293.jpg,bir metro istasyonunda metro treninin yanından geçen bir grup yaya
+COCO_train2014_000000062295.jpg,bir kar kayakçısı yere çarpmakta ve öne doğru düşme sürecindedir
+COCO_train2014_000000062301.jpg,yeşil bir bitkinin dalının birinde duran küçük bir kuş
+COCO_train2014_000000062307.jpg,karla kaplı bir bahçede duran mavi bir sandalye
+COCO_train2014_000000062313.jpg,üstünde yiyecek bulunan bir tabak ve bir fincan bulunan plastik bir tepsi
+COCO_train2014_000000062324.jpg,bir seremonide büyük bir pasta kesen bir grup askeri personel
+COCO_train2014_000000062329.jpg,dışarıda adamın tutunduğu yüzeyi çukurlu mavi bir hızlı tren
+COCO_train2014_000000062336.jpg,bir kanepede başka bir adamın yanına oturan bir adam
+COCO_train2014_000000062337.jpg,çim üstünde duran kahverengi ve beyaz bir at
+COCO_train2014_000000062344.jpg,mutfakta ocağın üstünde brokoli hazırlayan bir kişi
+COCO_train2014_000000062348.jpg,üzerinde kahvaltı yiyecekleri bulunan bir tabak ve içeceklerin olduğu bir masa
+COCO_train2014_000000062350.jpg,tepesinden duman çıkan büyük bir saat kulesi
+COCO_train2014_000000062351.jpg,bir uçak yeni havalanmış ve güneş ışıkları arasından uçuyor
+COCO_train2014_000000062357.jpg,kafasını suyun yüzeyindeki yaprakların arasına sokan bir kuş
+COCO_train2014_000000062376.jpg,bir odada üzerinde bir monitör ve klavye bulunan bir ofis masası
+COCO_train2014_000000062386.jpg,pencereden güneş ışığı girerken pencerenin yanında bulunan ve üzerinde çarşaf ve yastıklar bulunan bir yatak
+COCO_train2014_000000062387.jpg,şehirdeki kalabalık bir caddede trafik ışıkları yeşil yanarken caddede karşıdan karşıya geçen yayaları bekleyen bir dizi araç
+COCO_train2014_000000062389.jpg,yenilenme sürecinde olan küçük bir oda
+COCO_train2014_000000062390.jpg,burada sucuklu büyük bir pizza ve bir bira görünüyor
+COCO_train2014_000000062392.jpg,başka küçük bir kızın yanında bankın üstünde duran küçük bir kız
+COCO_train2014_000000062395.jpg,caddenin kenarına  park edilmiş, arkasında bir bagaj bulunan bir bisiklet
+COCO_train2014_000000062397.jpg,adam konilerin çevresinde kaykayına biniyor
+COCO_train2014_000000062412.jpg,bir arabanın önünde giden bir safeway market zinciri teslimat kamyonu
+COCO_train2014_000000062420.jpg,siyah beyaz bir resimde bir tenis oyuncusu poz veriyor
+COCO_train2014_000000062426.jpg,şatafatlı askılı bir lamba bulunan, akdenize özgü sarı mozaik fayansları olan eski bir banyo
+COCO_train2014_000000062427.jpg,üç zürafa arkasında ağaç olan bir alan boyunca yürüyorlar
+COCO_train2014_000000062440.jpg,sudaki adama bağlı yeşil ve siyah bir uçurtma
+COCO_train2014_000000062442.jpg,bir kayakçı gece vakti yamaçta poz veriyor
+COCO_train2014_000000062446.jpg,masanın üstünde dörtte biri dolu bir şarap kadehi
+COCO_train2014_000000062455.jpg,wii uzaktan kumandasına bakan iki kız birisi erkek olan bir grup arkadaş
+COCO_train2014_000000062464.jpg,yağmurlu bir günde taşlı bir kaldırımda yürüyen şemsiyeli insanlar
+COCO_train2014_000000062468.jpg,çitle çevrili bir alanın ortasında duran bir inek
+COCO_train2014_000000062472.jpg,tenis oyuncusu raketiyle topa vurmak için koşuyor
+COCO_train2014_000000062477.jpg,bir şehir merkezinde trafik lambaları
+COCO_train2014_000000062478.jpg,çok fazla arabanın ve yaya geçidinin olduğu bir binaya çok yakın bir trafik ışığı ve işareti
+COCO_train2014_000000062480.jpg,kadın tenis raketini vurmaya hazırlanmak üzere tutuyor
+COCO_train2014_000000062481.jpg,küçük tatlı bir oyuncak ayı çalının yanındaki bir taş üzerinde duruyor
+COCO_train2014_000000062531.jpg,yeşil şapkalı genç bir adam umumi bir tuvalette özçekim yapıyor
+COCO_train2014_000000062541.jpg,bir adam kask giyerken bir rampa üzerinde kaykay yapıyor
+COCO_train2014_000000062543.jpg,üstünde bir sandviç olan bir tabak ve yanında şarap kadehleri bulunan bir masa
+COCO_train2014_000000062547.jpg,bir kediyle oturan ve internete göz atan bir kaç adam
+COCO_train2014_000000062552.jpg,masanın üzerinde yenilmeye hazır görünen büyük bir pizza
+COCO_train2014_000000062557.jpg,trabzanların üstünde kaykayla hareket yapan iki kişi
+COCO_train2014_000000062558.jpg,kadın valizlerini el arabasından almak üzere bekliyor
+COCO_train2014_000000062562.jpg,içinde birçok sebze ve hindi bulunan bir bir salatalı sandviç
+COCO_train2014_000000062574.jpg,okyanusta yelkenliyle sörf yapan bir adam
+COCO_train2014_000000062581.jpg,arkaplanda köpeklerin olduğu çakıllı bir alanda duran bir otobüs şasisi
+COCO_train2014_000000062589.jpg,yerde çok fazla kar var ve park metre karların arasından çıkıyor
+COCO_train2014_000000062591.jpg,bir tabakta çorba, bir sandviç, bir turşu ve biraz cips
+COCO_train2014_000000062604.jpg,büyük bir kilisede dizili sıralar arasında bir yürüme yolu
+COCO_train2014_000000062608.jpg,masada kısmen yenmiş bir pizza ve çatal ile şarap
+COCO_train2014_000000062613.jpg,kırmızı tişörtlü bir adam tenis oynuyor
+COCO_train2014_000000062617.jpg,bir çocuk havada bir uçurtma tutarak tepeye doğru koşuyor
+COCO_train2014_000000062619.jpg,üstünde birçok bayrak  asılı bir direk
+COCO_train2014_000000062622.jpg,kumsaldaki bir adam okyanus üzerinde uçurtma uçuruyor
+COCO_train2014_000000062648.jpg,insanlar masada oturuyor ve kendi tabaklarındaki yemeklere bakıyorlar
+COCO_train2014_000000062652.jpg,televizyon setindeki bir hız patencisinin resmine erişen ve arka ayakları üzerinde duran bir kedi
+COCO_train2014_000000062662.jpg,bir tanesinin yan tarafında gömülü bir saat olan kümelenmiş bir grup bina
+COCO_train2014_000000062664.jpg,atlar yüzleri birbirlerine çok yakın bir şekilde koşuyor
+COCO_train2014_000000062689.jpg,bazıları tepeden asılı olan bir masa dolusu sarı ve yeşil muz
+COCO_train2014_000000062690.jpg,çift, suyun kenarındaki ahşap platform üzerindeki bankta oturuyor
+COCO_train2014_000000062691.jpg,şortlu, saçları dik ve omzunda bir havlu bulunan genç bir adam tıraş olurken onun arkasındaki beyaz şapkalı adam da kravat bağlıyor
+COCO_train2014_000000062707.jpg,arka planda birçok insanın yürüyüp geçtiği yerde sergilenen bir motosiklet
+COCO_train2014_000000062710.jpg,büyük pencereli ve perdesiz olan ve içinde bir ressam sehpası ve çeşitli mobilyaların bulunduğu karanlık bir oda
+COCO_train2014_000000062715.jpg,ahşap bir yüzeyde bir yaprak üzerinde sergilenen bir erkek saati
+COCO_train2014_000000062716.jpg,bir masada tost makinasının yanındaki pizza ve bir kase sebze
+COCO_train2014_000000062740.jpg,caddenin sonunda uzun binaların yanında bulunan uzun bir saat kulesi
+COCO_train2014_000000062743.jpg,bir masada fotoğraf çekilmek üzere şarapla poz veren bir grup insan
+COCO_train2014_000000062745.jpg,ahşap bir masa üzerinde kızgın kuşlar temalı bir doğum günü pastası
+COCO_train2014_000000062756.jpg,yanında park edilmiş iki mercedes benz araç olan bina ve araçların olduğu alandan uzaklaşan takım elbiseli ve kravatlı bir adam
+COCO_train2014_000000062759.jpg,adam ve kadın kayak takımlarıyla poz veriyorlar
+COCO_train2014_000000062761.jpg,bir şekilde bozulmuş bir resimde bir kaykay üzerinde adam
+COCO_train2014_000000062763.jpg,buzdolabının önünde dururken içinde ne olduğu ile ilgili konuşan iki kişi
+COCO_train2014_000000062766.jpg,polis kalabalık bir caddenin ortasında motosikletinden düşmekte olan bir adamı kollarıyla tutmak için eğiliyor
+COCO_train2014_000000062770.jpg,oturma odası, yemek odası ve mutfağın göründüğü bir evin geniş açılı bir fotoğrafı
+COCO_train2014_000000062772.jpg,çim üzerinde insanlara Tapton öğrenci yurdunda olduklarını belirten bir tabela
+COCO_train2014_000000062778.jpg,bir havaalanında bagaj alım yerinde toplanmış yolcular
+COCO_train2014_000000062814.jpg,bir adam bir dizüstü bilgisayarın önünde dizlerinin üstünde acı çekiyor
+COCO_train2014_000000062815.jpg,çok uzun binaların olduğu bir şehirde caddeden geçen bir otobüs
+COCO_train2014_000000062821.jpg,gece bir taş ocağında dört damperli kamyonun yanında duran bir adam
+COCO_train2014_000000062833.jpg,yankees forması giymiş bir beyzbol oyuncusu sopasıyla kalede duruyor
+COCO_train2014_000000062844.jpg,kumsalı olan bir şehir ve gökte uçan uçurtmaların bir dış resmi
+COCO_train2014_000000062850.jpg,bir oturma odasında kanepede oturan bir kedinin yakın çekim fotoğrafı
+COCO_train2014_000000062852.jpg,bir dizi sokak lambasının yanında arabalarla dolu bir cadde
+COCO_train2014_000000062864.jpg,üstüne grafiti ile "hayır devam et" yazılı bir dur tabelası
+COCO_train2014_000000062872.jpg,bulutlu gökyüzünün altında yapılan bir frizbi turnuvasında diğeri bakarken frizbi yakalayan bir adam
+COCO_train2014_000000062880.jpg,giden arabaların ve motosikletlerin bulunduğu bir caddenin siyah beyaz fotoğrafı
+COCO_train2014_000000062893.jpg,bir televizyonun önüne oturmuş küçük siyahi bir çocuk
+COCO_train2014_000000062896.jpg,frizbi tutan genç bir adam alandaki bir grup insanla duruyor
+COCO_train2014_000000062923.jpg,taşla döşenmiş kaldırımda bir dizi ağacın yanından yürüyen şapka giymiş bir çocuğun yanında uzun siyah elbise ve büyük siyah bir şapka giymiş bir kadın
+COCO_train2014_000000062927.jpg,bir kuş arka planda büyük botların olduğu bir tekne iskelesinin yakınında direğin üstünde duruyor
+COCO_train2014_000000062929.jpg,bir grup sörfçü okyanusta dalga üzerinde sörf yapıyor
+COCO_train2014_000000062941.jpg,bir united airline jeti bulutsuz bir gökyüzünde uçuyor
+COCO_train2014_000000062942.jpg,bir mağazanın önündeki park alanına park etmiş küçük mavi bir kamyonet
+COCO_train2014_000000062943.jpg,uzun binaların önünde cadde yönleri ve isimlerini gösteren sokak tabelaları
+COCO_train2014_000000062957.jpg,yerde oturan, kameraya bakan bir oyuncak ayı
+COCO_train2014_000000062958.jpg,sıra halinde dizilmiş 5 polis motosikleti
+COCO_train2014_000000062964.jpg,bir metro vagonu kapıları açık bir şekilde istasyonda duruyor
+COCO_train2014_000000062969.jpg,şort ve şapka giymiş bir adam kaykayıyla duvarın üstünde kayıyor
+COCO_train2014_000000062995.jpg,caddenin bir köşesinde mikrofon tutan bir kadını filme alan bir adam
+COCO_train2014_000000063014.jpg,bir kar kayakçısı bir kar yığınından atlamak üzere
+COCO_train2014_000000063017.jpg,kaldırımda atılmış bir ekmek parçasını yiyen üç güvercin
+COCO_train2014_000000063022.jpg,alanda bir adam büyük bir uçurtma uçururken diğeri bakıyor
+COCO_train2014_000000063035.jpg,arka planda bir bina ile trafik ışığının yakın çekimi
+COCO_train2014_000000063036.jpg,parkta bir kaykay üzerinde hareket halinde olan genç bir adam
+COCO_train2014_000000063043.jpg,birçok insanın toplandığı bir yerde iki ineği iplerle çeken bir adam
+COCO_train2014_000000063049.jpg,üzerinde büyük bir reklam olan çift katlı bir otobüs kaldırımın yanına park edilmiş
+COCO_train2014_000000063050.jpg,arka planda ağaçlar ve bir ağacın yanında bulunan bir bank
+COCO_train2014_000000063075.jpg,bir frizbi kumsalda havaya atılıyor
+COCO_train2014_000000063077.jpg,karla kaplı bir tepe üzerinde kar kayağı ile havada takla atan bir adam
+COCO_train2014_000000063079.jpg,üzerinde bozuk para makinası olan bir direk
+COCO_train2014_000000063081.jpg,koltuk, masa ve rafların olduğu bir oturma alanın içi
+COCO_train2014_000000063084.jpg,turşu dilimlerinin yanında ikiye kesilmiş sandviç
+COCO_train2014_000000063109.jpg,dışarıda sandviç yiyen güneş gözlüklü ve yeşil tişörtlü bir adam
+COCO_train2014_000000063115.jpg,üç zürafa kameradan uzaklaşıyor
+COCO_train2014_000000063119.jpg,sopa tutatn bir adamın kalabalık bir insan grubu tarafından izlenmesi
+COCO_train2014_000000063121.jpg,izleyiciler oyunu izlerken çocuklar gece stadyumda beyzbol oynuyorlar
+COCO_train2014_000000063123.jpg,sandalyelerin neredeyse hepsi boşken yerde içi eşya dolu birçok torba var
+COCO_train2014_000000063140.jpg,gür bitkili yeşil bir alanın ortasında bankta oturan genç bir adam
+COCO_train2014_000000063143.jpg,klavye, hoparlör ve masaüstünde bir araba olan bir ekranın bulunduğu bir masa
+COCO_train2014_000000063147.jpg,bir grup ağacın arkasında suyun taştığı bir park bankı ve lamba direği
+COCO_train2014_000000063163.jpg,oyuncak tutan ve bir oyuncak bebeğin yanında oturan bir kız
+COCO_train2014_000000063166.jpg,bir şarap kadehinin önünde otururken gülümseyen genç bir adamın resmi
+COCO_train2014_000000063171.jpg,içinde bir ağaç ve mor çiçeklerin olduğu büyük bir saksı
+COCO_train2014_000000063182.jpg,biri aşağı ve birisi sağına bakan bir çift koyun
+COCO_train2014_000000063185.jpg,botla çekilen su kayağındaki adam
+COCO_train2014_000000063206.jpg,yanına bir sokak tabelası iliştirilmiş bir sokak tabelası ile trafik ışığı
+COCO_train2014_000000063209.jpg,birbirlerinin telefonlarının ekranlarına bakan, çok yakın duran iki kadın
+COCO_train2014_000000063214.jpg,ağzında bir frizbiyle karda duran bir köpek
+COCO_train2014_000000063217.jpg,arka planda bir şehir manzarası olan bir nehirde duran bot
+COCO_train2014_000000063230.jpg,dışında masa ve sandalyelerin olduğu bir kahve dükkanı
+COCO_train2014_000000063235.jpg,ahşap bir duvarın yanında küçük bir midilliyi seven bir kız
+COCO_train2014_000000063238.jpg,bir dizi sandviçin önünde bulunan bir dizi çörek
+COCO_train2014_000000063247.jpg,takım elbiseli bir adam suyun yanındaki trabzana yaslanıyor
+COCO_train2014_000000063248.jpg,büyük bir saat kulesinin yakınındaki bir pencerede oturan bir adam
+COCO_train2014_000000063251.jpg,bir direkte bulunan ottan biraz yemek üzere kafasını çeviren bir zürafa
+COCO_train2014_000000063252.jpg,bir paspasın önündeki basamaklarda oturan bir köpek
+COCO_train2014_000000064627.jpg,arka planda diğer insanlar dururken bir kayakçı dönüyor ve arkasına bakıyor
+COCO_train2014_000000064634.jpg,beyaz bir tabak üzerinde bir dilim çilekli kurabiye ile çatal
+COCO_train2014_000000064635.jpg,beyaz kıyafet giyen ve tenis oynayan bir grup insan
+COCO_train2014_000000064659.jpg,üstünde telefon, bilgisayar, dizüstü bilgisayar, bir cep telefonu ve şişe olan bir masa
+COCO_train2014_000000064681.jpg,elinde bir pizza hut peçetesi olan ve pizza ve pepsi seven bir kişi
+COCO_train2014_000000064684.jpg,önünde klavyesi olan küçük bir dizüstü bilgisayar var
+COCO_train2014_000000064694.jpg,insanlar eskiden kalma bir tren ile çekilen vagonlar içine biniyor
+COCO_train2014_000000064697.jpg,bazıları rulo, bazıları krem peynirli olan bir kutu donat
+COCO_train2014_000000064704.jpg,marul, limon ve diğer sebze ve yiyeceklerle dolu bir buzdolabı
+COCO_train2014_000000064705.jpg,karlı bir tepeden aşağı doğru kayak yapan bir adam
+COCO_train2014_000000064708.jpg,ahşap zemin üzerinde bir valizin içinde yatan beyaz bir köpek
+COCO_train2014_000000064722.jpg,bir inek caddede insanlarla beraber yürüyor
+COCO_train2014_000000064730.jpg,bir kişi sakallı bir adamın işlettiği yiyecek arabasının önünde duruyor 
+COCO_train2014_000000064731.jpg,şemsiye altında duran bir kadın yağmur damlalarını yakalamak için ellerini uzatıyor
+COCO_train2014_000000064733.jpg,ahşap bir masa üzerinde sosis, fırında makarna ve pizza duruyor
+COCO_train2014_000000064738.jpg,diğer kamyon ve arabaların yanındaki yolda bir kamyon şoförü
+COCO_train2014_000000064744.jpg,omuzlarında oturan diğer adamlarla beraber motosiklet süren birkaç adam
+COCO_train2014_000000064749.jpg,bir tel örgü çitten bakarken sopa tutan küçük bir çocuk
+COCO_train2014_000000064750.jpg,genç bir kadın, arkasında bir adam sörf tahtasını yüzerek taşırken bir sörf tahtası üzerinde dengede duruyor
+COCO_train2014_000000064751.jpg,tren istasyonunda bir platformun yanına park edilmiş tren
+COCO_train2014_000000064765.jpg,bir köpek çimde yatıyor ve ağzında bir oyuncak var
+COCO_train2014_000000064772.jpg,tuvalette oturan bir adamın siyah beyaz fotoğrafı
+COCO_train2014_000000064794.jpg,beyaz bir bankın üstüne gölge düşmüş ve bank bir kapının yanında
+COCO_train2014_000000064795.jpg,karla kaplı bir yerde kayak yapan bir grup insan
+COCO_train2014_000000064797.jpg,uzun tahılların bulunduğu bir yerde üç akbabanın yakın bir çekimi
+COCO_train2014_000000064798.jpg,beyaz bir tabakta brokoli, mantar ve etin bulunduğu bir yemek
+COCO_train2014_000000064799.jpg,bir ipten sarkan donatı yiyen şapkalı bir kız
+COCO_train2014_000000064800.jpg,bir köşeye park etmiş, üzerinde kap kek olan eski bir karavan
+COCO_train2014_000000064802.jpg,arkalarında ağaçlar olan, toprak zemin üzerinde yürüyen bir anne ve bir yavru fil
+COCO_train2014_000000064804.jpg,toprak zemin üzerinde duran bir ördek sürüsü
+COCO_train2014_000000064809.jpg,bir adam ağın karşısında tenis topuna vurmaya hazırlanıyor
+COCO_train2014_000000064816.jpg,başka bir adamın yanındaki atın yanında duran bir adam
+COCO_train2014_000000064818.jpg,tepe yamacında küçük bir pug cinsi köpeğin yanında duran büyük kahverengi bir inek
+COCO_train2014_000000064823.jpg,bir yatağın yanında uzanan bir insanın yakın çekimi
+COCO_train2014_000000064827.jpg,bir filenin önünde duran ve topa vuran bir kız
+COCO_train2014_000000064828.jpg,yatakta doldurulmuş bir oyuncak hayvan tutan küçük bir çocuk ve yatağın başında duran bir kız
+COCO_train2014_000000064834.jpg,arkaplanda televizyon ile yatakta bir dizüstü bilgisayarın fotoğrafı
+COCO_train2014_000000064836.jpg,havuçlar, bir tepsi kereviz ve havucun yanındaki ocağın üstünde
+COCO_train2014_000000064866.jpg,bir dur tabelası ile starbucks tabelasının kolaj resmi var
+COCO_train2014_000000064870.jpg,sağa bakınız yazan bir tabelanın yanında oturan bir kişi ile cadde köşesi
+COCO_train2014_000000064890.jpg,iki tren adeta bir yarışa hazırlanır gibi birbirlerinin yanına park etmişler
+COCO_train2014_000000064893.jpg,üzerinde bir dizüstü bilgisayar, sanat malzemeleri, bir not defteri ve kalem bulunan bir masa
+COCO_train2014_000000064896.jpg,masanın üzerindeki klavye ve farenin yakın bir çekimi
+COCO_train2014_000000064897.jpg,bir rampanın kenarında kaykay binen bir adam
+COCO_train2014_000000064899.jpg,bir kamyon, hayvanlarla bir çitin yanındaki yolun kenarına park edilmiş
+COCO_train2014_000000064906.jpg,pistte duran küçük bir uçağın yakın çekimi
+COCO_train2014_000000064908.jpg,park alanına park edilmiş büyük beyaz bir uçağın üstünde oturan adam
+COCO_train2014_000000064933.jpg,bir kadının tenis raketiyle dört farklı pozunun fotoğrafı
+COCO_train2014_000000064941.jpg,yolun kenarında bisiklet süren iki yetişkin ve bir çocuk
+COCO_train2014_000000064948.jpg,bir miktar suyun önündeki kumsalda oturan bir grup insan
+COCO_train2014_000000064953.jpg,polis arabasının yanından geçen, önünde kepçesi olan, kırmızı bir damperli kamyon
+COCO_train2014_000000064954.jpg,yanında bir buket çiçek ve gümüş bir servis tabağında üzerinde beyaz güller olan üç katlı beyaz bir kek
+COCO_train2014_000000064962.jpg,zürafalar taşlarla işaretlenmiş insan yapımı yolu inceliyorlar
+COCO_train2014_000000065011.jpg,biri cep telefonu tutmakta olan, kameraya bakan iki adam
+COCO_train2014_000000065012.jpg,bir tenis oyuncusu fileyi geçen topa raketle vurmak üzere
+COCO_train2014_000000065016.jpg,arkada bir kutu mendilin olduğu banyodaki bir tuvalet
+COCO_train2014_000000065025.jpg,vahşi hayatta otları yiyen iki zebra var
+COCO_train2014_000000065028.jpg,gece yarısı trafik ışığında duran tek bir araba
+COCO_train2014_000000065029.jpg,granit masada içinde çiçek ve su bulunan cam vazolar
+COCO_train2014_000000065030.jpg,okyanusta sörf yapan mavi tişörtlü bir kişi
+COCO_train2014_000000065043.jpg,beyaz sörf tahtasını okyanusa götüren bir sörfçü
+COCO_train2014_000000065047.jpg,ahşap bir masa üzerinde, ambalajlanmış bir paketin yanına koyulmuş paketleme malzemeleri
+COCO_train2014_000000065063.jpg,kalabalığın önünde atın dizginlerini tutan bir kadın
+COCO_train2014_000000065072.jpg,taşla kaplı bir yolda dur işaretinin yanında duran bir geyik
+COCO_train2014_000000065080.jpg,Arka planda taş yol ve konutların bulunduğu bir kaldırıma sabitlenmiş, ortadaki suntası bir uca doğru spiral biçimde kıvrılmış beyaz bir sunta bank
+COCO_train2014_000000065085.jpg,bir tencere dolusu suya küp şeklinde doğranmış havuçlar ve tahta bir kaşık
+COCO_train2014_000000065087.jpg,çimli bir alanda disk ile oynayan birkaç insan
+COCO_train2014_000000065095.jpg,ormana doğru yürüyen bir yetişkin ve bir yavru fil
+COCO_train2014_000000065098.jpg,açık kasasında iki nesne bulunan bir kamyonet
+COCO_train2014_000000065135.jpg,bir uçak başka bir uçak uzakta dururken yıkanıyor
+COCO_train2014_000000065136.jpg,karla kaplı bir dağda bir sürü kar kayağının yaslandırıldığı bir ahşap korkuluk
+COCO_train2014_000000065139.jpg,araç, dur tabelası ve yol onarım çalışmaları nedeniyle yolda durdu
+COCO_train2014_000000065144.jpg,birkaç insan ve siyah beyaz saatli bir beyaz saat kulesi
+COCO_train2014_000000065153.jpg,buzdolabı, fırın, ocaküstü mikrodalga, dolaplar ve tezgahlar ile mutfağın bir kısmının görüntüsü
+COCO_train2014_000000065156.jpg,iki nehir arasındaki kara parçasında duran bir zebra sürüsü
+COCO_train2014_000000065161.jpg,elini raketle arkada tutan ve ayakları açık bir kişi
+COCO_train2014_000000065162.jpg,bir beyzbol oyunu sırasında kırmızı ve beyaz giymiş bir grup adam
+COCO_train2014_000000065163.jpg,bir çocuk büyük bir pizza dilimini yemeye çalışıyor
+COCO_train2014_000000065166.jpg,kahverengi ve pembe bir hello kitty çantası boşaltılmış ve içinden yeşil bir cüzdan, telefon, anahtar, para, ilaç ve makyaj malzemeleri çıkmış
+COCO_train2014_000000065177.jpg,kapısı açık metroda ayakta duran takım elbiseli bir adam
+COCO_train2014_000000065179.jpg,karda yol açmak için kürek kullanan küçük bir çocuk
+COCO_train2014_000000065183.jpg,birisi fotoğraf çekerken ve diğeri arka lastiğe bakarken bozuk bir otobüsün arkasında dikilen insanlar
+COCO_train2014_000000065189.jpg,vahşi kuşların yanı başında gür otlu yeşil bir yamaçta koşan bir adam
+COCO_train2014_000000065191.jpg,terminalde bir valiz üzerine oturan küçük bir çocuk
+COCO_train2014_000000065195.jpg,büyük bir kalenin yakınında sığırlar otlanırken kaldırımdan götürülen bir fil
+COCO_train2014_000000065197.jpg,dağlardaki otoyolda giden bir motosikletteki iki insan
+COCO_train2014_000000065198.jpg,bir anne kuş ağacın tepesinde duruyor ve iki yavrusunu besliyor
+COCO_train2014_000000065201.jpg,mavi gri saçlı bir ergen beyaz ve mavi bir gömlek giyiyor ve kırmızı bir kravat takıyor
+COCO_train2014_000000065206.jpg,yangın musluğunun yanında bir sopa tutan küçük bir kız
+COCO_train2014_000000065207.jpg,televizyona bağlı bir bilgisayar kullanan bir kişi
+COCO_train2014_000000065209.jpg,bir futbol topuyla sahada oturan siyah formalı genç bir adam
+COCO_train2014_000000065211.jpg,bir binanın önündeki dur tabelası
+COCO_train2014_000000065213.jpg,beyaz bir arka plana doğru düzen içinde uçan iki jet
+COCO_train2014_000000065218.jpg,bir kesme tahtası üzerinde bir adet lahana ve birkaç havuç
+COCO_train2014_000000065220.jpg,kızıl saçlı bir adam, bir fil heykelinin yanında poz verirken barış işareti yapıyor
+COCO_train2014_000000065245.jpg,bir grup adam büyük bir kamyonu yola itmeye çalışıyor
+COCO_train2014_000000065247.jpg,pencerenin altında beyaz bir tuvaletin bulunduğu turuncu bir banyo
+COCO_train2014_000000065252.jpg,içinde bir duş ve bir tuvalet bulunan bir oda
+COCO_train2014_000000065261.jpg,bir kasede hamur köfteleri var ve masada içinde sos olan küçük kaselerin yanında farklı yiyecekler var
+COCO_train2014_000000065262.jpg,bir büyük 747 jumbo jet uçak, arkasından inen başka bir uçakla pistte dolanıyor
+COCO_train2014_000000065280.jpg,aralarında küçük sulu meyveler ve şeftalilerin bulunduğu çeşitli meyveleri sergileyen iki kontarplak tezgah
+COCO_train2014_000000065289.jpg,bir yatağın üstünde yastığın yanında duran açık bir kitap
+COCO_train2014_000000065292.jpg,silindir şapkalı bir kadın atın üstünde oturuyor
+COCO_train2014_000000065301.jpg,çim üzerinde bir çitin yanında rengi pas kırmızısı ve beyaz olan bir bot
+COCO_train2014_000000065307.jpg,oradaki kişiler birbirlerini övüyor ve çok eğleniyorlar
+COCO_train2014_000000065325.jpg,tek yön tabelalı dur tabelası kavşağı belirtiyor
+COCO_train2014_000000065329.jpg,bir sandalyede dizüstü bilgisayarla oturan bir kişi ve arka planda diğer bilgisayarlar
+COCO_train2014_000000065334.jpg,bir nehir teknesi, yakınında şapkalı ve askılı pantolonlu bir çocuk köprüde otururken nehrin kenarına demir atıyor
+COCO_train2014_000000065336.jpg,önünde birçok magnet bulunan bir buzdolabı
+COCO_train2014_000000065343.jpg,çiçekler, tek kişilik bir yemeğin servis edildiği bir masaya yerleştirildi
+COCO_train2014_000000065345.jpg,ağaçlar ve çalılar arasındaki büyük bir filin yan tarafı
+COCO_train2014_000000065353.jpg,arka planda ağaçlar ile yeşil çimenlik bir alanda zebralar
+COCO_train2014_000000065356.jpg,sarı bir kanepede oturan küçük siyah beyaz bir köpek
+COCO_train2014_000000065360.jpg,arkasında bir havaalanı kamyoneti ile bir uçak pistte
+COCO_train2014_000000065371.jpg,akıllı telefonuyla iki kişinin resmini çeken birisi
+COCO_train2014_000000065380.jpg,taşıma kutuları arasında bulunan bir sokak ve bir karşıdan gelene yol ver tabelası
+COCO_train2014_000000065400.jpg,tavandan sarkan muzlar, önünde bir köpek, iki insan ve birçok ürün kutusu olan açık bir manav
+COCO_train2014_000000065404.jpg,çim üzerinde futbol topunu sektiren bir kadın
+COCO_train2014_000000065407.jpg,bir odada dizüstü bilgisayarları ve not defterleriyle oturan insanlar ve insanların isimleri
+COCO_train2014_000000065420.jpg,şemsiyeli bir grup insan şehirdeki bir caddede yürüyorlar
+COCO_train2014_000000065425.jpg,sahaya doğru bakan bir beyzbol sopasının nostaljik bir resmi
+COCO_train2014_000000065426.jpg,üzerinde gizemli diş fırçası yazan bir lavabonun üzerinde duran diş fırçası
+COCO_train2014_000000065440.jpg,beyzbol oyuncusu bir atışa vurmakta
+COCO_train2014_000000065447.jpg,küçük bir masa ve masanın üzerinde muzların olduğu oturma ve bekleme alanı
+COCO_train2014_000000065448.jpg,masanın üstünde bir cep telefonu ve dizüstü bilgisayarın yanında duran bir gözlük
+COCO_train2014_000000065456.jpg,beyaz bir frizbi tutarken parktan yürüyerek geçen bir adam
+COCO_train2014_000000065457.jpg,bir kedi diş macunu ve bardaklar ile çevrili bir banyo lavabosunun içinde oturuyor
+COCO_train2014_000000065463.jpg,içinde bir kiler ve fırın olan bir mutfak
+COCO_train2014_000000065484.jpg,çaydanlık, demlik, tartı ve daha fazlasının olduğu birçok nesne ile dolu kalabalık bir tezgah
+COCO_train2014_000000065488.jpg,park alanının önündeki karla kaplı alanda kayak sopalarını tutan kayak yapan bir kadın
+COCO_train2014_000000065500.jpg,bir tanesinin kostüm giydiği, tenis filesi yanında duran dörtlü grup
+COCO_train2014_000000065504.jpg,sarı oval bir tabakta katı yağlı üç krep
+COCO_train2014_000000065509.jpg,barda içki şişesinin yanında oturan, telefon kullanan bir adam
+COCO_train2014_000000065515.jpg,vagonlar geçerken metro platformunda ayakta duran bir kişi
+COCO_train2014_000000065516.jpg,bir binanın yanındaki bir şeyin içinde duran bir inek
+COCO_train2014_000000065518.jpg,küçük beyzbol liginde topa vurmaya hazırlanan bir vurucu
+COCO_train2014_000000065523.jpg,gündüz bir at arabası çeken iki at
+COCO_train2014_000000065554.jpg,siyah beyaz tişörtlü bir kadın tenis oynuyor
+COCO_train2014_000000065557.jpg,bir adamın pasta kesme biçiminin ve masadaki birkaç başka nesnenin tepeden görünümü
+COCO_train2014_000000065562.jpg,bir beyzbol oyuncusunun çizimi bir kale resmine yerleştirilmiş
+COCO_train2014_000000065564.jpg,biri yukarı bakarken diğerinin yemek yemek için eğildiği iki zürafa
+COCO_train2014_000000065566.jpg,arka planda bir gün batımı ile kumda park edilmiş bir kırmızı motor mobilet
+COCO_train2014_000000065582.jpg,bir huş ağacının gövdesinin arkasından bakan bir ayı
+COCO_train2014_000000065584.jpg,bir binanın penceresinin önünde duran büyük kırmızı bir şemsiye
+COCO_train2014_000000065586.jpg,bir polis arabası ve diğer araçlar ve karakterlerin olduğu bir kasaba sahnesinin legolar ile canlandırılmış hali
+COCO_train2014_000000065587.jpg,buzdolabının üstünde oturan mavi tişörtlü bir çocuk
+COCO_train2014_000000065588.jpg,sandviç yiyen uzun saçlı, gözlüklü ve sakallı bir adam
+COCO_train2014_000000065594.jpg,bir motosikletin arkasında duran motosiklet kaskı takan bir adam
+COCO_train2014_000000065601.jpg,bir halının üzerine dizilmiş bir makyaj çantası, eşarp, tarak, çakmak, içinde para olan bir cüzdan ve diğer eşyalar
+COCO_train2014_000000065610.jpg,yer fayansının üstünde duş perdesi ile aynı renkli çalışmanın bulunduğu bir eserin olduğu bir ev banyosu
+COCO_train2014_000000065612.jpg,uzun bir binanın önündeki trafik ışığının altındaki dur tabelası
+COCO_train2014_000000065616.jpg,bir masada pastanın yanında bıçak tutarak duran iki kişi
+COCO_train2014_000000065630.jpg,bir ağaçta kaykay ile duran bir adamın fotoğrafı
+COCO_train2014_000000065632.jpg,diğeri onun üstüne düşerken yere düşen bir futbol oyuncusu
+COCO_train2014_000000065643.jpg,motosiklet, araba ve golf arabası türü araçların bulunduğu kalabalık bir kavşak
+COCO_train2014_000000065668.jpg,dışarıda farklı tür sebzelerin olduğu bir açık çiftçi pazarı
+COCO_train2014_000000065685.jpg,masanın üstünde ve vazolarda bulunan çeşitli bitki ve çiçekler
+COCO_train2014_000000065705.jpg,siyah beyaz bir arka planda dikkat çeken çift katlı bir otobüs
+COCO_train2014_000000065712.jpg,birçok insanın arasında şemsiye tutan bir kadın
+COCO_train2014_000000065716.jpg,bir ofisteki veri ekranlarını gösteren bir bilgisayar monitörü ve dizüstü bilgisayar
+COCO_train2014_000000065732.jpg,masanın cep telefonu ve kablo, iki uzaktan kumanda, kontakt lens kutusu ve bardakla bir bardak altlığı bulunan köşesi
+COCO_train2014_000000065737.jpg,çok şeyin görüldüğü bir banyonun tam görünümü
+COCO_train2014_000000065753.jpg,tenis oynayan mavi tişörtlü ve şortlu bir adam
+COCO_train2014_000000065755.jpg,bir kişi mavi bir yüzeyin üstünde jet skiye biniyor
+COCO_train2014_000000065769.jpg,kırmızı tişörtlü ve kırmızı bir beyzbol şapkalı küçük bir çocuk sosisli ekmeği ısırıyor
+COCO_train2014_000000065776.jpg,havaalanındaki kaldırımda duran bir grup valiz
+COCO_train2014_000000065781.jpg,üste yerleştirilen uyumlu bir mikrodalga ile krom kaplama mutfak ürünü
+COCO_train2014_000000065793.jpg,mağaza çok çeşitli tür, boyut ve renklerde oyuncak ayı sunuyor
+COCO_train2014_000000065816.jpg,ahşap bir platformun üstünde katlı çarşaf ve yatak var
+COCO_train2014_000000065829.jpg,ıslak bir park yerinin ve trafik ışıklarının gece görüntüsü
+COCO_train2014_000000065831.jpg,bir dalgada sörf yaparken sörf tahtasından düşen bir kadın
+COCO_train2014_000000065835.jpg,masada yenilmeye hazır bir tabak yemek
+COCO_train2014_000000065836.jpg,bir kutu sütün yanında çilek gibi bazı meyveler
+COCO_train2014_000000065837.jpg,beyaz bir tabakta bir dürüm ve salata var
+COCO_train2014_000000065841.jpg,içinde iki yatak, iki lamba, iki resim ve bir telefon olan oda
+COCO_train2014_000000065842.jpg,portakallar, metal bir konteynır içerisinde kaynatmak için getirilmiş
+COCO_train2014_000000065855.jpg,üzerinde bitkilerin ve ıvır zıvırların olduğu, ormana bakan bir pencere
+COCO_train2014_000000065859.jpg,solda iki kat yüksek bir tren, ortada park edilmiş birçok bisiklet ve sağda park edilmiş bir otobüsün olduğu dış görünüm
+COCO_train2014_000000065861.jpg,bir duş ve beyaz bir tuvaletin kombinasyonu olan bir banyonun resmi
+COCO_train2014_000000065865.jpg,ağaçlarla çevrili suyun üzerine iniş yapan kuşlar
+COCO_train2014_000000065869.jpg,karla kaplı bir eğimden aşağı doğru kar kayağı yapan bir adam
+COCO_train2014_000000065880.jpg,büyük beyzbol ligi oyuncuları atışlar arasında sahada atış alıştırması yapıyor
+COCO_train2014_000000065884.jpg,içinde sandalye, bir kanepe, masa ve televizyon bulunan büyük pencereli küçük bir oda
+COCO_train2014_000000065891.jpg,bir sokak tabelası ve trafik ışığının altından geçen bir grup araba
+COCO_train2014_000000065894.jpg,suda birkaç bot ve arka planda büyük binalar
+COCO_train2014_000000065896.jpg,ortasında, üzerinde bir saat olan bir sütunun bulunduğu yol
+COCO_train2014_000000065898.jpg,noel sırasında süslenen modern bir oturma odasının görüntüsü
+COCO_train2014_000000065900.jpg,bir havuz dalgasına atlayan bir sörfçü
+COCO_train2014_000000065901.jpg,mavi bir sörf tahtası üzerinde bir dalga yakalayan genç bir adam
+COCO_train2014_000000065905.jpg,üzerinde paslanmaz çelik bir kasede salata ve içinde kuşkonmaz olan bir yemeğin olduğu masa
+COCO_train2014_000000065916.jpg,mavi gök altında yolun tek yön olduğunu belirten bir sokak tabelası
+COCO_train2014_000000065924.jpg,caddede iki farklı dilde birçok tabela var
+COCO_train2014_000000065938.jpg,bir odanın köşesinde somun ekmek bir rafı
+COCO_train2014_000000065943.jpg,bir engelin arka tarafında at binen bir adam
+COCO_train2014_000000065953.jpg,yolun kenarında iki kişi tarafından muayene edilen bir fil
+COCO_train2014_000000065955.jpg,gür yeşil bir alanda ayakta duran ve uçurtma uçuran bir grup insan
+COCO_train2014_000000065957.jpg,beyaz tenis kıyafeti ile tenis topuna servis atışı yapan bir kadın
+COCO_train2014_000000065961.jpg,arka planda karla kaplı dağların olduğu bir çayırda otlayan atlar
+COCO_train2014_000000065962.jpg,yoğun bir şehir caddesinde büyük bir otobüs ve trafik
+COCO_train2014_000000065965.jpg,kafasına bir muz kostümü giymiş olarak caddeden geçen bir kişi
+COCO_train2014_000000171179.jpg,bir park yerinin ortasında sarı yangın musluğu
+COCO_train2014_000000171180.jpg,birçok park edilmiş otobüs ve önlerinde yürüyen birçok insanın olduğu bir otobüs terminali
+COCO_train2014_000000171185.jpg,bir zürafa, diğer zürafalar arkasından gelirken ağacın yanında duruyor
+COCO_train2014_000000171194.jpg,bir kız ve erkek, başka bir çocuk kaykayıyla atlarken bakıyor
+COCO_train2014_000000171208.jpg,akarsuyun yanında kuru çimde otlanan bir grup at
+COCO_train2014_000000171210.jpg,arkada diğer dağları, ağaçları ve ovaları gösteren bir soluk dağ tepesi gibi bir görüntü ve inde de siyah ve beyaz bir takım giymiş genç bir kız telefonu dinliyor
+COCO_train2014_000000171221.jpg,bu, çitli bir alanda duran bir zürafanın kafası
+COCO_train2014_000000171231.jpg,park yerinde duran iki katlı bir parti otobüsü
+COCO_train2014_000000171235.jpg,bir hayvan parkında sıralı ağaçların olduğu alanda bir anne ve yavru zürafa
+COCO_train2014_000000171239.jpg,yatakta iç çamaşırıyla uzanan ve siyah beyaz bir kediye bakan kadın
+COCO_train2014_000000171262.jpg,tasmalarını zorlayarak bir adamın bir park satranç masasında diğerine sunduğu pastaya erişmeye çabalayan köpekler
+COCO_train2014_000000171269.jpg,cadde kenarında sarı bir yangın musluğu üzerine oturan bir çocuk
+COCO_train2014_000000171270.jpg,bir fıskiyenin yanında ahşap masalarda oturan bir grup insan
+COCO_train2014_000000171272.jpg,bir kişi, motiskilete eklenmiş sepetlik içindeki başka bir kişiyle bir yarış pistinde motosiklet sürüyor
+COCO_train2014_000000171281.jpg,bir çocuk kolunu raketle uzatarak tenis oynuyor
+COCO_train2014_000000171284.jpg,parmağında iki papağan, omzunda bir papağan olan bir adam
+COCO_train2014_000000171287.jpg,yürüyüş yolunda kaykay süren bir adam
+COCO_train2014_000000171289.jpg,gözleri açık bir şekilde muz yiyen küçük bir çocuk
+COCO_train2014_000000171290.jpg,gümüş rengi bir kargo treni biraz bulutlu bir günde ray üzerinde gidiyor
+COCO_train2014_000000171297.jpg,bir dizüstü bilgisayarın önünde karnının üstüne yatan genç güzel bir kadın 
+COCO_train2014_000000171309.jpg,pembe kıyafet giyen oyuncak bir ayı bir kitabın yanında yatıyor
+COCO_train2014_000000171315.jpg,çeşitli doldurulmuş oyuncaklar cam vitrinde duruyor
+COCO_train2014_000000171316.jpg,bir tren bir dağın önünde raylar üstünde gidiyor
+COCO_train2014_000000171321.jpg,şapkalı bir tenis oyuncusu bir raket tutuyor
+COCO_train2014_000000171328.jpg,evin önünde olgun meyvelerin dolu olduğu bir portakal ağacı
+COCO_train2014_000000171330.jpg,içinde pizza olan ve yanında kütüklerin bulunduğu bir fırın
+COCO_train2014_000000171339.jpg,aydınlatmalı bir kfc tabelası ile gece bir şehir caddesi
+COCO_train2014_000000171353.jpg,mutfakta tezgahın üstünde yemek hazırlayan bir adam
+COCO_train2014_000000171363.jpg,karlı bir yamaçta duran kayak elbiseli bir grup insan
+COCO_train2014_000000171374.jpg,yanında lamba, kedi ve bir sandalyenin olduğu bir yatak
+COCO_train2014_000000171376.jpg,plastik bir tabakta bir sosisli ekmek ve yanında biraz ketçap
+COCO_train2014_000000171378.jpg,gece ıslak bir caddede bir otobüs, birkaç bina ve ışıklar
+COCO_train2014_000000171380.jpg,bir park yerine girişte birden fazla dilde dur tabelası
+COCO_train2014_000000171381.jpg,birçok düğme ve işlev eklenmiş bir tuvalet oturağı
+COCO_train2014_000000171384.jpg,bir adam sörf tahtasında dalgayı yakalıyor ve dengede durmak için kollarını havaya kaldırıyor
+COCO_train2014_000000171408.jpg,önünde bir balkabağı duran ve pencerenin yanındaki kanepede uzanan üç köpek
+COCO_train2014_000000171419.jpg,bir şehirde yol kenarında park edilmiş bir otobüs
+COCO_train2014_000000171422.jpg,bir uçaktan kargoyu boşaltan kanadaya ait bir bagaj arabası ve işleyici uçaktan eşya indiriyor 
+COCO_train2014_000000171429.jpg,bir tabakta turşu, peynir, ketçap ve mayonezli bir sandviç ile çatal
+COCO_train2014_000000171430.jpg,üstündeki kablolarla kırsal alan boyunca giden bir lokomotif tren
+COCO_train2014_000000171435.jpg,üzerinde dizüstü bilgisayar, bir köpek ve biraz kıyafet olan bir yatak
+COCO_train2014_000000171444.jpg,açık bir ambalajda biberli sosisli ekmeğin yakın bir çekimi
+COCO_train2014_000000171449.jpg,toprak renkleri ile dekore edilmiş ve çok parlak aydınlatmalı bir mutfak
+COCO_train2014_000000171453.jpg,bir pencerenin yanına yapılmış ve yerleştirilmiş standart boyutta bir yatak
+COCO_train2014_000000171467.jpg,bir pizza kutusunda sekiz dilime kesilmiş bir pizza
+COCO_train2014_000000171468.jpg,hayvanat bahçesinde tel örgü çitten zürafaya dik dik bakan bir fino köpeği
+COCO_train2014_000000171470.jpg,arkasında yeşil ağaçlar ve çalılar bulunan ve ot yiyen bir zebra
+COCO_train2014_000000171472.jpg,yerde birçok açık çantası ve valizi olan bir kişi
+COCO_train2014_000000171478.jpg,mavi gökyüzünde düzenli uçuş yapan bir filo savaş jeti
+COCO_train2014_000000171479.jpg,karla kaplı bir yokuştan aşağı doğru yarışan iki kişi
+COCO_train2014_000000171484.jpg,bir çitin ardındaki binanın yanında duran bir grup zürafa
+COCO_train2014_000000171495.jpg,bir tren, tren yolu üzerinde kırsal alandan geçiyor
+COCO_train2014_000000171499.jpg,bir yolcu jeti açık mavi bir gökyüzünde uçuyor
+COCO_train2014_000000171536.jpg,üzerinde pizza ve şarap bulunan bir masada telefon tutan bir adam
+COCO_train2014_000000171564.jpg,ahırdadi birçok siyah ve beyaz inek çitlerin arasından yemek için boyunlarını uzatıyorlar
+COCO_train2014_000000171566.jpg,bir odada beraber oturan birçok genç var
+COCO_train2014_000000171581.jpg,bir su kaynağı yanındaki kumsalda at süren üç kişi
+COCO_train2014_000000171584.jpg,üzerinde ekmek olan büyük ahşap bir spatula tutan bir adam
+COCO_train2014_000000171585.jpg,tenis kortunda kafasının üzerinden bir tenis raketi sallayan çocuk, arka planda palmiye ağaçları var
+COCO_train2014_000000171590.jpg,erkek bir yürüyüşçü şemsiye ile yolun ortasında duruyor
+COCO_train2014_000000171607.jpg,bir tenis kortunda elinde raket olan bir adam
+COCO_train2014_000000171637.jpg,iniş takımları açık bir şekilde uçmakta olan bir jumbo jet yolcu uçağı
+COCO_train2014_000000171639.jpg,alanda ahşap bir direğin yanında duran iki yetişkin ve bir yavru zebra
+COCO_train2014_000000171647.jpg,gece tren istasyonunda bulunan birkaç bank
+COCO_train2014_000000171648.jpg,elleriyle çikolata yiyen kısa pantolonlu bir bebek
+COCO_train2014_000000171649.jpg,yürüyen üç kadın, iki tanesi şemsiye tutuyor
+COCO_train2014_000000171656.jpg,gölgesi duvara vuran bir çiçeğin erkek çocuğu tarafından çekilmiş fotoğrafı
+COCO_train2014_000000171665.jpg,tenis raketi tutan açık mavi tişörtlü ve lacivert pantolonlu bir kadın
+COCO_train2014_000000171698.jpg,kıyıda duran iki oyuncak ayı, biraz su ve botlar
+COCO_train2014_000000171729.jpg,aynı tişört ve kotu giymiş, yatakta oturmakta olan bir çift
+COCO_train2014_000000171735.jpg,ahşap bir masanın aşağısında sandalyede oturmakta olan bir kedi
+COCO_train2014_000000171736.jpg,bir aynanın ve oyuncak bir ineğin önündeki pembe bir cep telefonu
+COCO_train2014_000000171737.jpg,kortta tenis raketi tutan bir kadın
+COCO_train2014_000000171742.jpg,bir grup sıralanmış vazodaki çiçeklerin yanında uzanan bir kedi
+COCO_train2014_000000171758.jpg,küçük bir kasabanın ana caddesindeki trafiğin değiştirilmiş bir fotoğrafı
+COCO_train2014_000000171766.jpg,bir adam "paten yapmanın izin verildiğini" gösteren bir piktogramın bulunduğu kavşaktan bisikletini sürerek geçiyor
+COCO_train2014_000000171768.jpg,arka planda şehir manzarası görünürken kahverengi tuğla binanın yakınında bulunan iki zürafa
+COCO_train2014_000000171785.jpg,kaykay parkında kaykay üzerinde sıçrama yapan bir kişi
+COCO_train2014_000000171806.jpg,arabalar yan tarafından geçerken caddenin ortasında duran elmas şeklinde bir işaret
+COCO_train2014_000000171808.jpg,wii kumandasıyla oyun oynarken saldırı pozu veren bir kadın
+COCO_train2014_000000171834.jpg,siyah beyaz bir fotoğrafta kameraya yakın bir at
+COCO_train2014_000000171837.jpg,hasır şapkalı, kulağında telefon olan bir adam
+COCO_train2014_000000171841.jpg,bir caddede giden bot şeklinde bir otobüs
+COCO_train2014_000000171845.jpg,titiz bir tasarımdan sonra podyumlarda sanat eseri olmuş geniş tuvaletler
+COCO_train2014_000000171848.jpg,yeşil ve beyaz bir tur otobüsüne binen sırt çantası taşıyan bir adam
+COCO_train2014_000000171875.jpg,elleri cebinde kırmızı kıravatlı ve yaka kartı takılı bir kişi
+COCO_train2014_000000171885.jpg,üzerine gömülü büyük bir saat olan yüksek bir ev
+COCO_train2014_000000171940.jpg,mor kanepeler ve cadılar bayramı dekorasyonları ile dolu bir oturma odası
+COCO_train2014_000000171943.jpg,düğünlerinde pasta kesen bir kadın ve erkek
+COCO_train2014_000000171950.jpg,seyirciler önünde gelen topu karşılamak amacıyla bir beyzbol sopası tutan bir adam
+COCO_train2014_000000171959.jpg,bir ormanda bir kadınla yan yana olan, at üstünde bir adam
+COCO_train2014_000000171966.jpg,bir masanın önüne park edilmiş bir bisiklet
+COCO_train2014_000000171967.jpg,sahada gelen topu karşılamaya çalışan bir beyzbol oyuncusu
+COCO_train2014_000000171997.jpg,bir sahada beyzbol oynayan bir grup erkek
+COCO_train2014_000000172000.jpg,motorsiklet üstüne bir adamın arkasında yolculuk yapan kadın
+COCO_train2014_000000172010.jpg,koltuk, televizyon, masa ve ahşap zeminden oluşan bir oturma odası
+COCO_train2014_000000172012.jpg,masa üzerinde bir tabakta sandviç, bir kutu gazoz, bir bardak gazoz ve iki el
+COCO_train2014_000000172017.jpg,bir yatak üzerinde yatarken pencereden dışarıyı seyreden bir köpek
+COCO_train2014_000000172020.jpg,üzerinde uğur böceği resmi olan bir kedi kravatı
+COCO_train2014_000000172023.jpg,arkada gökyüzü manzarasıyla ray üzerinde giden bir trenin yakın çekim görüntüsü
+COCO_train2014_000000172036.jpg,ağaçların ortasındaki bir platformun üzerinde duran bir ayı
+COCO_train2014_000000172040.jpg,tezgahının kenarında bir buzdolabı bulunan bir mutfak
+COCO_train2014_000000172051.jpg,bu resimde bir tabak dolusu et ve brokoli görülüyor
+COCO_train2014_000000172056.jpg,elinde bir burito bulunan ve bu buritoyu yiyen bir adam
+COCO_train2014_000000172059.jpg,gece vakti sokak ışıkları altında caddede bir araba
+COCO_train2014_000000172062.jpg,sahilde elinde benekli desenli bir şemsiye tutan bir kadın
+COCO_train2014_000000172085.jpg,tezgah üzerinde bir kostüm giydirilmiş oyuncak ayı
+COCO_train2014_000000172091.jpg,arazi üzerinde öylece duran ve tepesinden duman çıkan bir tren
+COCO_train2014_000000172092.jpg,ahşap başlıklı bir yatağın kenarına oturan küçük bir kız
+COCO_train2014_000000172096.jpg,kar manzarası eşliğinde pencere kenarındaki kuşa bakan bir kedi
+COCO_train2014_000000172105.jpg,papyonlu kıyafetiyle arkada parlak bir ışıkla poz veren bir kadın
+COCO_train2014_000000172121.jpg,masa üzerinde tepside malzemelerle sunulan bir pizza
+COCO_train2014_000000172123.jpg,bir ağaç dalına tutunurken bir parça meyve tutan bir kuş
+COCO_train2014_000000172135.jpg,Bir dondurma bardağına ve tepsiye konmuş tatlı atıştırmalıklarla bezenmiş bir masa
+COCO_train2014_000000172143.jpg,havuç, yaban mersini, elma, armut, biber ve salatalık görüntüsü
+COCO_train2014_000000172148.jpg,bir tren istasyonunda ray üstünde bir hızlı tren
+COCO_train2014_000000172151.jpg,gece 12 ve sabah 7 arası çıkış olmadığını bildiren siyah-beyaz bir sokak tabelası
+COCO_train2014_000000172156.jpg,bu görüntüde dik bir yamaçtan kayan bir kişiyi görülüyor
+COCO_train2014_000000172158.jpg,büyük şehir kenarındaki sahilde palmiye ağaçları arasında yer alan şemsiyenin altındaki masa
+COCO_train2014_000000172160.jpg,güneşli bir havada tur otobüsünün ön kapısına dayanan bir adam
+COCO_train2014_000000172162.jpg,bir su kaynağı çevresinde bulunan yabani hayvan sürüsü
+COCO_train2014_000000172163.jpg,doldurulmuş oyuncakla oynayan siyah-beyaz bir kedi
+COCO_train2014_000000172171.jpg,parke taşlarıyla döşenmiş bir caddede duran iki katlı bir otobüs
+COCO_train2014_000000172173.jpg,lokomotif bir geçitten geçtiği sırada ışıkları açık hâlde yavaşlarken görülüyor.
+COCO_train2014_000000172176.jpg,elinde beyzbol eldiveniyle top yakalamayı bekleyen küçük çocuk
+COCO_train2014_000000172187.jpg,üzerinde iskoç eteği ve elinde gaydasıyla pencere pervazına yaslanıp cep telefonunda konuşan bir adam
+COCO_train2014_000000172196.jpg,caddenin ortasında kaykaya binen genç bir adam
+COCO_train2014_000000172197.jpg,diğer oyuncu arkadaşı ve hakem önünde topa vurmak üzere posizyon alan bir oyuncu
+COCO_train2014_000000172211.jpg,ray üzerindeki kırmızı bir trenin arka uç kısmı
+COCO_train2014_000000172218.jpg,bitişiğinde lamba, üzerinde de pencere ve resim bulunan bir yatak
+COCO_train2014_000000172226.jpg,şömine önünde kurutulmuş çiçeklerle dolu bir vazo
+COCO_train2014_000000172229.jpg,kıyafetler, tarak ve kitapla doldurulmuş bir valiz
+COCO_train2014_000000172232.jpg,bir binanın bitişiğinde duran eski ve kırmızı renkli bir kola makinesi
+COCO_train2014_000000172233.jpg,çimle kaplı bir arazide turuncu renkli uçurtma tutan bir adam
+COCO_train2014_000000172246.jpg,kayak tahtası ve çubuğuyla kar ve çim kaplı alanda yürüyen bir adam
+COCO_train2014_000000172248.jpg,ağaçların üzerinden görünen bina üzerinde bir saat
+COCO_train2014_000000172255.jpg,bir köprü üzerinde kamyonun nehirden geçişini izleyen kadın
+COCO_train2014_000000172264.jpg,okyanusta bir dalga üzerinde sörf yapan bir adam
+COCO_train2014_000000172276.jpg,üzerinde yeşil detay ve turuncu şeker süslemeleri bulunan turuncu renkli bir tatlı
+COCO_train2014_000000172297.jpg,kahvaltı ve öğle yemeği veren bir kafe önünde duran bir inek
+COCO_train2014_000000172303.jpg,ektrafında çalılıklar bulunan bir zürafanın yakın çekim fotoğrafı
+COCO_train2014_000000172310.jpg,yeşil tekerleri olan bir kaykay tahtasının üzerinde bir köpek
+COCO_train2014_000000172316.jpg,bir beyzbol oyunu sırasında gelen topu karşılayan genç bir oyuncu
+COCO_train2014_000000172322.jpg,üzerinde marşmelov, kraker ve şurup buşunan sosla kaplı bir çikolatalı pasta
+COCO_train2014_000000172324.jpg,üzerinde iç çamaşırı olan, acı içerisinde olduğu görülen, kasık bölgesini eliyle kapayan ve elinde makas olan bir adam
+COCO_train2014_000000172328.jpg,kırmızı, turuncu ve beyaz şeritleri olan otobüslerin arkasında kalan beyaz bir otobüs
+COCO_train2014_000000172340.jpg,bir kara tahtanın önünde duran bir grup öğrenci
+COCO_train2014_000000172350.jpg,alttan görüldüğü üzere tabanı cam olan havuza girmiş bir kutup ayısı
+COCO_train2014_000000172351.jpg,bir kaykay parkında yeteneklerini gösteren bir kişi
+COCO_train2014_000000172361.jpg,ikinci katında insanların bulunduğu iki katlı bir otobüs
+COCO_train2014_000000172366.jpg,bahçeye gösterilen emek meyvesini vermekte
+COCO_train2014_000000172369.jpg,çok yetenekli olduğu görülen bu kaykaycı havada kaskını ve kaykay tahtasını tutuyor
+COCO_train2014_000000172370.jpg,bir kayakçı ve kar kaykaycısı malzemeleriyle görülüyor
+COCO_train2014_000000172371.jpg,kerpiçten yapılma bir yatak odasında bir yatakta uyuduğu görülen bir adamın siyah-beyaz fotoğrafı
+COCO_train2014_000000172376.jpg,bir kütüğün yanında sırtına toprak attığı görülen bir fil
+COCO_train2014_000000172377.jpg,sahilde renkli bir şemsiyenin altında uzanan kadın
+COCO_train2014_000000172387.jpg,ocak üzerinde geniş bir tencerede malzemeleri karıştıran bir kadın
+COCO_train2014_000000172392.jpg,bir su kaynağı üzerindeki köprüde motorsiklet süren bir kişi
+COCO_train2014_000000172398.jpg,klozeti, lavabosu ve küvetiyle eksiksiz bir banyo
+COCO_train2014_000000172405.jpg,bir masa olduğu görülen nesnenin üzerinde kıvrılmış bir küçük kedi
+COCO_train2014_000000172406.jpg,at gözlüğüyle bir park alanında direğe bağlanmış bir at
+COCO_train2014_000000172420.jpg,üzerinde salata, cips ve büyük beyaz ekmek arasında etli sandviç olduğu görülen bir tabak
+COCO_train2014_000000172422.jpg,kaplı bir duvar kenarında olan ve üzerinde dizüstü bilgisayar ile bir fincan kahve bulunan bir masa
+COCO_train2014_000000172425.jpg,siyah tişörtlü bir adam kaykay ile yeteneğini sergilerken
+COCO_train2014_000000172426.jpg,ayakları üzerinde duran, yan yana olan ve etraflarında çim, çalılık ve ağaçlar olan iki zürafa
+COCO_train2014_000000172434.jpg,başı birisi tarafından kayışla sıkıca tutan bir inek
+COCO_train2014_000000172463.jpg,lavabo, klozet ve küvetten oluşan küçük bir banyo
+COCO_train2014_000000172467.jpg,sağ elinde wii kolu tutan bir adam
+COCO_train2014_000000172475.jpg,bir valizin yanında duran ve içerisinde su şişesi de olan bir kitap çantası
+COCO_train2014_000000172490.jpg,yolculuk sırasında en iyi arkadaşınızın yanınızda olması her zaman keyiflidir
+COCO_train2014_000000172492.jpg,parçalı bulutlu bir günde gökte beş adet uçurtma
+COCO_train2014_000000172501.jpg,yağmurda ıslanmış bir sokakta yürürken elinde şemsiye tutan bir kadın
+COCO_train2014_000000172506.jpg,ellerini kavuşturmuş şekilde pasta önünde duran bir kadın
+COCO_train2014_000000172507.jpg,beyaz bir tabak üzerinde yer alan köfteli sandviç ve bir kutu kola
+COCO_train2014_000000172509.jpg,yenmeye hazır hâlde bir masa üzerinde duran lezzetli atıştırmalıklar
+COCO_train2014_000000172537.jpg,ön kısmında iki motoru ve iki makinalı tüfeği olduğu görülen bir Amerikan savaş uçağı
+COCO_train2014_000000172543.jpg,ilk kaykay yolculuğu sırasında düşen genç bireyi izleyen bir kalabalık
+COCO_train2014_000000172545.jpg,motorsiklet üstüne kucağında çocukla oturan bir kadın
+COCO_train2014_000000172568.jpg,büyük ve geniş bir bina karşısında olduğu görülen kırmızı-beyaz bir yangın musluğu
+COCO_train2014_000000172574.jpg,yakınında birtakım insanlar bulunan bir tren orman içerisinde raylar üzerinde
+COCO_train2014_000000172582.jpg,şehir ortamında yol kenarında duran bir mavi yangın musluğu
+COCO_train2014_000000172597.jpg,dizinin üstünde bir köpekle yatakta yatan bir kadın ve koltukta olduğu görülen bir kedi
+COCO_train2014_000000172608.jpg,yanında bir su kabıyla eski tip bir alaturka tuvalet
+COCO_train2014_000000172615.jpg,sık bitkilerle dolu bir arazide rayında giden gri-kırmızı bir tren
+COCO_train2014_000000172622.jpg,destek amaçlı tel konilerle bezeli farklı bitkilerden oluşan bir bahçe
+COCO_train2014_000000172637.jpg,ışıklandırılmış bir caddenin kaldırım kenarına yerleştirilmiş park ölçüm cihazları
+COCO_train2014_000000172654.jpg,yeşil renkli ve "butts" yazılı bir kovanın yanında yeşil bir yangın musluğu
+COCO_train2014_000000172655.jpg,arkasında başka buzağılar, kulağında mavi bir küpe olan kahverengi bir buzağı
+COCO_train2014_000000172665.jpg,nehrin ortasında bir tekne ve karşısında da çok daha küçük bir bot
+COCO_train2014_000000172669.jpg,bir masanın üzerinde bir mavi vazo, renkli vazo ve mavi başka bir vazo
+COCO_train2014_000000172680.jpg,elleri arkasında olan bir kadını işaret eden küçük bir çocuk
+COCO_train2014_000000172681.jpg,fil üzerinde bir adam ve çocuklar
+COCO_train2014_000000172727.jpg,yabani ortamda ağaçlar arasında bir zürafa
+COCO_train2014_000000172743.jpg,Days Inn Suites önünde karlı yolda ilerleyen bir otobüs
+COCO_train2014_000000172751.jpg,turuncu renkli bir sandalye üzerine tüneyip sağa bakan bir kuş
+COCO_train2014_000000172776.jpg,kamera önünde rampayı tırmanan bir kaykaycı
+COCO_train2014_000000172778.jpg,şehirde bir caddenin kenarında yer alan park ölçüm cihazının yakın çekimi
+COCO_train2014_000000172784.jpg,bir nehrin ve diğer binaların yanında yer alan, ön yüzünde ve yanlarında saatler bulunan bir bina
+COCO_train2014_000000172800.jpg,mavi renkli bir koltuğun üzerine oturtulmuş kahverengi renkli oyuncak bir ayı
+COCO_train2014_000000172805.jpg,bir oturma odasında koyu renkli lounge sandalyelerinin karşısına konumlandırılmış beyaz bir koltuk
+COCO_train2014_000000435433.jpg,bu görüntüde doldurulmuş bir oyuncak köpek ve kendisine kıyafet giydirilmiş gerçek bir köpek görülüyor
+COCO_train2014_000000435435.jpg,elektrik direği üzerine konumlandırılmış olan ve zıt yönlere bakan iki "tek yön" işareti
+COCO_train2014_000000435445.jpg,uçak ve gökyüzü manzarası altında bir havaalanı terminalinde içinden yük indirilen bir otomobil
+COCO_train2014_000000435451.jpg,tozlu bir yolda kahverengi bir at tarafından çekilen at arabasını süren yaşlı bir adam
+COCO_train2014_000000435452.jpg,bir banyoda küvetin bitişiğinde yer alan beyaz bir lavabo
+COCO_train2014_000000435453.jpg,bir oturma odasında yan yana duran iki adam
+COCO_train2014_000000435454.jpg,rayında giden bir trenin yanında duran valizli insanlar
+COCO_train2014_000000435456.jpg,melon şapkası ve beyaz makyajıyla ağzında havuç tutan ve kalabalık arasında duran bir adam
+COCO_train2014_000000435458.jpg,doğrama tahtası üzerinde doğranmış bir miktar sebze ve meyve karışımı
+COCO_train2014_000000435460.jpg,yaya geçidinde olmadığı hâlde karşıya geçen bir yaya ve ona doğru gelen bir otobüs
+COCO_train2014_000000435468.jpg,pazarda dalından üzüm kesen bir kadın
+COCO_train2014_000000435471.jpg,aşağı doğru kaydığı görülen iki kayakçı
+COCO_train2014_000000435473.jpg,açık bir arazide kafa kafaya vermiş iki fil
+COCO_train2014_000000435479.jpg,havada yeteneklerini sergileyen iki kaykaycı
+COCO_train2014_000000435482.jpg,yol kenarından yola çıktığı görülen büyük bir metrobüs
+COCO_train2014_000000435488.jpg,kırmızı bir tabakta ikiye ayrılmış bir vejetaryen sandviçi
+COCO_train2014_000000435492.jpg,ayaklarını bir bilgisayar masasına uzatıp dinlenen bir kişi
+COCO_train2014_000000435495.jpg,elleriyle yaptığı şeyden ötürü yanındakine şaşıran bir adam
+COCO_train2014_000000435499.jpg,kafasında ayıcık olan ve aynaya bakıp şaşıran bir adam
+COCO_train2014_000000435523.jpg,dilimlere bölünmüş bir pizza
+COCO_train2014_000000435543.jpg,metal bir tezgahın üzerinde yer alan kırmızı-beyaz bir makas
+COCO_train2014_000000435544.jpg,mavi, beyaz, sarı ve pembe çiçeklerin önüne park edilmiş mavi-beyaz bir otobüs
+COCO_train2014_000000435548.jpg,bir adamın önünde toplanmış bir grup insan
+COCO_train2014_000000435549.jpg,uzağında ayna olan ve boş bir odada yer alan bir yatak
+COCO_train2014_000000435553.jpg,hareket hâlindeki bir arabanın arka koltuğunda yer alan bir köpek
+COCO_train2014_000000435554.jpg,maç esnasında top karşılamaya hazırlanan bir kadın tenis oyuncusu
+COCO_train2014_000000435556.jpg,bir çiftçi pazarında yaşlı bir adamın yanında duran kadın
+COCO_train2014_000000435573.jpg,bir laptop karşısına geçmiş, kucağında bir gitar, yanında da bir kadın olan adam
+COCO_train2014_000000435575.jpg,beyzbol sahasında beyzbol oynayan bir yetişkin ve çocuk
+COCO_train2014_000000435579.jpg,yeşil kayak kıyafetiyle kaykay tahtası ile bir yerden atlayan bir genç
+COCO_train2014_000000435583.jpg,masa üzerinde yer alan bir soğutucuya girmiş bir kedi
+COCO_train2014_000000435584.jpg,arka planda televizyonda Barack Obama varken kameraya bakan bir kedi
+COCO_train2014_000000435612.jpg,kuru otların arasında geniş bir alanda duran bir fil
+COCO_train2014_000000435620.jpg,üzerinde bir bagel sandviçi, bir miktar meyve ve çatal yer alan bir tepsi
+COCO_train2014_000000435623.jpg,bir trenin bir yan kısmına yapılmış grafiti çalışmasının yakın çekim görüntüsü
+COCO_train2014_000000435632.jpg,çelik bir dolap önünde gözlük ve şapka takmış olan genç bir birey
+COCO_train2014_000000435653.jpg,büyük plastik bir kafesin yanındaki iki kahverengi kuzu
+COCO_train2014_000000435664.jpg,elinde nintendo wii kolu ile oyun oynayan gri tişörtlü bir adam
+COCO_train2014_000000435665.jpg,arkada şehir manzarasıyla bir direkte bulunan yiyecekle beslenen iki zürafa
+COCO_train2014_000000435673.jpg,gözünde gözlüğü, başında da tavşan kulağı tacı olan bir beyefendi
+COCO_train2014_000000435681.jpg,çimde duran motosiklete bakan bir kişi
+COCO_train2014_000000435686.jpg,safari aracından çekilmiş, yabani ortamda görülen zürafa sürüsü
+COCO_train2014_000000435688.jpg,kırmızı-beyaz masa örtüsü üzerinde satışta olan renkli fincan kekleri
+COCO_train2014_000000435690.jpg,yanında şehir manzarasıyla üzerinde pek çok yastık olan yatak
+COCO_train2014_000000435695.jpg,bir beyzbol topunun hemen yanında bir sopa tutan küçük bir çocuk
+COCO_train2014_000000435698.jpg,taştan duvar önünde bir bank üzerine oturmuş siyah bir kedi
+COCO_train2014_000000435713.jpg,elindeki nesneye bakan şapkalı ve kravatlı bir adam
+COCO_train2014_000000435716.jpg,üzerinde tabak, su ve şarap bardağı olan bir masanın etrafına toplanmış insanlar
+COCO_train2014_000000435718.jpg,servis yapmak üzere havaya top atan tenis oyuncusu
+COCO_train2014_000000435743.jpg,bir sanatçının resimleri önünde yürüyen şemsiyeli bir kadın
+COCO_train2014_000000435750.jpg,bir ağaç ve uzunca bir binanın hemen önünde olan, yeşil trafik ışığı
+COCO_train2014_000000435755.jpg,bu resimde kanepe, sandalyeler ve lambalardan oluşan bir oturma odası görülüyor
+COCO_train2014_000000435758.jpg,telden çitlerin önünde başını eğip bir başka zürafaya dayayan bir zürafa
+COCO_train2014_000000435764.jpg,Bullhead yolunda uzakta trafik manzarasıyla birlikte kırmızı ışıkta durmuş kırmızı bir araç
+COCO_train2014_000000435766.jpg,şişelerde çiçeklerle birlikte masa üzerinde duran kahve bardakları
+COCO_train2014_000000435777.jpg,iniş takımları havada açılmış olan bir uçak
+COCO_train2014_000000435787.jpg,yurt odası ortamında ten rengi örtüsüyle bir yatak
+COCO_train2014_000000435792.jpg,bacakları açık şekilde mavi renkli bir koltuğa oturmuş olan çizgili bir kedi
+COCO_train2014_000000435803.jpg,çimli bir arazi üzerinde önünde motoru ve iki yolcusu olan gri renkli bir uçak
+COCO_train2014_000000435805.jpg,çim üzerindeki bir standa yerleştirilmiş iki model uçak
+COCO_train2014_000000435809.jpg,ocak üzerinde metal bir aspiratör, çelik bir buzdolabı, fırın ve ocak içeren bir mutfak
+COCO_train2014_000000435811.jpg,pek çok arabanın hemen bitişiğine park edilmiş bir grup otobüs
+COCO_train2014_000000435814.jpg,oturur vaziyette önlerindeki belgeleri imzalayan iki erkek ve arkadasında ayakta duran diğer iki erkek
+COCO_train2014_000000435829.jpg,şehir dışındaki bir istasyonda ray üzerinde görülen bir tren
+COCO_train2014_000000435832.jpg,pencere kenarında görülen bir koltuk ve televizyon
+COCO_train2014_000000435833.jpg,üzerinde mantar, havuç, domates, brokoli ve karnabahar bulunan bir tabağın yakın çekimi
+COCO_train2014_000000435839.jpg,bölünmüş yolda hareket eden kamyonun arka kısmı
+COCO_train2014_000000435840.jpg,üzerinde farklı malzemeler bulunan büyük bir pizza
+COCO_train2014_000000435841.jpg,ahşap masa etrafında oturup pasta yiyen bir kişi
+COCO_train2014_000000435848.jpg,klozeti, lavabosu ve penceresi olan bir banyo
+COCO_train2014_000000435855.jpg,yol kenarında yürüyen, sırt çantalı ve valizli bir adam
+COCO_train2014_000000435869.jpg,yemek masasında şarap içen insanlar
+COCO_train2014_000000435882.jpg,bir klavye ve kulaklığın yakın çekim görüntüsü
+COCO_train2014_000000435885.jpg,bir plajda görülen bir grup insan
+COCO_train2014_000000435886.jpg,tabakta sunulmuş meyveli bir tatlı
+COCO_train2014_000000435889.jpg,birçoğu açık bir arazide uçurtma uçuran bir grup insan
+COCO_train2014_000000435897.jpg,cadde üzerinde bir kavşaktaki bir aracın camından görüntü
+COCO_train2014_000000435902.jpg,kuru bir arazide yan yana duran zürafa grubu
+COCO_train2014_000000435908.jpg,üzerinde sokak işaretleri olan metal bir direğin önündeki mavi renkli kaldırımdan sokağı süpüren bir kişi
+COCO_train2014_000000435913.jpg,taşların yanında duran bir zürafa çifti
+COCO_train2014_000000435920.jpg,pepperoni, peynir, ricotta peyniri ve yeşilliklerle sunulan bir pizza
+COCO_train2014_000000435923.jpg,altın sarısı arazide yürüyen ve etrafını seyreden küçük bir zebra grubu
+COCO_train2014_000000435924.jpg,hareket hâlindeyken kaza yapmış olan bir tren
+COCO_train2014_000000435929.jpg,bir caddenin tam ortasına park edilmiş bir polis aracı
+COCO_train2014_000000435930.jpg,itfaiyeci kaskı giymiş gibi görünecek şekilde boyanan bir Dalmaçyalı görseliyle yangın musluğu
+COCO_train2014_000000435931.jpg,gözlüğü ve kravatıyla poz veren genç bir adam
+COCO_train2014_000000435933.jpg,yanından su fışkıran kırmızı bir yangın musluğu
+COCO_train2014_000000435940.jpg,sahada olduğu görülen mor beyzbol formalı bir erkek çocuk
+COCO_train2014_000000435951.jpg,ellerinde raketle yan yana duran bir grup erkek
+COCO_train2014_000000435963.jpg,güneşli bir yemek odasında bir masanın çevresinde Şükran Günü hindisi görselini boyayan bir küçük erkek ve kız çocuk
+COCO_train2014_000000435975.jpg,bir vazo gül, bir kadeh şarap ve diğer kişisel eşyalarla bezenmiş bir masa
+COCO_train2014_000000435988.jpg,kırmızı renkli bir kişinin hatlarını gösteren yaya işaretinin yakın çekim görüntüsü
+COCO_train2014_000000435990.jpg,bir bota binmeye hazırlana bir grup insanın görüntüsü
+COCO_train2014_000000435994.jpg,mavi örtüleri ve gece lambasıyla renkli bir odada bulunan iki yatak
+COCO_train2014_000000436002.jpg,bir işaret direği ve kütüklerden yapılmış bankın yanına park edilmiş bir motosiklet
+COCO_train2014_000000436009.jpg,gökyüzünde uçan ve aşağıda da karlı dağ manzarası olan bir uçağın görüntüsü
+COCO_train2014_000000436014.jpg,bir laptop kullanan adamın masa üzerine oturmuş kedilerle birlikte görüntüsü
+COCO_train2014_000000436023.jpg,bir masa ve mikrodalga fırın yolun kenarına bırakılmış hâlde
+COCO_train2014_000000436025.jpg,nintendo wii kolunu tutan yan yana bir adam ve kadın
+COCO_train2014_000000436027.jpg,klozet, küvet, üç adet tuvalet kâğıdı rulosu ve lavabo içeren bir banyo
+COCO_train2014_000000436031.jpg,arazi kenarındaki bir yolda fil üzerinde seyahat eden kişiler
+COCO_train2014_000000436038.jpg,bilgisayarı başında iken diğer kişiye mimik yapan bir adam
+COCO_train2014_000000436046.jpg,şemsiyesiyle kar altında kaldırımda yürüyen bir kişi park hâlinde arabaların yanından geçerken
+COCO_train2014_000000436048.jpg,bir telden çit ve işaretin önünde yer alan sarı bir işaret
+COCO_train2014_000000436056.jpg,parmaklıkların kenarında kaykaya binen bir adam
+COCO_train2014_000000436070.jpg,elinde raketle bir tenis kortunda maç yapan bir adam
+COCO_train2014_000000436073.jpg,havluya sarılmış bir çocuğun dişleri fırçalanırken çekilen görüntüsü
+COCO_train2014_000000436078.jpg,bir at ve binicisiyle birlikte bir tente altında duran birkaç kişinin görüntüsü
+COCO_train2014_000000436085.jpg,büyük bir şehirde bir tren yolunun siyah-beyaz görüntüsü
+COCO_train2014_000000436092.jpg,masa üzerindeki bir bıçağın hemen yanında kırmızı muzlar ve doğranmış elmalar
+COCO_train2014_000000436105.jpg,açık bir pencereyle bir odanın köşesinde yer alan boş bir yatak
+COCO_train2014_000000436108.jpg,cam tabak içerisindeki pastanın mumlarını üfleyen bir kadın
+COCO_train2014_000000436117.jpg,bir grup meyve ve sebzenin arasında yer alan bir bardak smoothie ve bir kâse meyveli yoğurt 
+COCO_train2014_000000436143.jpg,ellerinde kement, başlarında şapka olduğu görülen iki erkek tarafından kovalanırken kaçmaya çalışan bir inek
+COCO_train2014_000000436145.jpg,bu görüntüde örtüsü açılmış, çok yastıklı bir yatak görülüyor
+COCO_train2014_000000436146.jpg,bir parktaki insanlar güzel bir günde farklı tip ve boyutlarda uçurtmalar uçururken
+COCO_train2014_000000436161.jpg,masa üzerinde bir kitap ve bir tabağın üzerinde yer alan krem şantili ve portakallı pasta
+COCO_train2014_000000436168.jpg,içerisinde piyano bulunan bir odada pizza kutusunun yer aldığı bir masanın etrafına oturan bir adam ve kadın
+COCO_train2014_000000436182.jpg,dörtte birlik dilimlerinden biri eksik olan bir pizza
+COCO_train2014_000000436185.jpg,bu mutfakta beyaz dolaplar ve siyah bir mikrodalga fırın görülüyor
+COCO_train2014_000000436188.jpg,bir kaykay parkında kaykay ile tırmanış gerçekleştiren bir adam
+COCO_train2014_000000436195.jpg,beyaz bir zemin üzerinde yer alan bir miktar muz, elma, patates ve tatlı patates
+COCO_train2014_000000436199.jpg,kapı önündeki alanda iki beyaz sandalye ve gri-beyaz renkli bir kedi görülüyor
+COCO_train2014_000000436214.jpg,boş bir valizin bir tarafına yattığı görülen iki kedi
+COCO_train2014_000000436221.jpg,tozlu bir yolda bir uçurtma tutan küçük bir erkek çocuk
+COCO_train2014_000000436246.jpg,dalgalarla birlikte bir tahta üzerinde sörf yapan bir adam
+COCO_train2014_000000436265.jpg,gümüş renkli fırın, mikrodalga, tezgah ve kahverengi dolaplar
+COCO_train2014_000000436284.jpg,kaykay görüntüsünü andıran, bir kısmı dökülen, üzerinde vida olan ve dışarıda bir yere konulduğu görülen bir odun parçası
+COCO_train2014_000000436287.jpg,binanın kulesinin ön yüzünde bir saat görülmekte
+COCO_train2014_000000436288.jpg,pek çok kişi tozlu bir yolun kenarına oturmuşken yola uzanmış bir köpeğin görüntüsü
+COCO_train2014_000000436295.jpg,çikolatalı kurabiyelerin yer aldığı kâsenin hemen yanında un kurabiyesi dolu bir başka kâse
+COCO_train2014_000000436300.jpg,bir Avrupa kasabasında park hâlinde kırmızı renkli ve çift katlı bir otobüs
+COCO_train2014_000000436302.jpg,dizüstü bilgisayarıyla dışarıda oturan bir adamın siyah-beyaz görüntüsü
+COCO_train2014_000000436303.jpg,bir ağaca tutunup yanına bakan bir ağaçkakan
+COCO_train2014_000000436306.jpg,bantlarla koluna üç adet muz yapıştırılmış bir kişi
+COCO_train2014_000000436318.jpg,açık bir havada bir ağacın üzerinde uçan bir kuş
+COCO_train2014_000000436319.jpg,üzerinde makas ve güneş gözlüğü olan iki tişört
+COCO_train2014_000000436321.jpg,yeşil laminat tezgahıyla eski bir mutfak
+COCO_train2014_000000436333.jpg,kucaklarında oyuncak ve poşet olan iki kız çocuk ve diğer kişilerin görüntüsü
+COCO_train2014_000000436354.jpg,masa üzerinde poşetler içinde havuç, muz, domates, kabak ve dolmalık biberler
+COCO_train2014_000000436362.jpg,bir su kaynağı üzerinde yüzen dört yelkenli
+COCO_train2014_000000436370.jpg,bir tepenin eteklerinde karlı zemin üzerine oturan bir kayakçı
+COCO_train2014_000000436383.jpg,üzerinde kekler ve kurabiyeler olan bir tür biblo
+COCO_train2014_000000436391.jpg,okyanusta bir dalga üzerinde karnı üzerinde sörf yapan bir kadın
+COCO_train2014_000000436394.jpg,bir tenis maçında topu servis etmeye hazırlanan turuncu tişörtlü bir adam
+COCO_train2014_000000436399.jpg,bu siyah-beyaz fotoğrafta elinde kırmızı "dur" işareti tutan bir adam görülüyor
+COCO_train2014_000000436400.jpg,birinde bir, diğerinde iki adet çiçek bulunan iki cam vazo
+COCO_train2014_000000436406.jpg,kaldırım üzerindeki fare şeklinde balonun bitişiğindeki kaldırımın yanına park edilmiş bir Cottage Grove otobüsü
+COCO_train2014_000000436407.jpg,muzların hemen yanında içerisinde yiyecek olan bir tava
+COCO_train2014_000000436410.jpg,içerisinde makarna, ıspanak, et ve taze fasulye olan bir kâse
+COCO_train2014_000000436411.jpg,ağaç dalıyla beslenirken taşların üzerine uzanmış olan bir siyah ayı
+COCO_train2014_000000436435.jpg,bir meyve standında bol miktarda muz
+COCO_train2014_000000436436.jpg,biri ağaç parçasını inceleyen, öbürü yerde oturan iki ayı
+COCO_train2014_000000436438.jpg,biri oturan, diğeri ayakta duran iki zebra
+COCO_train2014_000000436440.jpg,iki erkek ve bir kadın, önlerinde pizza ile gülümserken
+COCO_train2014_000000436453.jpg,bir kadın iki çocuğa masal okurken
+COCO_train2014_000000436455.jpg,bir adam banyo aynasında elektrikli fırça ile dişlerini fırçalarken
+COCO_train2014_000000436464.jpg,üzerinde cadde adları ve park kuralları yazan beton bir direk üzerindeki kırmızı trafik ışığı
+COCO_train2014_000000436468.jpg,küçük bir televizyon önünde yatağında uzanan bir kişi
+COCO_train2014_000000436479.jpg,turuncu saçlı, üzerinde yelek, gömlek ve kravat olan, bar alanında içki hazırlayan bir adam
+COCO_train2014_000000436481.jpg,karlı bir yolda bir kayakçı diğerinin izinden giderken
+COCO_train2014_000000436504.jpg,oldukça iyi düzenlenmiş, malzemeleri sıralı bir mutfak
+COCO_train2014_000000436507.jpg,tavandan sarkan meyvelerin yendiği bir dükkan
+COCO_train2014_000000436508.jpg,beyaz dolapların üzerinde yer alan, üstünde doldurulmuş bir hayvan ve kedi olan bir kedi
+COCO_train2014_000000436515.jpg,dişlerini fırçalayacakmış gibi poz veren bir adam
+COCO_train2014_000000436519.jpg,birkaç koltuk ve plazma televizyon ile temiz bir oturma odası
+COCO_train2014_000000436521.jpg,topa vurmaya hazırlanan bir tenis oyuncusu ve arkasında yer alan iki kişi
+COCO_train2014_000000436522.jpg,genç bir kadın tarafından çekilecek fotoğrafa poz veren, kızıl saçlı, yeşil-beyaz tişörtlü, kot şortlu ve çiçek kolyeli bir kadın
+COCO_train2014_000000436538.jpg,kucağında oyuncak ayısıyla salıncakta oturan koyu saçlı, sevimli bir kız çocuk
+COCO_train2014_000000436539.jpg,mutfak aletleri ile dolu tezgahıyla bir mutfak
+COCO_train2014_000000436544.jpg,dolaptaki kurabiyeleri işaret eden, beyaz elbiseli mutlu bir kadın
+COCO_train2014_000000436558.jpg,bazı binaların arasındaki caddede görülen bir trafik ışığı
+COCO_train2014_000000436564.jpg,doğranmış sebzeler ve üzerinde doğrama tahtası bulunan bir mutfak tezgahı
+COCO_train2014_000000436571.jpg,kıyısında küçük botlarla büyük bir gemi bulunan, arkada bina manzarası olan bir su kaynağı
+COCO_train2014_000000436578.jpg,yolun ortasında yerdeki ölü hayvandan beslenen bir siyah ayı
+COCO_train2014_000000436579.jpg,bulutlu bir ortamda pistte görülen büyük bir yolcu uçağı
+COCO_train2014_000000436580.jpg,yemyeşil bir alanda otlayan bir koyun sürüsü
+COCO_train2014_000000436584.jpg,açık tuvaleti olan bir kulübenin görüntüsü
+COCO_train2014_000000436585.jpg,sebzeler ve pilavla dolu bu tabakta hemen hemen et yok denebilir
+COCO_train2014_000000436596.jpg,ahşap yüzey üzerinde bulunan çiçek desenli tabak üstündeki küçük, yuvarlak, çikolatalı ve pembe şekerli bir kek ve çatal
+COCO_train2014_000000436600.jpg,arka planda otobüs manzarasıyla hemen hemen boş bir caddenin görüntüsü
+COCO_train2014_000000436607.jpg,bir kaldırımın ortasında yer alan sarı renkli yangın musluğu
+COCO_train2014_000000436611.jpg,çitli bir arazi içerisinde dökülen boyasıyla görülen bir yangın musluğu
+COCO_train2014_000000436619.jpg,banyoda tuvalet kâğıdı rulosuyla oynayan bir çocuk
+COCO_train2014_000000436620.jpg,bir ağacın yanında yan yana oturan bir grup
+COCO_train2014_000000436621.jpg,küçük kızdan atıştırmalık almak için başını çite dayayan bir zürafa
+COCO_train2014_000000436626.jpg,botlarla dolu su kaynağının yakınlarına yerleştirilmiş çok sayıda sandalye
+COCO_train2014_000000436627.jpg,toplamda 49 dakika kaldığını gösteren bir park cihazı
+COCO_train2014_000000436632.jpg,çitli bir alanda arazide ayakta duran bir zürafa
+COCO_train2014_000000436638.jpg,bir ahırda saman üzerine yatmış, küçük kahverengi bir köpek
+COCO_train2014_000000436646.jpg,altta su manzarasıyla iniş yapan bir Singapore Airlines ticari uçağı
+COCO_train2014_000000436647.jpg,betona oturup sahibinin gelmesini bekleyen kedi
+COCO_train2014_000000436649.jpg,tezgahta oturduğu görülen bir bebekle birlikte tava ve bıçakla havada durduğu görülen bir adam
+COCO_train2014_000000436651.jpg,eski kafesler ve teknenin yanında yer alan bir kamyonet
+COCO_train2014_000000436660.jpg,büyük bir sörf tahtası kullanan bir adam
+COCO_train2014_000000436662.jpg,pek çok çanta, su şişesi ve malzemenin önünde ayakta duran, elinde tenis raketi olan bir adam
+COCO_train2014_000000436665.jpg,şeritli masa örtüsü üzerinde plastik lastikle sarılmış bir miktar havuç ve diğer sebzeler
+COCO_train2014_000000436685.jpg,binaların önünde caddede kayak yapan bir adam
+COCO_train2014_000000436693.jpg,tamamen karanlık bir ortamda içerisinde tek köklü mor bir çiçek bulunan, soğan biçimli bir beyaz vazo
+COCO_train2014_000000436698.jpg,bir restoranda büyük bir masanın etrafında oturan ve gülen insanlar
+COCO_val2014_000000127068.jpg,bir adam üzerinde etiket olan bir sörf tahtasını incelerken
+COCO_val2014_000000127074.jpg,arkasında onlarca insan manzarasıyla birlikte bir uçurtma tutan adam
+COCO_val2014_000000127092.jpg,oldukça dik olduğu görülen bir caddede binalar ve sokak manzarası
+COCO_val2014_000000127119.jpg,sahil kenarında bir park alanında park edilmiş olan bir motorsiklet
+COCO_val2014_000000127120.jpg,sahnede şarkı söylerken kendisine oyuncak ayı uzatılan bir adam
+COCO_val2014_000000127129.jpg,yiyeceklerle ve iki bardak içkiyle donatılmış bir masa
+COCO_val2014_000000127135.jpg,caddenin ortasında bir küçük domuz ve sokak işareti
+COCO_val2014_000000127136.jpg,bir hangar önünde asfaltta duran küçük ve renkli bir uçak
+COCO_val2014_000000127141.jpg,üzerinde bir peçete ve içerisinde domates ile köpüklü bir sıvı bulunan beyaz bir tabak
+COCO_val2014_000000127153.jpg,güneşli bir havada ellerinde şemsiyelerle geçit üzerinden karşıdan karşıya geçen iki kadın
+COCO_val2014_000000127161.jpg,yanında bir çatalla birlikte küçük bir pizzanın birkaç dilimi
+COCO_val2014_000000127170.jpg,beyaz bir masanın yanına oturmuş bir bebek ve bir biberon ile fincan keki masanın üzerinde görülüyor
+COCO_val2014_000000127182.jpg,beyaz bir mutfağın gri ağırlıklı görüntüsü
+COCO_val2014_000000127192.jpg,içerisinde pizza, tavuk kanadı, yumurtalı pane ve ranch sos olan beyaz bir tabak
+COCO_val2014_000000127259.jpg,bir banka oturmuş kişinin etrafına toplanmış güvercinler
+COCO_val2014_000000127263.jpg,çimenlik üzerinde frizbi oynayan kişiler
+COCO_val2014_000000127270.jpg,tenis topunu servis etmek için kollarını kaldırmış olan kadın
+COCO_val2014_000000127279.jpg,birçok bot ve rıhtımda pek çok insanla bir limanın görüntüsü
+COCO_val2014_000000127313.jpg,bir nesneyi yakalamaya çalışarak oyun oynayan, orada bulunan bir adam tarafından da izlenen bir grup köpek
+COCO_val2014_000000127337.jpg,bu otel odası bir kanepe ve uyuma alanına bölünmüş
+COCO_val2014_000000127394.jpg,bu görüntüde üzerinde bolca yiyecek olan bir masanın etrafında toplanmış insanlar görülüyor
+COCO_val2014_000000127451.jpg,karlı bir ortamda kayak yapan iki adam
+COCO_val2014_000000127455.jpg,etrafında ağaçlar ve çalılar olan bir sokağa konumlanmış bir yangın musluğu
+COCO_val2014_000000127474.jpg,plastik itfaiyeci şapkası giyen ve bir yangın musluğunun bitişiğinde duran iki kız
+COCO_val2014_000000127475.jpg,bu görüntüde bir inek kendisine bolca alan bulmuş durumda
+COCO_val2014_000000127476.jpg,masa üzerinde bir tabakta ikiye bölünmüş bir pizza
+COCO_val2014_000000127477.jpg,deri bir valizin üzerine oturmuş, tüylü ve büyük bir siyah-beyaz kedi
+COCO_val2014_000000127494.jpg,et ve sebzelerle doldurulmuş beyaz bir tabak
+COCO_val2014_000000127496.jpg,hâlen yapım aşamasında olan bir evin hemen hemen birmiş banyosunun üstten görünümü
+COCO_val2014_000000127510.jpg,eldiveniyle topu tutan bir beyzbol oyuncusu
+COCO_val2014_000000127514.jpg,bu şahıs tuğlayla örülmüş bir duvarın önünde kaykaya biniyor
+COCO_val2014_000000127516.jpg,tahtası üzerinde duran sörfçü neredeyse denizin sularında kaybolmuş hâlde
+COCO_val2014_000000127517.jpg,plaj üzerinde yan yana duran sörf tahtaları
+COCO_val2014_000000127520.jpg,üzerinde yansıtıcı yelek bulunan bir kişi otobüslerin hemen önünde
+COCO_val2014_000000127530.jpg,mavi tişörtlü ve beyaz şortlu bir adam tenis oynarken
+COCO_val2014_000000127535.jpg,içerisinde pek çok olgun muz bulunan büyük bir sepet
+COCO_val2014_000000127556.jpg,kendisine tutulan nesneyi koklayan bir kedi
+COCO_val2014_000000127573.jpg,kaplumbağa desenli bir kedi ekranda kelebek görüntüsünü seyrederken
+COCO_val2014_000000127576.jpg,parkta kırmızı bir sandalyeye konuşmuş küçük plastik bir at
+COCO_val2014_000000127585.jpg,içerisinde bir sandalye, koltuk ve pek çok kitap bulunan bir oda
+COCO_val2014_000000127587.jpg,önlerindeki otlarla beslenen bir inek sürüsü
+COCO_val2014_000000127596.jpg,bir kadın akıllı telefonuyla bazı kişilerin videosunu çekerken
+COCO_val2014_000000127623.jpg,farklı meyvelerin arasında konmuş, eklemli bir insan figürü
+COCO_val2014_000000127624.jpg,arkada batan güneş manzarasıyla rayında gelen bir metro
+COCO_val2014_000000127626.jpg,bir direğe yerleştirilmiş bir grup sokak işaretinin hemen arkasında taştan yapma bir bina
+COCO_val2014_000000127659.jpg,bir istasyonda insanların önünden geçen bir banliyö treni
+COCO_val2014_000000127660.jpg,bir valize oturmuş olan kara gözlü ve saçları fiyonklu bir kadın
+COCO_val2014_000000127668.jpg,hemen yanına servis kamyonu yanaşmış bir uçak
+COCO_val2014_000000127669.jpg,genç bir adam büyük bir dalga üzerinde sörf yaparken
+COCO_val2014_000000127671.jpg,kaputu kaldırılmış sarı bir kamyonet
+COCO_val2014_000000127702.jpg,karlı bir ortamda bir ağacın fotoğrafını çeken bir kişi
+COCO_val2014_000000127749.jpg,oyuncak bir ayının hemen yanına uzanmış bir kedi
+COCO_val2014_000000127751.jpg,bir caddede evlerin önünden geçen mavi-beyaz bir otobüs
+COCO_val2014_000000127761.jpg,bir nehir üzerinde rıhtıma çekilmiş boş bir bot
+COCO_val2014_000000127775.jpg,bir caddenin bitişiğindeki parkta görülen bir fil heykeli
+COCO_val2014_000000127781.jpg,bir şemsiyenin altına uzanmış kara bir kedi
+COCO_val2014_000000127785.jpg,bir hayvanat bahçesinde çimenlik alana doğru koşan bir grup zürafa
+COCO_val2014_000000127788.jpg,sokağa park edilmiş hâldeki onlarca bisiklet
+COCO_val2014_000000127801.jpg,ekranında "upstage" yazan eski model bir cep telefonu
+COCO_val2014_000000127842.jpg,kıyafetiyle beyaz bir sörf tahtası üzerinde nehirde sörf yapan bir adam
+COCO_val2014_000000127854.jpg,biri ayakta, öbürü yatar vaziyette küvette bulunan kediler
+COCO_val2014_000000127865.jpg,bir bilgisayar ekranının karşısında duran kişi
+COCO_val2014_000000127873.jpg,dört küçük çocuk, küçük plastik bir masa etrafında önlerindeki köpük tabaklardan pasta yerken
+COCO_val2014_000000127880.jpg,elinde fırçayla çocuk tuvaletinin önünde duran bir kız çocuk
+COCO_val2014_000000127910.jpg,yenmeye hazır hâlde bir masa üzerinde duran lezzetli bir tabak yemek
+COCO_val2014_000000127911.jpg,yağmurlu bir günde şemsiyeleriyle ağaçlar arasında yürüyen insanlar
+COCO_val2014_000000127914.jpg,tahtasını ayağının üzerine koymuş olan kaykaycının yakın çekim görüntüsü
+COCO_val2014_000000127920.jpg,ormanın ortasında otlardan beslenen kahverengi bir at
+COCO_val2014_000000127955.jpg,suda beraber oynayan iki kahverengi ayı
+COCO_val2014_000000127971.jpg,araçlarından su püskürtülen gönüllü itfaiyeciler
+COCO_val2014_000000127984.jpg,bir tren istasyonunun dekoratif ön kapısı önünden geçen bir adam
+COCO_val2014_000000127987.jpg,bir masada yer alan iki monitörün hemen solunda, başı hareket eden bir beyzbol oyuncusu figürü
+COCO_val2014_000000127990.jpg,arkada karlı dağ manzarasıyla kayak yapan bir adam
+COCO_val2014_000000127997.jpg,yolun bir tarafında bir tır, diğer tarafında aynadan da görüldüğü üzere peş peşe giden iki araba
+COCO_val2014_000000128014.jpg,dağınık hâlde bir yatak manzarası ve banyosuyla bir oda
+COCO_val2014_000000128034.jpg,iki otobüsün hemen yanında karanlık bir ortamda bulunan iki kişi
+COCO_val2014_000000128051.jpg,bir minibüs aynı renkte bir başka otobüsün üzerinde
+COCO_val2014_000000128058.jpg,kolunu kaldırarak atış yapmaya hazırlanan bir tenis oyuncusu
+COCO_val2014_000000128059.jpg,beyaz bir tabağın üzerinde yer alan peynirli ve soslu bir pizza
+COCO_val2014_000000128110.jpg,bir caddenin hemen yanındaki kaldırımda yer alan mavi renkli bir işaret
+COCO_val2014_000000128112.jpg,eski bir yolu izleyerek kayak yapan bir adam
+COCO_val2014_000000128119.jpg,yolcuları almak üzere yol kenarındaki durakta durmuş olan bir otobüs
+COCO_val2014_000000128140.jpg,bir tepede kayak yapan, üzerinde kayak malzemesi olan küçük bir kız
+COCO_val2014_000000128142.jpg,bu görüntüde sopalı oyuncu sol tarafta iken hakem ve eldivenli oyuncu sağda görülüyor
+COCO_val2014_000000128148.jpg,ahşap zemini ve deri koltuklarıyla ferah ve temiz bir oturma odası
+COCO_val2014_000000128168.jpg,yanında bir miktar tişört ve saksı bulunan, üzerinde "short bus" yazılı bir okul servisi
+COCO_val2014_000000128180.jpg,tabak üzerinde iki dilim pizza, bıçak ve çatal
+COCO_val2014_000000128201.jpg,içerisinde herhangi bir masa olmayıp sadece sandalye ve bir çiçek olan bir restoran
+COCO_val2014_000000128224.jpg,bir masaya konmuş tatlı çörek, kavun ve bir bardak çay
+COCO_val2014_000000128262.jpg,küçük bir kilisenin önüne park edilmiş kırmızı-beyaz bir otobüs
+COCO_val2014_000000128280.jpg,bir kaseye konmuş mandalinaların yakın çekim görüntüsü
+COCO_val2014_000000128291.jpg,bir trenin yanına konmuş valizlerin yakın çekim görüntüsü
+COCO_val2014_000000128324.jpg,çimenli bir alanda yürüyen bir yetişkin ve genç fil sürüsü
+COCO_val2014_000000128372.jpg,yolcular bindiği için kapısı açık olan bir metrobüs
+COCO_val2014_000000128373.jpg,bir pencereye konmuş olan, farklı renklerde ve tiplerde oyuncak ayılar
+COCO_val2014_000000128377.jpg,yeşil tişörtlü bir grup çocuk beraber pizza yerken
+COCO_val2014_000000128392.jpg,lavabolu bir banyodaki aynada kendine bakan bir kişi
+COCO_val2014_000000128417.jpg,Stormtrooper kıyafetiyle elinde bir şemsiye tutarak dengede kalmaya çalışan bir kişi
+COCO_val2014_000000128441.jpg,trafik ışıkları ve mağazalarla birlikte bir cadde manzarası
+COCO_val2014_000000128450.jpg,telefonlarına bakarak bir duvara yaslanan, aynı tişörtü giymiş bir grup genç
+COCO_val2014_000000128460.jpg,bir kaykay parkında kaykay yapan bir kişinin bulanık görüntüsü
+COCO_val2014_000000128461.jpg,açık bir havada uçarken görüntüsü çekilmiş bir uçak
+COCO_val2014_000000128476.jpg,iki kadın renkli ve kalp şekilli pastalara bakarken
+COCO_val2014_000000128506.jpg,iki oyuncak ayı arasında oyuncak ördek
+COCO_val2014_000000128515.jpg,yatağına atladığı görülen sakallı ve siyah tişörtlü bir adam
+COCO_val2014_000000128516.jpg,dalga sırasında tahtasıyla harekete geçerken kollarını kaldıran bir sörfçü
+COCO_val2014_000000128528.jpg,sırtında kırmızı bir çanta olan köpek karda koşarken
+COCO_val2014_000000128568.jpg,masa üzerinde içerisinde çiçekler, yanında da mum olan bir vazo
+COCO_val2014_000000128570.jpg,bir boogie tahtasına tutunurken suya uzanan sevimli bir çocuk
+COCO_val2014_000000128586.jpg,üzerinde şemsiye olan bir bebek arabası ile oynayan küçük kıza bakan, büyük siyah şapkalı bir kadın
+COCO_val2014_000000128598.jpg,karışık hâlde kırmızı, sarı ve turuncu meyveler
+COCO_val2014_000000128602.jpg,bir adam, kadın ve küçük kız evlerinde masada yemek yerken
+COCO_val2014_000000128644.jpg,yarısı beton, yarısı da ıslak bir zemine park edilmiş küçük bir uçak
+COCO_val2014_000000128654.jpg,bir frizbi yakalamak için havada bacaklarını açmış olan bir adam
+COCO_val2014_000000128658.jpg,bir tabakta şerbetli waffle, bir kaşık dondurma ve doğranmış çilek ile muz
+COCO_val2014_000000128669.jpg,arkada uzun bi köprü manzarasıyla bir bottan çekilmiş fotoğraf
+COCO_val2014_000000128675.jpg,önde iki sörfçü ve arkada da bir deniz paraşütçüsünün görüntüsü
+COCO_val2014_000000128679.jpg,gri-beyaz bir kedi, çizgili bir diğer kedinin yanında
+COCO_val2014_000000128699.jpg,kaykay tahtasıyla uçan bir adam
+COCO_val2014_000000128704.jpg,etrafındaki pek çok kişi yeyip içerken kendisi çöp torbası tutan bir adam
+COCO_val2014_000000128748.jpg,kalede hakemle konuşan vurucu ve ve yakalayıcı oyuncular
+COCO_val2014_000000128756.jpg,büyük kırmızı bir tente altında bulunan pazar ürünleri ve ürünlerin etrafında birkaç insan
+COCO_val2014_000000128791.jpg,dal üzerindeki yaprakları gagasıyla inceleyen bir serçe
+COCO_val2014_000000128812.jpg,bir mutfakta beyaz ocaklı bir fırın
+COCO_val2014_000000128813.jpg,iki Nikon kameranın yanına oturmuş oyuncak ayıların siyah-beyaz fotoğrafı
+COCO_val2014_000000128829.jpg,çimli bir yol kenarında bulunan iki park cihazı
+COCO_val2014_000000128830.jpg,dövmeli kolu ve kahverengi şortu olan adam kaykay tahtasına bakarken
+COCO_val2014_000000128833.jpg,bir şehir otobüsü caddede bir arabanın yanında görülüyor
+COCO_val2014_000000128842.jpg,paslanmaz çelik ocak, lavabo, tezgah ve siyah desenli beyaz zemin içeren bir mutfak görüntüsü
+COCO_val2014_000000128849.jpg,burnuna dokunmak için filin yanına diz çökmüş bir kadın
+COCO_val2014_000000128891.jpg,dal üzerindeki diğer bir kuşun yanında duran çok renkli bir kuş
+COCO_val2014_000000128907.jpg,gece karanlığında görülen büyük ve mavi ışıklı bir köprü
+COCO_val2014_000000128920.jpg,bir sokak işaretinin yanında bisikletini süren bir adam
+COCO_val2014_000000128939.jpg,yeşil yanmış bir trafik ışığının altında gümüş renkli bir araç ve karşıdan karşıya geçen bir adam
+COCO_val2014_000000128970.jpg,içerisinde kumanda ve kulaklık olan bir sepet
+COCO_val2014_000000128978.jpg,topraklı bir yolda scooter motorsikleti ile poz veren genç bir adam
+COCO_val2014_000000128992.jpg,uzun bir binanın yanında tünelden çıkan bir tren
+COCO_val2014_000000129001.jpg,bir banyoda lavabonun bitişiğinde yer alan bir küvet
+COCO_val2014_000000129054.jpg,bir düzlüğe yayılmış zebra sürüsü
+COCO_val2014_000000129062.jpg,sosisli ekmek satan bir barın taraçası ve ön yüzü
+COCO_val2014_000000129065.jpg,gece vakti pek çok insanla yoğun bir kavşak
+COCO_val2014_000000129100.jpg,üzerinde bisikletçilerin olduğu yolun yanında otlak arazide ayakta duran kahverengi-beyaz bir inek
+COCO_val2014_000000129113.jpg,ahşap yüzey üzerinde bir kaşığın yakın çekim fotoğrafı
+COCO_val2014_000000129135.jpg,bir istasyonda bulunan sarı-lacivert yolcu treni
+COCO_val2014_000000129139.jpg,koltukta uyuyan bir kedi ve ona tepeden bakan bir başka kedi
+COCO_val2014_000000129159.jpg,taştan yapılmış kahverengi bir kule üzerindeki saat ve bulutlu gün manzarası
+COCO_val2014_000000129175.jpg,kemer altından botla geçen bir grup insan
+COCO_val2014_000000129186.jpg,bir tenis raketi ve tenis topunun bulanık görüntüsü
+COCO_val2014_000000129187.jpg,bağlandığı yangın musluğunun yanına uzanmış bir köpek
+COCO_val2014_000000129285.jpg,bir istasyonun yanındaki binaları geçen bir tren
+COCO_val2014_000000129322.jpg,yanında küçük bir bölme duvar bulunan banyo
+COCO_val2014_000000129339.jpg,bir kilimin üzerine uzanmış, ön ayakları bir ayakkabıda olan, diğer ayaklarını ayakkabının öteki tekinde dinlendiren, kuyruğunu da tahta bir iskemlenin altında sallayan bir kedi
+COCO_val2014_000000129362.jpg,bir palmiye türü ağacın önündeki dala tünemiş bir kuş
+COCO_val2014_000000129416.jpg,bir su kaynağının yanındaki otlardan beslenen inekler
+COCO_val2014_000000129420.jpg,siyah kıyafetli ve kravatlı üç adam kare dışındaki bir şeye gülerken
+COCO_val2014_000000129431.jpg,gün içinde topraklı bir yolda yürüyen bir fil
+COCO_val2014_000000129440.jpg,mavi tişörtlü bir adam sahilde uçurtma uçururken
+COCO_val2014_000000129492.jpg,yerde oturan, biri bebek iki çocuk
+COCO_val2014_000000129502.jpg,üzerinde kalın bir mont bulunan, karlı bir ortamda poz veren bir adam
+COCO_val2014_000000129520.jpg,at arabalarıyla yapılan at yarışı
+COCO_val2014_000000129544.jpg,altında en iyi sokak saatlerinden biri olduğuna dair bir ifadeyle görüntülenen bir saat
+COCO_val2014_000000129547.jpg,bir kaldırımın ortasında yer alan kırmızı renkli yangın musluğu
+COCO_val2014_000000129548.jpg,bir kar fırtınasında tırmanış gerçekleştiren bir grup dağcı
+COCO_val2014_000000129566.jpg,içerisinde pek çok sandalye ve sallanır koltuk bulunan bir odada turuncu renkli büyük ve geniş bir kilim
+COCO_val2014_000000129571.jpg,1 saniyelik film reklamı yapan bir otobüsün önünde poz veren dört kız
+COCO_val2014_000000129576.jpg,bir L koltuk, orta sehpa, televizyon ve bisikletten oluşan, zemini ahşap bir oda
+COCO_val2014_000000129579.jpg,büyük bir saat kulesi önünde önünde üç ışık bulunan bir direk
+COCO_val2014_000000129587.jpg,ot yiyen bir fil ve yanında da bir motosiklet
+COCO_val2014_000000129592.jpg,çimenliğin ortasında yer alan kırmızı renkli yangın musluğu
+COCO_val2014_000000129595.jpg,elinde bir pankart tutan, bir kadının yanına oturmuş bir adam
+COCO_val2014_000000129628.jpg,karlı bir tepede ellerinde kayak tahtaları tutan bir grup insan
+COCO_val2014_000000129632.jpg,yerdeki yapraklardan beslenen bir zebranın yakın çekimi
+COCO_val2014_000000129637.jpg,bir rafta yan yana duran üç plastik at figürü
+COCO_val2014_000000129645.jpg,kaykayıyla bir basamakta yeteneğini sergileyen bir kişi
+COCO_val2014_000000129659.jpg,önünde bir kase çorba, roll ekmek ve bira olan, dış ortamda yemek yediği görülen bir kadın
+COCO_val2014_000000129663.jpg,çiftler maçında tenis raketini hareket ettirirken partneri hazır bekleyen bir kadın
+COCO_val2014_000000129675.jpg,bir gözlük ve cep saati ile tamamlanmış, antika deri kapaklı kitaplardan oluşan bir manzara
+COCO_val2014_000000129690.jpg,yanında bej bir takım giyen bir adamla bir bankta oturmuş, üzerinde pembe bir kıyafet olan bir kadın
+COCO_val2014_000000129699.jpg,tek yön işareti, trafik ışıkları, sokak işareti ve büyük bir binaya ev sahipliği yapan bir kavşak
+COCO_val2014_000000129706.jpg,telefonundaki fotoğrafı gösterirken palyaço görünümlü bir sihirbaz gibi giyinmiş bir adam
+COCO_val2014_000000129707.jpg,Cathay Pacific uçuşu sırasında elinde telefon olan bir kişi
+COCO_val2014_000000129735.jpg,atıyla bir engelden atlayan, bir yarışmada yarışan jokey görüntüsü
+COCO_val2014_000000129739.jpg,mobilyası ve köşede lambasıyla bir oturma odası
+COCO_val2014_000000129756.jpg,iki köpeği ve koyunlarıyla bir tepede görülen bir adam
+COCO_val2014_000000129765.jpg,üzerinde su, üzüm ve masa bulunan bir masada kuyruğa girmiş kişiler
+COCO_val2014_000000129784.jpg,bir masada dizüstü bilgisayarının önünde oturan bir adam
+COCO_val2014_000000129786.jpg,bir duvar aynasının ve mavi fon perdenin önünde uzunca bir koltuğun önünde görülen kelebek desenli bir kahve masası ve içerisinde piyano ve televizyon bulunan yan oda
+COCO_val2014_000000129800.jpg,bir park alanına park edilmiş mavi renkli bir kamyonet
+COCO_val2014_000000129803.jpg,çimlerden beslenen siyah-beyaz bir at
+COCO_val2014_000000129812.jpg,kayak yaptığı sırada atlarken çekilen bir adamın bulanık görüntüsü
+COCO_val2014_000000129832.jpg,bir ışık kaynağının yanındaki masanın üzerinde duran bir bilgisayar
+COCO_val2014_000000129852.jpg,güneşli bir günde frizbi oynayan, üzerinde gözlük ile koyu renkli bir tişört ve kapri olan bir kadın
+COCO_val2014_000000129855.jpg,okyanus dalgasında sörf yapan üstsüz bir adam
+COCO_val2014_000000129862.jpg,masanın önünde bir adamla yan yana bir kadın
+COCO_val2014_000000129864.jpg,bir aracın şoför koltuğunda otururken kucağındaki kediyi seven yaşlı bir adam
+COCO_val2014_000000129886.jpg,bir kayak merkezinin tepe kısmı ve aşağı doğru giden teleferik
+COCO_val2014_000000129897.jpg,önlerinde yemek ve bira şişeleri olan ve bir masa etrafına toplanan dört kişi
+COCO_val2014_000000129903.jpg,metal bir direk üzerinde üst üste duran iki sokak işareti
+COCO_val2014_000000129942.jpg,bir kuşun yanına konmuş bir başka kuşun görüntüsü

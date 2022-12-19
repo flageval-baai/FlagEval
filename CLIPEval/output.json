@@ -1,0 +1,1 @@
+{"model_info": {"model_name": "AltCLIP-XLMR-L", "vision_encoder": "VIT-L", "text_encoder": "XLMR", "agency": "BAAI"}, "cifar10": {"acc1": 0.9545, "acc5": 0.9962, "mean_per_class_recall": 0.9544}}

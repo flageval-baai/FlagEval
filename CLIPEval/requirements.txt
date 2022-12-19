@@ -1,0 +1,14 @@
+torch
+torchvision
+sklearn
+streamlit
+altair
+scipy
+h5py
+kaggle
+datasets
+flagai
+cn_clip
+multilingual_clip
+transformers
+open_clip_torch

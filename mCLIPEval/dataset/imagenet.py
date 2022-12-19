@@ -1147,7 +1147,7 @@ class ImagenetFamily(Imagenet1k):
     def __init__(self, name, wnids=None, **kwargs) -> None:
         super().__init__(**kwargs)
         self.name = name
-        self.initialize_root_dir(dir_name=self.name)
+        self.initialize_root_dir(dir_name=self.name, root=kwargs.get('root', None))
         if wnids:
             mask = [wnid in set(wnids) for wnid in all_imagenet_wordnet_ids]
             self.classes = [cl for cl, _mask in zip(self.classes, mask) if _mask]
@@ -1166,7 +1166,7 @@ class ImagenetCNFamily(Imagenet1kCN):
     def __init__(self, name, wnids=None, **kwargs) -> None:
         super().__init__(**kwargs)
         self.name = name
-        self.initialize_root_dir(dir_name=self.name.replace('_cn', ''))
+        self.initialize_root_dir(dir_name=self.name.replace('_cn', ''), root=kwargs.get('root', None))
         if wnids:
             mask = [wnid in set(wnids) for wnid in all_imagenet_wordnet_ids]
             self.classes = [cl for cl, _mask in zip(self.classes, mask) if _mask]
@@ -1185,7 +1185,7 @@ class ImagenetItFamily(Imagenet1kIt):
     def __init__(self, name, wnids=None, **kwargs) -> None:
         super().__init__(**kwargs)
         self.name = name
-        self.initialize_root_dir(dir_name=self.name.replace('_it', ''))
+        self.initialize_root_dir(dir_name=self.name.replace('_it', ''), root=kwargs.get('root', None))
         if wnids:
             mask = [wnid in set(wnids) for wnid in all_imagenet_wordnet_ids]
             self.classes = [cl for cl, _mask in zip(self.classes, mask) if _mask]
@@ -1204,7 +1204,7 @@ class ImagenetJpFamily(Imagenet1kJp):
     def __init__(self, name, wnids=None, **kwargs) -> None:
         super().__init__(**kwargs)
         self.name = name
-        self.initialize_root_dir(dir_name=self.name.replace('_jp', ''))
+        self.initialize_root_dir(dir_name=self.name.replace('_jp', ''), root=kwargs.get('root', None))
         if wnids:
             mask = [wnid in set(wnids) for wnid in all_imagenet_wordnet_ids]
             self.classes = [cl for cl, _mask in zip(self.classes, mask) if _mask]

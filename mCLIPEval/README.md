@@ -2,7 +2,7 @@
 
 The goal of this repo is to provide a generic evaluation toolkit for vision-language models (such as CLIP, Contrastive Language–Image Pre-training), including multilingual benchmarks, various model setups and visualization of evaluation results.
 
-Below we show the visualization results of different CLIP models, evaluated on different datasets.
+Below we show the visualization of early-run evaluation results, evaluated on different datasets.
 
 ![snapshot0.png](snapshot0.png)
 

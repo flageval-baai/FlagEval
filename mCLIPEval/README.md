@@ -94,11 +94,11 @@ For advanced usages of each modules, please follow to instructions below:
 
 ### Data Preparation
 
-Please refer to [download.md](download.md) for instructions on how to download and prepare the supported datasets. The default data directory is `eval_benchmarks`. You can use `--root=[YOUR_DATA_DIRECTORY]` to use customize data directory.
+Please refer to [download.md](download.md) for instructions on how to download and prepare the supported datasets.
 
 ### Evaluation 
 
-You can evaluate a model on multiple datasets once a time with `evaluate.py` with different parameters. 
+You can evaluate a model on multiple datasets once a time with `evaluate.py` with different parameters. The default data directory is `eval_benchmarks`. You can use `--root=[YOUR_DATA_DIRECTORY]` to use customize data directory.
 
 #### CIFAR-10 and CIFAR-100 example
 `--datasets` specify the datasets which are used for evaluation, default to choose all datasets.

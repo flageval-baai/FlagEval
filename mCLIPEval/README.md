@@ -35,20 +35,20 @@ Below we show the visualization of early-run evaluation results, evaluated on di
 <!-- tocstop -->
 
 ## Environment Preparation
-To use CLIPEval, you need:
+To use mCLIPEval, you need:
 * Pytorch version >= 1.8.0
 * Python version >= 3.8
 * For evaluating models on GPUs, you'll also need install CUDA and NCCL
 
-[Recommend] For full usage of CLIPEval, you are recommended to prepare the environments through:
+[Recommend] For full usage of mCLIPEval, you are recommended to prepare the environments through:
 
 ```shell
 pip install -r requirements.txt
 ```
 
-* [Optional] To download and prepare the datasets from huggingface (`imagenet1k`, `winoground`) with CLIPEval, you need to generate huggingface API TOKEN from [huggingface](https://huggingface.co/settings/tokens) and set the value of `_HUGGINGFACE_AUTH_TOKEN` in `download/constants.py`.
+* [Optional] To download and prepare the datasets from huggingface (`imagenet1k`, `winoground`) with mCLIPEval, you need to generate huggingface API TOKEN from [huggingface](https://huggingface.co/settings/tokens) and set the value of `_HUGGINGFACE_AUTH_TOKEN` in `download/constants.py`.
 
-* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with CLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and move to `~/.kaggle` directory. `unzip` command is also needed.
+* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and move to `~/.kaggle` directory. `unzip` command is also needed.
 
 * [Tips]
 To install `unzip` command, for Debian/Ubuntu Linux, use `sudo apt-get install unzip`; for CentOS/RHEL Linux, use
@@ -64,7 +64,7 @@ Or for partial usages, you need to run `pip install torch,torchvision,sklearn` t
 `pip install -r requirements_visual.txt` to install required enviroments.
 
 ## How to Use?
-The complete use of CLIPEval contains data preparation, evaluation and visualization. 
+The complete use of mCLIPEval contains data preparation, evaluation and visualization. 
 
 ### Quick Start
 

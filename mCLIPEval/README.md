@@ -98,7 +98,11 @@ Please refer to [download.md](download.md) for instructions on how to download a
 
 ### Evaluation 
 
-You can evaluate a model on multiple datasets once a time with `evaluate.py` with different parameters. The default data directory is `eval_benchmarks`. You can use `--root=[YOUR_DATA_DIRECTORY]` to use customize data directory.
+You can evaluate a model on multiple datasets once a time with `evaluate.py` with different parameters. 
+* [Tips] The evaluation process would take some time. You might use `screen` or `nohup` in case interuption of the process.
+* [Tips] The default data directory is `eval_benchmarks`. You can use `--root=[YOUR_DATA_DIRECTORY]` to use customize data directory.
+* [Tips] You can use `--verbose` to save temporary evaluation results and resume from these results. 
+
 
 #### CIFAR-10 and CIFAR-100 example
 `--datasets` specify the datasets which are used for evaluation, default to choose all datasets.

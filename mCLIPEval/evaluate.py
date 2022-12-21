@@ -15,7 +15,7 @@ _FUNC_ = {
     "COMPOSITIONALITY": zeroshot_composition
 }
 
-def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=None, task_names=None, group_names=None, languages=None, verbose=False):
+def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=None, task_names=None, group_names=None, languages=None, verbose=False, restore=False):
     dump_metrics = {}
     if model_config:
         eval_model = EvalModel(model_config=model_config)
@@ -33,7 +33,7 @@ def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=Non
     for dataset in eval_datasets.datasets:
         function = _FUNC_.get(dataset.group, None)
         if function:
-            if verbose:
+            if verbose or restore:
                 dir_name = f'eval.{model.name}'
                 if not os.path.isdir(dir_name):
                     os.mkdir(dir_name)
@@ -49,7 +49,7 @@ def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=Non
                     num_workers=num_workers, 
                     verbose=verbose
                 )
-            if verbose:
+            if verbose or restore:
                 with open(f'{dir_name}/{dataset.name}.json', "w") as f:
                     json.dump(res, f)
 
@@ -77,6 +77,7 @@ def main():
     parser.add_argument('--batch_size', type=int, default=128, help="number of samples per batch during evaluation")
     parser.add_argument('--num_workers', type=int, default=4, help="number of workers processing evaluation")
     parser.add_argument('--verbose', default=False, action="store_true", help="verbose mode")
+    parser.add_argument('--restore', default=False, action="store_true", help="restore temporary evaluation results")
     
     args = parser.parse_args()
 
@@ -124,7 +125,8 @@ def main():
         task_names=parse_multistr_args(args.tasks), 
         group_names=parse_multistr_args(args.groups),
         languages=parse_multistr_args(args.languages), 
-        verbose=args.verbose
+        verbose=args.verbose,
+        restore=args.restore
     )
     print(dump_metrics)
     with open(args.output, "w") as f:

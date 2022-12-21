@@ -313,7 +313,7 @@ Second, you should prepare evaluation result files. In this example, we take two
 
 Then, you can run the visualization module by providing the evaluation file names:
 
-`streamlit run visual.py --json=altclip.json,evaclip.json`
+`streamlit run visual.py -- --json=altclip.json,evaclip.json`
 
 The default url of web application is: `http://localhost:8501/`
 

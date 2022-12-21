@@ -3,6 +3,7 @@ torchvision==0.12.0
 transformers==4.20.1
 sklearn==0.0
 streamlit==1.12.2
+jinja2==3.0.1
 scipy
 unrar==0.4
 h5py==3.2.1

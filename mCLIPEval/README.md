@@ -87,7 +87,7 @@ The evaluation results would be saved in `altclip.json` and `mclip.json`
 * Finally, visualize the evaluation results:
 
 ```shell
-streamlit run visual.py --json=altclip.json,mclip.json
+streamlit run visual.py -- --json=altclip.json,mclip.json
 ```
 
 For advanced usages of each modules, please follow to instructions below:
@@ -350,7 +350,7 @@ If you find this work helpful, please consider to ⭐️ this repo and cite
 
 
 ## License
-The majority of FlagAI is licensed under the [Apache 2.0 license](LICENSE), however portions of the project are available under separate license terms:
+The majority of mCLIPEval is licensed under the [Apache 2.0 license](LICENSE), however portions of the project are available under separate license terms:
 
 * The usage of CLIP_benchmark is licensed under the [MIT license](https://github.com/LAION-AI/CLIP_benchmark/blob/main/LICENSE)
 * The usage of ImageNet1k datasets in under the [huggingface datasets license and ImageNet licenese](https://huggingface.co/datasets/imagenet-1k/blob/main/README.md#licensing-information)

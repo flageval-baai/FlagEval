@@ -21,4 +21,4 @@ def main():
     eval_board.visualize()
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()

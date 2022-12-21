@@ -29,6 +29,8 @@ class OpenCLIPModel(TemplateModel):
     
     def create_model_and_processors(self, model_dir, **kwargs):
         import open_clip
+        if not model_dir:
+            model_dir = 'pretrained_ckpt'        
         model, _, transform = open_clip.create_model_and_transforms(self.model_arch, pretrained=self.pretrained, cache_dir=model_dir)
         tokenizer = open_clip.get_tokenizer(self.model_arch)
         return model, tokenizer, transform

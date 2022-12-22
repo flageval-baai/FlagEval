@@ -8,9 +8,7 @@ class TaiyiCLIP(TemplateModel):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
     def create_model_and_processors(self, model_dir=None, **kwargs):
-        from transformers import BertTokenizer,BertForSequenceClassification,CLIPModel,CLIPProcessor
-        if not model_dir:
-            model_dir = 'pretrained_ckpt'        
+        from transformers import BertTokenizer,BertForSequenceClassification,CLIPModel,CLIPProcessor     
         tokenizer = BertTokenizer.from_pretrained("IDEA-CCNL/Taiyi-CLIP-Roberta-large-326M-Chinese", cache_dir=model_dir)
         processor = CLIPProcessor.from_pretrained("openai/clip-vit-large-patch14", cache_dir=model_dir)
         # transform = processor.feature_extractor

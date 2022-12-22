@@ -27,9 +27,7 @@ class CnCLIP(TemplateModel):
     
     def create_model_and_processors(self, model_dir, **kwargs):
         import cn_clip.clip as clip
-        from cn_clip.clip import load_from_name, available_models
-        if not model_dir:
-            model_dir = 'pretrained_ckpt'        
+        from cn_clip.clip import load_from_name, available_models      
         model, preprocess = load_from_name(self.model_arch, device=self.device, download_root=model_dir)
         def image_processor(images):
             return preprocess(images)

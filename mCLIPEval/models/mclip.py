@@ -9,9 +9,7 @@ class MCLIP(TemplateModel):
     
     def create_model_and_processors(self, model_dir=None, **kwargs):
         from multilingual_clip import pt_multilingual_clip
-        from transformers import AutoTokenizer, CLIPProcessor, CLIPModel
-        if not model_dir:
-            model_dir = 'pretrained_ckpt'        
+        from transformers import AutoTokenizer, CLIPProcessor, CLIPModel      
         model_name = 'M-CLIP/XLM-Roberta-Large-Vit-L-14'
         text_model = pt_multilingual_clip.MultilingualCLIP.from_pretrained(model_name, cache_dir=model_dir).eval().to(self.device)
         tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=model_dir)

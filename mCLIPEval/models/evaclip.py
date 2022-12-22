@@ -9,9 +9,7 @@ class EvaClip(TemplateModel):
     
     def create_model_and_processors(self, model_dir, **kwargs):
         from flagai.auto_model.auto_loader import AutoLoader
-        from flagai.data.dataset.mm.clip_dataset import clip_transform
-        if not model_dir:
-            model_dir = 'pretrained_ckpt'        
+        from flagai.data.dataset.mm.clip_dataset import clip_transform      
         loader = AutoLoader(
             task_name="txt_img_matching",
             model_dir=model_dir,

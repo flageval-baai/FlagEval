@@ -75,7 +75,8 @@ def download_from_kaggle(kaggle_dataset):
         return call("which kaggle", shell=True) == 0
     if not has_kaggle():
         print("Kaggle is needed to download the dataset. Please install it via `pip install kaggle`")
-    call(f"kaggle datasets download -d {kaggle_dataset}", shell=True)
+    res = call(f"kaggle datasets download -d {kaggle_dataset}", shell=True)
+    return res == 0
 
 
 def download_from_huggingface(dataset_name, root_dir=None):
@@ -282,20 +283,16 @@ def download_and_prepare_data(dataset_name, root_dir=None, restore=True, _datase
         if not prepared_archieve and os.path.exists(file_name):
             md5_value = encrypt(file_name, 'md5')
             if md5_value == "9f58794746ff496be12cf0bb2679e3d4":
-                if not os.path.exists(file_path):
-                    os.makedirs(file_path)
                 shutil.move(file_name, file_path)
                 prepared_archieve = True
         if not prepared_archieve:
-            download_from_kaggle("msambare/fer2013")
-            if not os.path.exists(file_path):
-                os.makedirs(file_path)
-            shutil.move(file_name, file_path)
-            prepared_archieve = True
+            if download_from_kaggle("msambare/fer2013"):
+                shutil.move(file_name, file_path)
+                prepared_archieve = True
         if prepared_archieve and not os.path.exists(os.path.join(root_dir, 'test')):
             command = f'unzip -d {root_dir} {file_path}'
             call(command, shell=True)
-        is_success = True
+            is_success = True
     elif dataset_name == "mscoco_captions":
         urls = _URLS_.get(dataset_name, None)
         for url in urls:
@@ -331,12 +328,12 @@ def download_and_prepare_data(dataset_name, root_dir=None, restore=True, _datase
                 continue
             else:
                 if not is_download_full_set:
-                    download_and_prepare_data("mscoco_captions", _dataset_root_dir=_dataset_root_dir)
-                    is_download_full_set = True
-                source_dir = 'val2014' if 'val2014' in img else 'train2014'
-                source_file = os.path.join(_dataset_root_dir, 'mscoco_captions', source_dir, img)
-                shutil.copy(source_file, img_dir)
-        is_success = True
+                    is_download_full_set = download_and_prepare_data("mscoco_captions", _dataset_root_dir=_dataset_root_dir)
+                if is_download_full_set:
+                    source_dir = 'val2014' if 'val2014' in img else 'train2014'
+                    source_file = os.path.join(_dataset_root_dir, 'mscoco_captions', source_dir, img)
+                    shutil.copy(source_file, img_dir)
+                    is_success = True
     elif dataset_name == "flickr30k":
         file_name = "flickr30k.zip"
         file_path = os.path.join(root_dir, file_name)
@@ -350,59 +347,58 @@ def download_and_prepare_data(dataset_name, root_dir=None, restore=True, _datase
         if not prepared_archieve and os.path.exists(file_name):
             md5_value = encrypt(file_name, 'md5')
             if md5_value == "15b5f975f6c0c144fa27591bb90ffb91":
-                if not os.path.exists(file_path):
-                    os.makedirs(file_path)
                 shutil.move(file_name, file_path)
                 prepared_archieve = True
         if not prepared_archieve:
-            download_from_kaggle("adityajn105/flickr30k")
-            if not os.path.exists(file_path):
-                os.makedirs(file_path)
-            shutil.move(file_name, file_path)
-            prepared_archieve = True
-        if prepared_archieve and not os.path.exists(os.path.join(root_dir, 'Images')):
-            command = f'unzip -d {root_dir} {file_path}'
-            call(command, shell=True)
+            if download_from_kaggle("adityajn105/flickr30k"):
+                shutil.move(file_name, file_path)
+                prepared_archieve = True
         if not os.path.exists(os.path.join(root_dir, 'flickr30k_test_karpathy.txt')):
             url = _URLS_.get(dataset_name, None)
             if url:
                 download_url(url=url, filename='flickr30k_test_karpathy.txt', root=root_dir)
-        is_success = True
+        if prepared_archieve and not os.path.exists(os.path.join(root_dir, 'Images')):
+            command = f'unzip -d {root_dir} {file_path}'
+            if call(command, shell=True) == 0:
+                is_success = True
     elif dataset_name == "flickr30k_cn" or dataset_name.startswith('multi30k'):
         datasets = 'flickr30k-cn' if dataset_name == "flickr30k_cn" else "multi30k"
         root_dir = os.path.join(_dataset_root_dir, datasets)
         status = load_status(_dataset_root_dir=_dataset_root_dir)
-        if not status.get('flickr30k', False):
-            download_and_prepare_data('flickr30k', _dataset_root_dir=_dataset_root_dir)
-        if not os.path.exists(root_dir):
-            os.makedirs(root_dir)
-        img_dir = os.path.join(root_dir, "Images")
-        ann_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'flickr')
-        if not os.path.exists(img_dir):
-            os.makedirs(img_dir)
-        if datasets == 'flickr30k-cn':
-            ann_file = 'flickr30k_test_CNA.txt'
-            shutil.copy(os.path.join(ann_dir, ann_file), root_dir)
-            _prepared_datasets = ["flickr30k_cn"]
-        else:
-            ann_file = 'multi30k-cs_test.txt'
-            for lang in ['cs', 'de', 'en','fr']:
-                shutil.copy(os.path.join(ann_dir, f'multi30k-{lang}_test.txt'), root_dir)
-            _prepared_datasets = ["multi30k_en", "multi30k_fr", "multi30k_de", "multi30k_cs"]
-        image_list = parse_ann_file(os.path.join(root_dir, ann_file))
-        
-        for img in image_list:
-            if os.path.exists(os.path.join(img_dir, img)):
-                continue
+        is_download_full_set = status.get('flickr30k', False)
+        if not is_download_full_set:
+            is_download_full_set = download_and_prepare_data('flickr30k', _dataset_root_dir=_dataset_root_dir)
+        if is_download_full_set:
+            if not os.path.exists(root_dir):
+                os.makedirs(root_dir)
+            img_dir = os.path.join(root_dir, "Images")
+            ann_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'flickr')
+            if not os.path.exists(img_dir):
+                os.makedirs(img_dir)
+            if datasets == 'flickr30k-cn':
+                ann_file = 'flickr30k_test_CNA.txt'
+                shutil.copy(os.path.join(ann_dir, ann_file), root_dir)
+                _prepared_datasets = ["flickr30k_cn"]
             else:
-                source_file = os.path.join(_dataset_root_dir, 'flickr30k', 'Images', img)
-                shutil.copy(source_file, img_dir)
-        is_success = True
+                ann_file = 'multi30k-cs_test.txt'
+                for lang in ['cs', 'de', 'en','fr']:
+                    shutil.copy(os.path.join(ann_dir, f'multi30k-{lang}_test.txt'), root_dir)
+                _prepared_datasets = ["multi30k_en", "multi30k_fr", "multi30k_de", "multi30k_cs"]
+            image_list = parse_ann_file(os.path.join(root_dir, ann_file))
+            
+            for img in image_list:
+                if os.path.exists(os.path.join(img_dir, img)):
+                    continue
+                else:
+                    source_file = os.path.join(_dataset_root_dir, 'flickr30k', 'Images', img)
+                    shutil.copy(source_file, img_dir)
+            is_success = True
 
     if is_success:
         if not isinstance(_prepared_datasets, list):
             _prepared_datasets = [dataset_name]
         save_to_status(_prepared_datasets, _dataset_root_dir=_dataset_root_dir)
         print(f'Success to prepare dataset folder {dataset_name}.')
+    return is_success
     
     

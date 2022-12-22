@@ -10,8 +10,8 @@ class AltClip(TemplateModel):
     def create_model_and_processors(self, model_dir, **kwargs):
         from flagai.auto_model.auto_loader import AutoLoader
         if not model_dir:
-            model_dir = '~/flagai'
             import os
+            model_dir = os.path.join(os.path.expanduser('~'), '.cache', 'flagai')
             if not os.path.exists(model_dir):
                 os.makedirs(model_dir)
         loader = AutoLoader(

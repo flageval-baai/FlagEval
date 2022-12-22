@@ -1,2 +1,2 @@
-streamlit
-altair
+streamlit==1.12.2
+altair==4.2.0

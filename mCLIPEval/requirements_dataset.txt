@@ -1,4 +1,4 @@
 scipy
-h5py
-kaggle
-datasets
+h5py==3.2.1
+kaggle==1.5.12
+datasets==2.0.0

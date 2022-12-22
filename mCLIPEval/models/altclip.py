@@ -12,7 +12,7 @@ class AltClip(TemplateModel):
         if not model_dir:
             model_dir = '~/flagai'
             import os
-            if os.path.exists(model_dir):
+            if not os.path.exists(model_dir):
                 os.makedirs(model_dir)
         loader = AutoLoader(
             task_name="txt_img_matching",

@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 * [Optional] To download and prepare the datasets from huggingface (`imagenet1k`, `winoground`) with mCLIPEval, you need to generate huggingface API TOKEN (select the role "read") from [huggingface](https://huggingface.co/settings/tokens) following the [instructions](https://huggingface.co/docs/hub/security-tokens) and set the value of `_HUGGINGFACE_AUTH_TOKEN= "hf_..."` in `download/constants.py` and click the `Agree and access repository` button on [imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground") dataset pages.
 
-* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and save in kaggle folder (use `python -c 'import os; print(os.path.join(os.path.expanduser('~'), '.kaggle'))'` to see, usually '~/.kaggle'). `unzip` command is also needed.
+* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and save in kaggle folder (use `python -c 'import os; print(os.path.join(os.path.expanduser("~"), ".kaggle"))'` to see, usually '~/.kaggle'). `unzip` command is also needed.
 
 * [Tips]
 To install `unzip` command, for Debian/Ubuntu Linux, use `sudo apt-get install unzip`; for CentOS/RHEL Linux, use

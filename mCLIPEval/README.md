@@ -319,6 +319,12 @@ Then, you can run the visualization module by providing the evaluation file name
 
 `streamlit run visual.py -- --json=altclip.json,evaclip.json`
 
+[Tips] wildcard variables is supported, you can use "*", "?":
+
+`streamlit run visual.py -- --json="outputs/*.json"`
+
+[Tips] jsonl file input is also supported, you can use `--jsonl=[JSONL_FILE]` to initialize.
+
 The default url of web application is: `http://localhost:8501/`
 
 Here are the snapshots of the visualization webpages.

@@ -282,6 +282,8 @@ def download_and_prepare_data(dataset_name, root_dir=None, restore=True, _datase
         if not prepared_archieve and os.path.exists(file_name):
             md5_value = encrypt(file_name, 'md5')
             if md5_value == "9f58794746ff496be12cf0bb2679e3d4":
+                if not os.path.exists(file_path):
+                    os.makedirs(file_path)
                 shutil.move(file_name, file_path)
                 prepared_archieve = True
         if not prepared_archieve:

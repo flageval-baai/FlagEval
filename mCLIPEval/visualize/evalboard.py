@@ -167,7 +167,7 @@ class EvaluationBoard(object):
         })
 
     def visualize(self):
-        st.header('CLIP-Eval Evaluation Board')
+        st.header('mCLIPEval Evaluation Board')
         table_options = ['Leaderboard Mode', 'Comparison Mode', 'Dataset Mode', 'Customized Mode']
 
         with st.expander('LEADERBOARD SETTINGS:'):

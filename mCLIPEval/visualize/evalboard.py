@@ -21,7 +21,12 @@ class EvaluationBoard(object):
                     datasets = [key for key in result.keys() if key!='model_info']
                     self.datasets.update(datasets)
         else:
-            eval_json_list = eval_jsonl.split(',')
+            ori_eval_json_list = eval_jsonl.split(',')
+            eval_json_list = []
+            import glob
+            for ori_eval_json in ori_eval_json_list:
+                eval_json_list += glob.glob(ori_eval_json)
+            print('Visualization of the following results files: '+ ', '.join(eval_json_list))
             for eval_json in eval_json_list:
                 with open(eval_json) as fd:
                     result = json.loads(fd.read().strip())

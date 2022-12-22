@@ -288,6 +288,8 @@ def download_and_prepare_data(dataset_name, root_dir=None, restore=True, _datase
                 prepared_archieve = True
         if not prepared_archieve:
             download_from_kaggle("msambare/fer2013")
+            if not os.path.exists(file_path):
+                os.makedirs(file_path)
             shutil.move(file_name, file_path)
             prepared_archieve = True
         if prepared_archieve and not os.path.exists(os.path.join(root_dir, 'test')):
@@ -348,10 +350,14 @@ def download_and_prepare_data(dataset_name, root_dir=None, restore=True, _datase
         if not prepared_archieve and os.path.exists(file_name):
             md5_value = encrypt(file_name, 'md5')
             if md5_value == "15b5f975f6c0c144fa27591bb90ffb91":
+                if not os.path.exists(file_path):
+                    os.makedirs(file_path)
                 shutil.move(file_name, file_path)
                 prepared_archieve = True
         if not prepared_archieve:
             download_from_kaggle("adityajn105/flickr30k")
+            if not os.path.exists(file_path):
+                os.makedirs(file_path)
             shutil.move(file_name, file_path)
             prepared_archieve = True
         if prepared_archieve and not os.path.exists(os.path.join(root_dir, 'Images')):

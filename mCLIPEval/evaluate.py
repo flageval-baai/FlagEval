@@ -33,7 +33,8 @@ def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=Non
     print(f'Evaluation on {len(valid_dataset_names)} datasets: {", ".join(valid_dataset_names)}')
     dataset_idx = 0
     for dataset in eval_datasets.datasets:
-        print(f'Evaluation Process: {dataset_idx}, Current: {dataset.name}')
+        print(f'Evaluation Process: {dataset_idx}/{len(valid_dataset_names)}, Current: {dataset.name}')
+        dataset_idx += 1
         function = _FUNC_.get(dataset.group, None)
         if function:
             if verbose or restore:
@@ -57,6 +58,7 @@ def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=Non
                     json.dump(res, f)
 
             dump_metrics[dataset.name]=res
+    print(f'Evaluation Process: {len(valid_dataset_names)}/{len(valid_dataset_names)}, Done.')
     return dump_metrics
     
 def main():

@@ -15,10 +15,7 @@
 	- 支持已**适配的基础模型**及**用户自定义基础模型**的评测，目前已适配的基础模型包括[FlagAI](https://github.com/FlagAI-Open/FlagAI) 中的([AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)， [EVA-CLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP))，[OpenCLIP](https://github.com/mlfoundations/open_clip) ，[Chinese CLIP](https://github.com/OFA-Sys/Chinese-CLIP)，[Multilingual CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) ，[Taiyi](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html)系列等
 	- 支持多种数据来源，如[torchvision](https://pytorch.org/vision/stable/datasets.html)，[huggingface](https://huggingface.co/datasets)，[kaggle](https://www.kaggle.com/datasets)等
 	- 通过多种可视化的方式展示评测结果，方便对多个模型进行比较。
-* 中文文生图评测工具（TODO）
-
-### 动态
-- [24 Dec 2022] 发布我们第一份的工作 **
+--------------------------------------------------------------------------------
 
 
 ### 环境建议
@@ -52,7 +49,8 @@ pip install -r requirements.txt
 ### 联系我们
 
 * 如果有关于FlagEval的意见，建议或错误报告，请提交[GitHub Issue](https://github.com/FlagOpen/FlagEval/issues) 或者邮件至 flageval@baai.ac.cn，让我们共同建设更好的FlagEval。
-* 如果您有兴趣加入我们一起推进基础模型评测的工具，请联系 flageval@baai.ac.cn，期待您的加入！
+* <font color="Red">**诚聘行业精英加入FlagEval团队！** </font>如果您有兴趣加入我们一起推进基础模型评测的工具，请联系 flageval@baai.ac.cn，期待您的加入！
+* <font color="Red">**欢迎共同建设FlagEval！** </font>如果您有新的任务或者新的数据或者新的工具希望加入FlagEval，请联系flageval@baai.ac.cn，期待与您合作，共同建设基础模型评测体系！
 
 
 ### [许可证](/LICENSE)

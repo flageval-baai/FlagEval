@@ -29,8 +29,11 @@ def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=Non
         dataset_names = _SUPPORTED_DATASETS
     
     eval_datasets = EvalDataset(root=root, dataset_names=dataset_names, task_names=task_names, group_names=group_names, languages=languages, verbose=verbose)
-
+    valid_dataset_names = [ds.name for ds in eval_datasets.datasets]
+    print(f'Evaluation on {len(valid_dataset_names)} datasets: {", ".join(valid_dataset_names)}')
+    dataset_idx = 0
     for dataset in eval_datasets.datasets:
+        print(f'Evaluation Process: {dataset_idx}, Current: {dataset.name}')
         function = _FUNC_.get(dataset.group, None)
         if function:
             if verbose or restore:

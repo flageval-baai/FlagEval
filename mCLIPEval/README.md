@@ -1,4 +1,4 @@
-# **mC**LIP**E**val
+<div align='center'>**mC**LIP**E**val</dev>
 
 <div align='center'>An easy-to-use and easily-extendible evaluation tookit for vision-language models. </div>
 

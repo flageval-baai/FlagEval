@@ -1,4 +1,9 @@
-# mCLIPEval
+<div align='center'>
+<font size =6 color=red><b>m</b></font><font size =6 color=navy><b>C</b>LIP<b>Eval</b></font></div>
+
+<div align='center'><font size=3>An generic evaluation tookit for vision-language models. </font></div>
+
+--------------------------------------------------------------------------------
 
 The goal of this repo is to provide a generic evaluation toolkit for vision-language models (such as CLIP, Contrastive Language–Image Pre-training), including multilingual benchmarks, various model setups and visualization of evaluation results.
 

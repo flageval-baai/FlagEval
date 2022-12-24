@@ -1,7 +1,6 @@
-<div align='center'>
-<font size =6 color=red><b>m</b></font><font size =6 color=navy><b>C</b>LIP<b>Eval</b></font></div>
+# **mC**LIP**E**val
 
-<div align='center'><font size=3>An generic evaluation tookit for vision-language models. </font></div>
+<div align='center'>An easy-to-use and easily-extendible evaluation tookit for vision-language models. </div>
 
 --------------------------------------------------------------------------------
 

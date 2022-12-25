@@ -1,5 +1,5 @@
-<h1 align="center" style="color:red">
-    <p>mCLIPEval</p>
+<h1 align="center">
+    <p>𝕞ℂ𝕃𝕀ℙ𝔼𝕧𝕒𝕝</p>
 </h1>
 <h3 align="center">
     <p>An easy-to-use and easily-extendible evaluation tookit for vision-language models.</p>

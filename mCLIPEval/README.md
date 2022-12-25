@@ -1,6 +1,6 @@
-<h0 align="center">
+<h1 align="center">
     <p>𝕞ℂ𝕃𝕀ℙ𝔼𝕧𝕒𝕝</p>
-</h0>
+</h1>
 <h3 align="center">
     <p>An easy-to-use and easily-extendible evaluation tookit for vision-language models.</p>
 </h3>

@@ -4,7 +4,8 @@ An easy-to-use and easily-extendible evaluation tookit for vision-language model
 
 --------------------------------------------------------------------------------
 
-The goal of this repo is to provide a generic evaluation toolkit for vision-language models (such as CLIP, Contrastive Language–Image Pre-training), including multilingual benchmarks, various model setups and visualization of evaluation results.
+
+We aim to provide a generic evaluation toolkit for vision-language models (such as CLIP, Contrastive Language–Image Pre-training), including multilingual benchmarks, various model setups and visualization of evaluation results.
 
 Below we show the visualization of early-run evaluation results, evaluated on different datasets.
 
@@ -12,7 +13,7 @@ Below we show the visualization of early-run evaluation results, evaluated on di
 
 ## Features
 
-* Support for zeroshot classification, zeroshot retrieval and zeroshot composition tasks.
+* Support for zeroshot image/video classification, zeroshot image-to-text and text-to image retrieval and zeroshot image-text composition tasks.
 * Adapted to [FlagAI](https://github.com/FlagAI-Open/FlagAI) pretrained models ([AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP), [EVA-CLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP)), [OpenCLIP](https://github.com/mlfoundations/open_clip) pretrained models, [Chinese CLIP](https://github.com/OFA-Sys/Chinese-CLIP) models, [Multilingual CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) models, [Taiyi Series](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html) pretrained models, or customized models.
 * Multilingual (12 languages) datasets and monolingual (English/Chinese) datasets.
 * Data preparation from various resources, like [torchvision](https://pytorch.org/vision/stable/datasets.html), [huggingface](https://huggingface.co/datasets), [kaggle](https://www.kaggle.com/datasets), etc.

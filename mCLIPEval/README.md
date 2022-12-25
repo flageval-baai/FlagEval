@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p>𝕞ℂℓιρ𝔼ναℓ</p>
+    <p>𝕞ᑕᒪIᑭ𝔼ναℓ</p>
 </h1>
 <h3 align="center">
     <p>An easy-to-use and easily-extendible evaluation tookit for vision-language models.</p>

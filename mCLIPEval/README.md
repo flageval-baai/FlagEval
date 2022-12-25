@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p>𝕞ᑕᒪIᑭ𝔼ναℓ</p>
+    <p>mCLIPEval</p>
 </h1>
 <h3 align="center">
     <p>An easy-to-use and easily-extendible evaluation tookit for vision-language models.</p>
@@ -9,7 +9,7 @@
 --------------------------------------------------------------------------------
 
 
-We aim to provide a generic evaluation toolkit for vision-language models (such as CLIP, Contrastive Language–Image Pre-training), including multilingual benchmarks, various model setups and visualization of evaluation results.
+mCLIPEval provides a generic evaluation toolkit for vision-language models (such as CLIP, Contrastive Language–Image Pre-training), including multilingual benchmarks, various model setups and visualization of evaluation results.
 
 Below we show the visualization of early-run evaluation results, evaluated on different datasets.
 

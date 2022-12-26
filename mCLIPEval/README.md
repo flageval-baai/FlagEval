@@ -23,9 +23,9 @@ Below is the line chart to show the performances of some open-source models.
 ![snapshot0.png](snapshot0.png)
 
 --------------------------------------------------------------------------------
-## Online Demos
+## Online Demo
 
-
+You can use the online demo to experience mCLIPEval (will be online soon).
 
 ## with mCLIPEval, I can ...
 
@@ -45,7 +45,14 @@ Below is the line chart to show the performances of some open-source models.
     - and visualization of the evaluation results.
 
 
-## Quick tour
+## Structure
+
+mCLIPEval contains three standalone modules with different entries.
+
+| Module | Entry | Function | Params|
+|-|-|-|
+
+
 
 --------------------------------------------------------------------------------
 

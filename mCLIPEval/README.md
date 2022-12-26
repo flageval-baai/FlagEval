@@ -22,6 +22,14 @@ Below we show the line chart of the performances of some open-source models.
 
 ![snapshot0.png](snapshot0.png)
 
+--------------------------------------------------------------------------------
+
+## Why should I use mCLIPEval?
+
+1. Easy-to-compare open-source
+
+
+## Quick tour
 
 --------------------------------------------------------------------------------
 

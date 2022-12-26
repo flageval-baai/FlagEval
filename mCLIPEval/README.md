@@ -40,14 +40,10 @@ Below is the line chart to show the performances of some open-source models.
     - on **specific** datasets, languages, tasks.
 
 3. Easy-to-build a evaluation framework **from scratch**
-    - including 
-
-I want to understand different capabilities of open-source vision-language models, without enough computational resources to support inference and evaluation.
-
-
-Easy-to-compare different capabilities of open-source models, through evaluations on various datasets, languages, tasks, model parameters, without demand of computational resources.
-
-Easy-to-build a complete evaluation framework for vision-language models from scratch, including dataset preparation, model preparation, evaluation and visualization.
+    - including data download and preparation
+    - model download and preparation
+    - evaluation on different setups
+    - visualization of results.
 
 
 ## Quick tour

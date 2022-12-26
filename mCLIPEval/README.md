@@ -23,13 +23,16 @@ Below we show the line chart of the performances of some open-source models.
 ![snapshot0.png](snapshot0.png)
 
 --------------------------------------------------------------------------------
+## Online Demos
+
+
 
 ## with mCLIPEval, I can ...
 
 1. Easy-to-compare capabilities of open-source models
-    - on various datasets, languages, tasks, model parameters
-    - through interactive inferfaces to switch different setups
-    - without needs of enough computational resources to support inference and evaluation.
+    - on **specific** datasets, languages, tasks, model parameters
+    - through **interactive inferfaces** to switch different setups
+    - **without computational resources needs** to support inference and evaluation.
 
 2. Easy-to-evaluate various 
 

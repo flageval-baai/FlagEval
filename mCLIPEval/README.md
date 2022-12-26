@@ -10,15 +10,15 @@
 
 The mCLIPEval tookit provides generic evaluation for pretrained vision-language models (such as CLIP, Contrastive Language–Image Pre-training). More precisely, mCLIPEval provides evaluations:
 
-- Multilingual (12 languages) datasets and monolingual (English/Chinese) datasets, for tasks like zeroshot image/video classification, zeroshot image-to-text and text-to image retrieval and zeroshot visio-linguistic compositionality.
+- On multilingual (12 languages) datasets and monolingual (English/Chinese) datasets, for tasks like zeroshot image/video classification, zeroshot image-to-text and text-to image retrieval and zeroshot visio-linguistic compositionality.
 
-- Adapted to models of various training frameworks, like [FlagAI](https://github.com/FlagAI-Open/FlagAI) pretrained models ([AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP), [EVA-CLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP)), [OpenCLIP](https://github.com/mlfoundations/open_clip) pretrained models, [Chinese CLIP](https://github.com/OFA-Sys/Chinese-CLIP) models, [Multilingual CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) models, [Taiyi Series](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html) pretrained models. Customized models can be also supported with model scripts.
+- Adapted to various open-source pretrained models, like [FlagAI](https://github.com/FlagAI-Open/FlagAI) pretrained models ([AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP), [EVA-CLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP)), [OpenCLIP](https://github.com/mlfoundations/open_clip) pretrained models, [Chinese CLIP](https://github.com/OFA-Sys/Chinese-CLIP) models, [Multilingual CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) models, [Taiyi Series](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html) pretrained models. Customized models can be also supported with model scripts.
 
 mCLIPEval provides APIs to quickly download and preparation of public datasets from [torchvision](https://pytorch.org/vision/stable/datasets.html), [huggingface](https://huggingface.co/datasets), [kaggle](https://www.kaggle.com/datasets), as well as  download and use those open-source pretrained models on these datasets.
 
 mCLIPEval provides visualization of evaluation results through [streamlit](https://streamlit.io/) web app, to see the comparsions of performances on specific languages, tasks, or model parameters.
 
-Below we show the line chart of the performances of some open-source models.
+Below is the line chart to show the performances of some open-source models.
 
 ![snapshot0.png](snapshot0.png)
 
@@ -34,9 +34,13 @@ Below we show the line chart of the performances of some open-source models.
     - through **interactive inferfaces** to switch different setups
     - **without computational resources needs** to support inference and evaluation.
 
-2. Easy-to-evaluate various 
+2. Easy-to-evaluate pretrained models using checkpoint files
+    - trained through **various frameworks**, like [FlagAI](https://github.com/FlagAI-Open/FlagAI), [OpenCLIP](https://github.com/mlfoundations/open_clip), [Transformers](https://github.com/huggingface/transformers)
+    - or **any customized frameworks** with model scripts
+    - on **specific** datasets, languages, tasks.
 
-3. Easy-to-build an evaluation framework from scratch.
+3. Easy-to-build a evaluation framework **from scratch**
+    - including 
 
 I want to understand different capabilities of open-source vision-language models, without enough computational resources to support inference and evaluation.
 

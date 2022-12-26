@@ -31,7 +31,7 @@ Below is the line chart to show the performances of some open-source models.
 
 1. Easy-to-compare capabilities of open-source models
     - on **specific** datasets, languages, tasks, model parameters
-    - through **interactive inferfaces** to switch different setups
+    - through **interactive inferfaces** to switch different configuration settings
     - **without computational resources needs** to support inference and evaluation.
 
 2. Easy-to-evaluate pretrained models using checkpoint files
@@ -40,10 +40,9 @@ Below is the line chart to show the performances of some open-source models.
     - on **specific** datasets, languages, tasks.
 
 3. Easy-to-build a evaluation framework **from scratch**
-    - including data download and preparation
-    - model download and preparation
-    - evaluation on different setups
-    - visualization of results.
+    - including download and preparation of datasets and models,
+    - evaluation with various configuration settings
+    - and visualization of the evaluation results.
 
 
 ## Quick tour

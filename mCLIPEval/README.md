@@ -14,7 +14,7 @@ The mCLIPEval tookit provides generic evaluation for pretrained vision-language 
 
 - Adapted to models of various training frameworks, like [FlagAI](https://github.com/FlagAI-Open/FlagAI) pretrained models ([AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP), [EVA-CLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP)), [OpenCLIP](https://github.com/mlfoundations/open_clip) pretrained models, [Chinese CLIP](https://github.com/OFA-Sys/Chinese-CLIP) models, [Multilingual CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) models, [Taiyi Series](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html) pretrained models. Customized models can be also supported with model scripts.
 
-mCLIPEval provides APIs to quickly download and preparation of those datasets from [torchvision](https://pytorch.org/vision/stable/datasets.html), [huggingface](https://huggingface.co/datasets), [kaggle](https://www.kaggle.com/datasets), as well as  download and use those pretrained models on these datasets.
+mCLIPEval provides APIs to quickly download and preparation of public datasets from [torchvision](https://pytorch.org/vision/stable/datasets.html), [huggingface](https://huggingface.co/datasets), [kaggle](https://www.kaggle.com/datasets), as well as  download and use those open-source pretrained models on these datasets.
 
 mCLIPEval provides visualization of evaluation results through [streamlit](https://streamlit.io/) web app, to see the comparsions of performances on specific languages, tasks, or model parameters.
 
@@ -24,13 +24,23 @@ Below we show the line chart of the performances of some open-source models.
 
 --------------------------------------------------------------------------------
 
-## Why should I use mCLIPEval?
+## with mCLIPEval, I can ...
 
-1. Easy-to-compare different capabilities of open-source vision-language models, through evaluations on various datasets, languages, tasks, model parameters, without demand of inference and evaluation.
+1. Easy-to-compare capabilities of open-source models
+    - on various datasets, languages, tasks, model parameters
+    - through interactive inferfaces to switch different setups
+    - without needs of enough computational resources to support inference and evaluation.
 
-2. 
+2. Easy-to-evaluate various 
 
-3. Easy-to-build a complete evaluation framework for vision-language models from scratch, including dataset preparation, model preparation, evaluation and visualization.
+3. Easy-to-build an evaluation framework from scratch.
+
+I want to understand different capabilities of open-source vision-language models, without enough computational resources to support inference and evaluation.
+
+
+Easy-to-compare different capabilities of open-source models, through evaluations on various datasets, languages, tasks, model parameters, without demand of computational resources.
+
+Easy-to-build a complete evaluation framework for vision-language models from scratch, including dataset preparation, model preparation, evaluation and visualization.
 
 
 ## Quick tour

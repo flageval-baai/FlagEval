@@ -26,7 +26,11 @@ Below we show the line chart of the performances of some open-source models.
 
 ## Why should I use mCLIPEval?
 
-1. Easy-to-compare open-source
+1. Easy-to-compare different capabilities of open-source vision-language models, through evaluations on various datasets, languages, tasks, model parameters, without demand of inference and evaluation.
+
+2. 
+
+3. Easy-to-build a complete evaluation framework for vision-language models from scratch, including dataset preparation, model preparation, evaluation and visualization.
 
 
 ## Quick tour

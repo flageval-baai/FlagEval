@@ -49,11 +49,11 @@ You can use the online demo to experience mCLIPEval (will be online soon).
 
 mCLIPEval contains three standalone modules with different entries.
 
-| Module | Entry | Function | Params|
+| Module | Entry | Function | Documentation|
 |--------|-------|----------|-------|
-|Data Preparation| [download.py](download.py) | Download datasets and organize the directories for evaluation||
-|Evaluation|[evaluate.py](evaluate.py)|Evaluate selected models on selected datasets and output results in json files||
-|Visualization|[visual.py](visual.py)|Visualize the result json files into web app||
+|Data Preparation| [download.py](download.py) | Download datasets and organize the directories for evaluation|[download.md](download.md)|
+|Evaluation|[evaluate.py](evaluate.py)|Evaluate selected models on selected datasets and output results in json files|[evaluate.md](evaluate.md)|
+|Visualization|[visual.py](visual.py)|Visualize the result json files into a web application|[visual.md](visual.md)|
 
 
 

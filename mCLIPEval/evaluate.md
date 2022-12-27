@@ -18,6 +18,8 @@ output | the result json file ([format example](outputs/AltCLIP-XLMR-L.json))| -
 verbose| the verbose mode| True/False| Yes | False|
 restore| the restore mode, save temporary evaluation results and resume from these results| True/False |Yes|False| 
 root| to customize the evaluation data directory| - | Yes| `eval_benchmarks`|
+batch_size| the batch size of image encoders during evaluation | - | Yes|128|
+num_workers| the number of workers during evaluation | - | Yes| 4|
 
 * [Tips] The evaluation process would take some time. You might use `screen` or `nohup` in case interuption of the process caused by network or other reasons.
 

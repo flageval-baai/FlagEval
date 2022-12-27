@@ -147,20 +147,23 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 ### Supported Datasets
 
-|Dataset Names| Languages | Task |Instruction|
+|Dataset Names| Languages | Task |Instructions|
 |:------:|:-----:|:-----:|-------|
-|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it`|
+|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/[CN]((https://github.com/ningbonb/imagenet_classes_chinese))/[JP](https://github.com/rinnakk/japanese-clip/blob/master/src/japanese_clip/utils/imagenet_zeroshot_data.py#L1)/[IT](https://github.com/clip-italian/clip-italian/tree/imagenet_templates/evaluation)|Image Classification|multilinual classnames and prompts, including `imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it`|
 |[imagenet-a](https://github.com/hendrycks/natural-adv-examples)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-a, imagenet-a_cn, imagenet-a_jp, imagenet-a_it`|
 |[imagenet-r](https://github.com/hendrycks/imagenet-r)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-r, imagenet-r_cn, imagenet-r_jp, imagenet-r_it`|
 |[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-sketch, imagenet-sketch_cn, imagenet-sketch_jp, imagenet-sketch_it`|
 |[imagenetv2](https://imagenetv2public.s3-us-west-2.amazonaws.com/imagenetv2-matched-frequency.tar.gz)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenetv2, imagenetv2_cn, imagenetv2_jp, imagenetv2_it`|
-|[birdsnap](http://thomasberg.org/datasets/birdsnap/1.1/birdsnap.tgz)|EN|Image Classification|not completed, `birdsnap`|
-|[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification<br>OCR<br>Geo-Localization|including: `caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel`|
+|[objectnet](https://objectnet.dev)|EN|Image Classification|`objectnet`|
+|[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification, <br>OCR, <br>Geo-Localization|including: `caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel`|
 |[winoground](https://huggingface.co/datasets/facebook/winoground)|EN|Image-Text Compositionality|visio-linguistic compositional reasoning, `winoground`|
-|[mscoco_captions](https://cocodataset.org/#captions-2015)|EN/CN|Image-Text Retrieval|1k/5k Chinese translation of captions, with different splits, including `mscoco_captions, mscoco_captions_cn_1k, mscoco_captions_cn_5k`|
+|[mscoco_captions](https://cocodataset.org/#captions-2015)|EN/[CN](https://github.com/li-xirong/coco-cn)|Image-Text Retrieval|1k/5k Chinese translation of captions, with different splits, including `mscoco_captions, mscoco_captions_cn_1k, mscoco_captions_cn_5k`|
 |[xtd](https://github.com/adobe-research/Cross-lingual-Test-Dataset-XTD10)|EN/CN/DE/ES/FR/IT/JP/KO/PL/RU/TR|Image-Text Retrieval|Multilingual translation of MSCOCO captions, with the same image test splits, including `xtd_en, xtd_de, xtd_es, xtd_fr, xtd_it, xtd_jp, xtd_ko, xtd_pl, xtd_ru, xtd_tr, xtd_zh`|
-|[flickr_30k](https://www.kaggle.com/datasets/adityajn105/flickr30k)|EN/CN|Image-Text Retrieval|Chinese translation of captions, with different splits, including `flickr30k, flickr30k_cn`|
+|[flickr_30k](https://www.kaggle.com/datasets/adityajn105/flickr30k)|EN/[CN](https://github.com/li-xirong/cross-lingual-cap)|Image-Text Retrieval|Chinese translation of captions, with different splits, including `flickr30k, flickr30k_cn`|
 |[multi30k](https://github.com/multi30k/dataset)|EN/FR/DE/CS|Image-Text Retrieval|Multilingual translation of Flickr30k captions, with the same image test splits, including `multi30k_en, multi30k_fr, multi30k_de, multi30k_cs`|
+|[birdsnap](http://thomasberg.org/datasets/birdsnap/1.1/birdsnap.tgz)|EN|Image Classification|download not supported, `birdsnap`|
+|[kinetics](https://www.deepmind.com/open-source/kinetics)|EN|Video Act Recognition|download not supported, including "kinetics400", "kinetics600", "kinetics700"|
+|[ucf101](https://www.crcv.ucf.edu/data/UCF101.php)|EN|Video Act Recognition|download not supported, including "ucf101"|
 
 
 
@@ -214,6 +217,9 @@ Thanks for your interest in contributing! Apart from regular commits, we also we
 * Thanks to [CLIP](https://github.com/openai/CLIP/blob/main/data/prompts.md), [Lit](https://arxiv.org/pdf/2111.07991.pdf), [SLIP](https://github.com/facebookresearch/SLIP/blob/main/templates.json), [imagenet_classes_chinese](https://github.com/ningbonb/imagenet_classes_chinese), [japanese_clip](https://github.com/rinnakk/japanese-clip/blob/master/src/japanese_clip/utils/imagenet_zeroshot_data.py#L1), [clip-italian](https://github.com/clip-italian/clip-italian/tree/imagenet_templates/evaluation) authors, as the orginal zeroshot templates and multilingual classnames.
 
 * Thanks to [Winoground](https://arxiv.org/abs/2204.03162), [ImageNet-Sketch](https://github.com/HaohanWang/ImageNet-Sketch), [ImageNet-A](https://github.com/hendrycks/natural-adv-examples), [ImageNet-R](https://github.com/hendrycks/imagenet-r) authors to provide original datasets. 
+
+* Thanks to [COCO-CN](https://github.com/li-xirong/coco-cn) and [Flickr30k CN](https://github.com/li-xirong/cross-lingual-cap) to provide Chinese captions of COCO and Flickr datasets.
+
 
 
 ## License

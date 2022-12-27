@@ -103,7 +103,7 @@ pip install -r requirements.txt
 The complete use of mCLIPEval contains three standalone modules: data preparation, evaluation and visualization.
 
 | Module | Entry | Function | Documentation|
-|--------|-------|----------|-------|
+|:------:|:-----:|----------|:-----:|
 |Data Preparation| [download.py](download.py) |  Download datasets and organize the data directories properly for evaluation.|[Data Doc](download.md)|
 |Evaluation|[evaluate.py](evaluate.py)|Evaluate a model on selected datasets and output results in a json file.|[Evaluation Doc](evaluate.md)|
 |Visualization|[visual.py](visual.py)|Visualize the evaluation results through an interactive web app.|[Visualization Doc](visual.md)|

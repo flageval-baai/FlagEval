@@ -149,7 +149,7 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 |Dataset Names| Languages | Task |Instructions|
 |:------:|:-----:|:-----:|-------|
-|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/[CN]((https://github.com/ningbonb/imagenet_classes_chinese))/[JP](https://github.com/rinnakk/japanese-clip/blob/master/src/japanese_clip/utils/imagenet_zeroshot_data.py#L1)/[IT](https://github.com/clip-italian/clip-italian/tree/imagenet_templates/evaluation)|Image Classification|multilinual classnames and prompts, including `imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it`|
+|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/[CN](https://github.com/ningbonb/imagenet_classes_chinese)/[JP](https://github.com/rinnakk/japanese-clip/blob/master/src/japanese_clip/utils/imagenet_zeroshot_data.py#L1)/[IT](https://github.com/clip-italian/clip-italian/tree/imagenet_templates/evaluation)|Image Classification|multilinual classnames and prompts, including `imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it`|
 |[imagenet-a](https://github.com/hendrycks/natural-adv-examples)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-a, imagenet-a_cn, imagenet-a_jp, imagenet-a_it`|
 |[imagenet-r](https://github.com/hendrycks/imagenet-r)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-r, imagenet-r_cn, imagenet-r_jp, imagenet-r_it`|
 |[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-sketch, imagenet-sketch_cn, imagenet-sketch_jp, imagenet-sketch_it`|

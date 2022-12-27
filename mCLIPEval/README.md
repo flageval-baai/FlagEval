@@ -72,11 +72,10 @@ pip install -r requirements.txt
         </p>
 
 
-* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and save in kaggle folder (use `python -c 'import os; print(os.path.join(os.path.expanduser("~"), ".kaggle"))'` to see, usually '~/.kaggle'). `unzip` command is also needed.
-
-* [Tips]
-To install `unzip` command, for Debian/Ubuntu Linux, use `sudo apt-get install unzip`; for CentOS/RHEL Linux, use
-`yum install unzip`; for macOS, use `brew install unzip`.
+* [Optional] To use datasets from kaggle (`fer2013`, `flickr30k`, `flickr30k_cn`, `multi30k`), you need to:
+    * 1. generate API token from [kaggle](https://www.kaggle.com/) following the [instructions](https://github.com/Kaggle/kaggle-api#api-credentials).
+    * 2. install `unzip` command, for Debian/Ubuntu Linux, use ```sudo apt-get install unzip```; for CentOS/RHEL Linux, use
+```yum install unzip```; for macOS, use ```brew install unzip```.
 
 Or for partial usages, you need to run `pip install torch,torchvision,sklearn` to install required basic enviroments.
 

@@ -230,31 +230,4 @@ Here is the content of `output.json` after the evaluation is done:
 }
 ```
 
-### Visualization
-
-Here is an example of visualization.
-
-First, you need to need to install the packages to support visualization:
-
-`pip install -r requirements_visual.txt`
-
-Second, you should prepare evaluation result files. In this example, we take two evaluation result files named `altclip.json` and `evaclip.json`.
-
-Then, you can run the visualization module by providing the evaluation file names:
-
-`streamlit run visual.py -- --json=altclip.json,evaclip.json`
-
-[Tips] wildcard variables is supported, you can use "*", "?":
-
-`streamlit run visual.py -- --json="outputs/*.json"`
-
-[Tips] jsonl file input is also supported, you can use `--jsonl=[JSONL_FILE]` to initialize.
-
-The default url of web application is: `http://localhost:8501/`
-
-Here are the snapshots of the visualization webpages.
-
-![snapshot1.jpg](snapshot1.jpg)
-
-![snapshot2.jpg](snapshot2.jpg)
  

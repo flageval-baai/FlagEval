@@ -135,13 +135,13 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |:------:|-------|
 |[Multi-datasets Preparation](download.md#multi-datasets-preparation-example)|Download and prepare the datasets specified by names|
 |[Full-datasets Preparation](download.md#full-datasets-preparation-example)|Download and prepare all supported datasets|
-|[Specified-datasets Evaluation]()|Evaluation on specified datasets|
-|[Specified-languages Evaluation]()|Evaluation on specified languages|
-|[Specified-tasks Evaluation]()|Evaluation on specified tasks|
-|[Built-in Model Evaluation]()|Evaluate a built-in model specified by name|
-|[Pretrained checkpoint Evaluation]()|Evaluate a pretrained model with supported pretraining framework and checkpoint directories|
-|[Customized-model Evaluation]()|Evaluate a customized model with customized pretraining framework|
-|[Visualization]()|Visualize the evaluation result json/jsonl files|
+|[Specified-datasets Evaluation](evaluate.md#cifar-10-and-cifar-100-example)|Evaluation on specified datasets|
+|[Specified-languages Evaluation](evaluate.md#chinese-image-classification-example)|Evaluation on specified languages|
+|[Specified-tasks Evaluation](evaluate.md#chinese-image-classification-example)|Evaluation on specified tasks|
+|[Built-in Model Evaluation](evaluate.md#built-in-model-example)|Evaluate a built-in model specified by name|
+|[Pretrained checkpoint Evaluation](evaluate.md#pretrained-checkpoint-example)|Evaluate a pretrained model with supported pretraining framework and checkpoint directories|
+|[Customized-model Evaluation](evaluate.md#customized-model-example)|Evaluate a customized model with customized pretraining framework|
+|[Visualization](visual.md#example)|Visualize the evaluation result json/jsonl files|
 
 ## Datasets and Models
 

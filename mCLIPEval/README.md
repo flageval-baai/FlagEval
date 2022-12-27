@@ -79,25 +79,13 @@ pip install -r requirements.txt
 
 **[Partial]** For partial usage, you need to install required packages: 
 
-* **[Necessary]** for basic evaluation:
-    ```
-    pip install torch,torchvision,sklearn
-    ```
+* **[Necessary]** for basic evaluation: `pip install torch,torchvision,sklearn`
 
-* [Optional] for data preparation:    
-    ```
-    pip install -r requirements_dataset.txt
-    ```
+* [Optional] for data preparation:   `pip install -r requirements_dataset.txt`
 
-* [Optional] for usage of pretrained models:
-    ```
-    pip install -r requirements_models.txt
-    ```
+* [Optional] for usage of pretrained models: `pip install -r requirements_models.txt`
 
-* [Optional] for visualization:
-    ```
-    pip install -r requirements_visual.txt
-    ```
+* [Optional] for visualization: `pip install -r requirements_visual.txt`
 
 ## How to use?
 

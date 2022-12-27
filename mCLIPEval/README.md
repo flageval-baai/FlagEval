@@ -44,6 +44,44 @@ You can use the online demo to experience mCLIPEval (will be online soon).
     - evaluation with various configuration settings
     - and visualization of the evaluation results.
 
+## Environment Preparation
+To use mCLIPEval, you need:
+* Pytorch version >= 1.8.0
+* Python version >= 3.8
+* For evaluating models on GPUs, you'll also need install CUDA and NCCL
+
+[Recommend] For full usage of mCLIPEval, you are recommended to prepare the environments through:
+
+```shell
+pip install -r requirements.txt
+```
+
+* [Optional] To use datasets from huggingface (`imagenet1k` in any languages, `winoground`), you need to:
+    * 1. generate huggingface API TOKEN (select the role "read") from [huggingface](https://huggingface.co/settings/tokens) following the [instructions](https://huggingface.co/docs/hub/security-tokens);
+    * 2. run the command and add the generated token as git credential:
+            ```
+            huggingface-cli login
+            ```
+            or modify the [download/constants.py](download/constants.py) file by
+            ``` 
+            >>> _HUGGINGFACE_AUTH_TOKEN = "YOUR_TOKEN"
+            ```
+    * 2. set the value of `_HUGGINGFACE_AUTH_TOKEN= "hf_..."` in `download/constants.py` and click the `Agree and access repository` button on [imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground") dataset pages.
+
+* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and save in kaggle folder (use `python -c 'import os; print(os.path.join(os.path.expanduser("~"), ".kaggle"))'` to see, usually '~/.kaggle'). `unzip` command is also needed.
+
+* [Tips]
+To install `unzip` command, for Debian/Ubuntu Linux, use `sudo apt-get install unzip`; for CentOS/RHEL Linux, use
+`yum install unzip`; for macOS, use `brew install unzip`.
+
+Or for partial usages, you need to run `pip install torch,torchvision,sklearn` to install required basic enviroments.
+
+* [Optional] To download and prepare datasets, you need to run `pip install -r requirements_dataset.txt` to install required enviroments.
+
+* [Optional] To use the supported pretrained models, you need to `pip install -r requirements_models.txt` to install required enviroments.
+
+* [Optional] To use the visualization, you need to
+`pip install -r requirements_visual.txt` to install required enviroments.
 
 ## How to use?
 
@@ -54,6 +92,9 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |Data Preparation| [download.py](download.py) |  Download datasets and organize the data directories properly for evaluation.|[download.md](download.md)|
 |Evaluation|[evaluate.py](evaluate.py)|Evaluate a model on selected datasets and output results in a json file.|[evaluate.md](evaluate.md)|
 |Visualization|[visual.py](visual.py)|Visualize the evaluation results through an interactive web app.|[visual.md](visual.md)|
+
+### Quick tour
+
 
 
 ## Datasets and Models
@@ -79,35 +120,6 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 - [License](#license)
 
 <!-- tocstop -->
-
-## Environment Preparation
-To use mCLIPEval, you need:
-* Pytorch version >= 1.8.0
-* Python version >= 3.8
-* For evaluating models on GPUs, you'll also need install CUDA and NCCL
-
-[Recommend] For full usage of mCLIPEval, you are recommended to prepare the environments through:
-
-```shell
-pip install -r requirements.txt
-```
-
-* [Optional] To download and prepare the datasets from huggingface (`imagenet1k`, `winoground`) with mCLIPEval, you need to generate huggingface API TOKEN (select the role "read") from [huggingface](https://huggingface.co/settings/tokens) following the [instructions](https://huggingface.co/docs/hub/security-tokens) and set the value of `_HUGGINGFACE_AUTH_TOKEN= "hf_..."` in `download/constants.py` and click the `Agree and access repository` button on [imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground") dataset pages.
-
-* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and save in kaggle folder (use `python -c 'import os; print(os.path.join(os.path.expanduser("~"), ".kaggle"))'` to see, usually '~/.kaggle'). `unzip` command is also needed.
-
-* [Tips]
-To install `unzip` command, for Debian/Ubuntu Linux, use `sudo apt-get install unzip`; for CentOS/RHEL Linux, use
-`yum install unzip`; for macOS, use `brew install unzip`.
-
-Or for partial usages, you need to run `pip install torch,torchvision,sklearn` to install required basic enviroments.
-
-* [Optional] To download and prepare datasets, you need to run `pip install -r requirements_dataset.txt` to install required enviroments.
-
-* [Optional] To use the supported pretrained models, you need to `pip install -r requirements_models.txt` to install required enviroments.
-
-* [Optional] To use the visualization, you need to
-`pip install -r requirements_visual.txt` to install required enviroments.
 
 ## How to Use?
 The complete use of mCLIPEval contains data preparation, evaluation and visualization. 

@@ -44,6 +44,26 @@ You can use the online demo to experience mCLIPEval (will be online soon).
     - evaluation with various configuration settings
     - and visualization of the evaluation results.
 
+--------------------------------------------------------------------------------
+## Guide 
+<!-- toc -->
+- [Environment Preparation](#environment-preparation)
+- [How to Use](#how-to-use)
+    - [Quick Start](#quick-start)
+    - [Data Preparation](#data-preparation)
+    - [Evaluation](#evaluation)
+        - [CIFAR-10 and CIFAR-100 example](#cifar-10-and-cifar-100-example)
+        - [Chinese Image Classification example](#chinese-image-classification-example)
+        - [Built-In Model example](#built-in-model-example)
+        - [Pretrained Checkpoint example](#pretrained-checkpoint-example)
+        - [Customized Model example](#customized-model-example)
+    - [Visualization](#visualization)
+- [Reference](#reference)
+- [Credits](#credits)
+- [License](#license)
+
+<!-- tocstop -->
+
 ## Environment Preparation
 To use mCLIPEval, you need:
 * Pytorch version >= 1.8.0
@@ -86,9 +106,9 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 | Module | Entry | Function | Documentation|
 |--------|-------|----------|-------|
-|Data Preparation| [download.py](download.py) |  Download datasets and organize the data directories properly for evaluation.|[download.md](download.md)|
-|Evaluation|[evaluate.py](evaluate.py)|Evaluate a model on selected datasets and output results in a json file.|[evaluate.md](evaluate.md)|
-|Visualization|[visual.py](visual.py)|Visualize the evaluation results through an interactive web app.|[visual.md](visual.md)|
+|Data Preparation| [download.py](download.py) |  Download datasets and organize the data directories properly for evaluation.|[Data Doc](download.md)|
+|Evaluation|[evaluate.py](evaluate.py)|Evaluate a model on selected datasets and output results in a json file.|[Evaluation Doc](evaluate.md)|
+|Visualization|[visual.py](visual.py)|Visualize the evaluation results through an interactive web app.|[Visualization Doc](visual.md)|
 
 ### Quick tour
 * To immediately see the comparison results of built-in open-source models, we provide `outputs` as early-run evaluation results. You just need to run:
@@ -112,42 +132,25 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
     * [Tips] if the parameter `--datasets` is not specified, all supported datasets are chosen (the process of data preparation and evaluation would take a long time).
 
 ### Advanced usage examples
+
 | Function | Description |
 |--------|-------|
 |[Multi-datasets Preparation]()|Download and prepare the datasets specified by names|
 |[Full-datasets Preparation]()|Download and prepare all supported datasets|
-|[Specified-datasets Evaluation]()||
-|[Specified-languages Evaluation]()||
-|[Specified-tasks Evaluation]()||
+|[Specified-datasets Evaluation]()|Evaluation on specified datasets|
+|[Specified-languages Evaluation]()|Evaluation on specified languages|
+|[Specified-tasks Evaluation]()|Evaluation on specified tasks|
 |[Built-in Model Evaluation]()|Evaluate a built-in model specified by name|
-|[Pretrained checkpoint Evaluation]()|Evaluate a pretrained model in |
-|[Customized-model Evaluation]()||
-|[Visualization]()||
-
+|[Pretrained checkpoint Evaluation]()|Evaluate a pretrained model with supported pretraining framework and checkpoint directories|
+|[Customized-model Evaluation]()|Evaluate a customized model with customized pretraining framework|
+|[Visualization]()|Visualize the evaluation result json/jsonl files|
 
 ## Datasets and Models
 
 
 
---------------------------------------------------------------------------------
 
-<!-- toc -->
-- [Environment Preparation](#environment-preparation)
-- [How to Use](#how-to-use)
-    - [Quick Start](#quick-start)
-    - [Data Preparation](#data-preparation)
-    - [Evaluation](#evaluation)
-        - [CIFAR-10 and CIFAR-100 example](#cifar-10-and-cifar-100-example)
-        - [Chinese Image Classification example](#chinese-image-classification-example)
-        - [Built-In Model example](#built-in-model-example)
-        - [Pretrained Checkpoint example](#pretrained-checkpoint-example)
-        - [Customized Model example](#customized-model-example)
-    - [Visualization](#visualization)
-- [Reference](#reference)
-- [Credits](#credits)
-- [License](#license)
 
-<!-- tocstop -->
 
 ## How to Use?
 The complete use of mCLIPEval contains data preparation, evaluation and visualization. 
@@ -435,6 +438,9 @@ If you find this work helpful, please consider to ⭐️ this repo and cite
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
+
+## Contributing 
+Welcome to contribute datasets/models/tasks or any 
 
 ## Credits
 

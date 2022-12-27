@@ -104,9 +104,9 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 | Module | Entry | Function | Documentation|
 |:------:|:-----:|----------|:-----:|
-|Data Preparation| [download.py](download.py) |  Download datasets and organize the data directories properly for evaluation.|[Data Doc](download.md)|
-|Evaluation|[evaluate.py](evaluate.py)|Evaluate a model on selected datasets and output results in a json file.|[Evaluation Doc](evaluate.md)|
-|Visualization|[visual.py](visual.py)|Visualize the evaluation results through an interactive web app.|[Visualization Doc](visual.md)|
+|Data Preparation| [download.py](download.py) |  Download datasets and organize the data directories properly for evaluation|[Data Doc](download.md)|
+|Evaluation|[evaluate.py](evaluate.py)|Evaluate a model on selected datasets and output results in a json file|[Evaluation Doc](evaluate.md)|
+|Visualization|[visual.py](visual.py)|Visualize the evaluation results through an interactive web app|[Visualization Doc](visual.md)|
 
 ### Quick tour
 * To immediately see the comparison results of built-in open-source models, we provide `outputs` as early-run evaluation results. You just need to run:
@@ -132,7 +132,7 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 ### Advanced usage examples
 
 | Function | Description |
-|--------|-------|
+|:------:|-------|
 |[Multi-datasets Preparation]()|Download and prepare the datasets specified by names|
 |[Full-datasets Preparation]()|Download and prepare all supported datasets|
 |[Specified-datasets Evaluation]()|Evaluation on specified datasets|
@@ -148,8 +148,8 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 ### Supported Datasets
 
 |Dataset Names| Languages | Task | Descrition|
-|--------|-------|:-----:|-------|
-|imagenet1k, imagenet1k_cn,<br> imagenet1k_jp, imagenet1k_it| EN, CN, JP, IT|Image Classification| imagenet test set with classnames and prompts in different languages|
+|--------|:-----:|:-----:|-------|
+|imagenet1k| EN, CN, JP, IT|Image Classification| imagenet 2012 test set with classnames and prompts in different languages|
 
 ### Built-in Models
 

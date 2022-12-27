@@ -66,8 +66,8 @@ pip install -r requirements.txt
             ``` 
             >>> _HUGGINGFACE_AUTH_TOKEN = "YOUR_TOKEN"
             ```
-    * 3. click the `Agree and access repository` button on dataset pages to accept the license agreements of the datasets [imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground").
-    
+    * 3. click the `Agree and access repository` button on dataset pages ([imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground")) to accept the license agreements of the datasets.
+
         <img src="agreement.png" width=40%>
 
 

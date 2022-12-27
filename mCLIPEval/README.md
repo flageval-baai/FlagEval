@@ -67,7 +67,7 @@ pip install -r requirements.txt
             >>> _HUGGINGFACE_AUTH_TOKEN = "YOUR_TOKEN"
             ```
     * 3. click the `Agree and access repository` button on dataset pages to accept the license agreements of the datasets [imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground").
-    ![agreement.png](agreement.png)
+    <img src="agreement.png" width=50%>
 
 
 * [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and save in kaggle folder (use `python -c 'import os; print(os.path.join(os.path.expanduser("~"), ".kaggle"))'` to see, usually '~/.kaggle'). `unzip` command is also needed.

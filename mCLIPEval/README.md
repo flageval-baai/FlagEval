@@ -91,6 +91,25 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |Visualization|[visual.py](visual.py)|Visualize the evaluation results through an interactive web app.|[visual.md](visual.md)|
 
 ### Quick tour
+* To immediately see the comparison results of built-in open-source models, we provide `outputs` as early-run evaluation results. You just need to run:
+
+    ```
+    streamlit run visual.py -- --json="outputs/*.json"
+    ```
+
+* To evaluate a pretrained model with checkpoint files, you need to:
+    * specify the model script, for example [models/altclip.py](models/altclip.py)
+    * choose the evaluation datasets (for example `cifar10` is an image classification dataset)
+    * download and prepare the datasets with:
+        ```
+        python download.py --datasets=cifar10
+        ```
+    * evaluate the pretrained model in the directory `[MODEL_DIR]`
+        ```
+        python evaluate.py --model_name=[MODEL_NAME] --model_dir=[MODEL_DIR] --datasets=cifar10 --output=[MODEL_NAME].json
+        ```
+    
+
 
 
 

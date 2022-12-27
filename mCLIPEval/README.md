@@ -84,17 +84,17 @@ pip install -r requirements.txt
     pip install torch,torchvision,sklearn
     ```
 
-* [Optional] for data preparation,    
+* [Optional] for data preparation:    
     ```
     pip install -r requirements_dataset.txt
     ```
 
-* [Optional] for usage of pretrained models,
+* [Optional] for usage of pretrained models:
     ```
     pip install -r requirements_models.txt
     ```
 
-* [Optional] for visualization,
+* [Optional] for visualization:
     ```
     pip install -r requirements_visual.txt
     ```

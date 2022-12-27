@@ -22,7 +22,7 @@ _SUPPORTED_DOWNLOAD_DATASETS = [
     "gtsrb",
     "kinetics400", "kinetics600", "kinetics700", # NOT SUPPORTED SINCE VIDEO PROCESSING NEEDED
     "mnist",
-    "objectnet", # TO BE SUPPORTED
+    "objectnet",
     "pcam", 
     "pets",
     "renderedsst2",

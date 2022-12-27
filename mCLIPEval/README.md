@@ -149,7 +149,7 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 |Dataset Names| Languages | Task | Descrition|
 |:------:|:-----:|:-----:|-------|
-|imagenet1k| EN, CN, JP, IT|Image Classification| imagenet 2012 test set with classnames and prompts in different languages|
+|imagenet1k| EN/CN/JP/IT|Image Classification| imagenet 2012 test set with classnames and prompts in different languages|
 
 ### Built-in Models
 

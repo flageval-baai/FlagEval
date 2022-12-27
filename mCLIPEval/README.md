@@ -149,15 +149,15 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 |Dataset Names| Languages | Task |Instruction|
 |:------:|:-----:|:-----:|-------|
-|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it|
-|[imagenet-a](https://github.com/hendrycks/natural-adv-examples)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet-a, imagenet-a_cn, imagenet-a_jp, imagenet-a_it|
-|[imagenet-r](https://github.com/hendrycks/imagenet-r)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet-r, imagenet-r_cn, imagenet-r_jp, imagenet-r_it|
-|[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet-sketch, imagenet-sketch_cn, imagenet-sketch_jp, imagenet-sketch_it|
-|[imagenetv2](https://imagenetv2public.s3-us-west-2.amazonaws.com/imagenetv2-matched-frequency.tar.gz)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenetv2, imagenetv2_cn, imagenetv2_jp, imagenetv2_it|
-|[birdsnap](http://thomasberg.org/datasets/birdsnap/1.1/birdsnap.tgz)|EN|Image Classification|not completed|
-|[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification<br>OCR<br>Geo-Localization|including: caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel|
-|[winoground](https://huggingface.co/datasets/facebook/winoground)|EN|Image-Text Compositionality|visio-linguistic compositional reasoning|
-|[mscoco_captions](https://cocodataset.org/#captions-2015)|EN/CN|Image-Text Retrieval|1k/5k Chinese translation of captions, with different splits, including mscoco_captions, mscoco_captions_cn_1k, mscoco_captions_cn_5k|
+|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it`|
+|[imagenet-a](https://github.com/hendrycks/natural-adv-examples)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-a, imagenet-a_cn, imagenet-a_jp, imagenet-a_it`|
+|[imagenet-r](https://github.com/hendrycks/imagenet-r)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-r, imagenet-r_cn, imagenet-r_jp, imagenet-r_it`|
+|[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenet-sketch, imagenet-sketch_cn, imagenet-sketch_jp, imagenet-sketch_it`|
+|[imagenetv2](https://imagenetv2public.s3-us-west-2.amazonaws.com/imagenetv2-matched-frequency.tar.gz)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including `imagenetv2, imagenetv2_cn, imagenetv2_jp, imagenetv2_it`|
+|[birdsnap](http://thomasberg.org/datasets/birdsnap/1.1/birdsnap.tgz)|EN|Image Classification|not completed, `birdsnap`|
+|[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification<br>OCR<br>Geo-Localization|including: `caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel`|
+|[winoground](https://huggingface.co/datasets/facebook/winoground)|EN|Image-Text Compositionality|visio-linguistic compositional reasoning, `winoground`|
+|[mscoco_captions](https://cocodataset.org/#captions-2015)|EN/CN|Image-Text Retrieval|1k/5k Chinese translation of captions, with different splits, including `mscoco_captions, mscoco_captions_cn_1k, mscoco_captions_cn_5k`|
 |[xtd](https://github.com/adobe-research/Cross-lingual-Test-Dataset-XTD10)|EN/CN/DE/ES/FR/IT/JP/KO/PL/RU/TR|Image-Text Retrieval|Multilingual translation of MSCOCO captions, with the same image test splits, including `xtd_en, xtd_de, xtd_es, xtd_fr, xtd_it, xtd_jp, xtd_ko, xtd_pl, xtd_ru, xtd_tr, xtd_zh`|
 |[flickr_30k](https://www.kaggle.com/datasets/adityajn105/flickr30k)|EN/CN|Image-Text Retrieval|Chinese translation of captions, with different splits, including `flickr30k, flickr30k_cn`|
 |[multi30k](https://github.com/multi30k/dataset)|EN/FR/DE/CS|Image-Text Retrieval|Multilingual translation of Flickr30k captions, with the same image test splits, including `multi30k_en, multi30k_fr, multi30k_de, multi30k_cs`|

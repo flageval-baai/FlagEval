@@ -7,11 +7,11 @@ The entry file of evaluation is [evaluate.py](evaluate.py) which accepts various
 
 |Param|Instruction|Values|Optional|Default|
 |:-:|---|:-:|:-:|:-:|
-datasets|to specify the evaluation datasets by names|[The List]()|Yes|Select All|
+datasets|to specify the evaluation datasets by names|[The Dataset List](#dataset-list)|Yes|Select All|
 languages|to specify the evaluation datasets by languages|EN/CN/DE/CS/<br>FR/ES/IT/JP/<br>KO/PL/RU/TR|Yes|Select All|
 groups|to specify the evaluation datasets by groups|CLASSIFICATION<br>RETRIEVAL<br>COMPOSITIONALITY|Yes|Select All|
 tasks|to specify the evaluation datasets by tasks|Image Classification,<br>Optical Character Recognition,<br>Geo-Localization,<br>Video Act Recognition,<br>Image-Text Retrieval,<br>Image-Text Compositionality|Yes|Select All|
-model_name|the name of model| [List of Built-in models]() or any| No | - |
+model_name|the name of model| [List of Built-in models](#built-in-model-list) or any| No | - |
 model_dir|the model checkpoint folder or the directory to save the downloaded model| - |Yes for built-in models| - |
 agency | the agency to provide the model|-|Yes|-|
 output | the result json file ([format example](outputs/AltCLIP-XLMR-L.json))| - | Yes |    `output.json`|
@@ -59,9 +59,13 @@ Here is the content of `output.json` after the evaluation is done:
 }
 ```
 
-To have the list of datasets, you can use:
+#### Dataset List
+* To have the list of datasets, you can use in Python environment:
 
-`python -c 'from dataset.constants import _SUPPORTED_DATASETS; print("\n".join(_SUPPORTED_DATASETS))'`
+    ```python
+    >>> from download.constants import _SUPPORTED_DOWNLOAD_DATASETS
+    >>> print("\n".join(_SUPPORTED_DOWNLOAD_DATASETS))
+    ```
 
 
 ### Chinese Image Classification example
@@ -108,17 +112,21 @@ Here is the content of `output.json` after the evaluation is done:
 }
 ```
 
+#### Language List
+* To have the list of languages, you can use:
 
-To have the list of languages, you can use:
+    ```python
+    from dataset.constants import _SUPPORTED_LANGUAGES
+    print("\n".join(_SUPPORTED_LANGUAGES))
+    ```
 
-```
-python -c 'from dataset.constants import _SUPPORTED_LANGUAGES; 
-print("\n".join(_SUPPORTED_LANGUAGES))'
-```
+#### Group List
+* To have the list of task groups, you can use:
 
-To have the list of task groups, you can use:
-
-`python -c 'from dataset.constants import _SUPPORTED_GROUPS; print("\n".join(_SUPPORTED_GROUPS))'`
+    ```python
+    from dataset.constants import _SUPPORTED_GROUPS
+    print("\n".join(_SUPPORTED_GROUPS))
+    ```
 
 
 ### Built-In Model example
@@ -130,9 +138,14 @@ Here is an example of evaluating `eva-clip` model on all datasets.
 python evaluate.py --model_name=eva-clip --output=eva-clip.json
 ```
 
-To have the list of built-in models, you can use:
+#### Built-in Model List 
 
-`python -c 'from models.constants import _SUPPORTED_MODELS; print("\n".join(_SUPPORTED_MODELS))'`
+* To have the list of built-in models, you can use:
+
+    ```python
+    from models.constants import _SUPPORTED_MODELS
+    print("\n".join(_SUPPORTED_MODELS))
+    ```
 
 
 ### Pretrained Checkpoint example

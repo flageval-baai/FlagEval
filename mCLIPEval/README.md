@@ -188,7 +188,7 @@ If you find this work helpful, please consider to ⭐️ this repo and cite
 ```
 
 ## Contributing 
-Welcome to contribute datasets/models/tasks or any 
+Thanks for your interest in contributing! Apart from regular commits, we also welcome contributions to resources (datasets, models, tasks).
 
 ## Credits
 

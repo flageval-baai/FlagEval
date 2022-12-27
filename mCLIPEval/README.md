@@ -218,7 +218,7 @@ Thanks for your interest in contributing! Apart from regular commits, we also we
 
 * Thanks to [Winoground](https://arxiv.org/abs/2204.03162), [ImageNet-Sketch](https://github.com/HaohanWang/ImageNet-Sketch), [ImageNet-A](https://github.com/hendrycks/natural-adv-examples), [ImageNet-R](https://github.com/hendrycks/imagenet-r) authors to provide original datasets. 
 
-* Thanks to [COCO-CN](https://github.com/li-xirong/coco-cn) and [Flickr30k CN](https://github.com/li-xirong/cross-lingual-cap) to provide Chinese captions of COCO and Flickr datasets.
+* Thanks to [COCO-CN](https://github.com/li-xirong/coco-cn) and [Flickr30k CN](https://github.com/li-xirong/cross-lingual-cap) to provide the datasets.
 
 
 

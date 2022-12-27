@@ -149,11 +149,11 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 |Dataset Names| Languages | Task |Instruction|
 |:------:|:-----:|:-----:|-------|
-|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
-|[imagenet-a](https://github.com/hendrycks/natural-adv-examples)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
-|[imagenet-r](https://github.com/hendrycks/imagenet-r)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
-|[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
-|[imagenetv2](https://imagenetv2public.s3-us-west-2.amazonaws.com/imagenetv2-matched-frequency.tar.gz)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
+|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it|
+|[imagenet-a](https://github.com/hendrycks/natural-adv-examples)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet-a, imagenet-a_cn, imagenet-a_jp, imagenet-a_it|
+|[imagenet-r](https://github.com/hendrycks/imagenet-r)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet-r, imagenet-r_cn, imagenet-r_jp, imagenet-r_it|
+|[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenet-sketch, imagenet-sketch_cn, imagenet-sketch_jp, imagenet-sketch_it|
+|[imagenetv2](https://imagenetv2public.s3-us-west-2.amazonaws.com/imagenetv2-matched-frequency.tar.gz)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts, including imagenetv2, imagenetv2_cn, imagenetv2_jp, imagenetv2_it|
 |[birdsnap](http://thomasberg.org/datasets/birdsnap/1.1/birdsnap.tgz)|EN|Image Classification|not completed|
 |[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification<br>OCR<br>Geo-Localization|including: caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel|
 |[winoground](https://huggingface.co/datasets/facebook/winoground)|EN|Image-Text Compositionality|visio-linguistic compositional reasoning|

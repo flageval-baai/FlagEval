@@ -155,7 +155,7 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
 |[imagenetv2](https://imagenetv2public.s3-us-west-2.amazonaws.com/imagenetv2-matched-frequency.tar.gz)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
 |[birdsnap](http://thomasberg.org/datasets/birdsnap/1.1/birdsnap.tgz)|EN|Image Classification|not completed|
-|[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification<br>Optical Character Recognition<br>Geo-Localization|including: caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel|
+|[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification<br>OCR<br>Geo-Localization|including: caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel|
 |[winoground](https://huggingface.co/datasets/facebook/winoground)|EN|Image-Text Compositionality|visio-linguistic compositional reasoning|
 |[mscoco_captions](https://cocodataset.org/#captions-2015)|EN/CN|Image-Text Retrieval|1k/5k Chinese translation of captions, with different splits|
 |[flickr_30k](https://www.kaggle.com/datasets/adityajn105/flickr30k)|EN/CN|Image-Text Retrieval|Chinese translation of captions, with different splits|

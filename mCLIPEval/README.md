@@ -99,18 +99,30 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 * To evaluate a pretrained model with checkpoint files, you need to:
     * specify the model script, for example [models/altclip.py](models/altclip.py)
-    * choose the evaluation datasets (for example `cifar10` is an image classification dataset)
+    * choose the evaluation datasets (for example `cifar10` is a classical image classification dataset)
     * download and prepare the datasets with:
         ```
         python download.py --datasets=cifar10
         ```
     * evaluate the pretrained model in the directory `[MODEL_DIR]`
         ```
-        python evaluate.py --model_name=[MODEL_NAME] --model_dir=[MODEL_DIR] --datasets=cifar10 --output=[MODEL_NAME].json
+        python evaluate.py --model_name=[MODEL_NAME] --model_dir=[MODEL_DIR] --model_script=models.altclip --datasets=cifar10 --output=[MODEL_NAME].json
         ```
-    
+    * the evaluation results are saved in `[MODEL_NAME].json` file
+    * [Tips] if the parameter `--datasets` is not specified, all supported datasets are chosen (the process of data preparation and evaluation would take a long time).
 
-
+### Advanced usage examples
+| Function | Description |
+|--------|-------|
+|[Multi-datasets Preparation]()|Download and prepare the datasets specified by names|
+|[Full-datasets Preparation]()|Download and prepare all supported datasets|
+|[Specified-datasets Evaluation]()||
+|[Specified-languages Evaluation]()||
+|[Specified-tasks Evaluation]()||
+|[Built-in Model Evaluation]()|Evaluate a built-in model specified by name|
+|[Pretrained checkpoint Evaluation]()|Evaluate a pretrained model in |
+|[Customized-model Evaluation]()||
+|[Visualization]()||
 
 
 ## Datasets and Models

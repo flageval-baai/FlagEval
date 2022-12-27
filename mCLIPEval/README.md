@@ -158,9 +158,9 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |[torchvision datasets](https://github.com/pytorch/vision/tree/main/torchvision/datasets)|EN|Image Classification<br>OCR<br>Geo-Localization|including: caltech101, cars, cifar10, cifar100, country211, dtd, eurosat, fer2013, fgvc-aircraft, flowers, food101, gtsrb, mnist, objectnet, pcam, pets, renderedsst2, resisc45, stl10, sun397, voc2007, voc2007_multilabel|
 |[winoground](https://huggingface.co/datasets/facebook/winoground)|EN|Image-Text Compositionality|visio-linguistic compositional reasoning|
 |[mscoco_captions](https://cocodataset.org/#captions-2015)|EN/CN|Image-Text Retrieval|1k/5k Chinese translation of captions, with different splits, including mscoco_captions, mscoco_captions_cn_1k, mscoco_captions_cn_5k|
-|[xtd](https://github.com/adobe-research/Cross-lingual-Test-Dataset-XTD10)|EN/CN/DE/ES/FR/IT/JP/KO/PL/RU/TR|Image-Text Retrieval|Multilingual translation of MSCOCO captions, with the same image test splits, including xtd_en, xtd_de, xtd_es, xtd_fr, xtd_it, xtd_jp, xtd_ko, xtd_pl, xtd_ru, xtd_tr, xtd_zh|
-|[flickr_30k](https://www.kaggle.com/datasets/adityajn105/flickr30k)|EN/CN|Image-Text Retrieval|Chinese translation of captions, with different splits, including flickr30k, flickr30k_cn|
-|[multi30k](https://github.com/multi30k/dataset)|EN/FR/DE/CS|Image-Text Retrieval|Multilingual translation of Flickr30k captions, with the same image test splits, including multi30k_en, multi30k_fr, multi30k_de, multi30k_cs|
+|[xtd](https://github.com/adobe-research/Cross-lingual-Test-Dataset-XTD10)|EN/CN/DE/ES/FR/IT/JP/KO/PL/RU/TR|Image-Text Retrieval|Multilingual translation of MSCOCO captions, with the same image test splits, including `xtd_en, xtd_de, xtd_es, xtd_fr, xtd_it, xtd_jp, xtd_ko, xtd_pl, xtd_ru, xtd_tr, xtd_zh`|
+|[flickr_30k](https://www.kaggle.com/datasets/adityajn105/flickr30k)|EN/CN|Image-Text Retrieval|Chinese translation of captions, with different splits, including `flickr30k, flickr30k_cn`|
+|[multi30k](https://github.com/multi30k/dataset)|EN/FR/DE/CS|Image-Text Retrieval|Multilingual translation of Flickr30k captions, with the same image test splits, including `multi30k_en, multi30k_fr, multi30k_de, multi30k_cs`|
 
 
 

@@ -50,7 +50,7 @@ To use mCLIPEval, you need:
 * Python version >= 3.8
 * For evaluating models on GPUs, you'll also need install CUDA and NCCL
 
-[Recommend] For full usage of mCLIPEval, you are recommended to prepare the environments through:
+**[Recommended]** For complete usage, you are recommended to install the required packages through:
 
 ```shell
 pip install -r requirements.txt
@@ -77,14 +77,27 @@ pip install -r requirements.txt
     * 2. install `unzip` command, for Debian/Ubuntu Linux, use ```sudo apt-get install unzip```; for CentOS/RHEL Linux, use
 ```yum install unzip```; for macOS, use ```brew install unzip```.
 
-Or for partial usages, you need to run `pip install torch,torchvision,sklearn` to install required basic enviroments.
+**[Partial]** For partial usage, you need to install required packages: 
 
-* [Optional] To download and prepare datasets, you need to run `pip install -r requirements_dataset.txt` to install required enviroments.
+* **[Necessary]** for basic evaluation:
+    ```
+    pip install torch,torchvision,sklearn
+    ```
 
-* [Optional] To use the supported pretrained models, you need to `pip install -r requirements_models.txt` to install required enviroments.
+* [Optional] for data preparation,    
+    ```
+    pip install -r requirements_dataset.txt
+    ```
 
-* [Optional] To use the visualization, you need to
-`pip install -r requirements_visual.txt` to install required enviroments.
+* [Optional] for usage of pretrained models,
+    ```
+    pip install -r requirements_models.txt
+    ```
+
+* [Optional] for visualization,
+    ```
+    pip install -r requirements_visual.txt
+    ```
 
 ## How to use?
 

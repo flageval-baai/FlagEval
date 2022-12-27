@@ -58,14 +58,7 @@ pip install -r requirements.txt
 
 * [Optional] To use datasets from huggingface (`imagenet1k` in any languages, `winoground`), you need to:
     * 1. generate huggingface API TOKEN (select the role "read") from [huggingface](https://huggingface.co/settings/tokens) following the [instructions](https://huggingface.co/docs/hub/security-tokens);
-    * 2. run the command and add the generated token as git credential:
-            ```
-            huggingface-cli login
-            ```
-            or modify the [download/constants.py](download/constants.py) file with generated token
-            ``` 
-            >>> _HUGGINGFACE_AUTH_TOKEN = "hf_..."
-            ```
+    * 2. run the command and add the generated token as git credential: `huggingface-cli login` or modify the [download/constants.py](download/constants.py) file with generated token `>>> _HUGGINGFACE_AUTH_TOKEN = "hf_..."`
     * 3. click the `Agree and access repository` button on dataset pages ([imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground")) to accept the license agreements of the datasets.
         <p align="center">
         <img src="agreement.png" width=40%>

@@ -53,7 +53,9 @@ You can use the online demo to experience mCLIPEval (will be online soon).
     - [Structure](#structure)
     - [Quick Tour](#quick-tour)
     - [Advanced Usage Examples](#advanced-usage-examples)
-- [Datasets and Models]()(#datasets-and-models)
+- [Datasets and Models](#datasets-and-models)
+    - [Supported Datasets](#supported-datasets)
+    - [Built-in Models](#built-in-models)
 - [Reference](#reference)
 - [Credits](#credits)
 - [License](#license)
@@ -147,7 +149,7 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 |Dataset Names| Languages | Task | Descrition|
 |--------|-------|:-----:|-------|
-|imagenet1k, imagenet1k_cn,<br> imagenet1k_jp, imagenet1k_it| EN,CN,JP,IT|Image Classification| imagenet test set with classnames and prompts in different languages|
+|imagenet1k, imagenet1k_cn,<br> imagenet1k_jp, imagenet1k_it| EN, CN, JP, IT|Image Classification| imagenet test set with classnames and prompts in different languages|
 
 ### Built-in Models
 
@@ -167,9 +169,6 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |[AltCLIP-XLMR-L-m9](https://huggingface.co/BAAI/AltCLIP-m9)|XLMR-L|VIT-L|
 |[eva-clip](https://huggingface.co/BAAI/EVA#eva-clip)|CLIP-L|eva VIT-g|
 |[Taiyi-CLIP-L](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-RoBERTa-102M-ViT-L-Chinese)|RoBERTa-wwm-L|VIT-L|
-
-
-
 
 
 

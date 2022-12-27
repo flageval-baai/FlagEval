@@ -147,9 +147,17 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 ### Supported Datasets
 
-|Dataset Names| Languages | Task | Descrition|
+|Dataset Names| Languages | Task |Instruction|
 |:------:|:-----:|:-----:|-------|
-|imagenet1k| EN/CN/JP/IT|Image Classification| imagenet 2012 test set with classnames and prompts in different languages|
+|[imagenet1k](https://huggingface.co/datasets/imagenet-1k)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
+|[imagenet-a](https://github.com/hendrycks/natural-adv-examples)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
+|[imagenet-r](https://github.com/hendrycks/imagenet-r)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
+|[imagenet-sketch](https://github.com/HaohanWang/ImageNet-Sketch)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
+|[imagenetv2](https://imagenetv2public.s3-us-west-2.amazonaws.com/imagenetv2-matched-frequency.tar.gz)|EN/CN/JP/IT|Image Classification|multilinual classnames and prompts|
+|[winoground](https://huggingface.co/datasets/facebook/winoground)|EN|Image-Text Compositionality|visio-linguistic compositional reasoning|
+|[birdsnap](http://thomasberg.org/datasets/birdsnap/1.1/birdsnap.tgz)|EN|Image Classification|not completed|
+
+
 
 ### Built-in Models
 

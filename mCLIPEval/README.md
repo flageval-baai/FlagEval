@@ -133,8 +133,8 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 | Function | Description |
 |:------:|-------|
-|[Multi-datasets Preparation]()|Download and prepare the datasets specified by names|
-|[Full-datasets Preparation]()|Download and prepare all supported datasets|
+|[Multi-datasets Preparation](download.md#multi-datasets-preparation-example)|Download and prepare the datasets specified by names|
+|[Full-datasets Preparation](download.md#full-datasets-preparation-example)|Download and prepare all supported datasets|
 |[Specified-datasets Evaluation]()|Evaluation on specified datasets|
 |[Specified-languages Evaluation]()|Evaluation on specified languages|
 |[Specified-tasks Evaluation]()|Evaluation on specified tasks|

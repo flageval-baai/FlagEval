@@ -1,52 +1,58 @@
+# Data Preparation
+The tutorial provides you guidance to download and prepare datasets for the requirements of evaluation. Once you already have those datasets, you can organize the datasets in the structure of [Dataset Structure](#dataset-structure) and ignore the following instructions.
+
 ## Downloading Instructions 
 
-You can download and prepare the datasets with the following instructions, or prepare the datasets manually, to organize the datasets in the structure of [Dataset Structure](#dataset-structure).
 
-### Environment
+### Environments
+* If you do not install the recommended required packages in [Requiremnets Installation](README.md#requiremnets-installation), install the required packages for data preparation.
 
-```bash
-pip install -r requirements_dataset.txt
-```
+    ```bash
+    pip install -r requirements_dataset.txt
+    ```
+* [Optional] To use datasets from huggingface (`imagenet1k` in any languages, `winoground`), you need to:
+    * 1. generate huggingface API TOKEN (select the role "read") from [huggingface](https://huggingface.co/settings/tokens) following the [instructions](https://huggingface.co/docs/hub/security-tokens);
+    * 2. run the command and add the generated token as git credential: `huggingface-cli login` or modify the [download/constants.py](download/constants.py) file with generated token `>>> _HUGGINGFACE_AUTH_TOKEN = "hf_..."`
+    * 3. click the `Agree and access repository` button on dataset pages ([imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground")) to accept the license agreements of the datasets.
+        <p align="center">
+        <img src="agreement.png" width=40%>
+        </p>
 
 
-* [Optional] To download and prepare the datasets from huggingface (`imagenet1k`, `winoground`) with mCLIPEval, you need to generate huggingface API TOKEN (select the role "read") from [huggingface](https://huggingface.co/settings/tokens) following the [instructions](https://huggingface.co/docs/hub/security-tokens) and set the value of `_HUGGINGFACE_AUTH_TOKEN= "hf_..."` in `download/constants.py` and click the `Agree and access repository` button on [imagenet-1k]("https://huggingface.co/datasets/imagenet-1k") and [winoground]("https://huggingface.co/datasets/facebook/winoground") dataset pages.
+* [Optional] To use datasets from kaggle (`fer2013`, `flickr30k`, `flickr30k_cn`, `multi30k`), you need to:
+    * 1. generate API token from [kaggle](https://www.kaggle.com/) following the [instructions](https://github.com/Kaggle/kaggle-api#api-credentials).
+    * 2. install `unzip` command, for Debian/Ubuntu Linux, use ```sudo apt-get install unzip```; for CentOS/RHEL Linux, use
+```yum install unzip```; for macOS, use ```brew install unzip```.
 
-* [Optional] To download and prepare the datasets from kaggle (`fer2013`, `flickr30k`, `multi30k`) with mCLIPEval, you need to generate API token from [kaggle](https://www.kaggle.com/) use "Create New API Token" button to download `kaggle.json` and save in kaggle folder (use `python -c 'import os; print(os.path.join(os.path.expanduser("~"), ".kaggle"))'` to see, usually '~/.kaggle'). `unzip` command is also needed.
+### Multi-datasets Preparation Example:
 
-* [Tips]
-To install `unzip` command, for Debian/Ubuntu Linux, use `sudo apt-get install unzip`; for CentOS/RHEL Linux, use
-`yum install unzip`; for macOS, use `brew install unzip`.
+* To download and prepare `cifar10` and `cifar100` datasets, you can use:
 
-### Downloading Datasets
+    ```bash
+    python download.py --datasets=cifar10,cifar100
+    ```
 
-#### Single Datasets:
+* To have the list of datasets, you can use in Python environment:
 
-To download and prepare `cifar10` datasets, you can use:
+    ```python
+    >>> from download.constants import _SUPPORTED_DOWNLOAD_DATASETS
+    >>> print("\n".join(_SUPPORTED_DOWNLOAD_DATASETS))
+    ```
 
-```bash
-python download.py --datasets=cifar10
-```
+### Full-datasets Preparation Example:
 
-To have the list of datasets, you can use:
+* To download and prepare all supported datasets, you can use:
 
-```shell
-python -c 'from download.constants import _SUPPORTED_DOWNLOAD_DATASETS; print("\n".join(_SUPPORTED_DOWNLOAD_DATASETS))'
-```
+    ```bash
+    python download.py
+    ```
+### Parameters:
 
-#### Full Datasets:
+* `--datasets` to specify the downloaded datasets, separated with ",", default to select all datasets.
 
-To download and prepare all supported datasets, you can use:
+* `--root` to set up data folder.
 
-```bash
-python download.py
-```
-#### Parameters:
-
-`--datasets` to specify the downloaded datasets, separated with ",", default to select all datasets.
-
-`--root` to set up data folder.
-
-`--restore` to skip downloaded datasets.
+* `--restore` to skip downloaded datasets.
 
 ### Supplement Instructions
 

@@ -3,6 +3,19 @@ The tutorial provides you guidance to download and prepare datasets for the requ
 
 ## Downloading Instructions 
 
+* The entry file of downloading is [download.py](download.py). 
+
+* [constants.py](download/constants.py) defines the location of dataset folder, supported dataset names and huggingface API token.
+
+* [utils.py](download/utils.py) implements the process of download and data preparation. 
+
+### Parameters:
+
+* `--datasets` to specify the downloaded datasets, separated with ",", default to select all datasets.
+
+* `--root` to set up data folder.
+
+* `--restore` to skip downloaded datasets.
 
 ### Environments
 * If you do not install the recommended required packages in [Requiremnets Installation](README.md#requiremnets-installation), install the required packages for data preparation.
@@ -46,13 +59,6 @@ The tutorial provides you guidance to download and prepare datasets for the requ
     ```bash
     python download.py
     ```
-### Parameters:
-
-* `--datasets` to specify the downloaded datasets, separated with ",", default to select all datasets.
-
-* `--root` to set up data folder.
-
-* `--restore` to skip downloaded datasets.
 
 ### Supplement Instructions
 

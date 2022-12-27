@@ -1,42 +1,30 @@
-## How to Use?
-The complete use of mCLIPEval contains data preparation, evaluation and visualization. 
+# Evaluation
+The tutorial provides you the guidance to evaluate on various setups, which is the core function of mCLIPEval. 
 
-### Quick Start
+## Parameters
 
-* First, download and prepare datasets (imagenet1k as example):
+The entry file of evaluation is [evaluate.py](evaluate.py) which accepts various params.
 
-```
-python download.py --datasets=imagenet1k 
-```
+|Param|Instruction|Values|Optional|Default|
+|:-:|---|:-:|:-:|:-:|
+datasets|to specify the evaluation datasets by names|[The List]()|Yes|Select All|
+languages|to specify the evaluation datasets by languages|EN/CN/DE/CS/<br>FR/ES/IT/JP/<br>KO/PL/RU/TR|Yes|Select All|
+groups|to specify the evaluation datasets by groups|CLASSIFICATION<br>RETRIEVAL<br>COMPOSITIONALITY|Yes|Select All|
+tasks|to specify the evaluation datasets by tasks|Image Classification,<br>Optical Character Recognition,<br>Geo-Localization,<br>Video Act Recognition,<br>Image-Text Retrieval,<br>Image-Text Compositionality|Yes|Select All|
+model_name|the name of model| [List of Built-in models]() or any| No | - |
+model_dir|the model checkpoint folder or the directory to save the downloaded model| - |Yes for built-in models| - |
+agency | the agency to provide the model|-|Yes|-|
+output | the result json file ([format example](outputs/AltCLIP-XLMR-L.json))| - | Yes |    `output.json`|
+verbose| the verbose mode| True/False| Yes | False|
+restore| the restore mode, save temporary evaluation results and resume from these results| True/False |Yes|False| 
+root| to customize the evaluation data directory| - | Yes| `eval_benchmarks`|
 
-The downloaded datasets would be saved in `eval_benchmarks/imagenet1k`
+* [Tips] The evaluation process would take some time. You might use `screen` or `nohup` in case interuption of the process caused by network or other reasons.
 
-* Second, evaluate built-in models (`AltCLIP-XLMR-L-m9`, `M-CLIP`) on downloaded datasets (`imagenet1k`, `imagenet1k_cn`, `imagenet1k_jp`,  `imagenet1k_it`):
+* [Tips] Use `--restore`, the temporary evaluation results would be saved in `eval.[MODEL_NAME]/[DATASET_NAME].json`, delete the files when not needed.
 
-```shell
-python evaluate.py --model_name=AltCLIP-XLMR-L --datasets=imagenet1k --output=altclip.json
-python evaluate.py --model_name=M-CLIP --datasets=imagenet1k --output=mclip.json
-```
-The evaluation results would be saved in `altclip.json` and `mclip.json`
+### Examples 
 
-* Finally, visualize the evaluation results:
-
-```shell
-streamlit run visual.py -- --json=altclip.json,mclip.json
-```
-
-For advanced usages of each modules, please follow to instructions below:
-
-### Data Preparation
-
-Please refer to [download.md](download.md) for instructions on how to download and prepare the supported datasets.
-
-### Evaluation 
-
-You can evaluate a model on multiple datasets once a time with `evaluate.py` with different parameters. 
-* [Tips] The evaluation process would take some time. You might use `screen` or `nohup` in case interuption of the process.
-* [Tips] The default data directory is `eval_benchmarks`. You can use `--root=[YOUR_DATA_DIRECTORY]` to use customize data directory.
-* [Tips] You can use `--verbose` to save temporary evaluation results and resume from these results. 
 
 
 #### CIFAR-10 and CIFAR-100 example

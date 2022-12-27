@@ -147,6 +147,23 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |--------|-------|-------|-------|-------|
 |imagenet| EN,CN,JP,IT|Image Classification| imagenet test set with classnames and prompts in different languages|imagenet1k, imagenet1k_cn, imagenet1k_jp, imagenet1k_it|
 
+|Model Name|Text Encoder|Vision Encoder|Description|
+|-----|------------|--------------|-----------|
+|[openai-clip-L](https://huggingface.co/openai/clip-vit-large-patch14)|CLIP-L|VIT-L|
+|[openai-clip-L-336](https://huggingface.co/openai/clip-vit-large-patch14-336)|CLIP-L|VIT-L|
+|[openclip-L](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K)|CLIP-L|VIT-L|
+|[openclip-L-v0](https://github.com/mlfoundations/open_clip/releases/download/v0.2-weights/vit_l_14-laion400m_e32-3d133497.pt)|CLIP-L|VIT-L|
+|[openclip-H](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K)|CLIP-H|VIT-H|
+|[openclip-H-XLMR-L](https://huggingface.co/laion/CLIP-ViT-H-14-frozen-xlm-roberta-large-laion5B-s13B-b90k)|XLMR-L|VIT-H|
+|[openclip-B-XLMR-B](https://huggingface.co/laion/CLIP-ViT-H-14-frozen-xlm-roberta-large-laion5B-s13B-b90k)|XLMR-B|VIT-B|
+|[cn-clip-L](https://huggingface.co/OFA-Sys/chinese-clip-vit-large-patch14)|RoBERTa-wwm-L|VIT-L|
+|[cn-clip-L-336](https://huggingface.co/OFA-Sys/chinese-clip-vit-large-patch14-336px)|RoBERTa-wwm-L|VIT-L|
+|[M-CLIP](https://huggingface.co/gzomer/clip-multilingual)|XLMR-L|VIT-L|
+|[AltCLIP-XLMR-L](https://huggingface.co/BAAI/AltCLIP)|XLMR-L|VIT-L|
+|[AltCLIP-XLMR-L-m9](https://huggingface.co/BAAI/AltCLIP-m9)|XLMR-L|VIT-L|
+|[eva-clip](https://huggingface.co/BAAI/EVA#eva-clip)|CLIP-L|eva VIT-g|
+|[Taiyi-CLIP-L](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-RoBERTa-102M-ViT-L-Chinese)|RoBERTa-wwm-L|VIT-L|
+
 
 
 

@@ -184,7 +184,7 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |[M-CLIP](https://huggingface.co/gzomer/clip-multilingual)|XLMR-L|VIT-L|RISE's multilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder|
 |[AltCLIP-XLMR-L](https://huggingface.co/BAAI/AltCLIP)|XLMR-L|VIT-L|BAAI's bilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder|
 |[AltCLIP-XLMR-L-m9](https://huggingface.co/BAAI/AltCLIP-m9)|XLMR-L|VIT-L|BAAI's multilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder|
-|[eva-clip](https://huggingface.co/BAAI/EVA#eva-clip)|CLIP-L|eva VIT-g|BAAI's clip model with `Vit-H-14` as image encoder and and default tranformer as text encoder|
+|[eva-clip](https://huggingface.co/BAAI/EVA#eva-clip)|CLIP-L|eva VIT-g|BAAI's clip model with the pretrained `eva`(size `Vit-g-14`) as image encoder and and default tranformer as text encoder|
 |[Taiyi-CLIP-L](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-RoBERTa-102M-ViT-L-Chinese)|RoBERTa-wwm-L|VIT-L|Noah's Chinese CLIP model with `Vit-L-14` as image encoder and `RoBERTa-wwm-Large` as text encoder|
 
 

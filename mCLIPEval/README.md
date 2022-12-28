@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------
 
-The mCLIPEval tookit provides generic evaluation for pretrained vision-language models (such as CLIP, Contrastive Language–Image Pre-training). More precisely, mCLIPEval provides evaluations:
+The mCLIPEval (multilingual evaluation for CLIP) tookit provides generic evaluation for pretrained vision-language models (such as CLIP, Contrastive Language–Image Pre-training). More precisely, mCLIPEval provides evaluations:
 
 - On multilingual (12 languages) datasets and monolingual (English/Chinese) datasets, for tasks like zeroshot image/video classification, zeroshot image-to-text and text-to image retrieval and zeroshot visio-linguistic compositionality.
 

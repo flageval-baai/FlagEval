@@ -243,7 +243,7 @@ _DATASET_INFO = {
     },
     "cars": {
         "group": "CLASSIFICATION",
-        "task": "Geo-Localization",
+        "task": "Image Classification",
         "language": "EN",
         "modal": "VISION",
         "metrics": [

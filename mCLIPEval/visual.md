@@ -22,11 +22,11 @@ First, you need to need to install the packages to support visualization:
 
 `pip install -r requirements_visual.txt`
 
-Second, you should prepare evaluation result files. In this example, we take two evaluation result files named `altclip.json` and `evaclip.json`.
+Second, you should prepare evaluation result files. In this example, we take two evaluation result files named `AltCLIP-XLMR-L.json` and `openclip-L.json`.
 
 Then, you can run the visualization module by providing the evaluation file names:
 
-`streamlit run visual.py -- --json=altclip.json,evaclip.json`
+`streamlit run visual.py -- --json=AltCLIP-XLMR-L.json,openclip-L.json`
 
 
 
@@ -34,8 +34,6 @@ Then, you can run the visualization module by providing the evaluation file name
 
 The default url of web application is: `http://localhost:8501/`
 
-Here are the snapshots of the visualization webpages.
+Here is the snapshot of the visualization webpages.
 
-![snapshot1.jpg](snapshot1.jpg)
-
-![snapshot2.jpg](snapshot2.jpg)
+![snapshot1.png](snapshots/snapshot1.png)

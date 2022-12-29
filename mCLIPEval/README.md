@@ -18,9 +18,9 @@ mCLIPEval provides APIs to quickly download and preparation of public datasets f
 
 mCLIPEval provides visualization of evaluation results through [streamlit](https://streamlit.io/) web app, to see the comparsions of performances on specific languages, tasks, or model parameters.
 
-Below is the line chart to show the performances of some open-source models.
+Below is the scatter plot to show the performances of some open-source models.
 
-![snapshot0.png](snapshot0.png)
+![snapshot0.png](snapshots/snapshot0.png)
 
 --------------------------------------------------------------------------------
 ## Online Demo

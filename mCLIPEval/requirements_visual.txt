@@ -1,2 +1,2 @@
-streamlit==1.12.2
-altair==4.2.0
+streamlit==1.16.0
+plotly==5.11.0

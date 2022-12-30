@@ -25,7 +25,7 @@ Below is the scatter plot to show the performances of some open-source models.
 --------------------------------------------------------------------------------
 ## Online Demo
 
-You can use the online demo to experience mCLIPEval (will be online soon).
+You can use the [online demo](https://flagopen.baai.ac.cn/flageval/example) to experience mCLIPEval.
 
 ## with mCLIPEval, I can ...
 

@@ -5,11 +5,11 @@
 
 ### 简介
 
-**FlagEval**是一个面向AI基础模型的评测平台。我们的目标是探索和集合**科学**、**公正**、**开放**的基础模型评测基准、方法及工具，对**多领域**（如语言、语音、视觉及多模态）的基础模型进行**多维度**（如准确性、效率、鲁棒性等）的评测。我们希望通过对基础模型的评测，加深对基础模型的理解，促进相关的技术创新及产业应用。
+**FlagEval**是一个面向AI基础模型的评测工具包。我们的目标是探索和集合**科学**、**公正**、**开放**的基础模型评测基准、方法及工具，对**多领域**（如语言、语音、视觉及多模态）的基础模型进行**多维度**（如准确性、效率、鲁棒性等）的评测。我们希望通过对基础模型的评测，加深对基础模型的理解，促进相关的技术创新及产业应用。
 
 目前开放**多模态领域**的评测工具，更多领域、更多维度的评测工具正在持续开发中，欢迎加入共同建设。
 
-* 现在支持多语言的CLIP(Contrastive Language–Image Pre-training)系列模型的工具包[**mCLIPEval**](https://github.com/FlagOpen/FlagEval/tree/master/mCLIPEval)，特点如下：
+* 现在支持多语言的CLIP(Contrastive Language–Image Pre-training)系列模型的评测工具包[**mCLIPEval**](https://github.com/FlagOpen/FlagEval/tree/master/mCLIPEval)，特点如下：
 	- 支持多语言（12种）评测数据和单语言（英文/中文）评测数据
 	- 支持多种任务评测，包括zeroshot classification、zeroshot retrieval 以及 zeroshot composition等
 	- 支持已**适配的基础模型**及**用户自定义基础模型**的评测，目前已适配的基础模型包括[FlagAI](https://github.com/FlagAI-Open/FlagAI) 中的([AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)， [EVA-CLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP))，[OpenCLIP](https://github.com/mlfoundations/open_clip) ，[Chinese CLIP](https://github.com/OFA-Sys/Chinese-CLIP)，[Multilingual CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) ，[Taiyi](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html)系列等

@@ -5,7 +5,7 @@
 
 ### Overview
 
-**FlagEval** is an evaluation platform for AI large foundation models. Our goal is to explore and integrate **scientific**, **fair** and **open** foundation model evaluation benchmarks, methods and tools. FlagEval will support **multi-dimensional** evaluation (such as accuracy, efficiency, robustness, etc.) of foundation models in/cross different modalities (such as NLP, audio, CV and multimodal) in the future. We hope that through the evaluation of the foundation models, we can deepen the understanding of the foundation models and promote related technological innovation and industrial application.
+**FlagEval** is an evaluation toolkit for AI large foundation models. Our goal is to explore and integrate **scientific**, **fair** and **open** foundation model evaluation benchmarks, methods and tools. FlagEval will support **multi-dimensional** evaluation (such as accuracy, efficiency, robustness, etc.) of foundation models in/cross different modalities (such as NLP, audio, CV and multimodal) in the future. We hope that through the evaluation of the foundation models, we can deepen the understanding of the foundation models and promote related technological innovation and industrial application.
 
 * A evaluation toolkit [**mCLIPEval**](https://github.com/FlagOpen/FlagEval/tree/master/mCLIPEval) for vision-language models (such as CLIP, Contrastive Language–Image Pre-training).
 	- Multilingual (12 languages) datasets and monolingual (English/Chinese) datasets.

@@ -15,7 +15,7 @@ _FUNC_ = {
     "COMPOSITIONALITY": zeroshot_composition
 }
 
-def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=None, task_names=None, group_names=None, languages=None, verbose=False, restore=False):
+def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=None, task_names=None, group_names=None, languages=None, verbose=False, restore=False, ignore=False):
     dump_metrics = {}
     if model_config:
         eval_model = EvalModel(model_config=model_config)
@@ -46,7 +46,20 @@ def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=Non
                     dump_metrics[dataset.name]=res
                     print(f'Skip {dataset.name} for {model.name}')
                     continue
-            res = function(
+            if ignore:
+                try:
+                    res = function(
+                        model=model, 
+                        dataset=dataset, 
+                        batch_size=batch_size, 
+                        num_workers=num_workers, 
+                        verbose=verbose
+                    )
+                except:
+                    print(f'Dataset {dataset} Evaluation Failure, IGNORE')
+                    continue
+            else:
+                res = function(
                     model=model, 
                     dataset=dataset, 
                     batch_size=batch_size, 
@@ -83,6 +96,7 @@ def main():
     parser.add_argument('--num_workers', type=int, default=4, help="number of workers processing evaluation")
     parser.add_argument('--verbose', default=False, action="store_true", help="verbose mode")
     parser.add_argument('--restore', default=False, action="store_true", help="restore temporary evaluation results")
+    parser.add_argument('--ignore', default=False, action="store_true", help="ignore the datasets which is not completed")
     
     args = parser.parse_args()
 
@@ -131,7 +145,8 @@ def main():
         group_names=parse_multistr_args(args.groups),
         languages=parse_multistr_args(args.languages), 
         verbose=args.verbose,
-        restore=args.restore
+        restore=args.restore,
+        ignore = args.ignore
     )
     print(dump_metrics)
     with open(args.output, "w") as f:

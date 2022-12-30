@@ -56,7 +56,7 @@ def evaluate(batch_size, num_workers, model_config, root=None, dataset_names=Non
                         verbose=verbose
                     )
                 except:
-                    print(f'Dataset {dataset} Evaluation Failure, IGNORE')
+                    print(f'Dataset {dataset.name} Evaluation Failure, IGNORE')
                     continue
             else:
                 res = function(

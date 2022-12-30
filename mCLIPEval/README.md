@@ -187,26 +187,6 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |[eva-clip](https://huggingface.co/BAAI/EVA#eva-clip)|CLIP-L|eva VIT-g|BAAI's clip model with the pretrained `eva`(size `Vit-g-14`) as image encoder and and default tranformer as text encoder|
 |[Taiyi-CLIP-L](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-RoBERTa-102M-ViT-L-Chinese)|RoBERTa-wwm-L|VIT-L|Noah's Chinese CLIP model with `Vit-L-14` as image encoder and `RoBERTa-wwm-Large` as text encoder|
 
-
-
-
-
-## Reference
-
-If you find this work helpful, please consider to ⭐️ this repo and cite
-```
-@article{https://doi.org/10.48550/arxiv.2211.06679,
-  doi = {10.48550/ARXIV.2211.06679},
-  url = {https://arxiv.org/abs/2211.06679},
-  author = {Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences},
-  title = {AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}
-```
-
 ## Contributing 
 Thanks for your interest in contributing! Apart from regular commits, we also welcome contributions to resources (datasets, models, tasks).
 

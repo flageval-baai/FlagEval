@@ -29,19 +29,17 @@ pip install -r requirements.txt
 Please refer to [mCLIPEval/README.md](https://github.com/FlagOpen/FlagEval/tree/master/mCLIPEval/README.md) for more details.
 
 ### Citation
-If you find our work helpful, please **star🌟** this repo and **cite📑** our paper. Thanks for your support!
+If you find our work helpful, please consider to **star🌟** this repo and **cite📑**: 
 ```
-@article{https://doi.org/10.48550/arxiv.2211.06679,
-  doi = {10.48550/ARXIV.2211.06679},
-  url = {https://arxiv.org/abs/2211.06679},
-  author = {Chen, Zhongzhi and Liu, Guang and Zhang, Bo-Wen and Ye, Fulong and Yang, Qinghong and Wu, Ledell},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences},
-  title = {AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@software{flageval,
+author = {Yang, Xi and Zhang, Bo-Wen and Wu, Ledell},
+month = {12},
+title = {FlagEval},
+url = {https://github.com/FlagOpen/FlagEval},
+year = {2022}
 }
 ```
+Thanks for your support!
 
 ### Contact us
 

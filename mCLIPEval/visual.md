@@ -3,6 +3,29 @@ The tutorial provides guidance to visualize the results of `Evaluation` process.
 
 The entry file of visualization is [visual.py](visual.py), with the results of evaluation in json files as input, and build a `streamlit` web application. 
 
+## Interface Usage
+There are three modes in the web app, namely "Leaderboard", "Model vs. Model" and "Single Dataset"
+
+### Leaderboard
+
+Leaderboard shows the evaluation results of selected models and datasets in the format of radar chart, scatter chart and table.
+
+* How to select datasets and models?
+    
+    * specify dataset languages, dataset groups or dataset tasks to select datasets
+    * specify model agencies, model text encoders, model vision encoders to select models
+    * directly specify names to select datasets or models 
+    * [Tips] all selections should be satisfied at the same time.
+    * [Tips] empty selection is regarded as "select all".
+
+![snapshot3.jpg](snapshots/snapshot3.jpg)
+
+* slide to choose radar chart to show the capabilities of language, group, task or dataset dimension. Below is the language capabilities of some built-in models. 
+
+![snapshot4.png](snapshots/snapshot4.png)
+
+
+
 ## Parameters
 * `--json` to specify the input evaluation results with json files, separated by ',', for example, `--json=file1.json,file2.json`.
     * [Tips] wildcard variables is supported, you can use "*", "?":

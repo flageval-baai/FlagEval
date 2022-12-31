@@ -32,7 +32,7 @@ Please refer to [mCLIPEval/README.md](https://github.com/FlagOpen/FlagEval/tree/
 If you find our work helpful, please consider to **star🌟** this repo and **cite📑**: 
 ```
 @software{flageval,
-author = {Yang, Xi and Zhang, Bo-Wen and Wu, Ledell},
+  author = {Yang, Xi and Zhang, Bo-Wen and Wu, Ledell},
   month = {12},
   title = {FlagEval},
   url = {https://github.com/FlagOpen/FlagEval},

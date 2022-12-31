@@ -45,10 +45,10 @@ The majority of FlagEval is licensed under the [Apache 2.0 license](LICENSE), ho
 
 ### Misc
 #### &#8627; Stargazers, thank you for your support!
-[![Stargazers repo roster for @FlagOpen/FlagEval](https://reporoster.com/stars/FlagOpen/FlagEval)](https://github.com/FlagOpen/FlagEval/stargazers)
+[[Stargazers repo roster for @FlagOpen/FlagEval](https://reporoster.com/stars/FlagOpen/FlagEval)](https://github.com/FlagOpen/FlagEval/stargazers)
 
 #### &#8627; Forkers, thank you for your support!
-[![Forkers repo roster for @FlagOpen/FlagEval](https://reporoster.com/forks/FlagOpen/FlagEval)](https://github.com/FlagOpen/FlagEval/network/members)
+[[Forkers repo roster for @FlagOpen/FlagEval](https://reporoster.com/forks/FlagOpen/FlagEval)](https://github.com/FlagOpen/FlagEval/network/members)
 
 
 If you find our work helpful, please consider to **star🌟** this repo. Thanks for your support!

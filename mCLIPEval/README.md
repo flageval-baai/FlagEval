@@ -172,20 +172,20 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 
 |Model Name|Text Encoder|Vision Encoder|Description|
 |:---:|:----------:|:------------:|-----------|
-|[openai-clip-L](https://huggingface.co/openai/clip-vit-large-patch14)|CLIP-L|VIT-L| openai's CLIP with `Vit-L-14` as image encoder and default tranformer as text encoder|
+|[openai-clip-L](https://huggingface.co/openai/clip-vit-large-patch14)|CLIP-L|VIT-L| openai's CLIP with `Vit-L-14` as image encoder and default tranformer as text encoder [paper](https://arxiv.org/abs/2103.00020) [github](https://github.com/openai/CLIP)|
 |[openai-clip-L-336](https://huggingface.co/openai/clip-vit-large-patch14-336)|CLIP-L|VIT-L|the same to `openai-clip-L` while the input image size is 336*336|
-|[openclip-L](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K)|CLIP-L|VIT-L|openclip's implementation with `openai-clip-L` trained with `laion 2B` data|
+|[openclip-L](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K)|CLIP-L|VIT-L|openclip's implementation with `openai-clip-L` trained with `laion 2B` data [github](https://github.com/mlfoundations/open_clip)|
 |[openclip-L-v0](https://github.com/mlfoundations/open_clip/releases/download/v0.2-weights/vit_l_14-laion400m_e32-3d133497.pt)|CLIP-L|VIT-L|openclip's implementation with `openai-clip-L` trained with `laion 400m` data|
 |[openclip-H](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K)|CLIP-H|VIT-H|openclip's pretrained model with `Vit-H-14` as vision encoder|
 |[openclip-H-XLMR-L](https://huggingface.co/laion/CLIP-ViT-H-14-frozen-xlm-roberta-large-laion5B-s13B-b90k)|XLMR-L|VIT-H|openclip's pretrained model with `Vit-H-14` as vision encoder and `XLMR-Large` as text encoder|
 |[openclip-B-XLMR-B](https://huggingface.co/laion/CLIP-ViT-H-14-frozen-xlm-roberta-large-laion5B-s13B-b90k)|XLMR-B|VIT-B|openclip's pretrained model with `Vit-B-32` as vision encoder and `XLMR-Base` as text encoder|
-|[cn-clip-L](https://huggingface.co/OFA-Sys/chinese-clip-vit-large-patch14)|RoBERTa-wwm-L|VIT-L|damo's Chinese CLIP model with `Vit-L-14` as image encoder and `RoBERTa-wwm-Large` as text encoder|
+|[cn-clip-L](https://huggingface.co/OFA-Sys/chinese-clip-vit-large-patch14)|RoBERTa-wwm-L|VIT-L|damo's Chinese CLIP model with `Vit-L-14` as image encoder and `RoBERTa-wwm-Large` as text encoder [paper](https://arxiv.org/abs/2211.01335) [github](https://github.com/OFA-Sys/Chinese-CLIP)|
 |[cn-clip-L-336](https://huggingface.co/OFA-Sys/chinese-clip-vit-large-patch14-336px)|RoBERTa-wwm-L|VIT-L|the same to `cn-clip-L` while the input image size is 336*336| 
-|[M-CLIP](https://huggingface.co/gzomer/clip-multilingual)|XLMR-L|VIT-L|RISE's multilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder|
-|[AltCLIP-XLMR-L](https://huggingface.co/BAAI/AltCLIP)|XLMR-L|VIT-L|BAAI's bilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder|
+|[M-CLIP](https://huggingface.co/gzomer/clip-multilingual)|XLMR-L|VIT-L|RISE's multilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder [paper](https://aclanthology.org/2022.lrec-1.739) [github](https://github.com/FreddeFrallan/Multilingual-CLIP)|
+|[AltCLIP-XLMR-L](https://huggingface.co/BAAI/AltCLIP)|XLMR-L|VIT-L|BAAI's bilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder [paper](https://arxiv.org/abs/2211.06679) [github](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)|
 |[AltCLIP-XLMR-L-m9](https://huggingface.co/BAAI/AltCLIP-m9)|XLMR-L|VIT-L|BAAI's multilingual clip model with `Vit-L-14` as image encoder and `XLMR-Large` as text encoder|
-|[eva-clip](https://huggingface.co/BAAI/EVA#eva-clip)|CLIP-L|eva VIT-g|BAAI's clip model with the pretrained `eva`(size `Vit-g-14`) as image encoder and and default tranformer as text encoder|
-|[Taiyi-CLIP-L](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-RoBERTa-102M-ViT-L-Chinese)|RoBERTa-wwm-L|VIT-L|Noah's Chinese CLIP model with `Vit-L-14` as image encoder and `RoBERTa-wwm-Large` as text encoder|
+|[eva-clip](https://huggingface.co/BAAI/EVA#eva-clip)|CLIP-L|eva VIT-g|BAAI's clip model with the pretrained `eva`(size `Vit-g-14`) as image encoder and and default tranformer as text encoder [paper](https://arxiv.org/pdf/2211.07636.pdf) [github](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP)|
+|[Taiyi-CLIP-L](https://huggingface.co/IDEA-CCNL/Taiyi-CLIP-RoBERTa-102M-ViT-L-Chinese)|RoBERTa-wwm-L|VIT-L|Noah's Chinese CLIP model with `Vit-L-14` as image encoder and `RoBERTa-wwm-Large` as text encoder [paper](https://arxiv.org/abs/2209.02970) [github](https://github.com/IDEA-CCNL/Fengshenbang-LM)|
 
 ## Contributing 
 Thanks for your interest in contributing! Apart from regular commits, we also welcome contributions to resources (datasets, models, tasks).

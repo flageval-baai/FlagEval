@@ -174,7 +174,7 @@ The complete use of mCLIPEval contains three standalone modules: data preparatio
 |:---:|:----------:|:------------:|-----------|
 |[openai-clip-L](https://huggingface.co/openai/clip-vit-large-patch14)|CLIP-L|VIT-L| openai's CLIP with `Vit-L-14` as image encoder and default tranformer as text encoder [[paper](https://arxiv.org/abs/2103.00020)] [[github](https://github.com/openai/CLIP)]|
 |[openai-clip-L-336](https://huggingface.co/openai/clip-vit-large-patch14-336)|CLIP-L|VIT-L|the same to `openai-clip-L` while the input image size is 336*336|
-|[openclip-L](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K)|CLIP-L|VIT-L|openclip's implementation with `openai-clip-L` trained with `laion 2B` data [github](https://github.com/mlfoundations/open_clip)|
+|[openclip-L](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K)|CLIP-L|VIT-L|openclip's implementation with `openai-clip-L` trained with `laion 2B` data [[github](https://github.com/mlfoundations/open_clip)]|
 |[openclip-L-v0](https://github.com/mlfoundations/open_clip/releases/download/v0.2-weights/vit_l_14-laion400m_e32-3d133497.pt)|CLIP-L|VIT-L|openclip's implementation with `openai-clip-L` trained with `laion 400m` data|
 |[openclip-H](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K)|CLIP-H|VIT-H|openclip's pretrained model with `Vit-H-14` as vision encoder|
 |[openclip-H-XLMR-L](https://huggingface.co/laion/CLIP-ViT-H-14-frozen-xlm-roberta-large-laion5B-s13B-b90k)|XLMR-L|VIT-H|openclip's pretrained model with `Vit-H-14` as vision encoder and `XLMR-Large` as text encoder|

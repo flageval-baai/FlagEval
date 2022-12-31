@@ -20,10 +20,25 @@ Leaderboard shows the evaluation results of selected models and datasets in the 
 
 ![snapshot3.jpg](snapshots/snapshot3.jpg)
 
-* slide to choose radar chart to show the capabilities of language, group, task or dataset dimension. Below is the language capabilities of some built-in models. 
+* slide to choose radar chart to show the capabilities of language, group, task or dataset dimension. Below is the radar chart of language capabilities on 6 languages of some built-in models.  
 
 ![snapshot4.png](snapshots/snapshot4.png)
 
+* Scatter chart and table of evaluation results are directly updated according to selected datasets and models.
+
+### Model vs. Model
+
+Model vs. Model mode is designed to compare the performances of two specified models dataset by dataset.
+
+* Use selectbox to select the model pairs to compare
+
+* Datasets can be also specified to remove datasets which is not needed, default option is to select all datasets.
+
+The data in the figure are calculated as the difference between the scores of the selected model 1 and the selected model 2 on each data set, where the green bars are the magnitude of the scores of model 1 over model 2 on a given data set, and the blue bars are the magnitude of the scores of model 2 over model 1 on a given data set
+
+### Single Dataset
+
+Single Dataset is designed to show the performances of all models on all metrics of a single dataset. The dataset is specified by the selectbox. 
 
 
 ## Parameters

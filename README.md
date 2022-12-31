@@ -33,10 +33,10 @@ If you find our work helpful, please consider to **star🌟** this repo and **ci
 ```
 @software{flageval,
 author = {Yang, Xi and Zhang, Bo-Wen and Wu, Ledell},
-month = {12},
-title = {FlagEval},
-url = {https://github.com/FlagOpen/FlagEval},
-year = {2022}
+  month = {12},
+  title = {FlagEval},
+  url = {https://github.com/FlagOpen/FlagEval},
+  year = {2022}
 }
 ```
 Thanks for your support!

@@ -1167,7 +1167,6 @@ class ImagenetFamily(Imagenet1k):
 
 class ImagenetCNFamily(Imagenet1kCN):
     def __init__(self, name, wnids=None, **kwargs) -> None:
-        print('&&&&&', name)
         super().__init__(**kwargs)
         self.name = name
         self.initialize_root_dir(dir_name=self.name.replace('_cn', ''), root=kwargs.get('root', None))

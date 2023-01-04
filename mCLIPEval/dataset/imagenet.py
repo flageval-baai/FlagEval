@@ -1167,7 +1167,8 @@ class ImagenetFamily(Imagenet1k):
 
 class ImagenetCNFamily(Imagenet1kCN):
     def __init__(self, name, wnids=None, **kwargs) -> None:
-        super().__init__(name=name, **kwargs)
+        print('&&&&&', name)
+        super().__init__(**kwargs)
         self.name = name
         self.initialize_root_dir(dir_name=self.name.replace('_cn', ''), root=kwargs.get('root', None))
         if wnids:
@@ -1186,7 +1187,7 @@ class ImagenetCNFamily(Imagenet1kCN):
 
 class ImagenetItFamily(Imagenet1kIt):
     def __init__(self, name, wnids=None, **kwargs) -> None:
-        super().__init__(name=name, **kwargs)
+        super().__init__(**kwargs)
         self.name = name
         self.initialize_root_dir(dir_name=self.name.replace('_it', ''), root=kwargs.get('root', None))
         if wnids:
@@ -1205,7 +1206,7 @@ class ImagenetItFamily(Imagenet1kIt):
 
 class ImagenetJpFamily(Imagenet1kJp):
     def __init__(self, name, wnids=None, **kwargs) -> None:
-        super().__init__(name=name, **kwargs)
+        super().__init__(**kwargs)
         self.name = name
         self.initialize_root_dir(dir_name=self.name.replace('_jp', ''), root=kwargs.get('root', None))
         if wnids:

@@ -9,6 +9,8 @@ class Flowers(TemplateDataSet):
     
     def build(self, transform=None, verbose=False):
         ds = Flowers102(root=self.root_dir, split='test', transform=transform, download=False)
+        if ds[0][1] == 1:
+            ds.target_transform = lambda y:y-1
         ds.classes = self.classes
         if verbose:
             print(f'Creating Dataset: {self.name}')

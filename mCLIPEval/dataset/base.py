@@ -127,6 +127,11 @@ class EvalDataset(object):
             Imagenet1kCN, ImagenetACN, ImagenetRCN, ImagenetSketchCN, ImagenetV2CN,
             Imagenet1kJp, ImagenetAJp, ImagenetRJp, ImagenetSketchJp, ImagenetV2Jp,
             Imagenet1kIt, ImagenetAIt, ImagenetRIt, ImagenetSketchIt, ImagenetV2It,
+            Imagenet1kOther, ImagenetAKo, ImagenetRKo, ImagenetSketchKo, ImagenetV2Ko,
+            ImagenetAAr, ImagenetRAr, ImagenetSketchAr, ImagenetV2Ar,
+            ImagenetAEs, ImagenetREs, ImagenetSketchEs, ImagenetV2Es,
+            ImagenetAFr, ImagenetRFr, ImagenetSketchFr, ImagenetV2Fr,
+            ImagenetARu, ImagenetRRu, ImagenetSketchRu, ImagenetV2Ru
         )
         from .flickr import Flickr30k, Flickr30kCN
         from .coco import Mscoco, MscocoCN1k, MscocoCN5k
@@ -166,6 +171,16 @@ class EvalDataset(object):
             return Imagenet1kJp(root=root)
         elif dataset_name == 'imagenet1k_it':
             return Imagenet1kIt(root=root)
+        elif dataset_name == 'imagenet1k_ko':
+            return Imagenet1kOther(root=root, language='KO')
+        elif dataset_name == 'imagenet1k_ar':
+            return Imagenet1kOther(root=root, language='AR')
+        elif dataset_name == 'imagenet1k_es':
+            return Imagenet1kOther(root=root, language='ES')
+        elif dataset_name == 'imagenet1k_fr':
+            return Imagenet1kOther(root=root, language='FR')
+        elif dataset_name == 'imagenet1k_ru':
+            return Imagenet1kOther(root=root, language='RU')
         elif dataset_name == 'imagenet-a':
             return ImagenetA(root=root)
         elif dataset_name == 'imagenet-a_cn':
@@ -174,6 +189,16 @@ class EvalDataset(object):
             return ImagenetAJp(root=root)
         elif dataset_name == 'imagenet-a_it':
             return ImagenetAIt(root=root)
+        elif dataset_name == 'imagenet-a_ko':
+            return ImagenetAKo(root=root)
+        elif dataset_name == 'imagenet-a_ar':
+            return ImagenetAAr(root=root)
+        elif dataset_name == 'imagenet-a_es':
+            return ImagenetAEs(root=root)
+        elif dataset_name == 'imagenet-a_fr':
+            return ImagenetAFr(root=root)
+        elif dataset_name == 'imagenet-a_ru':
+            return ImagenetARu(root=root)
         elif dataset_name == 'imagenet-r':
             return ImagenetR(root=root)
         elif dataset_name == 'imagenet-r_cn':
@@ -182,6 +207,16 @@ class EvalDataset(object):
             return ImagenetRJp(root=root)
         elif dataset_name == 'imagenet-r_it':
             return ImagenetRIt(root=root)
+        elif dataset_name == 'imagenet-r_ko':
+            return ImagenetRKo(root=root)
+        elif dataset_name == 'imagenet-r_ar':
+            return ImagenetRAr(root=root)
+        elif dataset_name == 'imagenet-r_es':
+            return ImagenetREs(root=root)
+        elif dataset_name == 'imagenet-r_fr':
+            return ImagenetRFr(root=root)
+        elif dataset_name == 'imagenet-r_ru':
+            return ImagenetRRu(root=root)
         elif dataset_name == 'imagenet-sketch':
             return ImagenetSketch(root=root)
         elif dataset_name == 'imagenet-sketch_cn':
@@ -190,6 +225,16 @@ class EvalDataset(object):
             return ImagenetSketchJp(root=root)
         elif dataset_name == 'imagenet-sketch_it':
             return ImagenetSketchIt(root=root)
+        elif dataset_name == 'imagenet-sketch_ko':
+            return ImagenetSketchKo(root=root)
+        elif dataset_name == 'imagenet-sketch_ar':
+            return ImagenetSketchAr(root=root)
+        elif dataset_name == 'imagenet-sketch_es':
+            return ImagenetSketchEs(root=root)
+        elif dataset_name == 'imagenet-sketch_fr':
+            return ImagenetSketchFr(root=root)
+        elif dataset_name == 'imagenet-sketch_ru':
+            return ImagenetSketchRu(root=root)
         elif dataset_name == 'imagenetv2':
             return ImagenetV2(root=root)
         elif dataset_name == 'imagenetv2_cn':
@@ -198,6 +243,16 @@ class EvalDataset(object):
             return ImagenetV2Jp(root=root)
         elif dataset_name == 'imagenetv2_it':
             return ImagenetV2It(root=root)
+        elif dataset_name == 'imagenetv2_ko':
+            return ImagenetV2Ko(root=root)
+        elif dataset_name == 'imagenetv2_ar':
+            return ImagenetV2Ar(root=root)
+        elif dataset_name == 'imagenetv2_es':
+            return ImagenetV2Es(root=root)
+        elif dataset_name == 'imagenetv2_fr':
+            return ImagenetV2Fr(root=root)
+        elif dataset_name == 'imagenetv2_ru':
+            return ImagenetV2Ru(root=root)
         elif dataset_name == 'birdsnap':
             return Birdsnap(root=root)
         elif dataset_name == 'caltech101':

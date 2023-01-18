@@ -11,7 +11,7 @@ class Country211(TemplateDataSet):
     
     def build(self, transform=None, verbose=False):
         ds = Country211Dataset(root=self.root_dir, split='test', transform=transform, download=False)
-        self.classes = ds.classes
+        ds.classes = self.classes
         if verbose:
             print(f'Creating Dataset: {self.name}')
             print(f"Dataset size: {len(ds)}")

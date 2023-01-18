@@ -11,7 +11,7 @@ class Kinetics400(TemplateDataSet):
     
     def build(self, transform=None, verbose=False):
         ds = ImageFolder(root=self.root_dir, transform=transform)
-        self.classes = ds.classes
+        ds.classes = self.classes
         if verbose:
             print(f'Creating Dataset: {self.name}')
             print(f"Dataset size: {len(ds)}")

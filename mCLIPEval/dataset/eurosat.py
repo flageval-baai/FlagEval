@@ -9,7 +9,7 @@ class Eurosat(TemplateDataSet):
     
     def build(self, transform=None, verbose=False):
         ds = EuroSAT(root=self.root_dir, transform=transform, download=False)
-        self.classes = ds.classes
+        ds.classes = self.classes
         if verbose:
             print(f'Creating Dataset: {self.name}')
             print(f"Dataset size: {len(ds)}")

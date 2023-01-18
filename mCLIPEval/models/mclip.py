@@ -13,6 +13,7 @@ class MCLIP(TemplateModel):
         model_name = 'M-CLIP/XLM-Roberta-Large-Vit-L-14'
         text_model = pt_multilingual_clip.MultilingualCLIP.from_pretrained(model_name, cache_dir=model_dir).eval().to(self.device)
         tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=model_dir)
+        image_model, _, processor = open_clip.create_model_and_transforms('ViT-B-16-plus-240', pretrained="laion400m_e32", cache_dir=model_dir)
         # 加载CLIP的image encoder
         processor = CLIPProcessor.from_pretrained("openai/clip-vit-large-patch14", cache_dir=model_dir)
         # transform = processor.feature_extractor

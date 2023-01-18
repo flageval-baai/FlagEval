@@ -10,8 +10,6 @@ class Mnist(TemplateDataSet):
     
     def build(self, transform=None, verbose=False):
         ds = MNIST(root=self.root_dir, train=False, transform=transform, download=False)
-        print(self.classes)
-        print(ds.classes)
         ds.classes = self.classes
         if verbose:
             print(f'Creating Dataset: {self.name}')

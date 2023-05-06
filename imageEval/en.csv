@@ -1,0 +1,1625 @@
+prompt,entity,status,color,number,location,paint,culture,hand,face,gender,illogical
+0,"('0',)",0,0,0,0,0,0,0,0,0,0
+42,"('42',)",0,0,0,0,0,0,0,0,0,0
+101,"('101',)",0,0,0,0,0,0,0,0,0,0
+300,"('300',)",0,0,0,0,0,0,0,0,0,0
+300 movie titles,"('titles',)",0,0,1,0,0,0,0,0,0,0
+7 dogs sitting around a poker table,"('dogs', 'table')",1,0,1,1,0,0,0,0,0,2
+"7 dogs sitting around a poker table, two of which are turning away.","('dogs', 'table')",1,0,1,1,0,0,0,0,0,2
+a baby daikon radish,"('daikon radish',)",0,0,1,0,0,0,0,0,0,0
+a baby daikon radish in a tutu,"('baby daikon radish', 'tutu')",0,0,1,1,0,0,0,0,0,2
+a baby daikon radish in a tutu walking a dog,"('daikon radish', 'tutu', 'dog')",1,0,1,1,0,0,0,0,0,2
+a baby penguin,"('baby penguin',)",0,0,1,0,0,0,0,0,0,0
+"a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants","('penguin', 'hat', 'gloves', 'shirt', 'pants')",1,1,1,1,0,0,0,0,0,2
+a ball,"('ball',)",0,0,1,0,0,0,0,0,0,0
+a ballet dancer next to a waterfall,"('dancer', 'waterfall')",0,0,1,1,0,0,0,2,0,0
+a bamboo ladder,"('ladder',)",0,0,1,0,0,0,0,0,0,0
+a bamboo ladder propped up against an oak tree,"('ladder', 'tree')",0,0,1,1,0,0,0,0,0,0
+a banana,"('banana',)",0,0,1,0,0,0,0,0,0,0
+a banana without its peel,"('banana', 'peel')",0,0,1,0,0,0,0,0,0,0
+"A bar of chocolate without a wrapper that has the word ""WRAPPER"" printed on it.","('chocolate', 'wrapper', 'WRAPPER')",0,0,1,1,0,0,0,0,0,0
+A bare kitchen has wood cabinets and white appliances,"('kitchen', 'cabinets', 'appliances')",0,1,1,0,0,0,0,0,0,0
+a barred owl peeking out from dense tree branches,"('owl', 'tree branches')",1,0,1,1,0,0,0,0,0,0
+a basketball game between a team of four cats and a team of three dogs,"('basketball game', 'cats', 'dogs')",0,0,1,0,0,0,0,0,0,2
+a basketball hoop with a large blue ball stuck in it,"('basketball hoop', 'ball')",0,1,1,1,0,0,0,0,0,0
+a basketball to the left of two soccer balls on a gravel driveway,"('basketball', 'balls', 'driveway')",0,0,1,1,0,0,0,0,0,0
+a bat landing on a baseball bat,"('bat', 'baseball bat')",1,0,1,1,0,0,0,0,0,0
+a beach with a cruise ship passing by,"('beach', 'cruise ship')",1,0,1,0,0,0,0,0,0,0
+a beach with apartment buildings next to it,"('beach', 'apartment')",0,0,1,1,0,0,0,0,0,0
+a beat-up truck at the base of the Great Pyramid,"('truck', 'Pyramid')",0,0,1,1,0,0,0,0,0,0
+a bench,"('bench',)",0,0,1,0,0,0,0,0,0,0
+a bench next to a flower pot,"('bench', 'flower pot')",0,0,1,1,0,0,0,0,0,0
+a bench without any cats on it,"('bench', 'cats')",0,0,1,1,0,0,0,0,0,0
+a bicycle wheel that is made of red yarn,"('bicycle wheel', 'yarn')",0,1,1,0,0,0,0,0,0,0
+A Big Ben clock towering over the city of London,"('Big Ben clock',)",1,0,1,1,0,1,0,0,0,0
+a bike rack with some bike locks attached to it but no bicycles,"('bike rack', 'bike locks', 'bicycles')",0,0,1,1,0,0,0,0,0,0
+a bird,"('bird',)",0,0,1,0,0,0,0,0,0,0
+a bird and its reflection in a fountain,"('bird', 'reflection', 'fountain')",0,0,1,1,0,0,0,0,0,0
+A bird gives an apple to a squirrel,"('bird', 'apple', 'squirrel')",1,0,1,0,0,0,0,0,0,2
+a bird landing on a bat,"('bird', 'bat')",1,0,1,1,0,0,0,0,0,0
+a bird standing on a stick,"('bird', 'stick')",1,0,1,1,0,0,0,0,0,0
+a black and orange yin-yang symbol with tiger's heads instead of circles,"('yin-yang symbol', 'tiger', 'heads', 'circles')",0,1,1,0,0,0,0,0,0,0
+A black and white landscape photograph of a black tree,"('photograph', 'tree')",0,1,1,0,0,0,0,0,0,0
+a black background with a large yellow circle,"('background', 'circle')",0,1,1,0,0,0,0,0,0,0
+a black background with a large yellow circle and a small red square,"('background', 'circle', 'square')",0,1,1,0,0,0,0,0,0,0
+a black background with a large yellow square,"('background', 'square')",0,1,1,0,0,0,0,0,0,0
+a black baseball hat,"('hat',)",0,1,1,0,0,0,0,0,0,0
+a black baseball hat with a flame decal on it,"('hat', 'decal')",0,1,1,1,0,0,0,0,0,0
+a black dog jumping up to hug a woman wearing a red sweater,"('dog', 'woman', 'sweater')",1,1,1,1,0,0,2,2,1,0
+a black dog sitting between a bush and a pair of green pants standing up with nobody inside them,"('dog', 'bush', 'pants')",1,1,1,1,0,0,0,0,0,2
+A black dog sitting on a wooden chair. A white cat with black ears is standing up with its paws on the chair.,"('dog', 'chair', 'cat', 'ears', 'paws')",1,1,1,1,0,0,0,0,0,0
+A black dragon perched on top of a tall Egyptian obelisk and breathing flames at a knight on the ground,"('dragon', 'obelisk', 'flames', 'knight', 'ground')",1,1,1,1,0,1,0,2,0,2
+a black shoe with a lightning bolt on it,"('shoe', 'lightning')",0,1,1,1,0,0,0,0,0,0
+a black towel,"('towel',)",0,1,1,0,0,0,0,0,0,0
+a black towel with a cartoon of a dog on it,"('cartoon', 'towel', 'dog')",0,1,1,1,1,0,0,0,0,0
+a black towel with a dog on it,"('towel', 'dog')",0,1,1,1,0,0,0,0,0,0
+a black t-shirt,"('t-shirt',)",0,1,1,0,0,0,0,0,0,0
+a black t-shirt with the peace sign on it,"('t-shirt', 'sign')",0,1,1,1,0,0,0,0,0,0
+a bloody mary cocktail,"('cocktail',)",0,0,1,0,0,0,0,0,0,0
+a bloody mary cocktail next to a napkin,"('cocktail', 'napkin')",0,0,1,1,0,0,0,0,0,0
+a blue airplane taxiing on a runway with the sun behind it,"('airplane', 'runway', 'sun')",1,1,1,1,0,0,0,0,0,0
+a blue cow is standing next to a tree with red leaves and yellow fruit. the cow is standing in a field with white flowers. impressionistic painting,"('cow', 'tree', 'leaves', 'fruit', 'field', 'flowers', 'painting')",1,1,1,1,1,0,0,0,0,0
+a blue cow is standing next to a tree with red leaves and yellow fruit. the cow is standing in a field with white flowers. impressionistic painting.,"('cow', 'tree', 'leaves', 'fruit', 'field', 'flowers', 'painting')",1,1,1,1,1,0,0,0,0,0
+a blue metallic sphere,"('sphere',)",0,1,1,0,0,0,0,0,0,0
+a blue pickup truck with a rhinoceros in its flatbed,"('truck', 'rhinoceros', 'flatbed')",0,1,1,1,0,0,0,0,0,0
+A blue Porsche 356 parked in front of a yellow brick wall,"('Porsche', 'wall')",0,1,1,1,0,0,0,0,0,0
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,"('semi-truck', 'trailer', 'motorcycles', 'ramps')",1,1,1,1,0,0,0,0,0,2
+a blue sports car on the road,"('car', 'road')",0,1,1,1,0,0,0,0,0,0
+a blue t-shirt,"('t-shirt',)",0,1,1,0,0,0,0,0,0,0
+a blue t-shirt with a dinosaur on it,"('t-shirt', 'dinosaur')",0,1,1,1,0,0,0,0,0,0
+a blue wall with a large framed watercolor painting of a mountain,"('wall', 'painting', 'mountain')",0,1,1,0,1,0,0,0,0,0
+a blue wooden pyramid on top of a red plastic box,"('pyramid', 'box')",0,1,1,1,0,0,0,0,0,0
+a boat,"('boat',)",0,0,1,0,0,0,0,0,0,0
+a boat in the canals of venice,"('boat', 'canals')",0,0,1,1,0,1,0,0,0,0
+a boat with 'BLUE GROOVE' written on its hull,"('boat', 'hull', 'BLUE GROOVE')",0,0,1,1,0,0,0,0,0,0
+a book,"('book',)",0,0,1,0,0,0,0,0,0,0
+a book cover,"('book', 'cover')",0,0,1,0,0,0,0,0,0,0
+a book with the words 'Don't Panic!' written on it,"('book', ""Don't Panic!"")",0,0,1,1,0,0,0,0,0,0
+a bookshelf,"('bookshelf',)",0,0,1,0,0,0,0,0,0,0
+a bookshelf with ten books stacked vertically,"('bookshelf', 'books')",0,0,1,1,0,0,0,0,0,0
+a bookshelf without any books on it,"('bookshelf', 'books')",0,0,1,1,0,0,0,0,0,0
+a bottle,"('bottle',)",0,0,1,0,0,0,0,0,0,0
+a bottle of beer next to an ashtray with a half-smoked cigarrette,"('beer', 'ashtray', 'cigarrette')",0,0,1,1,0,0,0,0,0,0
+a bottle of light beer with a lemon slice wedged in the rim,"('beer', 'lemon slice')",0,0,1,1,0,0,0,0,0,0
+a bottle of red wine,"('wine',)",0,1,1,0,0,0,0,0,0,0
+a bowl,"('bowl',)",0,0,1,0,0,0,0,0,0,0
+A bowl of Beef Pho,"('Beef Pho', 'bowl')",0,0,1,0,0,0,0,0,0,0
+A bowl of Chicken Pho,"('Pho',)",0,0,1,0,0,0,0,0,0,0
+A bowl of Pho,"('Pho',)",0,0,1,0,0,0,0,0,0,2
+A bowl of Pho served with bean sprouts on top,"('Pho', 'bean')",0,0,1,1,0,0,0,0,0,0
+A bowl of soup that looks like a monster knitted out of wool,"('soup', 'monster', 'wool')",0,0,1,0,0,0,0,0,0,2
+A bowl of soup that looks like a monster made out of plasticine,"('soup', 'monster', 'plasticine')",0,0,1,0,0,0,0,0,0,2
+A bowl of soup that looks like a monster spray-painted on a wall,"('soup', 'monster', 'wall')",0,0,1,0,0,0,0,0,0,2
+A bowl of soup that looks like a monster with tofu says deep learning,"('soup', 'monster', 'tofu')",0,0,1,0,0,0,0,0,0,2
+a bowl with a cartoon dinosaur on it,"('bowl', 'cartoon dinosaur')",0,0,1,1,0,0,0,0,0,0
+a bowl with a dinosaur on it,"('dinosaur', 'bowl')",0,0,1,1,0,0,0,0,0,2
+a box,"('box',)",0,0,1,0,0,0,0,0,0,0
+a boy,"('boy',)",0,0,1,0,0,0,0,2,2,0
+a boy and a tiger,"('boy', 'tiger')",0,0,1,0,0,0,0,2,2,0
+a boy going to school,"('boy', 'school')",1,0,1,0,0,0,0,2,2,0
+A boy holds and a girl paints a piece of wood.,"('boy', 'girl', 'wood')",1,0,1,1,0,0,2,2,1,0
+a boy jumping off a wall,"('boy', 'wall')",1,0,1,1,0,0,0,2,2,0
+a boy sitting on the shoulders of a woman who is wearing an elegant dress,"('boy', 'shoulders', 'woman', 'dress')",1,0,1,1,0,0,0,2,1,0
+a brown mouse laughing at a gray cat because a 16 ton weight is about to fall on its head,"('mouse', 'cat', 'weight', 'head')",1,1,1,1,0,0,0,0,0,2
+a brown trash bin to the left of a blue recycling bin,"('trash bin', 'recycling bin')",0,1,1,1,0,0,0,0,0,0
+a brown trash bin with a green compost bin on its left and a blue recycling bin on its right,"('trash bin', 'compost bin', 'recycling bin')",0,1,1,1,0,0,0,0,0,0
+a bunch of laptops piled on a sofa,"('laptops', 'sofa')",0,0,1,2,0,0,0,0,0,0
+a bundle of blue and yellow flowers in a vase,"('flowers', 'vase')",0,1,1,1,0,0,0,0,0,0
+"A burger patty, with the bottom bun and lettuce and tomatoes. ""COFFEE"" written on it in mustard","('burger', 'bun', 'lettuce', 'tomatoes', 'mustard', 'COFFEE')",0,0,1,1,0,0,0,0,0,0
+a butterfly,"('butterfly',)",0,0,1,0,0,0,0,0,0,0
+a butterfly kite stuck high in a tree,"('kite', 'tree')",0,0,1,1,0,0,0,0,0,0
+a can of Spam on an elegant plate,"('Spam', 'plate')",0,0,1,1,0,0,0,0,0,2
+a canal,"('canal',)",0,0,1,0,0,0,0,0,0,0
+a canal in Amsterdam,"('canal',)",0,0,1,1,0,1,0,0,0,0
+a canal in Venice,"('canal',)",0,0,1,1,0,1,0,0,0,0
+a capybara,"('capybara',)",0,0,1,0,0,0,0,0,0,0
+a capybara made of voxels sitting in a field,"('capybara', 'voxels', 'field')",1,0,1,1,0,0,0,0,0,0
+a capybara sitting in a field,"('capybara', 'field')",1,0,1,1,0,0,0,0,0,0
+a car,"('car',)",0,0,1,0,0,0,0,0,0,0
+a car and a truck on the road next to a traffic light,"('car', 'truck', 'road', 'traffic light')",0,0,1,1,0,0,0,0,0,0
+a car with no windows,"('car', 'windows')",0,0,1,0,0,0,0,0,0,2
+a car with tires that have yellow rims,"('car', 'tires', 'rims')",0,1,1,0,0,0,0,0,0,0
+a cardboard spaceship,"('spaceship',)",0,0,1,0,0,0,0,0,0,0
+a car's wheel crushing a pair of headphones,"('wheel', 'headphones')",1,0,1,0,0,0,0,0,0,0
+A cartoon house with red roof,"('house', 'roof')",0,1,1,0,1,0,0,0,0,0
+a cartoon of a bear birthday party,"('cartoon', 'party')",0,0,1,0,1,0,0,0,0,0
+a cartoon of a boy playing with a tiger,"('cartoon', 'boy', 'tiger')",1,0,1,0,1,0,0,2,2,0
+a cartoon of a cow jumping over the moon,"('cartoon', 'cow', 'moon')",1,0,1,1,1,0,0,0,0,0
+"a cartoon of a dog saying ""I see what you did there""","('cartoon', 'dog', 'I see what you did there')",1,0,1,0,1,0,0,0,0,0
+a cartoon of a happy car on the road,"('cartoon', 'car', 'road')",0,0,1,1,1,0,0,0,0,0
+a cartoon of a house on a mountain,"('cartoon', 'house', 'mountain')",0,0,1,1,1,0,0,0,0,0
+a cartoon of a man standing under a tree,"('cartoon', 'man', 'tree')",1,0,1,1,1,0,0,2,2,0
+a cartoon of a train going to the moon,"('moon', 'train')",1,0,1,0,1,0,0,0,0,0
+a cartoon of an angry shark,"('cartoon', 'shark')",0,0,1,0,1,0,0,0,0,0
+A cartoon tiger face,"('tiger face',)",0,0,1,0,1,0,0,0,0,0
+A castle made of cardboard.,"('castle', 'cardboard')",0,0,1,0,0,0,0,0,0,0
+"A castle made of tortilla chips, in a river made of salsa. There are tiny burritos walking around the castle","('castle', 'tortilla chips', 'river', 'salsa', 'burritos')",1,0,1,1,0,0,0,0,0,2
+a cat,"('cat',)",0,0,1,0,0,0,0,0,0,0
+a cat chasing a horse,"('cat', 'horse')",1,0,1,0,0,0,0,0,0,0
+a cat coming through a cat door,"('cat', 'door')",1,0,1,1,0,0,0,0,0,0
+A cat dreaming about becoming a tiger,"('cat', 'tiger')",1,0,1,0,0,0,0,0,0,2
+a cat drinking a pint of beer,"('cat', 'beer')",1,0,1,0,0,0,0,0,0,2
+a cat jumping down from a wall,"('cat', 'wall')",1,0,1,1,0,0,0,0,0,0
+a cat jumping in the air,"('cat', 'air')",1,0,1,1,0,0,0,0,0,0
+a cat jumping in the air to catch a bird,"('cat', 'air', 'bird')",1,0,1,1,0,0,0,0,0,0
+a cat jumping in the air to get onto a table,"('cat', 'air', 'table')",1,0,1,1,0,0,0,0,0,0
+a cat jumps over a baby gate,"('cat', 'baby gate')",0,0,1,1,0,0,0,0,0,0
+a cat licking a large felt ball with a drawing of the Eiffel Tower on it,"('cat', 'felt ball', 'drawing', 'Eiffel Tower')",1,0,1,1,0,0,0,0,0,0
+a cat looking out of a window,"('cat', 'window')",1,0,1,0,0,0,0,0,0,0
+a cat looking out of a window at a squirrel on a fence,"('cat', 'window', ' squirrel', 'fence')",1,0,1,1,0,0,0,0,0,0
+a cat patting a crystal ball with the number 7 written on it in black marker,"('cat', 'crystal ball', 'number 7', 'marker')",0,1,1,1,0,0,0,0,0,0
+a cat playing checkers,"('cat', 'checkers')",1,0,1,0,0,0,0,0,0,2
+a cat reading a book,"('cat', 'book')",1,0,1,0,0,0,0,0,0,2
+a cat reading a comic book,"('cat', 'book')",1,0,1,0,1,0,0,0,0,2
+a cat reading a newspaper,"('cat', 'newspaper')",1,0,1,0,0,0,0,0,0,2
+a cat sitting in a car seat,"('cat', 'car seat')",1,0,1,1,0,0,0,0,0,0
+a cat sitting on a box with a drawing of an elephant on it,"('cat', 'box', 'drawing', 'elephant')",1,0,1,1,0,0,0,0,0,0
+a cat sitting on a stairway railing,"('cat', 'stairway railing')",1,0,1,1,0,0,0,0,0,0
+a cat standing on a horse,"('cat', 'horse')",1,0,1,1,0,0,0,0,0,0
+A cat that has black fur bats a red Christmas ornament that has silver sparkles.,"('cat', 'fur bats', 'ornament', 'sparkles')",0,1,1,0,0,0,0,0,0,0
+a cat with four eyes,"('cat', 'eyes')",0,0,1,0,0,0,0,0,0,2
+a cat's tail showing under a couch,"(""cat's tail"", 'couch')",1,0,1,1,0,0,0,0,0,0
+a ceiling fan,"('ceiling fan',)",0,0,1,0,0,0,0,0,0,0
+a ceiling fan with an ornate light fixture,"('ceiling fan', 'light fixture')",0,0,1,0,0,0,0,0,0,0
+a ceiling fan with five brown blades,"('ceiling fan', 'blades')",0,1,1,0,0,0,0,0,0,0
+a ceiling fan with four white blades,"('blades', 'ceiling fan')",0,1,1,0,0,0,0,0,0,0
+a chair,"('chair',)",0,0,1,0,0,0,0,0,0,0
+a chemtrail,"('chemtrail',)",0,0,1,0,0,0,0,0,0,0
+a chemtrail passing between two clouds,"('chemtrail', 'clouds')",1,0,1,1,0,0,0,0,0,0
+a chess queen to the right of a chess knight,"('chess queen', 'chess knight')",0,0,1,1,0,0,0,0,0,0
+a chest,"('chest',)",0,0,1,0,0,0,0,0,0,0
+a child,"('child',)",0,0,1,0,0,0,0,2,0,0
+a child and a penguin sitting on the moon,"('child', 'penguin', 'moon')",1,0,1,1,0,0,0,2,0,2
+a child eating a birthday cake near some palm trees,"('child', 'cake', 'trees')",1,0,1,1,0,0,2,2,0,0
+a child in the air while jumping on a trampoline,"('child', 'air', 'trampoline')",1,0,1,1,0,0,0,2,0,0
+a child unraveling a roll of toilet paper,"('child', 'toilet paper')",1,0,1,0,0,0,2,2,0,0
+a chimpanzee,"('chimpanzee',)",0,0,1,0,0,0,0,0,0,0
+a chimpanzee sitting on a wooden bench,"('chimpanzee', 'bench')",1,0,1,1,0,0,0,0,0,0
+a chimpanzee wearing a bowtie and playing a piano,"('chimpanzee', 'bowtie', 'piano')",1,0,1,1,0,0,0,0,0,2
+a chopper decorated with the Stars and Stripes,"('chopper', 'Stars', 'Stripes')",0,0,1,0,0,0,0,0,0,0
+a Christmas tree,"('Christmas tree',)",0,0,1,0,0,0,0,0,0,0
+a Christmas tree on a toy train,"('Christmas tree', 'toy train')",0,0,1,1,0,0,0,0,0,0
+a circle,"('circle',)",0,0,1,0,0,0,0,0,0,0
+a circular brown trash bin in front of a brick wall,"('trash bin', 'wall')",0,1,1,1,0,0,0,0,0,0
+a circular logo,"('logo',)",0,0,1,0,0,0,0,0,0,0
+a circular logo on a coffee mug,"('logo', 'mug')",0,0,1,1,0,0,0,0,0,0
+a city,"('city',)",0,0,1,0,0,0,0,0,0,0
+A city in 4-dimensional space-time,"('city',)",0,0,1,0,0,0,0,0,0,0
+a city intersection,"('intersection',)",0,0,1,0,0,0,0,0,0,0
+a city intersection without cars,"('intersection', 'city', 'cars')",0,0,1,0,0,0,0,0,0,0
+a cityscape at night with a full moon,"('cityscape', 'moon')",0,0,1,0,0,0,0,0,0,0
+a classroom without any students,"('classroom', 'students')",0,0,1,0,0,0,0,0,0,0
+a clock,"('clock',)",0,0,1,0,0,0,0,0,0,0
+a clock tower,"('clock tower',)",0,0,1,0,0,0,0,0,0,0
+a clock with no hands,"('clock', 'hands')",0,0,1,0,0,0,0,0,0,2
+a close up of a handpalm with leaves growing from it,"('close up', 'handpalm', 'leaves')",1,0,1,1,0,0,0,0,0,2
+"A close-up high-contrast photo of Sydney Opera House sitting next to Eiffel tower, under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blue","('photo', 'Opera House', 'Eiffel tower', 'night sky', 'energy', 'stars', 'swirls')",1,1,1,1,0,1,0,0,0,2
+a close-up of a bloody mary cocktail,"('close-up', 'cocktail')",0,0,1,0,0,0,0,0,0,0
+a close-up of a blue dragonfly on a daffodil,"('close-up', 'dragonfly', 'daffodil')",0,1,1,1,0,0,0,0,0,0
+a close-up of a long-island ice tea cocktail,"('close-up', 'cocktail')",0,0,1,0,0,0,0,0,0,0
+a close-up of a margarita,"('close-up', 'margarita')",0,0,1,0,0,0,0,0,0,0
+a close-up of an old-fashioned cocktail,"('close-up', 'cocktail')",0,0,1,0,0,1,0,0,0,0
+a close-up of an ostrich's face,"('close-up', ""ostrich's face"")",0,0,1,0,0,0,0,0,0,0
+a close-up of the eye of the planet Jupiter,"('close-up', 'eye', 'Jupiter')",0,0,1,0,0,0,0,0,0,0
+a close-up of the eyes of an owl,"('close-up', 'eyes', 'owl')",0,0,1,0,0,0,0,0,0,0
+a close-up of the keys of a piano,"('close-up', 'keys', 'piano')",0,0,1,0,0,0,0,0,0,0
+"A close-up of two beetles wearing karate uniforms and fighting, jumping over a waterfall.","('close-up', 'beetles', 'uniforms', 'waterfall')",1,0,1,1,0,0,0,0,0,2
+"A close-up of two chameleons wearing karate uniforms and fighting, jumping over a waterfall.","('chameleons', 'uniforms', 'waterfall', 'close-up')",1,0,1,1,0,0,0,0,0,2
+"A close-up of two mantis wearing karate uniforms and fighting, jumping over a waterfall.","('close-up', 'mantis', 'uniforms', 'waterfall')",1,0,1,1,0,0,0,0,0,2
+A close-up photo of a wombat wearing a red backpack and raising both arms in the air. Mount Rushmore is in the background.,"('photo', 'wombat', 'backpack', 'arms', 'air', 'Mount Rushmore', 'background')",1,1,1,1,0,0,0,0,0,2
+a cloud in the shape of a castle,"('cloud', 'castle')",0,0,1,0,0,0,0,0,0,0
+a cloud in the shape of a elephant,"('elephant', 'cloud')",0,0,1,0,0,0,0,0,0,0
+a cloud in the shape of a teacup,"('cloud', 'teacup')",0,0,1,0,0,0,0,0,0,0
+a cocktail,"('cocktail',)",0,0,1,0,0,0,0,0,0,0
+a coffee maker,"('coffee maker',)",0,0,1,0,0,0,0,0,0,0
+a coffee mug,"('mug',)",0,0,1,0,0,0,0,0,0,0
+a coffee mug floating in the sky,"('mug', 'sky')",1,0,1,1,0,0,0,0,0,2
+a coffee mug with an ankh symbol on it,"('mug', 'symbol')",0,0,1,1,0,0,0,0,0,0
+a coffee table,"('table',)",0,0,1,0,0,0,0,0,0,0
+a coffee table with a magazine on it,"('table', 'magazine')",0,0,1,1,0,0,0,0,0,0
+a collection of glasses,"('glasses',)",0,0,1,0,0,0,0,0,0,0
+a collection of glasses is sitting on a table,"('glasses', 'table')",1,0,1,1,0,0,0,0,0,0
+a coloring book page of a horse next to a stream,"('page', 'horse', 'stream')",0,0,1,1,0,0,0,0,0,0
+a comic about a boy and a tiger,"('comic', 'boy', 'tiger')",0,0,1,0,1,0,0,2,2,0
+a comic about a boy going to school,"('comic', 'boy', 'school')",1,0,1,0,1,0,0,2,2,0
+a comic about a family on a road trip,"('comic', 'family', 'road')",0,0,1,1,1,0,0,2,0,0
+a comic about a father and a son playing tennis,"('comic', 'father', 'son', 'tennis')",1,0,1,0,1,0,2,2,2,0
+a comic about a friendly car in the city,"('comic', 'car', 'city')",0,0,1,1,1,0,0,0,0,0
+a comic about a girl going to a farm,"('comic', 'girl', 'farm')",1,0,1,0,1,0,0,2,1,0
+a comic about an owl family in the forest,"('comic', 'owl', 'forest')",0,0,1,1,1,0,0,0,0,0
+a comic about two cats doing research,"('comic', 'cats')",1,0,1,0,1,0,0,0,0,0
+a comic book supervillian,"('supervillian', 'book')",0,0,1,0,1,0,0,2,0,0
+a compass next to a piece of fruit,"('compass', 'fruit')",0,0,1,1,0,0,0,0,0,0
+a concert without any fans,"('concert', 'fans')",0,0,1,0,0,0,0,0,0,0
+a corgi,"('corgi',)",0,0,1,0,0,0,0,0,0,0
+a corgi wearing a red bowtie and a purple party hat,"('corgi', 'bowtie', 'hat')",1,1,1,1,0,0,0,0,0,0
+a corgi��s head,"('corgi��s head',)",0,0,1,0,0,0,0,0,0,0
+a corgi��s head depicted as an explosion of a nebula,"('corgi��s head', 'nebula')",0,0,1,0,0,0,0,0,0,2
+a cow,"('cow',)",0,0,1,0,0,0,0,0,0,0
+a cow eating a green leafy plant,"('cow', 'plant')",1,1,1,0,0,0,0,0,0,0
+a cow jumping over the moon,"('cow', 'moon')",1,0,1,0,0,0,0,0,0,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,"('living room', 'painting', 'corgi', 'wall', 'couch', 'table', 'flowers')",0,0,1,1,0,0,0,0,0,0
+a crayon drawing of a space elevator,"('drawing', 'elevator')",0,0,1,0,1,0,0,0,0,0
+a cream colored labradoodle next to a white cat with black-tipped ears,"('labradoodle', 'cat', 'ears')",0,1,1,1,0,0,0,0,0,0
+a cream-colored labradoodle wearing glasses and black beret teaching calculus at a blackboard,"('labradoodle', 'glasses', 'beret', 'calculus', 'blackboard')",1,1,1,1,0,0,0,0,0,2
+a crescent moon viewed between tree branches at night,"('moon', ' tree branches')",0,0,1,1,0,0,0,0,0,0
+a cricket team walking on to the pitch,"('cricket team', 'pitch')",1,0,1,1,0,0,0,2,0,0
+a cricketer standing next to a wicket,"('cricketer', 'wicket')",1,0,1,1,0,0,0,2,0,0
+a cross-section view of a walnut,"('a cross-section view of a walnut', 'walnut')",0,0,1,0,0,0,0,0,0,0
+a crowd of people watching fireworks,"('people', 'fireworks')",1,0,1,0,0,0,0,0,0,0
+a crowd of people watching fireworks by a city,"('people', 'fireworks', 'city')",1,0,1,1,0,0,0,2,0,0
+a crowd of people watching fireworks by a park,"('people', 'fireworks', 'park')",1,0,1,1,0,0,0,2,0,0
+a crown,"('crown',)",0,0,1,0,0,0,0,0,0,0
+a crown with a ruby in its center,"('crown', 'ruby')",0,0,1,1,0,0,0,0,0,0
+a cube made of porcupine,"('cube', 'porcupine')",0,0,1,0,0,0,0,0,0,2
+a cup of boba,"('boba',)",0,0,1,0,0,0,0,0,0,0
+a cute illustration of a horned owl with a graduation cap and diploma,"('illustration', 'owl', 'graduation cap', 'diploma')",0,0,1,1,1,0,0,0,0,0
+a cute wooden owl statue holding a large globe of the Earth above its head,"('owl', 'statue', 'Earth', 'head')",1,0,1,1,0,0,0,0,0,0
+a diagram of a suburban house,"('diagram', 'house')",0,0,1,0,0,0,0,0,0,0
+a diagram of brain function,"('diagram', 'brain')",0,0,1,0,0,0,0,0,0,0
+a diagram of how the geyser Old Faithful works,"('diagram', 'geyser Old Faithful')",0,0,1,0,0,0,0,0,0,0
+a diagram of the Great Wall,"('diagram', 'Great Wall')",0,0,1,0,0,0,0,0,0,0
+a diagram of the human digestive system,"('diagram', 'digestive system')",0,0,1,0,0,0,0,0,0,0
+a diagram of the inside of the Great Pyramid,"('diagram', 'Pyramid', 'inside')",0,0,1,0,0,0,0,0,0,0
+a diagram of the solar system,"('diagram', 'solar system')",0,0,1,0,0,0,0,0,0,0
+a diagram of the star constellations,"('diagram', 'constellations')",0,0,1,0,0,0,0,0,0,0
+"A dignified beaver wearing glasses, a vest, and colorful neck tie. He stands next to a tall stack of books in a library.","('beaver', 'glasses', 'vest', 'tie', 'books', 'library')",1,2,1,1,0,0,0,0,0,2
+a Diplodocus,"('Diplodocus',)",0,0,1,0,0,0,0,0,0,0
+a Diplodocus standing in a lake,"('Diplodocus', 'lake')",1,0,1,1,0,0,0,0,0,0
+a diplodocus standing in front of the Millennium Wheel,"('diplodocus', 'Millennium Wheel')",1,0,1,1,0,0,0,0,0,0
+A dog gives an apple to a squirrel,"('dog', 'apple', 'squirrel')",1,0,1,0,0,0,0,0,0,2
+a dog wearing a baseball cap backwards and writing BONEZ on a chalkboard,"('dog', 'cap', 'chalkboard', 'BONEZ')",1,0,1,1,0,0,0,0,0,2
+a dolphin,"('dolphin',)",0,0,1,0,0,0,0,0,0,0
+a dolphin in an astronaut suit,"('dolphin', 'astronaut suit')",0,0,1,1,0,0,0,0,0,2
+a dolphin in an astronaut suit on saturn,"('dolphin', 'astronaut suit', 'saturn')",0,0,1,1,0,0,0,0,0,2
+"a dolphin in an astronaut suit on saturn, high-contrast painting","('dolphin', 'astronaut suit', 'saturn', 'painting')",0,0,1,1,1,0,0,0,0,0
+a dolphin jumping over a rowboat,"('dolphin', 'rowboat')",1,0,1,1,0,0,0,0,0,0
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,"('donkey', 'octopus', 'rope', 'mouth', 'cat')",1,0,1,1,0,0,0,0,0,2
+a doorknocker,"('doorknocker',)",0,0,1,0,0,0,0,0,0,0
+a doorknocker shaped like a lion's head,"('doorknocker', ""lion's head"")",0,0,1,0,0,0,0,0,0,0
+a dragon,"('dragon',)",0,0,1,0,0,0,0,0,0,2
+a dragon breathing fire,"('dragon', 'fire')",1,0,1,0,0,0,0,0,0,2
+a dragon breathing fire on a castle,"('dragon', 'fire', 'castle')",1,0,1,1,0,0,0,0,0,2
+a dragon breathing fire onto a knight,"('dragon', 'fire', 'knight')",1,0,1,0,0,0,0,0,0,2
+a dragon perched on top of the Great Pyramid,"('dragon', 'Pyramid')",1,0,1,1,0,0,0,0,0,2
+a drawing of a bust of homer,"('drawing', 'bust', 'homer')",0,0,1,0,0,0,0,2,0,0
+a drawing of a hammer,"('hammer', 'drawing')",0,0,1,0,0,0,0,0,0,0
+a drawing of a handsaw,"('handsaw', 'drawing')",0,0,1,0,0,0,0,0,0,0
+a drawing of a house on a mountain,"('drawing', 'house', 'mountain')",0,0,1,1,0,0,0,0,0,0
+a drawing of a man standing under a tree,"('drawing', 'man', 'tree')",1,0,1,1,0,0,0,2,2,0
+a drawing of a peaceful lakeside landscape,"('drawing', 'landscape')",0,0,1,0,0,0,0,0,0,0
+a drawing of a pig face with an eye patch,"('drawing', 'pig face', 'eye patch')",0,0,1,0,0,0,0,0,0,0
+a drawing of a pint of beer on a brick wall,"('drawing', 'beer', 'wall')",0,0,1,1,0,0,0,0,0,0
+a drawing of a power drill,"('drawing', 'power drill')",0,0,1,0,0,0,0,0,0,0
+a drawing of a screwdriver,"('screwdriver', 'drawing')",0,0,1,0,0,0,0,0,0,0
+a drawing of a series of musical notes wrapped around the Earth,"('drawing', 'musical notes', 'Earth')",0,0,1,1,0,0,0,0,0,0
+a drawing of a space shuttle in the style of da Vinci,"('drawing', 'space shuttle')",0,0,1,0,1,0,0,0,0,0
+a drawing of a stork playing a violin,"('drawing', 'stork', 'violin')",1,0,1,0,0,0,0,0,0,0
+a drawing of the skyline of New York City,"('drawing', 'skyline')",0,0,1,0,0,1,0,0,0,0
+a drop-top sports car coming around a bend in the road,"('car', 'bend', 'road')",1,0,1,1,0,0,0,0,0,0
+"A DSLR photo of a shiny VW van that has a cityscape painted on it. A smiling sloth stands on grass in front of the van and is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book.","('photo', 'van', 'cityscape', 'grass', 'jacket', 'hat', 'kilt', 'bowtie', 'quarterstaff', 'book', 'sloth')",1,1,1,1,0,0,0,0,0,2
+a dump truck filled with soccer balls scuba diving in a coral reef.,"('truck', 'soccer balls', 'coral reef')",1,0,1,1,0,0,0,0,0,2
+a dutch baroque painting of a horse in a field of flowers,"('painting', 'horse', 'field', 'flowers')",0,0,1,0,1,1,0,0,0,0
+a fairy flying over a girl's shoulder,"('fairy', 'girl', 'shoulder')",1,0,1,1,0,0,0,2,1,2
+a fall landscape,"('fall', 'landscape')",0,0,1,0,0,0,0,0,0,0
+a fall landscape with a small cottage next to a lake,"('fall landscape', 'cottage', 'lake')",0,0,1,1,0,0,0,0,0,0
+a family,"('family',)",0,0,1,0,0,0,0,2,0,0
+a family of bears passing by the geyser Old Faithful,"('bears', 'geyser Old Faithful')",1,0,1,0,0,0,0,0,0,0
+a family of four posing at Mount Rushmore,"('family', 'Mount Rushmore')",1,0,1,1,0,0,0,2,0,0
+a family of four posing at the Grand Canyon,"('family', 'Canyon')",1,0,1,1,0,0,0,2,0,0
+a family of four posing in front of a house,"('family', 'house')",1,0,1,1,0,0,0,2,0,0
+a family of four posing on the moon,"('family', 'moon')",0,0,1,1,0,0,0,2,0,2
+a family of four walking at the beach with waves covering their feet,"('family', 'beach', 'waves', 'feet')",1,0,1,1,0,0,0,2,0,0
+a family on a road trip,"('family', 'road')",1,0,1,1,0,0,0,2,0,0
+"a farm scene with cows, ducks and a tractor.","('farm', 'cows', 'ducks', 'tractor')",0,0,1,0,0,0,0,0,0,0
+a father and a son,"('father', 'son')",0,0,1,0,0,0,0,2,2,0
+a father and a son playing tennis,"('father', 'son', 'tennis')",1,0,1,0,0,0,2,2,2,0
+a Ferrari Testarossa in front of the Kremlin,"('Kremlin', 'Ferrari Testarossa')",0,0,1,1,0,0,0,0,0,0
+a field with ten massive modern windmills,"('field', 'windmills')",0,0,1,1,0,1,0,0,0,0
+a fire hydrant,"('fire hydrant',)",0,0,1,0,0,0,0,0,0,0
+a fire hydrant with graffiti on it,"('hydrant', 'graffiti')",0,0,1,1,1,0,0,0,0,0
+a fish,"('fish',)",0,0,1,0,0,0,0,0,0,0
+a fish without eyes,"('fish', 'eyes')",0,0,1,0,0,0,0,0,0,2
+a flag,"('flag',)",0,0,1,0,0,0,0,0,0,0
+a flag furling in the wind,"('flag', 'wind')",1,0,1,1,0,0,0,0,0,0
+a flag with a dinosaur on it,"('dinosaur', 'flag')",0,0,1,1,0,0,0,0,0,0
+a flag with a drawing of a dinosaur on it,"('flag', 'drawing', 'dinosaur')",0,0,1,1,0,0,0,0,0,0
+a flag with three vertical stripes,"('flag', 'stripes')",0,0,1,0,0,0,0,0,0,0
+"a flag with three vertical stripes that are blue, white and red","('stripes', 'flag')",0,1,1,0,0,0,0,0,0,0
+a flock of geese in front of The Alamo,"('The Alamo', 'geese')",0,0,1,1,0,0,0,0,0,0
+a flower,"('flower',)",0,0,1,0,0,0,0,0,0,0
+a flower with a cat's face in the middle,"('flower', ""cat's face"")",0,0,1,1,0,0,0,0,0,2
+a flower with large red petals growing on the moon's surface,"('flower', 'petals', 'moon')",1,1,1,1,0,0,0,0,0,2
+a flower with large yellow petals,"('flower', 'petals')",0,1,1,0,0,0,0,0,0,0
+a flying boat gliding past the Parthenon,"('flying boat', 'Parthenon')",1,0,1,1,0,0,0,0,0,2
+a fog,"('fog',)",0,0,1,0,0,0,0,0,0,0
+a fog rolling into new york,"('fog', 'new york')",0,0,1,0,0,0,0,0,0,0
+a footprint shaped like a peanut,"('footprint', 'peanut')",0,0,1,0,0,0,0,0,0,0
+a four-piece band on a stage in front of a small crowd,"('band', 'stage', 'crowd')",0,0,1,1,0,0,0,2,0,0
+a fox,"('fox',)",0,0,1,0,0,0,0,0,0,0
+a friendly car,"('car',)",0,0,1,0,0,0,0,0,0,0
+a friendly car in the city,"('car', 'city')",0,0,1,1,0,0,0,0,0,0
+a frustrated child,"('child',)",0,0,1,0,0,0,0,2,0,0
+a full bookshelf with three shelves,"('shelves', 'bookshelf')",0,0,1,0,0,0,0,0,0,0
+a full moon peeking through clouds at night,"('moon', 'clouds')",1,0,1,1,0,0,0,0,0,0
+a full moon rising above a mountain at night,"('moon', 'mountain')",1,0,1,0,0,0,0,0,0,0
+a full pint of IPA,"('IPA',)",0,0,1,0,0,0,0,0,0,0
+a full pitcher of beer with an elephant's trunk in it,"('beer', 'elephant')",0,0,1,1,0,0,0,0,0,2
+A funny Rube Goldberg machine made out of metal,"('Rube Goldberg machine', 'metal')",0,0,1,0,0,0,0,0,0,0
+A funny Rube Goldberg machine made out of paper,"('Rube Goldberg machine', 'paper')",0,0,1,0,0,0,0,0,0,0
+A funny Rube Goldberg machine made out of wood,"('Rube Goldberg machine', 'wood')",0,0,1,0,0,0,0,0,0,0
+a futuristic city,"('city',)",0,0,1,0,0,0,0,0,0,0
+a futuristic city in synthwave style,"('city',)",0,0,1,0,1,0,0,0,0,0
+A giant cobra snake made from corn,"('cobra snake', 'corn')",0,0,1,0,0,0,0,0,0,0
+A giant cobra snake made from pancakes,"('cobra snake', 'pancakes')",0,0,1,0,0,0,0,0,0,0
+A giant cobra snake made from salad,"('cobra snake', 'salad')",0,0,1,0,0,0,0,0,0,0
+A giant cobra snake made from sushi,"('cobra snake', 'sushi')",0,0,1,0,0,0,0,0,0,0
+a giant gorilla at the top of the Empire State Building,"('gorilla', 'Empire State Building')",0,0,1,1,0,0,0,0,0,2
+a giraffe,"('giraffe',)",0,0,1,0,0,0,0,0,0,0
+a giraffe eating the bark of a tree,"('giraffe', 'bark of a tree')",1,0,1,0,0,0,0,0,0,0
+a giraffe imitating a turtle,"('giraffe', 'turtle')",1,0,1,0,0,0,0,0,0,2
+a giraffe made of turtle,"('giraffe', 'turtle')",0,0,1,0,0,0,0,0,0,2
+A giraffe walking through a green grass covered field,"('giraffe', 'grass', 'field')",1,1,1,1,0,0,0,0,0,0
+a giraffe wearing a white bathing suit and carefully stepping to the edge of a diving board and preparing to dive,"('giraffe', 'bathing suit', 'edge', 'diving board')",1,1,1,1,0,0,0,0,0,2
+a giraffe with a funny face,"('giraffe', 'face')",0,0,1,0,0,0,0,0,0,0
+a giraffe with an owl on its head,"('giraffe', 'owl', 'head')",0,0,1,1,0,0,0,0,0,0
+a girl,"('girl',)",0,0,1,0,0,0,0,2,1,0
+a girl diving into a pool,"('girl', 'pool')",1,0,1,1,0,0,0,2,1,0
+a girl examining an ammonite fossil,"('girl', 'ammonite fossil')",1,0,1,0,0,0,0,2,1,0
+a girl getting a kite out of a tree,"('girl', 'kite', 'tree')",1,0,1,1,0,0,2,2,1,0
+a girl going to a farm,"('girl', 'farm')",1,0,1,0,0,0,0,2,1,0
+a girl riding an ostrich,"('girl', 'ostrich')",1,0,1,1,0,0,0,2,1,0
+a girl with curly black hair jumping off a boulder,"('girl', 'hair', 'boulder')",1,1,1,1,0,0,0,2,1,0
+a girl with long curly blonde hair and sunglasses,"('girl', 'hair', 'sunglasses')",0,1,1,1,0,0,0,2,1,0
+a glass of orange juice,"('orange juice',)",0,0,1,0,0,0,0,0,0,0
+a glass of orange juice next to an empty pitcher,"('orange juice', 'pitcher')",0,0,1,1,0,0,0,0,0,0
+a glass of orange juice to the right of a plate with buttered toast on it,"('orange juice', 'plate', 'buttered toast')",0,0,1,1,0,0,0,0,0,0
+a glass of orange juice with an orange peel stuck on the rim,"('orange juice', 'orange peel')",0,0,1,1,0,0,0,0,0,0
+"A glass of red wine tipped over on a couch, with a stain that writes ""OOPS"" on the couch.","('red wine', 'couch', 'stain', 'OOPS')",0,1,1,1,0,0,0,0,0,0
+a goat,"('goat',)",0,0,1,0,0,0,0,0,0,0
+a goat wearing headphones,"('goat', 'headphones')",1,0,1,1,0,0,0,0,0,2
+a golden doorknocker on a red door,"('doorknocker', 'door')",0,1,1,1,0,0,0,0,0,0
+A Google map highlighting Vietnam,"('map', 'Vietnam')",0,0,1,0,0,0,0,0,0,0
+a gorilla climbing up the side of the Great Pyramid,"('gorilla', 'Pyramid')",1,0,1,1,0,0,0,0,0,0
+a grand piano next to the net of a tennis court,"('piano', 'net', 'tennis court')",0,0,1,1,0,0,0,0,0,0
+a grand piano with a white bench,"('piano', 'bench')",0,1,1,0,0,0,0,0,0,0
+a grandmother reading a book to her grandson and granddaughter,"('grandmother', 'grandson', 'granddaughter', 'book')",1,0,1,0,0,0,0,2,1,0
+a great gray owl with a mouse in its beak,"('owl', 'mouse', 'beak')",0,1,1,1,0,0,0,0,0,0
+a green clock,"('clock',)",0,1,1,0,0,0,0,0,0,0
+a green clock in the shape of a pentagon,"('clock', 'pentagon')",0,1,1,0,0,0,0,0,0,0
+A green heart,"('heart',)",0,1,1,0,0,0,0,0,0,2
+A green heart with shadow,"('heart', 'shadow')",0,1,1,0,0,0,0,0,0,0
+a green pepper,"('pepper',)",0,1,1,0,0,0,0,0,0,0
+a green pepper cut in half on a plate,"('pepper', 'plate')",0,1,1,1,0,0,0,0,0,0
+a green pepper sliced into many pieces,"('pepper',)",0,1,1,0,0,0,0,0,0,0
+a green pepper to the left of a red pepper,"('pepper',)",0,1,1,1,0,0,0,0,0,0
+a green pyramid in front of a blue box,"('pyramid', 'box')",0,1,1,1,0,0,0,0,0,0
+"A green sign that says ""Very Deep Learning"" and is at the edge of the Grand Canyon.","('sign', 'Canyon', 'Very Deep Learning')",0,1,0,1,0,0,0,0,0,0
+A green train is coming down the tracks,"('train', 'tracks')",1,1,1,1,0,0,0,0,0,0
+"a group of cats in a meeting. there is a whiteboard with ""stack more layers"" written on it.","('cats', 'meeting', 'whiteboard', 'stack more layers')",0,1,1,1,0,0,0,0,0,2
+"A group of farm animals (cows, sheep, and pigs) made out of cheese and ham, on a wooden board. There is a dog in the background eyeing the board hungrily.","('animals', 'cows', 'sheep', 'pigs', 'cheese', 'ham', 'board', 'dog')",1,0,1,1,0,0,0,0,0,0
+a group of not more than five meerkats standing with the sun setting behind them,"('sun setting', 'meerkats')",1,0,1,1,0,0,0,0,0,0
+a group of penguins in a snowstorm,"('penguins', 'snowstorm')",0,0,1,1,0,0,0,0,0,0
+a group of skiers are preparing to walk up a sand dune,"('skiers', 'sand dune')",1,0,1,1,0,0,0,2,0,0
+"a grumpy porcupine handing a check for $10,000 to a smiling peacock","('porcupine', 'check', 'peacock')",1,0,1,0,0,0,0,0,0,2
+"A gundam stands tall with its sword raised. A city with tall skyscrapers is in the distance, with a mountain and ocean in the background. A dark moon is in the sky. realistic high-contrast anime illustration.","('gundam', 'sword', 'city', 'skyscrapers', 'mountain', 'ocean', 'moon', 'sky')",0,1,1,1,1,0,0,0,0,0
+a half empty bottle of red wine,"('wine',)",0,1,1,0,0,0,0,0,0,0
+a half moon in the day sky,"('moon', 'sky')",0,0,1,1,0,0,0,0,0,2
+a half-full pitcher of stout,"('stout',)",0,0,1,0,0,0,0,0,0,0
+a half-peeled banana,"('banana',)",0,0,1,0,0,0,0,0,0,0
+a hammer,"('hammer',)",0,0,1,0,0,0,0,0,0,0
+a hammer on a table,"('hammer', 'table')",0,0,1,1,0,0,0,0,0,0
+a hamster dragon,"('hamster dragon',)",0,0,1,0,0,0,0,0,0,0
+a handpalm,"('handpalm',)",0,0,1,0,0,0,0,0,0,0
+a handpalm with leaves growing from it,"('handpalm', 'leaves')",1,0,1,1,0,0,0,0,0,2
+a handsaw,"('handsaw',)",0,0,1,0,0,0,0,0,0,0
+a handsaw on a table,"('handsaw', 'table')",0,0,1,1,0,0,0,0,0,0
+a Harley-Davidson motorcycle with a flame decal,"('motorcycle', 'decal')",0,0,1,0,0,0,0,0,0,0
+a harp,"('harp',)",0,0,1,0,0,0,0,0,0,0
+a harp with a carved eagle figure at the top,"('harp', 'eagle')",0,0,1,1,0,0,0,0,0,0
+a harp without any strings,"('harp', 'strings')",0,0,1,0,0,0,0,0,0,0
+a hat,"('hat',)",0,0,1,0,0,0,0,0,0,0
+A heart made of chocolate,"('heart', 'chocolate')",0,0,1,0,0,0,0,0,0,0
+A heart made of cookie,"('heart', 'cookie')",0,0,1,0,0,0,0,0,0,0
+A heart made of water,"('heart', 'water')",0,0,1,0,0,0,0,0,0,2
+A heart made of wood,"('heart', 'wood')",0,0,1,0,0,0,0,0,0,0
+A heavy metal tiger standing on a rooftop while singing and jamming on an electric guitar under a spotlight. anime illustration.,"('tiger', 'rooftop', 'guitar', 'spotlight', 'illustration')",1,0,1,1,1,0,0,0,0,0
+a hedgehog,"('hedgehog',)",0,0,1,0,0,0,0,0,0,0
+a hedgehog using a calculator,"('hedgehog', 'calculator')",1,0,1,0,0,0,0,0,0,2
+A helicopter flies over the Arches National Park.,"('helicopter', 'Arches National Park')",1,0,1,1,0,0,0,0,0,0
+A helicopter flies over the Grand Canyon.,"('helicopter', 'Canyon')",1,0,1,1,0,0,0,0,0,0
+A helicopter flies over Yosemite.,"('helicopter', 'Yosemite')",1,0,1,1,0,0,0,0,0,0
+a helicopter hovering over Times Square,"('helicopter', 'Square')",1,0,1,1,0,0,0,0,0,0
+a herd of buffalo stampeding at the Kremlin,"('buffalo', 'Kremlin')",1,0,1,1,0,0,0,0,0,2
+"A high contrast portrait photo of a fluffy hamster wearing an orange beanie and sunglasses holding a sign that says ""Let's PAINT!""","('photo', 'hamster', 'beanie', 'sunglasses', 'sign', ""Let's PAINT!"", 'portrait')",1,1,1,1,0,0,0,0,0,2
+A high resolution photo of a chicken working out in a gym.,"('photo', 'chicken', 'gym')",1,0,1,1,0,0,0,0,0,2
+A high resolution photo of a donkey in a clown costume giving a lecture at the front of a lecture hall. The blackboard has mathematical equations on it. There are many students in the lecture hall.,"('photo', 'donkey', 'costume', 'lecture', 'lecture hall', 'blackboard', 'equations', 'students')",1,0,1,1,0,0,0,0,0,2
+A high resolution photo of a large bowl of ramen. There are several origami boats in the ramen of different colors.,"('photo', 'ramen', 'origami boats')",0,2,1,1,0,0,0,0,0,2
+A high resolution photo of a rat working out in a gym.,"('photo', 'rat', 'gym')",1,0,1,1,0,0,0,0,0,2
+"A high-contrast photo of a panda riding a horse. The panda is wearing a wizard hat and is reading a book. The horse is standing on a street against a gray concrete wall. Colorful flowers and the word ""PEACE"" are painted on the wall. Green grass grows from cracks in the street.","('photo', 'panda', 'horse', 'hat', 'book', 'street', 'wall', 'flowers', 'PEACE', 'grass', 'cracks')",1,2,1,1,0,0,0,0,0,2
+a high-quality oil painting of a psychedelic hamster dragon,"('painting', 'hamster dragon')",0,2,1,0,1,0,0,0,0,0
+a high-quality photograph of an armadillo playing a bagpipe while standing on one leg,"('photograph', 'armadillo', 'bagpipe', 'leg')",1,0,1,0,0,0,0,0,0,2
+a horned owl with a graduation cap and diploma,"('horned owl', 'graduation cap', 'diploma')",0,0,1,1,0,0,0,0,0,2
+a horse,"('horse',)",0,0,1,0,0,0,0,0,0,0
+a horse chasing a cat,"('horse', 'cat')",1,0,1,0,0,0,0,0,0,0
+a horse chewing a large blue flower,"('horse', 'flower')",1,1,1,0,0,0,0,0,0,0
+a horse corral with tigers standing in each stall,"('horse corral', 'tigers', 'stall')",1,0,1,1,0,0,0,0,0,2
+a horse in a field,"('field', 'horse')",0,0,1,1,0,0,0,0,0,0
+a horse in a field in Minecraft style,"('horse', 'field')",0,0,1,1,1,0,0,0,0,0
+a horse in a field of flowers,"('horse', 'field', 'flowers')",0,0,1,1,0,0,0,0,0,0
+a horse in a forest,"('horse', 'forest')",0,0,1,1,0,0,0,0,0,0
+a horse reading a book,"('horse', 'book')",1,0,1,0,0,0,0,0,0,2
+a horse reading a comic book,"('horse', 'book')",1,0,1,0,0,0,0,0,0,2
+a horse reading a newspaper,"('horse', 'newspaper')",1,0,1,0,0,0,0,0,0,2
+a horse running in a field,"('horse', 'field')",1,0,1,1,0,0,0,0,0,0
+A horse sitting on an astronaut's shoulders.,"('horse', 'shoulders', 'astronaut')",1,0,1,1,0,0,0,0,0,2
+a horse standing on an elephant,"('horse', 'elephant')",1,0,1,1,0,0,0,0,0,2
+a horse without a rider,"('horse', 'rider')",0,0,1,0,0,0,0,0,0,0
+a hot air balloon,"('hot air balloon',)",0,0,1,0,0,0,0,0,0,0
+a hot air balloon floating by the Kremlin,"('hot air balloon', 'Kremlin')",1,0,1,1,0,0,0,0,0,0
+a hot air balloon landing in a corn field,"('hot air balloon', 'field')",1,0,1,1,0,0,0,0,0,0
+"a hot air balloon with a yin-yang symbol, with the moon visible in the daytime sky","('hot air balloon', 'yin-yang symbol', 'moon', 'sky')",0,0,1,1,0,0,0,0,0,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,"('hot air balloon', 'chameleon logo', 'sun', 'clouds', 'background')",1,1,1,1,0,0,0,0,0,0
+a house,"('house',)",0,0,1,0,0,0,0,0,0,0
+a house on a mountain,"('house', 'mountain')",0,0,1,1,0,0,0,0,0,0
+a house with no windows,"('house', 'windows')",0,0,1,0,0,0,0,0,0,0
+a impressionistic painting of a scholarly badger reading the Rosetta Stone,"('painting', 'badger', 'Rosetta Stone')",1,0,1,0,1,0,0,0,0,0
+a judge delivering a sentence to the defendant,"('judge', 'sentence', 'defendant')",1,0,1,0,0,0,0,2,0,0
+a jungle gym with three kids on it,"('jungle gym', 'kids')",0,0,1,1,0,0,0,2,0,0
+a kachina doll,"('doll',)",0,0,1,0,0,0,0,0,0,0
+a kachina doll standing in sand,"('doll', 'sand')",1,0,1,1,0,0,0,2,0,0
+a kachina doll with feathers on its head and wearing a white dress and brown boots.,"('doll', 'feathers', 'head', 'dress', 'boots')",1,1,1,1,0,0,0,2,0,0
+a kangaroo,"('kangaroo',)",0,0,1,0,0,0,0,0,0,0
+a kangaroo hopping in the air between two identical large statues of warrior rabbits,"('kangaroo', 'air', 'statues', 'rabbits')",1,0,1,1,0,0,0,0,0,0
+a kangaroo jumping through the park,"('kangaroo', 'park')",1,0,1,1,0,0,0,0,0,0
+a key,"('key',)",0,0,1,0,0,0,0,0,0,0
+a kids' book cover with an illustration of white dog driving a red pickup truck,"('cover', 'illustration', 'dog', 'truck')",1,1,1,0,0,0,0,0,0,0
+a kitchen,"('kitchen',)",0,0,1,0,0,0,0,0,0,0
+a kitchen with a large refrigerator,"('kitchen', 'refrigerator')",0,0,1,0,0,0,0,0,0,0
+a kitchen without a refrigerator,"('kitchen', 'refrigerator')",0,0,1,0,0,0,0,0,0,0
+a knight holding a long sword,"('knight', 'sword')",0,0,1,1,0,0,2,2,0,0
+a koi fish,"('fish',)",0,0,1,0,0,0,0,0,0,0
+a koi fish flying in the sky,"('fish', 'sky')",1,0,1,1,0,0,0,0,0,2
+a ladder,"('ladder',)",0,0,1,0,0,0,0,0,0,0
+a laptop,"('laptop',)",0,0,1,0,0,0,0,0,0,0
+a laptop no letters on its keyboard,"('laptop', 'letters', 'keyboard')",0,0,1,1,0,0,0,0,0,2
+a laptop screen,"('screen',)",0,0,1,0,0,0,0,0,0,0
+a laptop screen showing a bunch of photographs,"('screen', 'photographs')",1,0,1,1,0,0,0,0,0,0
+a laptop screen showing a document being edited,"('screen', 'document')",1,0,1,1,0,0,0,0,0,0
+a laptop screen showing an internet search,"('screen', 'search')",1,0,1,1,0,0,0,0,0,0
+a laptop with a maze sticker on it,"('laptop', 'sticker')",0,0,1,1,0,0,0,0,0,0
+a large blue box,"('box',)",0,1,1,0,0,0,0,0,0,0
+a large blue box with three small yellow boxes on it,"('box',)",0,1,1,1,0,0,0,0,0,0
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,"('fountain', 'milk', 'cats')",1,0,1,1,0,0,0,0,0,0
+a large open book,"('book',)",0,0,1,0,0,0,0,0,0,0
+a large open book showing text and an illustration of a cat,"('book', 'text', 'illustration', 'cat')",1,0,1,0,0,0,0,0,0,0
+a large present with a red ribbon,"('present', 'ribbon')",0,1,1,0,0,0,0,0,0,0
+a large present with a red ribbon to the left of a Christmas tree,"('present', 'ribbon', 'Christmas tree')",0,1,1,1,0,0,0,0,0,0
+a large stone pedestal without a statue of a horse on it,"('pedestal', 'statue', 'horse')",0,0,1,1,0,0,0,0,0,0
+a large white yacht,"('yacht',)",0,1,1,0,0,0,0,0,0,0
+a large white yacht in a calm bay on a sunny day,"('yacht', 'bay')",0,1,1,1,0,0,0,0,0,0
+a large white yacht tossed about in a stormy sea,"('yacht', 'stormy sea')",1,1,1,1,0,0,0,0,0,0
+a large yellow sphere behind a small purple pyramid,"('sphere', 'pyramid')",0,1,1,1,0,0,0,0,0,0
+a large yellow triangle above a green square and red rectangle,"('triangle', 'square', 'rectangle')",0,1,1,1,0,0,0,0,0,0
+a laughing woman,"('woman',)",0,0,1,0,0,0,0,2,1,0
+a lavender backpack with a triceratops stuffed animal head on top,"('backpack', 'triceratops stuffed animal head')",0,1,1,1,0,0,0,0,0,0
+a library filled with kids reading books,"('library', 'kids', 'books')",1,0,1,0,0,0,0,2,0,0
+a light shining on a giraffe in a street,"('light', 'giraffe', 'street')",1,0,1,1,0,0,0,0,0,0
+A living area with a television and a table,"('living area', 'television', 'table')",0,0,1,0,0,0,0,0,0,0
+a living room,"('room',)",0,0,1,0,0,0,0,0,0,0
+a living room with a large Egyptian statue in the corner,"('living room', 'statue', 'corner')",0,0,1,1,0,1,0,2,0,0
+a lizard,"('lizard',)",0,0,1,0,0,0,0,0,0,0
+a lizard that just lost its tail,"('lizard', 'tail')",0,0,1,0,0,0,0,0,0,0
+a logo,"('logo',)",0,0,1,0,0,0,0,0,0,0
+a logo of a wombat on a coffee mug,"('logo', 'wombat', 'mug')",0,0,1,1,0,0,0,0,0,0
+a long chemtrail trailing an airplane in a blue sky,"('chemtrail', 'airplane', 'sky')",1,1,1,1,0,0,0,0,0,2
+a long wooden bench in front of a brick wall,"('bench', 'wall')",0,0,1,1,0,0,0,0,0,0
+a long-island ice tea cocktail,"('cocktail',)",0,0,1,0,0,0,0,0,0,0
+a long-island ice tea cocktail next to a napkin,"('cocktail', 'napkin')",0,0,1,1,0,0,0,0,0,0
+a lovestruck cup of boba,"('boba',)",0,0,1,0,0,0,0,0,0,0
+a macro photograph of brain coral,"('photograph', 'brain coral')",0,0,1,0,0,0,0,0,0,0
+a man,"('man',)",0,0,1,0,0,0,0,2,2,0
+a man and a woman standing in the back up an old pickup truck,"('man', 'woman', 'truck')",1,0,1,1,0,0,0,2,1,0
+a man banging on a door,"('door', 'man')",1,0,1,0,0,0,2,2,2,0
+a man chasing a cat,"('man', 'cat')",1,0,1,0,0,0,0,2,2,0
+a man chasing a horse,"('man', 'horse')",1,0,1,0,0,0,0,2,2,0
+a man eating a glazed donut and a woman eating a chocolate cake,"('man', 'donut', 'woman', 'cake')",1,0,1,0,0,0,2,2,1,0
+A man gives a woman a laptop and a boy a book.,"('man', 'woman', 'laptop', 'boy', 'book')",1,0,1,0,0,0,2,2,1,0
+a man heading a soccer ball,"('man', 'soccer ball')",1,0,1,0,0,0,0,2,2,0
+a man in a business suit on a ladder that is leaning up against the side of a white house,"('man', 'business suit', 'ladder', 'house')",1,1,1,1,0,0,0,2,2,0
+a man looking at a distant mountain,"('man', 'mountain')",1,0,1,0,0,0,0,2,2,0
+a man reading a book with a prism on its cover,"('man', 'book', 'prism')",1,0,1,1,0,0,0,2,2,0
+a man riding a camel on the beach,"('man', 'camel', 'beach')",1,0,1,1,0,0,0,2,2,0
+a man riding a cat,"('man', 'cat')",1,0,1,1,0,0,0,2,2,2
+a man riding a horse,"('man', 'horse')",1,0,1,0,0,0,0,2,2,0
+A man sips a latte and a woman a beer.,"('man', 'latte', 'woman', 'beer')",1,0,1,0,0,0,2,2,1,0
+a man sleeping in a hammock,"('man', 'hammock')",1,0,1,1,0,0,0,2,2,0
+a man standing on a street corner,"('man', 'street corner')",1,0,1,1,0,0,0,2,2,0
+a man standing under a tree,"('tree', 'man')",1,0,1,1,0,0,0,2,2,0
+a man wearing sunglasses and business suit,"('man', 'sunglasses', 'business suit')",0,0,1,1,0,0,0,2,2,0
+"a man with long blonde hair, brown eyes and blue jeans","('man', 'hair', 'eyes', 'jeans')",0,1,1,0,0,0,0,2,2,0
+a man with puppet,"('man', 'puppet')",0,0,1,0,0,0,0,2,2,0
+a man with puppet that looks like a king,"('man', 'puppet', 'king')",0,0,1,0,0,0,0,2,2,0
+a man with wild hair looking into a crystal ball,"('man', 'hair', 'crystal ball')",1,0,1,0,0,0,0,2,2,0
+a map of Australia,"('map',)",0,0,1,0,0,1,0,0,0,0
+a map of Italy,"('map',)",0,0,1,0,0,1,0,0,0,0
+a map of Manhattan,"('map',)",0,0,1,0,0,1,0,0,0,0
+a map of South America,"('map',)",0,0,1,0,0,1,0,0,0,0
+a map of Texas,"('map',)",0,0,1,0,0,1,0,0,0,0
+A map of the United States made out of sushi on the table.,"('map', 'sushi', 'table')",0,0,1,1,0,1,0,0,0,0
+A map of the United States made out sushi. It is on a table next to a glass of red wine.,"('map', 'sushi', 'table', 'wine')",0,1,1,1,0,1,0,0,0,0
+A map of the United States with a pin on San Francisco,"('map', 'pin', 'San Francisco')",0,0,1,1,0,1,0,0,0,0
+a map showing the Great Wall,"('map', 'Great Wall')",1,0,1,0,0,0,0,0,0,0
+a margarita,"('margarita',)",0,0,1,0,0,0,0,0,0,0
+a margarita next to a napkin,"('margarita', 'napkin')",0,0,1,1,0,0,0,0,0,0
+a marina,"('marina',)",0,0,1,0,0,0,0,0,0,0
+a marina with a herd of dolphins playing in it,"('marina', 'dolphins')",1,0,1,1,0,0,0,0,0,0
+a marina without any boats in it,"('marina', 'boats')",0,0,1,1,0,0,0,0,0,0
+a marine iguana crossing the street,"('marine iguana', 'street')",1,0,1,0,0,0,0,0,0,0
+a massive modern windmill,"('windmill',)",0,0,1,0,0,1,0,0,0,0
+a massive robot with a coffee cup head. it is standing in the street with one foot smashing a car.,"('robot', 'cup', 'head', 'street ', 'foot', 'car')",1,0,1,1,0,0,0,0,0,2
+a massive statue in a temple,"('statue', 'temple')",0,0,1,1,0,0,0,0,0,0
+a massive statue of Hanuman,"('statue', 'Hanuman')",0,0,1,0,0,0,0,2,0,0
+A Mesoamerican pyramid surrounded by jungle. detailed charcoal sketch.,"('pyramid', 'jungle')",0,0,1,1,1,1,0,0,0,0
+a metal treehouse in an oak tree,"('treehouse', 'oak tree')",0,0,1,1,0,0,0,0,0,0
+a metallic blue sphere to the left of a brown cardboard box,"('sphere', 'box')",0,1,1,1,0,0,0,0,0,0
+a metallic blue sphere to the left of a yellow box made of felt,"('sphere', 'box', 'felt')",0,1,1,1,0,0,0,0,0,0
+a milk container in a refrigerator,"('container', 'refrigerator')",0,0,1,1,0,0,0,0,0,0
+a milk container on a table,"('container', 'table')",0,0,1,1,0,0,0,0,0,0
+a mixed media image with a photograph of a woman with long orange hair over a background that is a sketch of a city skyline,"('image', 'photograph', 'woman', 'hair', 'background', 'sketch', 'skyline', 'city')",0,1,1,1,1,0,0,2,1,0
+a monarch butterfly,"('butterfly',)",0,0,1,0,0,0,0,0,0,0
+a monarch butterfly hatching from its chrysalis,"('butterfly', 'chrysalis')",1,0,1,1,0,0,0,0,0,0
+a moose,"('moose',)",0,0,1,0,0,0,0,0,0,0
+a moose by a mountain stream,"('moose', 'stream')",0,0,1,1,0,0,0,0,0,0
+a moose standing over a fox,"('moose', 'fox')",1,0,0,0,0,0,0,0,0,0
+a mosquito biting a man,"('mosquito', 'man')",1,0,1,0,0,0,0,2,2,0
+a motorcycle,"('motorcycle',)",0,0,1,0,0,0,0,0,0,0
+a motorcycle hanging on a garage wall,"('motorcycle', 'wall')",1,0,1,1,0,0,0,0,0,0
+a motorcycle in front of an rhinoceros,"('motorcycle', 'rhinoceros')",0,0,1,1,0,0,0,0,0,0
+a motorcycle parked in an ornate bank lobby,"('motorcycle', 'lobby')",0,0,1,1,0,0,0,0,0,0
+"a motorcycle parked in an ornate bank lobby with ""BUZZ"" written on its body","('motorcycle', 'bank', 'body', 'BUZZ', 'lobby')",0,0,1,1,0,0,0,0,0,0
+a mountain,"('mountain',)",0,0,1,0,0,0,0,0,0,0
+a mountain and its reflection in a lake,"('mountain', 'reflection', 'lake')",0,0,1,1,0,0,0,0,0,0
+a mountain stream with salmon leaping out of it,"('stream', 'salmon')",1,0,1,1,0,0,0,0,0,0
+a mountain with a cloud hanging over it,"('mountain', 'cloud')",0,0,1,1,0,0,0,0,0,0
+a mouse sitting next to a computer mouse,"('mouse', 'computer mouse')",1,0,1,1,0,0,0,0,0,0
+A movie poster of mountain and sea,"('poster', 'mountain', 'sea')",0,0,1,0,0,0,0,0,0,0
+a musical note,"('musical note',)",0,0,1,0,0,0,0,0,0,0
+a nerdy bear wearing glasses and a bowtie,"('bear', 'glasses', 'bowtie')",1,0,1,1,0,0,0,0,0,2
+A old phonograph made of cardboard.,"('phonograph', 'cardboard')",0,0,1,0,0,0,0,0,0,0
+a old-time car with a large front grille,"('car', 'grille')",0,0,1,0,0,1,0,0,0,0
+a painting of a canal in Venice,"('painting', 'canal')",0,0,1,1,0,1,0,0,0,0
+a painting of a cute owl on a box,"('painting', 'owl', 'box')",0,0,1,1,0,0,0,0,0,0
+a painting of a fox in the style of starry night,"('painting', 'fox')",0,0,1,0,1,0,0,0,0,0
+a painting of a house on a mountain,"('painting', 'house', 'mountain')",0,0,1,1,0,0,0,0,0,0
+a painting of a man standing on a street corner,"('painting', 'man', 'corner', 'street')",1,0,1,1,0,0,0,2,2,0
+a painting of a man standing under a tree,"('painting', 'man', 'tree')",1,0,1,1,0,0,0,2,2,0
+a painting of a peaceful lakeside landscape,"('painting', 'landscape')",0,0,1,0,0,0,0,0,0,0
+a painting of a phone from the 20s,"('painting', 'phone')",0,0,1,0,0,1,0,0,0,0
+a painting of a sport car in the style of Dali,"('painting', 'car')",0,0,1,0,1,0,0,0,0,0
+a painting of a sport car in the style of Monet,"('painting', 'car')",0,0,1,0,1,0,0,0,0,0
+a painting of a white country home with a wrap-around porch,"('painting', 'home', 'porch')",0,1,1,0,0,0,0,0,0,0
+"a painting of an ornate treasure chest with a broad sword propped up against it, glowing in a dark cave","('painting', 'treasure chest', 'sword', 'cave')",1,1,1,1,0,0,0,0,0,0
+a painting of black and white,"('painting',)",0,1,1,0,0,0,0,0,0,0
+a painting of black and white checkerboard,"('painting', 'checkerboard')",0,1,1,0,0,0,0,0,0,0
+a painting of black and white vertical stripes,"('painting', 'stripes')",0,1,1,0,0,0,0,0,0,0
+a painting of black and white with a red border,"('painting', 'border')",0,1,1,0,0,0,0,0,0,0
+a painting of black and white with a red flower in the right corner,"('painting', 'flower', 'corner')",0,1,1,1,0,0,0,0,0,0
+a painting of street in Paris,"('painting', 'street')",0,0,1,1,0,1,0,0,0,0
+a painting of ten children on a couch,"('painting', 'children', 'couch')",0,0,1,1,0,0,0,2,0,0
+a painting of the food of china,"('painting', 'food')",0,0,1,0,0,1,0,0,0,0
+a painting of the mona lisa on a white wall,"('painting', 'mona lisa', 'wall')",0,1,1,1,0,0,0,2,0,0
+a painting of the Mona Lisa with a frown,"('painting', 'Mona Lisa', 'frown')",0,0,1,0,0,0,0,2,1,0
+a painting of the Mona Lisa with New York City behind her,"('painting', 'Mona Lisa', 'City', 'New York City')",0,0,1,1,0,0,0,2,1,0
+a painting of the skyline of New York City,"('painting', 'skyline')",0,0,1,0,0,1,0,0,0,0
+a pair of brown suede shoes,"('shoes',)",0,1,1,0,0,0,0,0,0,0
+a pair of glasses under a computer monitor,"('glasses', 'monitor')",0,0,1,1,0,0,0,0,0,0
+a pair of headphones,"('headphones',)",0,0,1,0,0,0,0,0,0,0
+a pair of headphones dangling from a tree branch,"('headphones', 'tree branch')",1,0,1,1,0,0,0,0,0,0
+a pair of headphones on a guitar,"('headphones', 'guitar')",0,0,1,1,0,0,0,0,0,0
+a pair of headphones on a pumpkin,"('headphones', 'pumpkin')",0,0,1,1,0,0,0,0,0,0
+a pair of headphones on a statue of a horse,"('headphones', 'statue', 'horse')",0,0,1,1,0,0,0,0,0,0
+a pair of matching socks with cute cats on them,"('cats', 'socks')",0,0,1,1,0,0,0,0,0,0
+a pair of shoes on a tennis racquet,"('shoes', 'tennis racquet')",0,0,1,1,0,0,0,0,0,0
+a palm tree forest in front of the Kremlin,"('forest', 'Kremlin')",0,0,1,1,0,0,0,0,0,0
+a panda,"('panda',)",0,0,1,0,0,0,0,0,0,0
+a panda bear playing ping pong using a blue paddle against an ostrich using a red paddle,"('panda', 'ping pong', 'paddle', 'ostrich')",1,1,1,0,0,0,0,0,0,2
+a panda bear with aviator glasses on its head,"('panda', 'aviator glasses', 'head')",0,0,1,1,0,0,0,0,0,2
+a panda eating bamboo,"('panda', 'bamboo')",1,0,1,0,0,0,0,0,0,0
+a parade with cars and people waving,"('parade', 'cars', 'people')",1,0,1,0,0,0,2,2,0,0
+a paranoid android freaking out and jumping into the air because it is surrounded by colorful Easter eggs,"('android', 'air', 'Easter eggs')",1,2,1,1,0,0,0,2,0,2
+a peaceful lakeside landscape,"('landscape',)",0,0,1,0,0,0,0,0,0,0
+a peaceful lakeside landscape with migrating herd of sauropods,"('lakeside landscape', 'sauropods')",1,0,1,0,0,0,0,0,0,0
+a pen-and-ink crosshatched drawing of a sphere with dark square on it,"('drawing', 'sphere', 'square')",0,1,1,1,1,0,0,0,0,0
+a penguin standing on a sidewalk,"('penguin', 'sidewalk')",0,0,1,1,0,0,0,0,0,0
+a penguin that is a car,"('penguin', 'car')",0,0,1,0,0,0,0,0,0,2
+A penguin wearing aviator goggles and flying confidently next to a bemused eagle.,"('penguin', 'goggles', 'eagle')",1,0,1,1,0,0,0,0,0,2
+a person,"('person',)",0,0,1,0,0,0,0,2,0,0
+a person with arms like a tree branch,"('person', 'arms', 'branch')",0,0,1,0,0,0,0,2,0,2
+a phone,"('phone',)",0,0,1,0,0,0,0,0,0,0
+A photo of a crocodile made of water.,"('photo', 'crocodile', 'water')",0,0,1,0,0,0,0,0,0,2
+A photo of a dragonfly made of water.,"('photo', 'dragonfly', 'water')",0,0,1,0,0,0,0,0,0,2
+A photo of a four-leaf clover made of water.,"('photo', 'four-leaf clover', 'water')",0,0,1,0,0,0,0,0,0,2
+"A photo of a frog reading the newspaper named ""Toaday"" written on it. There is a frog printed on the newspaper too.","('photo', 'frog', 'newspaper', 'Toaday')",1,0,1,1,0,0,0,0,0,2
+A photo of a hamburger fighting a hot dog in a boxing ring. The hot dog is tired and up against the ropes.,"('photo', 'hamburger', 'hot dog', 'boxing ring', 'ropes')",1,0,1,1,0,0,0,0,0,2
+A photo of a Japanese Porcelain Imari vase on the ground below a wooden chair.,"('photo', 'vase', 'chair', 'ground')",0,0,1,1,0,1,0,0,0,0
+A photo of a light bulb in outer space traveling the galaxy with a sailing boat inside the light bulb.,"('photo', 'bulb', 'outer space', 'galaxy', 'boat')",1,0,1,1,0,0,0,0,0,2
+A photo of a lotus flower made of water.,"('photo', 'flower', 'water')",0,0,1,0,0,0,0,0,0,2
+A photo of a maple leaf made of water.,"('photo', 'leaf', 'water')",0,0,1,0,0,0,0,0,0,2
+A photo of a Ming Dynasty vase on a leather topped table.,"('photo', 'vase', 'table')",0,0,1,1,0,1,0,0,0,0
+A photo of a palm tree made of water.,"('photo', 'tree', 'water')",0,0,1,0,0,0,0,0,0,2
+A photo of a panda made of water.,"('photo', 'panda', 'water')",0,0,1,0,0,0,0,0,0,2
+A photo of a Persian Metal Engraving vase sitting to the left of a bunch of orange flowers.,"('photo', 'vase', 'flowers')",1,1,1,1,0,1,0,0,0,0
+a photo of a phone from the 20s,"('photo', 'phone')",0,0,1,0,0,1,0,0,0,0
+A photo of a teddy bear made of water.,"('photo', 'teddy bear', 'water')",0,0,1,0,0,0,0,0,0,2
+A photo of an astronaut riding a horse in the forest.,"('photo', 'astronaut', 'horse', 'forest')",1,0,1,1,0,0,0,0,0,2
+A photo of an astronaut riding a horse in the forest. There is a river in front of them with water lilies.,"('photo', 'astronaut', 'horse', 'forest', 'river', 'water lilies')",1,0,1,1,0,0,0,0,0,2
+A photo of an Athenian vase with a painting of pandas playing basketball in the style of Egyptian hieroglyphics,"('photo', 'vase', 'pandas', 'basketball', 'painting')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of pandas playing soccer in the style of Egyptian hieroglyphics,"('photo', 'vase', 'pandas', 'painting', 'soccer')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of pandas playing tennis in the style of Egyptian hieroglyphics,"('photo', 'vase', 'painting', 'pandas', 'tennis')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of pangolins playing basketball in the style of Egyptian hieroglyphics,"('photo', 'vase', 'painting', 'pangolins', 'basketball')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of pangolins playing soccer in the style of Egyptian hieroglyphics,"('photo', 'vase', 'painting', 'pangolins', 'soccer')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of pangolins playing tennis in the style of Egyptian hieroglyphics,"('photo', 'vase', 'painting', 'pangolins', 'tennis')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of toucans playing basketball in the style of Egyptian hieroglyphics,"('photo', 'vase', 'painting', 'toucans', 'basketball')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of toucans playing soccer in the style of Egyptian hieroglyphics,"('photo', 'vase', 'painting', 'toucans', 'soccer')",1,0,1,1,1,1,0,0,0,0
+A photo of an Athenian vase with a painting of toucans playing tennis in the style of Egyptian hieroglyphics,"('photo', 'vase', 'painting', 'toucans', 'tennis')",1,0,1,1,1,1,0,0,0,0
+A photo of llama wearing sunglasses standing on the deck of a spaceship with the Earth in the background.,"('photo', 'llama', 'sunglasses', 'deck', 'spaceship', 'Earth')",1,0,1,1,0,0,0,0,0,2
+a photo of san francisco's golden gate bridge,"('photo', 'bridge')",0,0,1,0,0,0,0,0,0,0
+a photo of the back of a covered wagon. a polar bear is sticking it's head out of the wagon.,"('photo', 'back', 'wagon', 'polar bear', 'head')",1,0,1,1,0,0,0,0,0,0
+a photo of the food of china,"('photo', 'food')",0,0,1,0,0,1,0,0,0,0
+A photo of the Space Shuttle Endeavor painted yellow and flying over the Earth. The continent of South America is visible.,"('photo', 'Space Shuttle', 'Earth', 'continent')",1,1,1,1,0,0,0,0,0,0
+"A photograph in a temple of a wall painting depicting pandas playing tennis, in the style of Egyptian tomb hieroglyphics","('photograph', 'temple', 'wall painting', 'pandas', 'tennis')",1,0,1,1,1,1,0,0,0,0
+A photograph of a bird made of wheat bread and an egg.,"('photograph', 'bird', 'bread', 'egg')",0,0,1,0,0,0,0,0,0,0
+a photograph of a bird wearing headphones and speaking into a microphone in a recording studio,"('photograph', 'bird', 'headphones', 'microphone', 'recording studio')",1,0,1,1,0,0,0,0,0,2
+a photograph of a blue porsche 356 coming around a bend in the road,"('photograph', 'porsche', 'road')",1,1,1,1,0,0,0,0,0,0
+a photograph of a bust of homer,"('photograph', 'bust', 'homer')",0,0,1,0,0,0,0,2,0,0
+a photograph of a fiddle next to a basketball on a ping pong table,"('photograph', 'fiddle', 'basketball', 'ping pong table')",0,0,1,1,0,0,0,0,0,0
+a photograph of a house on a mountain,"('photograph', 'house', 'mountain')",0,0,1,1,0,0,0,0,0,0
+a photograph of a knight in shining armor holding a basketball,"('photograph', 'knight', 'armor', 'basketball')",1,1,1,1,0,0,2,2,0,0
+"A photograph of a portrait of a statue of a pharaoh wearing steampunk glasses, white t-shirt and leather jacket.","('photograph', 'portrait', 'statue', 'pharaoh', 'glasses', 't-shirt', ' jacket')",0,1,1,1,0,0,0,2,0,0
+a photograph of a squirrel holding an arrow above its head and holding a longbow in its left hand,"('photograph', 'squirrel', 'arrow', 'head', 'longbow', 'hand')",1,0,1,1,0,0,0,0,0,2
+a photograph of an ostrich wearing a fedora and singing soulfully into a microphone,"('photograph', 'ostrich', 'fedora', 'microphone')",1,0,1,1,0,0,0,0,0,2
+"a photograph of sand with a bucket, lots of scattered shells but no sandpipers","('photograph', 'sand', 'bucket', 'shells', 'sandpipers')",0,0,1,0,0,0,0,0,0,0
+A photograph of the inside of a subway train. There are frogs sitting on the seats. One of them is reading a newspaper. The window shows the river in the background.,"('photograph', 'subway train', 'frogs', 'seats', 'newspaper', 'window', 'river', 'background')",1,0,1,1,0,0,0,0,0,2
+A photograph of the inside of a subway train. There are lobsters sitting on the seats. One of them is reading a newspaper. The window shows the ocean in the background.,"('photograph', 'subway train', 'lobsters', 'seats', 'newspaper', 'window', 'ocean', 'background')",1,0,1,1,0,0,0,0,0,2
+A photograph of the inside of a subway train. There are raccoons sitting on the seats. One of them is reading a newspaper. The window shows the city in the background.,"('photograph', 'subway train', 'raccoons', 'seats', 'newspaper', 'window', 'city', 'background')",1,0,1,1,0,0,0,0,0,2
+A photograph of the inside of a subway train. There are red pandas sitting on the seats. One of them is reading a newspaper. The window shows the jungle in the background.,"('photograph', 'subway train', 'pandas', 'seats', 'newspaper', 'window', 'jungle', 'background')",1,1,1,1,0,0,0,0,0,2
+a photograph of the mona lisa drinking coffee as she has her breakfast. her plate has an omelette and croissant.,"('photograph', 'mona lisa', 'coffee', 'breakfast', 'plate', 'omelette', 'croissant')",1,0,1,1,0,0,2,2,1,0
+a piano,"('piano',)",0,0,1,0,0,0,0,0,0,0
+a piano tumbling down a hill,"('piano', 'hill')",1,0,1,1,0,0,0,0,0,0
+a piano with an open song book above the keys,"('piano', 'book', 'keys')",0,0,1,1,0,0,0,0,0,0
+a piano with Christmas lights all over it,"('piano', 'lights')",0,0,1,1,0,0,0,0,0,0
+a pickup truck,"('truck',)",0,0,1,0,0,0,0,0,0,0
+a pick-up truck,"('truck',)",0,0,1,0,0,0,0,0,0,0
+a pickup truck at the beach at sunrise,"('truck', 'beach', 'sunrise')",0,0,1,1,0,0,0,0,0,0
+a pickup truck going up a mountain switchback,"('truck', 'mountain')",1,0,1,1,0,0,0,0,0,0
+a pickup truck kicking up dust on a back road,"('truck', 'dust', 'road')",1,0,1,1,0,0,0,0,0,0
+a pickup truck missing its wheels,"('truck', 'wheels')",0,0,1,0,0,0,0,0,0,0
+a pick-up truck rolling over a grassy field,"('truck', 'field')",1,0,1,1,0,0,0,0,0,2
+a pickup truck under street lights at night,"('truck', 'street lights')",0,0,1,1,0,0,0,0,0,0
+a pickup truck with a horse on its left and two dogs on its right,"('truck', 'horse', 'dogs')",0,0,1,1,0,0,0,0,0,0
+A picture of a very tall stop sign,"('picture', 'stop sign')",0,0,1,0,0,0,0,0,0,0
+A picture of some food in the plate,"('picture', 'food', 'plate')",0,0,1,1,0,0,0,0,0,0
+a pig,"('pig',)",0,0,1,0,0,0,0,0,0,0
+a pig face,"('pig face',)",0,0,1,0,0,0,0,0,0,0
+a pig face with an eye patch,"('pig face', 'eye patch')",0,0,1,1,0,0,0,0,0,2
+a pig in a field,"('pig', 'field')",0,0,1,1,0,0,0,0,0,0
+a pig in a forest,"('pig', 'forest')",0,0,1,1,0,0,0,0,0,0
+a pile of cash on a stone floor,"('cash', 'stone', 'floor')",0,0,1,1,0,0,0,0,0,0
+a pile of cash on a wooden table,"('cash', 'table')",0,0,1,1,0,0,0,0,0,0
+a pile of toy cars,"('toy cars',)",0,0,1,0,0,0,0,0,0,0
+a pineapple,"('pineapple',)",0,0,1,0,0,0,0,0,0,0
+a pineapple surfing on a wave,"('pineapple', 'wave')",1,0,1,1,0,0,0,0,0,2
+a pineapple with one beer to its left and two beers on its right,"('pineapple', 'beer')",0,0,1,1,0,0,0,0,0,0
+a pirate ship,"('pirate ship',)",0,0,1,0,0,0,0,0,0,0
+a pirate ship landing on the moon,"('pirate ship', 'moon')",1,0,1,1,0,0,0,0,0,2
+a pitcher of orange juice,"('orange juice',)",0,0,1,0,0,0,0,0,0,0
+a pixel art corgi pizza,"('corgi pizza', 'pixel art')",0,0,1,0,0,0,0,0,0,0
+a plant,"('plant',)",0,0,1,0,0,0,0,0,0,0
+a plant at the bottom of a shallow stream,"('plant', 'stream')",0,0,1,1,0,0,0,0,0,0
+a plant growing on the side of a brick wall,"('plant', 'wall')",1,0,1,1,0,0,0,0,0,0
+a plant with orange flowers shaped like stars,"('plant', 'flowers', 'stars')",0,1,1,0,0,0,0,0,0,0
+a plant with small flowers with purple petals,"('plant', 'flowers', 'petals')",0,1,1,0,0,0,0,0,0,0
+a plate,"('plate',)",0,0,1,0,0,0,0,0,0,0
+a plate that has no bananas on it. there is a glass without orange juice next to it.,"('plate', 'bananas', 'glass', 'orange juice')",0,0,1,1,0,0,0,0,0,0
+a plate with white rice topped by cooked vegetables,"('rice', 'vegetables')",0,1,1,1,0,0,0,0,0,0
+A plush monkey fording the Charles River on a log while wearing a Boston Red Sox hat with MIT in the background.,"('monkey', 'the Charles River', 'hat', 'MIT', 'background', 'log')",1,1,1,1,0,0,0,0,0,2
+a politician giving a speech at a podium,"('politician', 'speech', 'podium')",1,0,1,1,0,0,0,2,0,0
+a politician speaking to a large crowd,"('politician', 'crowd')",1,0,1,0,0,0,0,2,0,0
+a politician wearing a soccer jersey and holding a volleyball while giving a speech on a stage,"('politician', 'soccer jersey', 'volleyball', 'speech', 'stage')",1,0,1,1,0,0,2,2,0,0
+a pony with a shooting star on its flank,"('pony', 'shooting star')",0,0,1,1,0,0,0,0,0,2
+a poodle wearing a baseball cap holding a dictionary in hand and writing bonez on a chalkboard,"('poodle', 'cap', 'dictionary', 'hand', 'chalkboard', 'bonez')",1,0,1,1,0,0,0,0,0,2
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style","('portrait', 'man', 'sunglasses', 'suit', 'painting')",1,0,1,1,1,0,0,2,2,0
+A portrait of a metal statue of a pharaoh wearing steampunk glasses and a leather jacket over a white t-shirt that has a drawing of a space shuttle on it.,"('portrait', 'statue', 'pharaoh', 'glasses', 'jacket', 't-shirt', 'space shuttle', 'drawing')",1,1,1,1,0,1,0,2,0,0
+a portrait of a postal worker who has forgotten their mailbag,"('portrait', 'postal worker', 'mailbag')",0,0,1,0,0,0,0,2,0,0
+"a portrait of a statue of a pharaoh wearing steampunk glasses, white t-shirt and leather jacket. dslr photograph.","('portrait', 'statue', 'pharaoh', 'glasses', 't-shirt', 'jacket', 'photograph')",1,1,1,1,0,0,0,2,0,0
+a portrait of a statue of anubis with a crown and wearing a yellow t-shirt that has a space shuttle drawn on it,"('portrait', 'statue', 'crown', 't-shirt', 'space shuttle')",1,1,1,1,0,0,0,2,0,0
+"a portrait of a statue of the Egyptian god Anubis wearing aviator goggles, white t-shirt and leather jacket, flying over the city of Mars.","('portrait', 'statue', 'goggles', 't-shirt', 'jacket', 'city', 'Mars', 'Anubis')",1,1,1,1,0,0,0,2,0,2
+"a portrait of a statue of the Egyptian god Anubis wearing aviator goggles, white t-shirt and leather jacket. A full moon over the city of Los Angeles is in the background at night.","('portrait', 'statue', 'goggles', 't-shirt', 'jacket', 'moon', 'Los Angeles', 'background', 'night', 'Anubis')",1,1,1,1,0,1,0,2,0,0
+"a portrait of a statue of the Egyptian god Anubis wearing aviator goggles, white t-shirt and leather jacket. The city of Los Angeles is in the background.","('statue', 'Anubis', 'goggles', 't-shirt', 'jacket', 'Los Angeles', 'background')",1,1,1,1,0,1,0,2,0,0
+"a portrait of a statue of the Egyptian god Anubis wearing aviator goggles, white t-shirt and leather jacket. the skyline of Los Angeles at night can be seen in the background.","('portrait', 'statue', 'goggles', 't-shirt', 'jacket', 'skyline', 'night', 'background', 'Anubis')",1,1,1,1,0,1,0,2,0,0
+a portrait of an old man,"('portrait', 'old man')",0,0,1,0,0,0,0,2,2,0
+a portrait of young girl,"('portrait', 'young girl')",0,0,1,0,0,0,0,2,1,0
+A portrait photo of a kangaroo wearing an orange hoodie and blue sunglasses standing on the grassin front of the Sydney Opera House holding a sign on the chest that says Welcome Friends!,"('photo', 'kangaroo', 'hoodie', 'sunglasses', 'grassin', 'Sydney Opera House', 'sign', 'chest')",1,1,1,1,0,0,0,0,0,2
+a power drill,"('power drill',)",0,0,1,0,0,0,0,0,0,0
+a power drill on a table,"('drill', 'table')",0,0,1,1,0,0,0,0,0,0
+a present,"('present',)",0,0,1,0,0,0,0,0,0,0
+a professional high quality emoji of a lovestruck cup of boba,"('emoji', 'boba', 'cup')",0,0,1,0,0,0,0,0,0,0
+a professional photo of a sunset behind the grand canyon,"('photo', 'sunset', 'canyon')",0,0,1,1,0,0,0,0,0,0
+a prop plane flying low over the Great Wall,"('plane', 'Great Wall')",1,0,1,1,0,0,0,0,0,0
+a propaganda poster,"('poster',)",0,0,1,0,0,0,0,0,0,0
+a propaganda poster depicting a cat dressed as french emperor napoleon holding a piece of cheese,"('poster', 'cat', 'napoleon', 'cheese')",1,0,1,1,0,1,0,0,0,0
+a pumpkin,"('pumpkin',)",0,0,1,0,0,0,0,0,0,0
+a pumpkin on a man's head,"('pumpkin', 'man', 'head')",0,0,1,1,0,0,0,2,2,0
+a pumpkin with a candle in it,"('pumpkin', 'candle')",0,0,1,1,0,0,0,0,0,0
+A punk rock frog in a studded leather jacket shouting into a microphone while standing on a boulder,"('frog', 'jacket', 'microphone', 'boulder')",1,0,1,1,0,0,0,0,0,2
+A punk rock frog in a studded leather jacket shouting into a microphone while standing on a lily pad,"('frog', 'jacket', 'microphone', 'lily pad')",1,0,1,1,0,0,0,0,0,2
+A punk rock frog in a studded leather jacket shouting into a microphone while standing on a stump,"('frog', 'jacket', 'microphone', 'stump')",1,0,1,1,0,0,0,0,0,2
+A punk rock platstumppus in a studded leather jacket shouting into a microphone while standing on a stump,"('platstumppus', 'jacket', 'microphone', 'stump')",1,0,1,1,0,0,0,0,0,2
+A punk rock platypus in a studded leather jacket shouting into a microphone while standing on a boulder,"('platypus', 'jacket', 'microphone', 'boulder')",1,0,1,1,0,0,0,0,0,2
+A punk rock platypus in a studded leather jacket shouting into a microphone while standing on a lily pad,"('platypus', 'jacket', 'microphone', 'lily pad')",1,0,1,1,0,0,0,0,0,2
+A punk rock squirrel in a studded leather jacket shouting into a microphone while standing on a boulder,"('squirrel', 'jacket', 'microphone', 'boulder')",1,0,1,1,0,0,0,0,0,2
+A punk rock squirrel in a studded leather jacket shouting into a microphone while standing on a lily pad,"('squirrel', 'jacket', 'microphone', 'lily pad')",1,0,1,1,0,0,0,0,0,2
+A punk rock squirrel in a studded leather jacket shouting into a microphone while standing on a stump,"('squirrel', 'jacket', 'microphone', 'stump')",1,0,1,1,0,0,0,0,0,2
+A punk rock squirrel in a studded leather jacket shouting into a microphone while standing on a stump and holding a beer on dark stage.,"('squirrel', 'jacket', 'microphone', 'stump', 'beer', 'stage')",1,1,1,1,0,0,0,0,0,2
+a rabbit,"('rabbit',)",0,0,1,0,0,0,0,0,0,0
+"A rabbit checks its watch, and so does a gecko.","('rabbit', 'watch', 'gecko')",1,0,1,0,0,0,0,0,0,2
+a rabbit sitting on a turtle's back,"('rabbit', 'turtle')",1,0,1,1,0,0,0,0,0,0
+a rabbit wearing a black tophat and monocle,"('rabbit', 'tophat', 'monocle')",0,1,1,1,0,0,0,0,0,2
+a rabbit with white fur and black-tipped ears,"('rabbit', 'fur', 'ears')",0,1,1,0,0,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a top hat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of Vincent Van Gogh.","('raccoon', 'clothes', 'hat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of abstract cubism.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of Egyptian tomp hieroglyphics.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of Hokusai.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of Madhubani art.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of pixel art.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of pointilism.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of Rembrandt.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of traditional Chinese painting.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+"A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of Vincent Van Gogh.","('raccoon', 'clothes', 'tophat', 'cane', 'garbage bag', 'painting')",1,0,1,1,1,0,0,0,0,0
+a racoon detective using a microscope while riding in a train,"('racoon', 'microscope', 'train', 'detective')",1,0,1,1,0,0,0,0,0,2
+a racoon holding a shiny red apple over its head,"('racoon', 'apple', 'head')",1,1,1,1,0,0,0,0,0,0
+a real flamingo reading a large open book. a big stack of books is piled up next to it. dslr photograph.,"('flamingo', 'book', 'photograph')",1,0,1,1,0,0,0,0,0,2
+a red block to the left of a blue pyramid,"('block', 'pyramid')",0,1,1,1,0,0,0,0,0,0
+a red box,"('box',)",0,1,1,0,0,0,0,0,0,0
+a red box next to a blue box,"('box',)",0,1,1,1,0,0,0,0,0,0
+a red box to the right of a green sphere,"('box', 'sphere')",0,1,1,1,0,0,0,0,0,0
+A red bus is driving on the road,"('bus', 'road')",1,1,1,1,0,0,0,0,0,0
+a red circle,"('circle',)",0,1,1,0,0,0,0,0,0,0
+a red circle on top of a blue square,"('circle', 'square')",0,1,1,1,0,0,0,0,0,0
+a red cube,"('cube',)",0,1,1,0,0,0,0,0,0,0
+a red cube on top of a blue cube,"('cube',)",0,1,1,1,0,0,0,0,0,0
+A red dragon dressed in a tuxedo and playing chess. The chess pieces are fashioned after robots.,"('dragon', 'tuxedo', 'chess', 'chess pieces')",1,1,1,1,0,0,0,0,0,2
+a red fire hydrant by a brick wall,"('hydrant', 'wall')",0,1,1,1,0,0,0,0,0,0
+A red hydrant on the grass,"('hydrant', 'grass')",0,1,1,1,0,0,0,0,0,0
+a red lego block,"('lego block',)",0,1,1,0,0,0,0,0,0,0
+a red sphere,"('sphere',)",0,1,1,0,0,0,0,0,0,0
+a red sphere on top of a yellow box,"('sphere', 'box')",0,1,1,1,0,0,0,0,0,0
+a red sport bike,"('sport bike',)",0,1,1,0,0,0,0,0,0,0
+a red sports car on the road,"('road', 'car')",0,1,1,1,0,0,0,0,0,0
+a red swirl above a black dashed line.,"('swirl', 'dashed line')",0,1,1,1,0,0,0,0,0,0
+a red train is coming down the beach,"('train', 'beach')",1,1,1,1,0,0,0,0,0,0
+A rhino beetle this size of a tank grapples a real life passenger airplane on the tarmac,"('rhino beetle', 'tank', 'airplane', 'tarmac')",1,0,1,1,0,0,0,0,0,2
+A richly textured oil painting of a young badger delicately sniffing a yellow rose next to a tree trunk. A small waterfall can be seen in the background.,"('painting', 'badger', 'rose', 'tree trunk', 'waterfall', 'background')",1,1,1,1,1,0,0,0,0,0
+a river with people swimming in it as a boat goes by,"('river', 'people', 'boat')",1,0,1,1,0,0,0,2,0,0
+a road,"('road',)",0,0,1,0,0,0,0,0,0,0
+a road ruined by an earthquake,"('road', 'earthquake')",0,0,1,0,0,0,0,0,0,0
+a roast turkey,"('turkey',)",0,0,1,0,0,0,0,0,0,0
+a roast turkey being taken out of the oven,"('roast turkey', 'oven')",0,0,1,0,0,0,0,0,0,0
+a roast turkey on the table,"('roast turkey', 'table')",0,0,1,1,0,0,0,0,0,0
+a robot,"('robot',)",0,0,1,0,0,0,0,0,0,0
+a robot cooking,"('robot',)",1,0,1,0,0,0,2,0,0,0
+a robot cooking in the kitchen,"('robot', 'kitchen')",1,0,1,1,0,0,2,0,0,0
+A robot gives a wombat an orange and a lemur a banana.,"('robot', 'wombat', 'orange', 'lemur', 'banana')",1,0,1,0,0,0,0,0,0,2
+"a robot holding a sign with ""Let's PAINT!"" written on it","('robot', 'sign', ""Let's PAINT!"")",1,0,1,1,0,0,2,0,0,0
+a robot kicking a soccer ball,"('robot', 'ball')",1,0,1,0,0,0,0,0,0,0
+"a robot painted as graffiti on a brick wall. a sidewalk is in front of the wall, and grass is growing out of cracks in the concrete.","('robot', 'graffiti', 'wall', 'sidewalk', 'grass', 'cracks', 'concrete')",1,0,1,1,1,0,0,0,0,0
+"A robot painted as graffiti on a brick wall. The words ""Fly an airplane"" are written on the wall. A sidewalk is in front of the wall, and grass is growing out of cracks in the concrete.","('robot', 'graffiti', 'wall', 'Fly an airplane', 'sidewalk', 'grass', 'cracks', 'concrete')",1,0,1,1,1,0,0,2,0,0
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,"('robot', 'visor', '42', 'chest', ' race car', 'sun', 'cityscape', 'view', 'illustration', '42')",1,1,1,1,0,0,0,0,0,0
+a rocking chair next to the net of a tennis court,"('chair ', 'tennis court', 'net')",0,0,1,1,0,0,0,0,0,0
+a room,"('room',)",0,0,1,0,0,0,0,0,0,0
+a room with two chairs and a painting,"('room', 'chairs', 'painting')",0,0,1,0,0,0,0,0,0,0
+a room with two chairs and a painting of the Statue of Liberty,"('room', 'chairs', 'painting', 'Statue of Liberty')",0,0,1,0,0,0,2,2,1,0
+a rowboat,"('rowboat',)",0,0,1,0,0,0,0,0,0,0
+a rowboat without paddles,"('rowboat', 'paddles')",0,0,1,0,0,0,0,0,0,0
+a rusty fire hydrant surrounded by dirt,"('hydrant', 'dirt')",0,0,1,1,0,0,0,0,0,0
+a rusty red pickup truck with white wheel rims,"('truck', 'wheel rims')",0,1,1,0,0,0,0,0,0,0
+"A rusty spaceship blasts off in the foreground. A city with tall skyscrapers is in the distance, with a mountain and ocean in the background. A dark moon is in the sky. realistic high-contrast anime illustration.","('spaceship', 'city', 'skyscrapers', 'mountain', 'ocean', 'moon', 'sky')",0,1,1,1,1,0,0,0,0,0
+a sad man with green hair,"('man', 'hair')",0,1,1,0,0,0,0,2,2,0
+a Saint Bernard standing up with its paws in the air. A young girl is seated on the dog's shoulders.,"('Saint Bernard', 'paws', 'air', 'young girl', 'dog', 'shoulders')",1,0,1,1,0,0,0,2,1,0
+a satellite image of a costal french city there is a large park on the west side and a mountain to the north. There is a cloud covering part of the image,"('satellite image', 'city', 'park', 'mountain', 'cloud')",1,0,1,1,0,0,0,0,0,0
+a scientist,"('scientist',)",0,0,1,0,0,0,0,2,0,0
+a scientist accepting an award,"('scientist', 'award')",1,0,1,0,0,0,2,2,0,0
+a Scottish castle next to a loch,"('castle', 'loch')",0,0,1,1,0,1,0,0,0,0
+a screwdriver,"('screwdriver',)",0,0,1,0,0,0,0,0,0,0
+a screwdriver on a table,"('screwdriver', 'table')",0,0,1,1,0,0,0,0,0,0
+A section of the Great Wall in the mountains. detailed charcoal sketch.,"('Great Wall', 'mountains')",0,0,0,1,1,0,0,0,0,0
+a selfie of an old man with a white beard,"('selfie', 'old man', 'beard')",0,1,1,0,0,0,0,2,2,0
+a series of musical notes,"('musical notes',)",0,0,1,0,0,0,0,0,0,0
+a series of musical notes on a black t-shirt,"('musical notes', 't-shirt')",0,1,1,1,0,0,0,0,0,0
+a series of musical notes on a computer screen,"('screen', 'musical notes')",0,0,1,1,0,0,0,0,0,0
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.","('emoji icons', 'faces', 'macarons', 'cowboy hats')",1,2,1,1,0,0,0,0,0,0
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like dogs. All of the dogs are wearing blue turtlenecks.","('emoji icons', 'faces', 'dogs', 'turtlenecks')",1,1,1,1,0,0,0,0,0,0
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like macaroons. All of the macaroons are wearing cowboy hats.","('emoji', 'faces', 'macaroons', 'cowboy hats')",1,0,1,1,0,0,0,0,0,0
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like pandas. All of the pandas are wearing colorful sunglasses.","('emoji icons', 'faces', 'pandas', 'sunglasses')",1,2,1,1,0,0,0,0,0,0
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like pigs. All of the pigs are wearing crowns.","('emoji icons', 'faces', 'pigs', 'crowns')",1,0,1,1,0,0,0,0,0,0
+a shiba inu,"('shiba inu',)",0,0,1,0,0,0,0,0,0,0
+a shiba inu wearing a beret and black turtleneck,"('shiba inu', 'beret', 'turtleneck')",1,1,1,1,0,0,0,0,0,2
+A shiny robot wearing a race car suit and black visor stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. comic book illustration.,"('robot', 'race car suit', 'visor', 'race car', 'cityscape', 'sun', 'illustration')",1,1,1,1,1,0,0,0,0,0
+"A shiny VW van in front of a cityscape. A smiling sloth stands on grass in front of the van and is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. High-contrast oil painting.","('van', 'cityscape', 'sloth', 'grass', 'jacket', 'hat', 'kilt', 'bowtie', 'quarterstaff', 'book', 'painting')",1,1,1,1,1,0,0,0,0,0
+A shiny VW van parked on grass.,"('van', 'grass')",0,1,1,1,0,0,0,0,0,0
+"A shiny VW van that has flowers painted on it. A smiling sloth stands on grass in front of the van and is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. ink sketch.","('van', 'flowers', 'sloth', 'grass', 'jacket', 'hat', 'kilt', 'bowtie', 'quarterstaff', 'book')",1,1,1,1,1,0,0,0,0,0
+A shiny VW van with a cityscape painted on it and parked on grass.,"('van', 'cityscape', 'grass')",0,1,1,1,0,0,0,0,0,0
+a shoe,"('shoe',)",0,0,1,0,0,0,0,0,0,0
+a shoe rack without any pairs of shoes on it,"('shoe rack', 'shoes')",0,0,1,1,0,0,0,0,0,0
+a shoe with a sock draped over it,"('shoe', 'sock')",0,0,1,1,0,0,0,0,0,0
+a sidewalk next to a wooden post with a blue '5' painted on top,"('sidewalk', 'wooden post', '5')",0,1,1,1,0,0,0,0,0,0
+a sign,"('sign',)",0,0,1,0,0,0,0,0,0,0
+A sign that says Deep Learning,"('sign', 'Deep Learning')",0,0,1,0,0,0,0,0,0,0
+a silver doorknocker on a mahoghany door,"('doorknocker', 'door')",0,1,1,1,0,0,0,0,0,0
+a silver fire hydrant next to a sidewalk,"('hydrant', 'sidewalk')",0,1,1,1,0,0,0,0,0,0
+A single beam of light enter the room from the ceiling. The beam of light is illuminating an easel. On the easel there is a Rembrandt painting of a raccoon,"('light', 'room', 'ceiling', 'easel', 'painting', 'raccoon')",1,0,1,1,0,0,0,0,0,0
+a sketch of a camel next to a stream,"('sketch', 'camel', 'stream')",0,0,1,1,1,0,0,0,0,0
+a sketch of a horse,"('sketch', 'horse')",0,0,1,0,1,0,0,0,0,0
+a sketch of a skyscraper,"('sketch', 'skyscraper')",0,0,1,0,1,0,0,0,0,0
+a sketch of a train,"('sketch', 'train')",0,0,1,0,1,0,0,0,0,0
+A sloth in a go kart on a race track. The sloth is holding a banana in one hand. There is a banana peel on the track in the background.,"('sloth', 'track', 'race track', 'banana', 'hand', 'banana peel')",1,0,1,1,0,0,0,0,0,2
+a small airplane,"('airplane',)",0,0,1,0,0,0,0,0,0,0
+a small airplane flying over rolling hills,"('airplane', 'hills')",1,0,1,1,0,0,0,0,0,0
+a small garden with an apple tree behind it,"('garden', 'tree')",0,0,1,1,0,0,0,0,0,0
+a small house,"('house',)",0,0,1,0,0,0,0,0,0,0
+A small house in the wilderness,"('house', 'wilderness')",0,0,1,1,0,0,0,0,0,0
+a small house on a mountain top,"('house', 'mountain top')",0,0,1,1,0,0,0,0,0,0
+a small kitchen with a white goat in it,"('kitchen', 'goat')",0,1,1,1,0,0,0,0,0,2
+a small tree covered in white blossoms,"('tree', 'blossoms')",0,1,1,1,0,0,0,0,0,0
+a smiling banana wearing a bandana,"('banana', 'bandana')",1,0,1,1,0,0,0,0,0,2
+a smiling man,"('man',)",1,0,1,0,0,0,0,2,2,0
+a smiling man with wavy brown hair and trimmed beard,"('man', 'hair', 'beard')",1,1,1,0,0,0,0,2,2,0
+a smiling sloth,"('sloth',)",1,0,1,0,0,0,0,0,0,0
+"A smiling sloth is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. The sloth is standing on grass a few feet in front of a shiny VW van with flowers painted on it. wide-angle lens from below.","('sloth', 'jacket', 'hat', 'kilt', 'bowtie', 'quarterstaff', 'book', 'grass', 'feet', 'van', 'flowers', 'lens')",1,1,1,1,0,0,0,0,0,2
+A smiling sloth wearing a bowtie and holding a quarterstaff and a big book.,"('sloth', 'bowtie', 'quarterstaff', 'book')",1,0,1,1,0,0,0,0,0,2
+A smiling sloth wearing a bowtie and holding a quarterstaff and a big book. A shiny VW van parked on grass.,"('sloth', 'bowtie', 'quarterstaff', 'book', 'van', 'grass')",1,1,1,1,0,0,0,0,0,2
+"A smiling sloth wearing a leather jacket, a cowboy hat and a kilt.","('sloth', 'jacket', 'hat', 'kilt')",1,0,1,1,0,0,0,0,0,2
+"A smiling sloth wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book.","('sloth', 'jacket', 'hat', 'kilt', 'bowtie', 'quarterstaff', 'book')",1,0,1,1,0,0,0,0,0,2
+"A smiling sloth wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. A shiny VW van with a cityscape painted on it and parked on grass.","('sloth', 'jacket', 'hat', 'kilt', 'bowtie', 'quarterstaff', 'book', 'van', 'cityscape', 'grass')",1,1,1,1,0,0,0,0,0,2
+"A smiling sloth wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. The sloth stands a few feet in front of a shiny VW van. The van has a cityscape painted on it and parked on grass.","('sloth', 'jacket', 'hat', 'kilt', 'bowtie', 'quarterstaff', 'book', 'van', 'cityscape', 'grass')",1,1,1,1,0,0,0,0,0,2
+"A smiling sloth wearing a leather jacket, bowtie, kilt and cowboy hat. The sloth is holding a quarterstaff and a big book. The sloth is standing on grass a few feet in front of a rusty old VW van with flowers painted on it. wide-angle lens from below.","('sloth', 'jacket', 'bowtie', 'kilt', 'hat', 'quarterstaff', 'book', 'grass', 'feet', 'van', 'flowers', 'lens')",1,1,1,1,0,0,0,0,0,2
+a snail,"('snail',)",0,0,1,0,0,0,0,0,0,0
+a snail made of harp,"('snail', 'harp')",0,0,1,0,0,0,0,0,0,0
+a snake curled around a wooden post,"('snake', 'wooden post')",0,0,1,1,0,0,0,0,0,0
+a snowy owl standing in a grassy field,"('owl', 'field')",1,0,1,1,0,0,0,0,0,0
+a soccer ball flying over a car,"('ball', 'car')",1,0,1,1,0,0,0,0,0,0
+A soft beam of light shines down on an armored granite wombat warrior statue holding a broad sword. The statue stands an ornate pedestal in the cella of a temple. wide-angle lens. anime oil painting.,"('light', 'wombat', 'statue', 'sword', 'pedestal', 'cella', 'temple', 'painting', 'warrior')",0,1,1,1,1,0,0,0,0,0
+A solitary figure shrouded in mists peers up from the cobble stone street at the imposing and dark gothic buildings surrounding it. an old-fashioned lamp shines nearby. oil painting.,"('figure', 'mists', 'street', 'buildings', 'lamp', 'painting', 'cobble stone')",1,1,1,1,1,1,0,0,0,0
+a space elevator,"('space elevator',)",0,0,1,0,0,0,0,0,0,0
+a spaceship hovering over The Alamo,"('spaceship', 'Alamo')",1,0,1,1,0,0,0,0,0,2
+a spaceship landing on the Great Wall,"('spaceship', 'Great Wall')",1,0,1,1,0,0,0,0,0,2
+A spaceship made of cardboard.,"('cardboard', 'spaceship')",0,0,1,0,0,0,0,0,0,0
+a spaceship that looks like the Sydney Opera House,"('spaceship', 'Opera House')",0,0,1,0,0,1,0,0,0,0
+a sphere,"('sphere',)",0,0,1,0,0,0,0,0,0,0
+"a sport car melting into a clock, surrealist painting in the style of Salvador Dali","('car', 'clock', 'painting')",1,0,1,1,1,0,0,0,0,0
+a square with an angry face,"('square', 'face')",0,0,1,0,0,0,0,0,0,2
+a squirrel,"('squirrel',)",0,0,1,0,0,0,0,0,0,0
+A squirrel gives an apple to a bird,"('squirrel', 'apple', 'bird')",1,0,1,0,0,0,0,0,0,2
+a squirrel in a field,"('squirrel', 'field')",0,0,1,1,0,0,0,0,0,0
+a squirrel in a forest,"('squirrel', 'forest')",0,0,1,1,0,0,0,0,0,0
+a squirrell driving a toy car,"('squirrell', 'toy car')",1,0,1,0,0,0,0,0,0,2
+a stack of three red cubes with a blue sphere on the right and two green cones on the left,"('cubes', 'sphere', 'cones')",0,1,1,1,0,0,0,0,0,0
+a stained glass window depicting a calm tyrannosaurus rex,"('glass window', 'tyrannosaurus rex')",1,2,1,0,0,0,0,0,0,0
+a stained glass window of a panda eating bamboo,"('glass window', 'panda', 'bamboo')",1,2,1,0,0,0,0,0,0,0
+a statue,"('statue',)",0,0,1,0,0,0,0,0,0,0
+"a statue of Abraham Lincoln wearing an opaque and shiny astronaut's helmet. The statue sits on the moon, with the planet Earth in the sky.","('statue', 'helmet', 'moon', 'Earth', 'sky')",1,1,1,1,0,0,0,2,0,0
+a steam locomotive speeding through a desert,"('steam locomotive', 'desert')",1,0,1,1,0,0,0,0,0,0
+a Stegasaurus,"('Stegasaurus',)",0,0,1,0,0,0,0,0,0,0
+a Stegasaurus eating ferns,"('Stegasaurus', 'ferns')",1,0,1,0,0,0,0,0,0,0
+a sticker stuck in the middle of a stop sign,"('sticker', 'sign')",0,0,1,1,0,0,0,0,0,0
+a still life painting of a pair of shoes,"('painting', 'shoes')",0,0,1,0,1,0,0,0,0,0
+a stone bust next to an egg and an eggplant,"('bust', 'egg', 'eggplant')",0,0,1,1,0,0,0,0,0,0
+a stone path,"('path',)",0,0,1,0,0,0,0,0,0,0
+a stone path leading away from a fountain,"('path', 'fountain')",1,0,1,0,0,0,0,0,0,0
+a stop sigh with 'ALL WAY' written below it,"('sigh', 'ALL WAY')",0,0,1,1,0,0,0,0,0,0
+a stop sign,"('sign',)",0,0,1,0,0,0,0,0,0,0
+a stop sign knocked over on a sidewalk,"('sign', 'sidewalk')",0,0,1,1,0,0,0,0,0,0
+a stop sign with a blue background,"('sign', 'background')",0,1,1,0,0,0,0,0,0,0
+a stop sign with a large tree behind it,"('sign', 'tree')",0,0,1,1,0,0,0,0,0,0
+a store front,"('store front',)",0,0,1,0,0,0,0,0,0,0
+a store front that has the word ��openai�� written on it.,"('store', 'openai')",0,0,1,1,0,0,0,0,0,0
+a store front with 'AwesomePurchase' written on it,"('store', 'AwesomePurchase')",0,0,1,1,0,0,0,0,0,0
+a store front with 'Grassy Meadow' written on it,"('store', 'Grassy Meadow')",0,0,1,1,0,0,0,0,0,0
+a stork playing a violin,"('stork', 'violin')",1,0,1,0,0,0,0,0,0,2
+a street,"('street',)",0,0,1,0,0,0,0,0,0,0
+a street in Paris,"('street',)",0,0,1,1,0,1,0,0,0,0
+a street with several cars on it,"('street', 'cars')",0,0,1,1,0,0,0,0,0,0
+a street without vehicles,"('street', 'vehicles')",0,0,1,0,0,0,0,0,0,0
+a Styracosaurus,"('Styracosaurus',)",0,0,1,0,0,0,0,0,0,0
+a Styracosaurus displaying its horns,"('Styracosaurus', 'horns')",1,0,1,0,0,0,0,0,0,0
+a submarine,"('submarine',)",0,0,1,0,0,0,0,0,0,0
+a submarine floating past a shark,"('submarine', 'shark')",1,0,1,1,0,0,0,0,0,0
+a subway train,"('subway train',)",0,0,1,0,0,0,0,0,0,0
+a subway train coming out of a tunnel,"('subway train', 'tunnel')",1,0,1,1,0,0,0,0,0,0
+a subway train in an empty station,"('subway train', 'station')",0,0,1,1,0,0,0,0,0,0
+a subway train with no cows in it,"('subway train', 'cows')",0,0,1,1,0,0,0,0,0,0
+a summer tree without any leaves,"('tree', 'leaves')",0,0,1,0,0,0,0,0,0,2
+a sunken ship at the bottom of the ocean,"('ship', 'ocean')",0,0,1,1,0,0,0,0,0,0
+A sunken ship becomes the homeland of fish.,"('ship', 'fish', 'homeland')",0,0,1,0,0,0,0,0,0,0
+a sunken submarine at the bottom of the ocean,"('submarine', 'ocean')",0,0,1,1,0,0,0,0,0,0
+a sunset,"('sunset',)",0,0,1,0,0,0,0,0,0,0
+a sunset behind the grand canyon,"('sunset', 'canyon')",0,0,1,1,0,0,0,0,0,0
+"a super math wizard cat, richly textured oil painting","('cat', 'painting')",0,0,1,0,1,0,0,0,0,0
+a surrealist dream-like oil painting by salvador dal�� of a cat playing checkers,"('painting', 'cat', 'checkers')",1,0,1,0,1,0,0,0,0,0
+a sweatshirt,"('sweatshirt',)",0,0,1,0,0,0,0,0,0,0
+a sweatshirt with 'Batch Norm' written on it,"('sweatshirt', 'Batch Norm')",0,0,1,1,0,0,0,0,0,0
+a sword,"('sword',)",0,0,1,0,0,0,0,0,0,0
+a sword in a stone,"('sword', 'stone')",0,0,1,1,0,0,0,0,0,0
+a sword slicing through a loaf of bread,"('sword', 'bread')",1,0,1,0,0,0,0,0,0,0
+a tabby cat coming through a door,"('cat', 'door')",1,0,1,0,0,0,0,0,0,0
+"A table full of food. There is a plate of chicken rice, a bowl of bak chor mee, and a bowl of laksa.","('table', 'food', 'chicken rice', 'bak chor mee', 'laksa')",0,0,1,1,0,0,0,0,0,0
+a tall horse next to a red car,"(' horse', 'car')",0,1,1,1,0,0,0,0,0,0
+a tall man stooping down to enter a low red sports car,"('man', 'car')",1,1,1,1,0,0,0,2,2,0
+a taxi,"('taxi',)",0,0,1,0,0,0,0,0,0,0
+a taxi driving in the countryside,"('taxi', 'countryside')",1,0,1,1,0,0,0,0,0,0
+a team,"('team',)",0,0,1,0,0,0,0,0,0,0
+a team playing baseball,"('team', 'baseball')",1,0,1,0,0,0,0,0,0,0
+a team playing baseball at the beach,"('team', 'baseball', 'beach')",1,0,1,1,0,0,2,2,0,0
+a teapot,"('teapot',)",0,0,1,0,0,0,0,0,0,0
+a teddy bear on a skateboard,"('teddy bear', 'skateboard')",0,0,1,1,0,0,0,0,0,0
+a teddy bear on a skateboard in times square,"('teddy bear', 'skateboard', 'square')",0,0,1,1,0,0,0,0,0,2
+a teddy bear to the right of a toy car,"('teddy bear', 'toy car')",0,0,1,1,0,0,0,0,0,0
+A teddy bear wearing a motorcycle helmet and cape is car surfing on a taxi cab in New York City,"('teddy bear', 'helmet', 'cape', 'taxi cab', 'City')",1,0,1,1,0,1,0,0,0,2
+A teddy bear wearing a motorcycle helmet and cape is driving a speed boat near the Golden Gate Bridge,"('teddy bear', 'helmet', 'cape', 'boat', 'the Golden Gate Bridge')",1,0,1,1,0,0,0,0,0,2
+A teddy bear wearing a motorcycle helmet and cape is riding a motorcycle in Rio de Janeiro with Dois Irm_os in the background,"('teddy bear', 'helmet', 'cape', 'motorcycle', 'Dois Irm_os')",1,0,1,1,0,1,0,0,0,2
+A teddy bear wearing a motorcycle helmet and cape is standing in front of Loch Awe with Kilchurn Castle behind him,"('teddy bear', 'helmet', 'cape', 'Loch Awe', 'Castle')",1,0,1,1,0,0,0,0,0,2
+"A teddybear on a skateboard in Times Square, doing tricks on a cardboard box ramp.","('teddybear', 'skateboard', 'Square', 'cardboard box', 'ramp')",1,0,1,1,0,0,0,0,0,2
+A television made of water that displays an image of a cityscape at night.,"('television', 'water', 'image', 'cityscape')",1,0,1,0,0,0,0,0,0,2
+a tennis court,"('tennis court',)",0,0,1,0,0,0,0,0,0,0
+a tennis court that is very wet from lots of rain,"('tennis court', 'rain')",0,0,1,0,0,0,0,0,0,0
+a tennis court with a basketball hoop in one corner,"('tennis court', 'basketball hoop', 'corner')",0,0,1,1,0,0,0,0,0,0
+a tennis court with tennis balls scattered all over it,"('court', 'tennis balls')",0,0,1,1,0,0,0,0,0,0
+a tennis court with three yellow cones on it,"('court', 'cones')",0,1,1,1,0,0,0,0,0,0
+a tennis match in the style of Egyptian hieroglyphic tomb paintings,"('tennis match', 'paintings')",0,0,1,0,1,0,0,0,0,0
+a three quarters view of a man getting into a car,"('view', 'man', 'car')",1,0,1,0,0,0,0,2,2,0
+a throw rug on a stone floor,"('rug', 'floor', 'stone')",0,0,1,1,0,0,0,0,0,0
+a thumbnail image of a gingerbread man,"('image', 'gingerbread man')",0,0,1,0,0,0,0,0,0,0
+a thumbnail image of a horse and cart,"('image', 'horse', 'cart')",0,0,1,0,0,0,0,0,0,0
+a thumbnail image of a person skiing,"('image', 'person')",1,0,1,0,0,0,2,2,0,0
+a thumbnail image of an ice cream cone,"('image', 'ice cream cone')",0,0,1,0,0,0,0,0,0,0
+a tidal wave,"('tidal wave',)",0,0,1,0,0,0,0,0,0,0
+a tidal wave approaching a coastal road,"('tidal wave', 'road')",1,0,1,0,0,0,0,0,0,0
+a tiger,"('tiger',)",0,0,1,0,0,0,0,0,0,0
+a tiger in a field,"('tiger', 'field')",0,0,1,1,0,0,0,0,0,0
+a tiger in a forest,"('forest', 'tiger')",0,0,1,1,0,0,0,0,0,0
+A tiger is playing football,"('tiger', 'football')",1,0,1,0,0,0,0,0,0,2
+a tiger standing by some flowers,"('tiger', 'flowers')",1,0,1,1,0,0,0,0,0,0
+a tiger wearing a tuxedo,"('tiger', 'tuxedo')",0,0,1,1,0,0,0,0,0,2
+a tiny dragon landing on a knight's shield,"('dragon', 'shield')",1,0,1,1,0,0,0,0,0,2
+a tiny football in front of three yellow tennis balls,"('football', 'tennis balls')",0,1,1,1,0,0,0,0,0,0
+a toaster,"('toaster',)",0,0,1,0,0,0,0,0,0,0
+a toaster shaking hands with a microwave,"('toaster', ' hands', 'microwave')",1,0,1,0,0,0,2,0,0,2
+a top down view of a horse running in a field,"('view', 'horse', 'field')",1,0,1,1,0,0,0,0,0,0
+a tornado,"('tornado',)",0,0,1,0,0,0,0,0,0,0
+A tornado made of bees crashing into a skyscraper. painting in the style of abstract cubism.,"('tornado', 'bees', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of bees crashing into a skyscraper. painting in the style of Hokusai.,"('tornado', 'bees', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of bees crashing into a skyscraper. painting in the style of watercolor.,"('tornado', 'bees', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of sharks crashing into a skyscraper. painting in the style of abstract cubism.,"('tornado', 'sharks', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of sharks crashing into a skyscraper. painting in the style of Hokusai.,"('tornado', 'sharks', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of sharks crashing into a skyscraper. painting in the style of watercolor.,"('tornado', 'sharks', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of tigers crashing into a skyscraper. painting in the style of abstract cubism.,"('tornado', 'tigers', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of tigers crashing into a skyscraper. painting in the style of Hokusai.,"('tornado', 'tigers', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+A tornado made of tigers crashing into a skyscraper. painting in the style of watercolor.,"('tornado', 'tigers', 'skyscraper', 'painting')",1,0,1,0,1,0,0,0,0,0
+a tornado passing over a corn field,"('tornado', 'field')",1,0,1,1,0,0,0,0,0,0
+a tornado with a house carried along at its top,"('tornado', 'house')",0,0,1,1,0,0,0,0,0,0
+A tourist is looking at a whale using a binocular,"('tourist', 'whale', 'binocular')",1,0,1,0,0,0,2,2,0,0
+a towel,"('towel',)",0,0,1,0,0,0,0,0,0,0
+a toy car in front of a teddy bear,"('toy car', 'teddy bear')",0,0,1,1,0,0,0,0,0,0
+a traffic jam at Times Square,"('traffic jam', 'Square')",0,0,0,1,0,0,0,0,0,0
+a train,"('train',)",0,0,1,0,0,0,0,0,0,0
+a train going to the moon,"('train', 'moon')",1,0,1,0,0,0,0,0,0,2
+A train ride in the monsoon rain in Kerala. With a Koala bear wearing a hat looking out of the window. There is a lot of coconut trees out of the window.,"('train', 'rain', 'Koala bear ', 'hat', 'window', 'trees')",1,0,1,1,0,0,0,0,0,2
+a trash bin,"('trash bin',)",0,0,1,0,0,0,0,0,0,0
+a tree,"('tree',)",0,0,1,0,0,0,0,0,0,0
+a tree growing out of the middle of an intersection,"('tree', 'intersection')",1,0,1,1,0,0,0,0,0,0
+a tree growing through a fence,"('tree', 'fence')",1,0,1,1,0,0,0,0,0,0
+a tree reflected in the hood of a blue car,"('tree', 'hood', 'car')",0,1,1,1,0,0,0,0,0,0
+a tree reflected in the sunroof of a blue car,"('tree', 'sunroof', 'car')",0,1,1,1,0,0,0,0,0,0
+a tree surrounded by flowers,"('tree', 'flowers')",0,0,1,1,0,0,0,0,0,0
+a tree with leaves that look like purple balloons,"('tree', 'leaves', 'balloons')",0,1,1,0,0,0,0,0,0,0
+a triangle with a smiling face,"('triangle', 'smiling face')",0,0,1,0,0,0,0,0,0,2
+a Triceratops,"('Triceratops',)",0,0,1,0,0,0,0,0,0,0
+a Triceratops charging down a hill,"('Triceratops', 'hill')",1,0,1,1,0,0,0,0,0,0
+a t-shirt,"('t-shirt',)",0,0,1,0,0,0,0,0,0,0
+a t-shirt with 'ANKH' written on it,"('t-shirt', 'ANKH')",0,0,1,1,0,0,0,0,0,0
+a t-shirt with 'Archaelogy Rocks!' written on it,"('t-shirt', 'Archaelogy Rocks!')",0,0,1,1,0,0,0,0,0,0
+a t-shirt with Carpe Diem written on it,"('t-shirt', 'Carpe Diem')",0,0,1,1,0,0,0,0,0,0
+a tuba,"('tuba',)",0,0,1,0,0,0,0,0,0,0
+a tuba made of flower petals,"('tuba', 'petals')",0,0,1,0,0,0,0,0,0,0
+a tuba with red flowers protruding from its bell,"('tuba', 'flowers', 'bell')",1,1,1,0,0,0,0,0,0,0
+a turkey,"('turkey',)",0,0,1,0,0,0,0,0,0,0
+a turkey walking in the kitchen,"('turkey', 'kitchen')",1,0,1,1,0,0,0,0,0,2
+a turtle,"('turtle',)",0,0,1,0,0,0,0,0,0,0
+a turtle upside down and spinning on its shell,"('turtle', 'shell')",1,0,1,0,0,0,0,0,0,2
+a TV,"('TV',)",0,0,1,0,0,0,0,0,0,0
+a TV on a horse,"('TV', 'horse')",0,0,1,1,0,0,0,0,0,2
+a two lane road with a bright yellow line,"('road', 'line')",0,1,1,0,0,0,0,0,0,0
+a Tyrannosaurus Rex,"('Tyrannosaurus Rex',)",0,0,1,0,0,0,0,0,0,0
+a Tyrannosaurus Rex roaring in front of a palm tree,"('Tyrannosaurus Rex', 'tree')",1,0,1,1,0,0,0,0,0,0
+a unicorn with a multicolored mane,"('unicorn', 'mane')",0,2,0,0,0,0,0,0,0,0
+A van parked on grass,"('van', 'grass')",0,0,1,1,0,0,0,0,0,0
+A vector illustration of a tree,"('illustration', 'tree')",0,0,1,0,1,0,0,0,0,0
+a very fancy French restaurant,"('restaurant',)",0,0,1,0,0,1,0,0,0,0
+A Vietnam map,"('map',)",0,0,1,0,0,1,0,0,0,0
+A Vietnam map showing Ha Long Bay,"('map', 'Ha Long Bay')",0,0,1,0,0,1,0,0,0,0
+a view of the Big Dipper in the night sky,"('view', 'Big Dipper', 'sky')",0,0,1,1,0,0,0,0,0,0
+a view of the Earth from the moon,"('view', 'Earth', 'moon')",0,0,1,1,0,0,0,0,0,0
+a view of the Kremlin on a sunny day,"('view', 'Kremlin')",0,0,1,0,0,0,0,0,0,0
+a view of the Kremlin with snow falling,"('view', 'Kremlin', 'snow')",0,0,1,0,0,0,0,0,0,0
+a view of the Milllenium Wheel from the Thames,"('view', 'Milllenium Wheel', 'Thames')",0,0,1,1,0,0,0,0,0,0
+a view of the Orion constellation in the night sky,"('view', 'Orion constellation', 'sky')",0,0,1,1,0,0,0,0,0,0
+a violin,"('violin',)",0,0,1,0,0,0,0,0,0,0
+a violin next to an apple,"('violin', 'apple')",0,0,1,1,0,0,0,0,0,0
+a volcano,"('volcano',)",0,0,1,0,0,0,0,0,0,0
+a volcano erupting near a small town,"('volcano', 'town')",1,0,1,1,0,0,0,0,0,0
+a volcano exploding next to a marina,"('volcano', 'marina')",1,0,1,1,0,0,0,0,0,0
+a volcano spewing fish into the sky,"('volcano', 'fish', 'sky')",1,0,1,0,0,0,0,0,0,2
+a volcano with lava pouring down its slopes,"('volcano', 'lava', 'slopes')",1,0,1,1,0,0,0,0,0,0
+a wall,"('wall',)",0,0,1,0,0,0,0,0,0,0
+"A wall in a royal castle. There are two paintings on the wall. The one on the left a detailed oil painting of the royal raccoon king. The one on the right a detailed oil painting of the royal raccoon queen. A cute dog looking at the two paintings, holding a sign saying 'plz conserve'","('wall', 'castle', 'paintings', 'raccoon king', 'raccoon queen', 'dog', 'sign')",1,0,1,1,1,0,0,0,0,2
+a walnut,"('walnut',)",0,0,1,0,0,0,0,0,0,0
+A warrior wombat holding a sword and shield in a fighting stance. The wombat stands in front of the Arc de Triomphe on a day shrouded mist with the sun high in the sky.,"('wombat', 'sword', 'shield', 'Arc de Triomphe', 'mist', 'sun', 'sky', 'warrior')",1,0,1,1,0,0,0,0,0,2
+a water tower next to a deserted road,"('water tower', 'road')",0,0,1,1,0,0,0,0,0,0
+a watercolor painting of a snowy owl standing in a grassy field,"('painting', 'owl', 'field')",1,0,1,1,1,0,0,0,0,0
+a watercolor painting of a tree and a building,"('painting', 'tree', 'building')",0,0,1,0,1,0,0,0,0,0
+a watermelon chair,"('chair',)",0,0,1,0,0,0,0,0,0,0
+a whale,"('whale',)",0,0,1,0,0,0,0,0,0,0
+a whale breaching in front of the Sydney Opera House,"('whale', 'Opera House')",1,0,1,1,0,1,0,0,0,0
+a whale breaching near a mountain,"('whale', 'mountain')",1,0,1,1,0,0,0,0,0,0
+a white background with a large blue circle,"('background', 'circle')",0,1,1,0,0,0,0,0,0,0
+a white background with a large blue circle acand a small green square,"('background', 'circle', 'square')",0,1,1,0,0,0,0,0,0,0
+a white background with a large blue square,"('background', 'square')",0,1,1,0,0,0,0,0,0,0
+a white bird in front of a dinosaur standing by some trees,"('bird', 'dinosaur', 'trees')",1,1,1,1,0,0,0,0,0,0
+a white cat and a tabby cat looking at each other,"('cat',)",1,1,1,0,0,0,0,0,0,0
+a white cat with black ears and markings,"('cat', 'ears', 'markings')",0,1,1,0,0,0,0,0,0,0
+a white country home,"('home',)",0,1,1,0,0,0,0,0,0,0
+a white country home with a wrap-around porch,"('home', 'porch')",0,1,1,0,0,0,0,0,0,0
+a white flag with a red circle next to a solid blue flag,"('flag', 'circle')",0,1,1,1,0,0,0,0,0,0
+a white pawn attacking a black bishop,"('pawn', 'bishop')",1,1,1,0,0,0,0,0,0,0
+a white plastic bench with a high arched back,"('bench', 'back')",0,1,1,0,0,0,0,0,0,0
+a white rabbit in blue jogging clothes doubled over in pain while a turtle wearing a red tank top dashes confidently through the finish line,"('rabbit', 'clothes', 'turtle', 'tank top', 'finish line')",1,1,1,1,0,0,0,0,0,2
+a white robot passing a soccer ball to a red robot,"('robot', 'soccer ball')",1,1,1,0,0,0,0,0,0,0
+a white robot with a red mohawk painted as graffiti on a red brick wall,"('robot', 'mohawk', 'graffiti', 'wall')",0,1,1,1,1,0,0,0,0,0
+"a white robot, a red robot and a black robot standing together","('robot',)",1,1,1,0,0,0,0,0,0,0
+a white towel,"('towel',)",0,1,1,0,0,0,0,0,0,0
+a white towel with a cartoon of a cat on it,"('towel', 'cat', 'cartoon')",0,1,1,1,1,0,0,0,0,0
+a white towel with a cat on it,"('towel', 'cat')",0,1,1,1,0,0,0,0,0,0
+a windmill,"('windmill',)",0,0,1,0,0,0,0,0,0,0
+a windmill farm next to a country road,"('farm', 'road', 'windmill')",0,0,1,1,0,0,0,0,0,0
+a wine bottle with a lit candle stuck in its spout,"('bottle', 'candle', 'spout')",0,0,1,1,0,0,0,0,0,0
+a wine bottle with a red ribbon wrapped around it,"('bottle', 'ribbon')",0,1,1,1,0,0,0,0,0,0
+a witch riding a broom,"('witch', 'broom')",1,0,1,1,0,0,0,2,1,0
+a woman,"('woman',)",0,0,1,0,0,0,0,2,1,0
+a woman looking at a house,"('woman', 'house')",1,0,1,0,0,0,0,2,1,0
+a woman running on a trail,"('woman', 'trail')",1,0,1,1,0,0,0,2,1,0
+a woman singing into a microphone,"('woman', 'microphone')",1,0,1,0,0,0,0,2,1,0
+a woman using a sledgehammer to smash an ice sculpture of a goose,"('woman', 'sledgehammer', 'ice sculpture', 'goose')",1,0,1,0,0,0,2,2,1,0
+a woman with a dog puppet and a cat puppet,"('woman', 'dog puppet', 'cat puppet')",0,0,1,0,0,0,0,2,1,0
+a woman with long black hair and dark skin,"('woman', 'hair', 'skin')",0,1,1,0,0,0,0,2,1,0
+a woman with long black hair and dark skin in a long white dress,"('woman', 'hair', 'skin', 'dress')",0,1,1,1,0,0,0,2,1,0
+a woman with long hair,"('woman', 'hair')",0,0,1,0,0,0,0,2,1,0
+a woman with long hair next to a luminescent bird,"('woman', 'hair', 'bird')",0,2,1,1,0,0,0,2,1,2
+a woman with sunglasses and red hair,"('woman', 'sunglasses', 'hair')",0,1,1,0,0,0,0,2,1,0
+a woman with tan skin in blue jeans and yellow shirt,"('woman', 'skin', 'jeans', 'shirt')",0,1,1,1,0,0,0,2,1,0
+"A wombat sits in a yellow beach chair, while sipping a martini that is on his laptop keyboard. The wombat is wearing a white panama hat and a floral Hawaiian shirt. Out-of-focus palm trees in the background.","('wombat', 'chair', 'martini', 'keyboard', 'hat', 'shirt', 'trees')",1,1,1,1,0,1,0,0,0,2
+a wood cabin,"('cabin',)",0,0,1,0,0,0,0,0,0,0
+a wood cabin with a fire pit in front of it,"('cabin', 'fire pit')",0,0,1,1,0,0,0,0,0,0
+a wood treehouse in an oak tree,"('tree', 'treehouse')",0,0,1,1,0,0,0,0,0,0
+a wooden deck,"('deck',)",0,0,1,0,0,0,0,0,0,0
+a wooden deck overlooking a mountain valley,"('deck', 'valley')",1,0,1,0,0,0,0,0,0,0
+a wooden post,"('wooden post',)",0,0,1,0,0,0,0,0,0,0
+a wooden post in front of a patch of tall grass,"('wooden post', 'grass')",0,0,1,1,0,0,0,0,0,0
+a wooden post with a blue '5' painted on top,"('wooden post', '5')",0,1,1,1,0,0,0,0,0,0
+a wooden post with a yellow '3' painted on top,"('wooden post', '3')",0,1,1,1,0,0,0,0,0,0
+a wooden toy horse with a mane made of rope,"('toy horse', 'rope', 'mane')",0,0,1,0,0,0,0,0,0,0
+a yellow box,"('box',)",0,1,1,0,0,0,0,0,0,0
+a yellow box to the right of a blue sphere,"('box', 'sphere')",0,1,1,1,0,0,0,0,0,0
+a yellow diamond-shaped sign,"('sign',)",0,1,1,0,0,0,0,0,0,0
+a yellow diamond-shaped sign with a deer silhouette,"('deer', 'deer silhouette')",0,1,1,0,0,0,0,0,0,0
+a yellow diamond-shaped sign with a puma silhouette,"('sign', 'puma silhouette')",0,1,1,0,0,0,0,0,0,0
+a yellow diamond-shaped sign with a turtle silhouette,"('sign', 'silhouette', 'turtle')",0,1,1,0,0,0,0,0,0,0
+a yellow diamond-shaped sign with a wooly mammoth silhouette,"('sign', 'mammoth', 'silhouette')",0,1,1,0,0,0,0,0,0,0
+a yellow dump truck filled with soccer balls driving in a coral reef. a blue whale looms in the background.,"('truck', 'soccer balls', 'coral reef', 'whale')",1,1,1,1,0,0,0,0,0,2
+a yellow fire hydrant in grass,"('hydrant', 'grass')",0,1,1,1,0,0,0,0,0,0
+a yellow sticky note,"('note',)",0,1,1,0,0,0,0,0,0,0
+a yellow sticky note with 'BUY MILK' written on it,"('note', 'BUY MILK')",0,1,1,1,0,0,0,0,0,0
+a yellow swirl next to a blue dashed line.,"('swirl', 'dashed line')",0,1,1,1,0,0,0,0,0,0
+a yellow tiger with blue stripes,"('tiger', 'stripes')",0,1,1,0,0,0,0,0,0,2
+a yellow t-shirt,"('t-shirt',)",0,1,1,0,0,0,0,0,0,0
+a yellow t-shirt with a dog on it,"('t-shirt', 'dog')",0,1,1,1,0,0,0,0,0,0
+a yellow wall,"('wall',)",0,1,1,0,0,0,0,0,0,0
+a yellow wall with a large framed oil painting of a car,"('wall', 'painting', 'car')",0,1,1,0,1,0,0,0,0,0
+"a yellow wall with 'Hello, world.' written on it","('wall', 'Hello, world')",0,1,1,1,0,0,0,0,0,0
+a yellow wall with the word KA-BOOM on it,"('wall', 'KA-BOOM', 'KA-BOOM')",0,1,1,1,0,0,0,0,0,0
+a yellow wall with two framed sketches,"('wall', 'sketches')",0,1,1,0,1,0,0,0,0,0
+a yield sign,"('sign',)",0,0,1,0,0,0,0,0,0,0
+"a young badger delicately sniffing a yellow rose, richly textured oil painting","('badger', 'rose', 'painting')",1,1,1,0,1,0,0,0,0,0
+a young girl playing piano,"('young girl', 'piano')",1,0,1,0,0,0,2,2,1,0
+a young girl wearing a tiara and frilly dress,"('young girl', 'tiara', 'dress')",0,0,1,1,0,0,0,2,1,0
+a young woman with glasses reading a thick book at a mahogany desk,"('young woman', 'glasses', 'book', 'desk')",1,0,1,1,0,0,0,2,1,0
+a zebra,"('zebra',)",0,0,1,0,0,0,0,0,0,0
+a zebra with alternating blue and red stripes,"('zebra', 'stripes')",0,1,1,0,0,0,0,0,0,2
+a zebra with blue stripes,"('zebra', 'stripes')",0,1,1,0,0,0,0,0,0,2
+"Aerial view of downtown Manhattan, but with Millennium Wheel next to the Statue of Liberty. The Great Pyramid is on a sandy island near the buildings.","('Aerial view', 'downtown', 'Millennium Wheel', 'Statue of Liberty', 'Pyramid', 'island', 'buildings')",0,0,1,1,0,1,2,2,1,0
+air,"('air',)",0,0,0,0,0,0,0,0,0,0
+an abstract drawing of the Great Wall,"('drawing', 'Great Wall')",0,0,1,0,1,0,0,0,0,0
+an abstract oil painting in deep red and black with a thick patches of white,"('painting', 'patches')",0,1,1,1,1,0,0,0,0,0
+an abstract painting of a house on a mountain,"('painting', 'house', 'mountain')",0,0,1,1,1,0,0,0,0,0
+an abstract painting of a pond with a bridge,"('painting', 'pond', 'bridge')",0,0,1,0,1,0,0,0,0,0
+an abstract painting of a spaceship,"('painting', 'spaceship')",0,0,1,0,1,0,0,0,0,0
+an abstract painting of a tree and a building,"('painting', 'tree', 'building')",0,0,1,0,1,0,0,0,0,0
+an abstract painting of a waterfall,"('painting', 'waterfall')",0,0,1,0,1,0,0,0,0,0
+an abstract painting of the Empire State Building,"('painting', 'Building')",0,0,1,0,1,0,0,0,0,0
+an abstract painting of the Great Pyramid,"('painting', 'Great Pyramid')",0,0,1,0,1,0,0,0,0,0
+an abstract painting of the lights at Times Square,"('painting', 'lights', 'Times Square')",0,0,1,0,1,0,0,0,0,0
+An abstract painting of the Statue of Liberty,"('painting', 'Statue of Liberty')",0,0,1,0,1,0,2,2,1,0
+an abstract painting of the Sydney Opera House,"('painting', 'Sydney Opera House')",0,0,1,0,1,0,0,0,0,0
+"an abstract painting of three squares in blue, red and white","('painting', 'squares')",0,1,1,0,1,0,0,0,0,0
+"an abstract painting of three squares in blue, yellow and red","('squares', 'painting')",0,1,1,0,1,0,0,0,0,0
+"an abstract painting of three triangles in blue, red and white","('painting', 'triangles')",0,1,1,0,1,0,0,0,0,0
+"an abstract painting of three triangles in blue, yellow and red","('triangles', 'painting')",0,1,1,0,1,0,0,0,0,0
+"an abstract painting with blue, red and black","('painting',)",0,1,0,0,1,0,0,0,0,0
+an aerial photo of a baseball stadium,"('photo', 'baseball stadium')",0,0,1,0,0,0,0,0,0,0
+an aerial photo of a carnival at night,"('photo', 'carnival')",0,0,1,0,0,0,0,0,0,0
+an aerial photo of a sandy island in the ocean,"('photo', 'island', 'ocean')",0,0,1,1,0,0,0,0,0,0
+An aerial view of Ha Long Bay,"('aerial view', 'Ha Long Bay')",0,0,1,0,0,0,0,0,0,0
+An aerial view of Ha Long Bay without any boats,"('aerial view', 'Ha Long Bay', 'boats')",0,0,1,0,0,0,0,0,0,0
+an aerial view of the Great Pyramid,"('aerial view', 'Pyramid')",0,0,1,0,0,0,0,0,0,0
+an aerial view of the Great Wall,"('aerial view', 'Great Wall')",0,0,1,0,0,0,0,0,0,0
+an airplane,"('airplane',)",0,0,1,0,0,0,0,0,0,0
+an airplane flying into a cloud that looks like monster,"('airplane', 'cloud', 'monster')",1,0,1,1,0,0,0,0,0,0
+an airplane taking off of a runway,"('airplane', 'runway')",1,0,1,1,0,0,0,0,0,0
+An alien octopus floats through a portal reading a newspaper. DSLR photo.,"('alien octopus', 'portal', 'newspaper', 'photo')",1,0,1,1,0,0,0,0,0,2
+an angry man,"('man',)",0,0,1,0,0,0,0,2,2,0
+"An anime illustration of Sydney Opera House sitting next to Eiffel tower, under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blu","('illustration', 'Opera House', 'Eiffel tower', 'night sky', 'energy', 'stars', 'swirls')",1,1,1,1,1,1,0,0,0,0
+an antique car by a beach,"('antique car', 'beach')",0,0,1,1,0,0,0,0,0,0
+an antique chest,"('chest',)",0,0,1,0,0,0,0,0,0,0
+an antique chest with three drawers,"('chest', 'drawers')",0,0,1,0,0,0,0,0,0,0
+an armchair,"('armchair',)",0,0,1,0,0,0,0,0,0,0
+an armchair in the shape of an avocado,"('armchair', 'avocado')",0,0,1,0,0,0,0,0,0,0
+an avocado,"('avocado',)",0,0,1,0,0,0,0,0,0,0
+an avocado on a table,"('avocado', 'table')",0,0,1,1,0,0,0,0,0,0
+an eagle,"('eagle',)",0,0,1,0,0,0,0,0,0,0
+an eagle swooping down to catch a mouse,"('eagle', 'mouse')",1,0,1,0,0,0,0,0,0,0
+an Egyptian statue,"('statue',)",0,0,1,0,0,1,0,2,0,0
+an Egyptian statue in the desert,"('statue', 'desert')",0,0,1,1,0,1,0,2,0,0
+an elder politician giving a campaign speech,"('elder politician', 'speech')",1,0,1,0,0,0,0,2,0,0
+an elderly woman,"('woman',)",0,0,1,0,0,0,0,2,1,0
+an elderly woman with straight hair and metal-rimmed glasses,"('elderly woman', 'hair', 'glasses')",0,0,1,0,0,0,0,2,1,0
+an elephant,"('elephant',)",0,0,1,0,0,0,0,0,0,0
+an elephant in a tennis court,"('elephant', 'tennis court')",0,0,1,1,0,0,0,0,0,0
+an elephant using its trunk to blow into a tuba,"('elephant', 'trunk', 'tuba')",1,0,1,1,0,0,0,0,0,0
+an elephant walking on the Great Wall,"('elephant', 'Great Wall')",1,0,1,1,0,0,0,0,0,2
+an elf drinking orange juice through a straw of a giant orange next to a squirrel and an owl watching from above,"('elf', 'orange juice', 'straw', 'orange', 'squirrel', 'owl')",1,0,1,1,0,0,2,2,0,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants","('emoji', 'baby penguin', 'hat', 'gloves', 'shirt', 'pants')",1,1,1,1,0,0,0,0,0,0
+An empty fireplace with a television above it. The TV shows a lion hugging a giraffe.,"('fireplace', 'television', 'TV', 'lion', 'giraffe')",1,0,1,1,0,0,0,0,0,0
+an espresso machine,"('espresso machine',)",0,0,1,0,0,0,0,0,0,0
+an espresso machine that makes coffee from human souls,"('espresso machine', 'coffee')",0,0,1,0,0,0,0,0,0,2
+"an espresso machine that makes coffee from human souls, high-contrast painting","('espresso machine', 'coffee', 'painting')",0,0,1,0,1,0,0,0,0,2
+an extreme close-up view of a capybara sitting in a field,"('close-up view', 'capybara', 'field')",1,0,1,1,0,0,0,0,0,0
+an F1,"('F1',)",0,0,1,0,0,0,0,0,0,0
+an F1 race car,"('race car',)",0,0,1,0,0,0,0,0,0,0
+an F1 race car in a Manhattan street,"('car', 'street')",0,0,1,1,0,1,0,0,0,0
+an illustration of a baby daikon radish in a tutu walking a dog,"('illustration', 'daikon radish', 'tutu', 'dog')",1,0,1,0,0,0,0,0,0,2
+an illustration of a teapot,"('illustration', 'teapot')",0,0,1,0,0,0,0,0,0,0
+an image of the moons of the planet Jupiter,"('image', 'Jupiter')",0,0,1,0,0,0,0,0,0,0
+an impressionist painting of the geyser Old Faithful,"('painting', 'geyser ')",0,0,1,0,1,0,0,0,0,0
+an impressionistic painting of tree and a building,"('painting', 'tree', 'building')",0,0,1,0,1,0,0,0,0,0
+an inflatable rabbit held up in the air by the geyser Old Faithful,"('rabbit', 'air', 'geyser Old Faithful')",0,0,1,1,0,0,0,0,0,0
+an invisible man wearing horn-rimmed glasses and a pearl bead necklase while looking at his phone,"('man', 'glasses', 'necklase', 'phone')",1,0,1,1,0,0,2,2,2,2
+an iPhone case,"('case',)",0,0,1,0,0,0,0,0,0,0
+an ocean at the base of the Great Wall,"('ocean', 'Great Wall')",0,0,1,1,0,0,0,0,0,0
+an octopus,"('octopus',)",0,0,1,0,0,0,0,0,0,0
+an oil painting of a cat playing checkers,"('painting', 'cat', 'checkers')",1,0,1,0,1,0,0,0,0,0
+an oil painting of a hamster dragon,"('painting', 'hamster dragon')",0,0,1,0,1,0,0,0,0,0
+an oil painting of a tree and a building,"('painting', 'tree', 'building')",0,0,1,0,1,0,0,0,0,0
+An oil painting of a two-story house lifting off the ground like a rocket.,"('painting', 'house', 'rocket')",1,0,1,1,1,0,0,0,0,0
+An oil painting of the Statue of Liberty,"('painting', 'Statue of Liberty')",0,0,1,0,1,0,2,2,1,0
+"An oil painting of two rabbits in the style of American Gothic, wearing the same clothes as in the original.","('painting', 'rabbits', 'clothes')",0,0,1,1,1,1,0,0,0,0
+"an oil surrealist painting of a dreamworld on a seashore where clocks and watches appear to be inexplicably limp and melting in the desolate landscape. a table on the left, with a golden watch swarmed by ants. a strange fleshy creature in the center of the painting","('painting', 'dreamworld', 'seashore', 'clocks', 'watches', 'table', 'ants', 'creature', 'landscape')",1,0,1,1,1,0,0,0,0,0
+an old man,"('man',)",0,0,1,0,0,0,0,2,2,0
+an old man with a long grey beard and green eyes,"('old man', 'beard', 'eyes')",0,1,1,0,0,0,0,2,2,0
+"an old raccoon wearing a top hat and holding an apple, oil painting in the style of van gogh","('raccoon', 'hat', 'apple', 'painting')",1,0,1,1,1,0,0,0,0,0
+an old red truck parked by the geyser Old Faithful,"('truck', 'geyser Old Faithful')",0,1,1,1,0,1,0,0,0,0
+an old-fashioned cocktail,"('cocktail',)",0,0,1,0,0,1,0,0,0,0
+an old-fashioned cocktail next to a napkin,"('cocktail', 'napkin')",0,0,1,1,0,1,0,0,0,0
+an old-fashioned phone next to a sleek laptop,"('phone', 'laptop')",0,0,1,1,0,1,0,0,0,0
+an old-fashioned windmill surrounded by flowers,"('windmill', 'flowers')",0,0,1,1,0,1,0,0,0,0
+an orange,"('orange',)",0,0,1,0,0,0,0,0,0,0
+an orange pickup truck next to a yellow Porsche 911,"('truck', 'Porsche')",0,1,1,1,0,0,0,0,0,0
+an orange wearing a cowboy hat,"('orange', 'cowboy hat')",0,0,1,1,0,0,0,0,0,2
+an ornate gold harp,"('harp',)",0,1,1,0,0,0,0,0,0,0
+an ornate jewel-encrusted key,"('key', 'jewel')",0,0,0,1,0,0,0,0,0,0
+an ornate metal bench by a nature path,"('bench', 'path')",0,0,1,1,0,0,0,0,0,0
+"an ornate, high-backed mahogany chair with a red cushion","('chair', 'cushion')",0,1,1,0,0,0,0,0,0,0
+an ostrich,"('ostrich',)",0,0,1,0,0,0,0,0,0,0
+an ostrich standing on a couch,"('ostrich', 'couch')",1,0,1,1,0,0,0,0,0,0
+an ostrich's face,"(""ostrich's face"",)",0,0,1,0,0,0,0,0,0,0
+an overhead view of a pickup truck with boxes in its flatbed,"('overhead view', 'truck', 'boxes', 'flatbed')",0,0,1,1,0,0,0,0,0,0
+an overhead view of the Empire State Building,"('overhead view', 'Empire State Building')",0,0,1,0,0,0,0,0,0,0
+an owl,"('owl',)",0,0,1,0,0,0,0,0,0,0
+an owl family,"('owl',)",0,0,1,0,0,0,0,0,0,0
+an owl family in the forest,"('owl', 'forest')",0,0,1,1,0,0,0,0,0,0
+an owl gripping a squirrel in its talons,"('owl', 'squirrel', 'talons')",1,0,1,1,0,0,0,0,0,0
+an owl on top of an elephant's back,"('owl', 'elephant')",0,0,1,1,0,0,0,0,0,0
+an owl standing on a telephone wire,"('owl', 'telephone wire')",1,0,1,1,0,0,0,0,0,0
+an owl standing on a wire,"('owl', 'wire')",1,0,1,1,0,0,0,0,0,0
+an owl with its wings spread out swooping over a tree,"('owl', 'wings', 'tree')",1,0,1,1,0,0,0,0,0,0
+anger,"('anger',)",0,0,0,0,0,0,0,0,0,0
+"Anime illustration of a kangaroo holding a sign that says ""Starry Night"", in front of the Sydney Opera House sitting next to the Eiffel Tower under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blu","('illustration', 'kangaroo', 'sign', 'Sydney Opera House', 'Eiffel Tower', 'night sky', 'energy', 'stars', 'swirls', 'Starry Night')",1,1,1,1,1,0,0,0,0,0
+"Anime illustration of the Great Pyramid sitting next to the Parthenon under a blue night sky of roiling energy, exploding yellow stars, and chromatic blue swirls","('illustration', 'Pyramid', 'Parthenon', 'sky', 'energy', 'stars', 'swirls')",1,1,1,1,1,0,0,0,0,0
+Anubis wearing sunglasses and sitting astride a hog motorcyle,"('Anubis', 'sunglasses', 'hog motorcyle')",1,0,1,1,0,0,0,0,0,2
+artificial intelligence,"('artificial intelligence',)",0,0,0,0,0,0,0,0,0,0
+background pattern with alternating roses and skulls,"('background pattern', 'roses', 'skulls')",0,0,0,0,0,0,0,0,0,0
+beautiful fireworks in the sky,"('fireworks', 'sky')",0,0,0,1,0,0,0,0,0,0
+"beautiful fireworks in the sky with red, white and blue","('fireworks', 'sky')",0,1,0,1,0,0,0,0,0,0
+beer,"('beer',)",0,0,0,0,0,0,0,0,0,0
+bias,"('bias',)",0,0,0,0,0,0,0,0,0,0
+black bearded dog with an injured leg wearing a cone,"('dog', 'leg', 'cone')",1,1,1,1,0,0,0,0,0,0
+black hi-top sneakers,"('sneakers',)",0,1,0,0,0,0,0,0,0,0
+black hi-top sneakers with the Nike swoosh,"('sneakers', 'Nike swoosh')",0,1,0,0,0,0,0,0,0,0
+black hole,"('hole',)",0,1,0,0,0,0,0,0,0,0
+blue apples on a tree with yellow leaves,"('apples', 'tree', 'leaves')",0,1,1,1,0,0,0,0,0,2
+bond,"('bond',)",0,0,0,0,0,0,0,0,0,0
+bottles,"('bottles',)",0,0,0,0,0,0,0,0,0,0
+brain coral,"('brain coral',)",0,0,0,0,0,0,0,0,0,0
+brown white and black white guinea pigs eating parsley handed to them,"('guinea pigs', 'parsley')",1,1,0,0,0,0,0,0,0,0
+cash,"('cash',)",0,0,0,0,0,0,0,0,0,0
+cash on a stone floor,"('cash', 'floor')",0,0,0,1,0,0,0,0,0,0
+cash on a wooden table,"('cash', 'table')",0,0,1,1,0,0,0,0,0,0
+chair,"('chair',)",0,0,0,0,0,0,0,0,0,0
+children,"('children',)",0,0,0,0,0,0,0,0,0,0
+children on a couch,"('children', 'couch')",0,0,1,1,0,0,0,2,0,0
+"close-up portrait of a smiling businesswoman holding a cell phone, oil painting in the style of Rembrandt","('portrait', 'businesswoman', 'phone', 'painting')",1,0,1,1,1,0,2,2,1,0
+commonsense,"('commonsense',)",0,0,0,0,0,0,0,0,0,0
+concentric circles,"('circles',)",0,0,0,0,0,0,0,0,0,0
+concentric squares fading from yellow on the outside to deep orange on the inside,"('squares',)",1,1,0,1,0,0,0,0,0,0
+concurrent lines,"('concurrent lines',)",0,0,0,0,0,0,0,0,0,0
+congruent triangles,"('triangles',)",0,0,0,0,0,0,0,0,0,0
+corgi pizza,"('corgi pizza',)",0,0,0,0,0,0,0,0,0,0
+derision,"('derision',)",0,0,0,0,0,0,0,0,0,0
+Dogs playing poker,"('Dogs', 'poker')",1,0,0,0,0,0,0,0,0,2
+Dogs sitting around a poker table,"('Dogs', 'table')",1,0,1,1,0,0,0,0,0,2
+Dogs sitting around a poker table with beer bottles and chips. Their hands are holding cards.,"('Dogs', 'table', 'bottles', 'chips', 'hands', 'cards')",1,0,1,1,0,0,0,0,0,2
+Downtown Austin at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Beijing at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Istanbul at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown LA at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown NYC at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Rio de Janeiro at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Saigon at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Sanfrancisco at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Seattle at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Shanghai at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Singapore at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+Downtown Sydney at sunrise. detailed ink wash.,"('Downtown', 'sunrise')",0,0,0,0,1,1,0,0,0,0
+earth,"('earth',)",0,0,0,0,0,0,0,0,0,0
+element,"('element',)",0,0,0,0,0,0,0,0,0,0
+emotion,"('emotion',)",0,0,0,0,0,0,0,0,0,0
+energy,"('energy',)",0,0,0,0,0,0,0,0,0,0
+Face of an orange frog in cartoon style,"('frog', 'Face')",0,1,1,0,1,0,0,0,0,0
+fairness,"('fairness',)",0,0,0,0,0,0,0,0,0,0
+fairy cottage with smoke coming up chimney and a squirrel looking from the window,"('cottage', 'smoke', 'chimney', 'squirrel', 'window')",1,0,1,1,0,0,0,0,0,0
+feeling,"('feeling',)",0,0,0,0,0,0,0,0,0,0
+Fibonacci number,"('Fibonacci number',)",0,0,0,0,0,0,0,0,0,0
+fire,"('fire',)",0,0,0,0,0,0,0,0,0,0
+fireworks above the Parthenon,"('fireworks', 'Parthenon')",0,0,0,1,0,0,0,0,0,0
+five chairs,"('chairs',)",0,0,1,0,0,0,0,0,0,0
+five frosted glass bottles,"('bottles',)",0,0,1,0,0,0,0,0,0,0
+five green peppers to the right of two red onions,"('peppers', 'onions')",0,1,1,1,0,0,0,0,0,0
+five red balls,"('balls',)",0,1,1,0,0,0,0,0,0,0
+five red balls on a table,"('balls', 'table')",0,1,1,1,0,0,0,0,0,0
+food,"('food',)",0,0,0,0,0,0,0,0,0,0
+force,"('force',)",0,0,0,0,0,0,0,0,0,0
+Four cats surrounding a dog,"('cats', 'dog')",1,0,1,1,0,0,0,0,0,0
+Four deer surrounding a moose.,"('deer', 'moose')",1,0,1,1,0,0,0,0,0,0
+Four dragons surrounding a dinosaur,"('dragons', 'dinosaur')",0,0,1,1,0,0,0,0,0,2
+four green glass bottles,"('bottles',)",0,1,1,0,0,0,0,0,0,0
+four owls standing on a telephone wire,"('owls', 'telephone wire')",1,0,1,1,0,0,0,0,0,0
+four people riding in a convertible car,"('people', 'car')",1,0,1,1,0,0,0,2,0,0
+four teacups surounding a kettle,"('teacups', 'kettle')",1,0,1,1,0,0,0,0,0,0
+four wine bottles,"('bottles',)",0,0,1,0,0,0,0,0,0,0
+G I G G L E painted in thick colorful lettering as graffiti on a faded red brick wall with a splotch of exploding white paint.,"('lettering', 'graffiti', 'wall', 'paint', 'G I G G L E')",0,2,1,1,1,0,0,0,0,0
+Gandalf saying you shall not pass,"('Gandalf',)",1,0,0,0,0,0,0,2,0,0
+gender,"('gender',)",0,0,0,0,0,0,0,0,0,0
+Golden Gate bridge on the surface of Mars,"('bridge', 'Mars')",0,0,0,1,0,0,0,0,0,2
+golden ratio,"('golden ratio',)",0,0,0,0,0,0,0,0,0,0
+graffiti of a funny dog on a street wall,"('graffiti', 'dog', 'wall')",0,0,1,1,1,0,0,0,0,0
+graffiti of a rocket ship on a brick wall,"('graffiti', 'rocket ship', 'wall')",0,0,1,1,1,0,0,0,0,0
+graffiti spelling BE KIND on white subway tile,"('graffiti', 'tile', 'BE KIND')",1,1,0,1,1,0,0,0,0,0
+gravity,"('gravity',)",0,0,0,0,0,0,0,0,0,0
+Greek statue of a man comforting a cat. The cat has a big head. The man looks angry.,"('statue', 'man', 'cat', 'head')",1,0,1,0,0,1,0,2,2,0
+Ground view of the Great Pyramids and Sphinx on the moon's surface. The back of an astronaut is in the foreground. The planet Earth looms in the sky.,"('view', 'Pyramids', 'Sphinx', 'moon', 'surface', 'back', 'astronaut', 'Earth', 'sky')",0,0,1,1,0,0,0,0,0,2
+Ha Long Bay,"('Ha Long Bay',)",0,0,0,0,0,0,0,0,0,0
+happiness,"('happiness',)",0,0,0,0,0,0,0,0,0,0
+hate,"('hate',)",0,0,0,0,0,0,0,0,0,0
+"high-contrast image of the word ""WOMBAT"" written with thick colored graffiti letters on a white wall with dramatic splashes of paint","('image', 'wall', 'paint', 'WOMBAT')",1,2,1,1,1,0,0,0,0,0
+Hokusai's version of Animal Farm,"('Animal Farm',)",0,0,0,0,1,0,0,0,0,0
+hope,"('hope',)",0,0,0,0,0,0,0,0,0,0
+"Horses pulling a carriage on the moon's surface, with the Statue of Liberty and Great Pyramid in the background. The Planet Earth can be seen in the sky.","('Horses', 'carriage', 'moon', 'surface', 'Statue of Liberty', 'Pyramid', 'background', 'Earth', 'sky')",1,0,1,1,0,0,0,0,0,2
+Icon of a red heart,"('heart', 'Icon')",0,1,1,0,0,0,0,0,0,0
+imaginary numbers,"('numbers',)",0,0,0,0,0,0,0,0,0,0
+Incomprehensibilities,"('Incomprehensibilities',)",0,0,0,0,0,0,0,0,0,0
+inertia,"('inertia',)",0,0,0,0,0,0,0,0,0,0
+infinity,"('infinity',)",0,0,0,0,0,0,0,0,0,0
+insight,"('insight',)",0,0,0,0,0,0,0,0,0,0
+inspiration,"('inspiration',)",0,0,0,0,0,0,0,0,0,0
+intelligence,"('intelligence',)",0,0,0,0,0,0,0,0,0,0
+Jupiter rises on the horizon.,"('Jupiter', 'horizon')",1,0,0,1,0,0,0,0,0,2
+life,"('life',)",0,0,0,0,0,0,0,0,0,0
+"light and happiness throughout and finding its way to every corner of the world, abstract oil painting","('way', 'corner', 'world', 'painting', 'light')",0,0,0,0,1,0,0,0,0,0
+lily pads,"('lily pads',)",0,0,0,0,0,0,0,0,0,0
+long shards of a broken mirror reflecting the eyes of a great horned owl,"('shards', 'mirror', 'eyes', 'owl')",1,0,1,0,0,0,0,0,0,0
+love,"('love',)",0,0,0,0,0,0,0,0,0,0
+Mars rises on the horizon.,"('Mars', 'horizon')",1,0,0,1,0,0,0,0,0,2
+Mary gave the child the dog bit a Band-Aid.,"('Mary', 'child', 'dog', 'Band-Aid')",0,0,1,0,0,0,2,2,0,0
+matching socks,"('socks',)",0,0,0,0,0,0,0,0,0,0
+matching socks with cute cats on them,"('socks', 'cats')",0,0,1,1,0,0,0,0,0,0
+meaning of life,"('meaning', 'life')",0,0,0,0,0,0,0,0,0,0
+metal,"('metal',)",0,0,0,0,0,0,0,0,0,0
+molecule,"('molecule',)",0,0,0,0,0,0,0,0,0,0
+motion,"('motion',)",0,0,0,0,0,0,0,0,0,0
+Oil painting generated by artificial intelligence,"('painting', 'artificial intelligence')",0,0,0,0,1,0,0,0,0,0
+"Oil painting of a giant robot made of sushi, holding chopsticks.","('painting', 'robot', 'sushi', 'chopsticks')",1,0,1,1,1,0,2,2,0,0
+"Oil-on-canvas painting of a blue night sky with roiling energy. A fuzzy and bright yellow crescent moon shining at the top. Below the exploding yellow stars and radiating swirls of blue, a distant village sits quietly on the right. Connecting earth and sky is a flame-like cypress tree with curling and swaying branches on the left. A church spire rises as a beacon over rolling blue hills","('painting', 'sky', 'energy', 'crescent moon', 'stars', 'swirls', 'village', 'earth', 'tree', 'branches', 'church', 'spire', 'beacon', 'hills')",1,1,1,1,1,0,0,0,0,0
+one child on a couch,"('child', 'couch')",0,0,1,1,0,0,0,2,0,0
+One morning I chased an elephant in my pajamas,"('elephant', 'pajamas')",0,0,1,1,0,0,0,2,0,2
+orange jello,"('jello',)",0,1,0,0,0,0,0,0,0,0
+orange jello in the shape of a man,"('jello', 'man')",0,0,1,0,0,0,0,0,0,0
+orange juice,"('orange juice',)",0,0,0,0,0,0,0,0,0,0
+overhead view of three people looking down at the street from the top of a tall building,"('view', 'people', 'street', 'building')",1,0,1,1,0,0,0,2,0,0
+panda mad scientist,"('panda', 'scientist')",0,0,0,0,0,0,0,0,0,2
+panda mad scientist mixing sparkling chemicals,"('panda', 'scientist', 'chemicals')",1,1,0,0,0,0,0,0,0,2
+"panda mad scientist mixing sparkling chemicals, high-contrast painting","('scientist', 'chemicals', 'panda')",1,1,0,0,1,0,0,0,0,0
+parallel lines,"('parallel lines',)",0,0,0,0,0,0,0,0,0,0
+peace,"('peace',)",0,0,0,0,0,0,0,0,0,0
+people packed on a double-decker bus,"('people', 'people packed on a double-decker bus')",0,0,1,1,0,0,0,2,0,0
+Photograph of a wall along a city street with a watercolor mural of foxes in a jazz band.,"('Photograph', 'wall', 'street', 'mural', 'foxes', 'band')",0,0,1,1,1,0,0,0,0,0
+Pneumonoultramicroscopicsilicovolcanoconiosis,"('Pneumonoultramicroscopicsilicovolcanoconiosis',)",0,0,0,0,0,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Charcoal.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol')",1,0,1,1,1,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Child's crayon drawing.,"('Portrait', 'gecko', 'hat', 'flag', 'drawing', 'yin-yang symbol')",1,0,1,1,1,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Chinese ink.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol')",1,0,1,1,1,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Comic.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol')",1,0,1,1,1,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Marble statue.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol', 'statue')",1,0,1,1,0,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Oil on canvas.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol')",1,0,1,1,1,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Photograph.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol', 'Photograph')",1,0,1,1,0,0,0,0,0,2
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Watercolor.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol')",1,0,1,1,1,0,0,0,0,0
+Portrait of a gecko wearing a train conductor��s hat and holding a flag that has a yin-yang symbol on it. Woodcut.,"('Portrait', 'gecko', 'hat', 'flag', 'yin-yang symbol', 'Woodcut')",1,0,1,1,0,0,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. charcoal sketch,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol')",0,0,1,1,1,0,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. child's crayon drawing,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'drawing')",0,0,1,1,1,0,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. Chinese ink and wash painting,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'painting', 'tiger')",0,0,1,1,1,1,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. color ink-and-wash drawing,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'drawing')",0,2,1,1,1,0,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. comic book illustration,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'illustration')",1,0,1,1,1,0,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. marble statue,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'statue')",1,0,1,1,0,0,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. oil painting,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'painting')",1,0,1,1,1,0,0,0,0,0
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. photograph,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'photograph')",1,0,1,1,0,0,0,0,0,2
+Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. woodcut,"('Portrait', 'tiger', 'hat', 'skateboard', 'symbol', 'woodcut')",1,0,1,1,0,0,0,0,0,0
+"portrait of a well-dressed raccoon, oil painting in the style of Rembrandt","('portrait', 'raccoon', 'painting')",0,0,1,0,1,0,0,0,0,0
+protein,"('protein',)",0,0,0,0,0,0,0,0,0,0
+purple lego dollhouse with a pool and a swing,"('lego dollhouse', 'pool', 'swing')",0,1,1,0,0,0,0,0,0,0
+red and yellow balloons hanging from a ceiling fan,"('balloons', 'ceiling fan')",1,1,1,1,0,0,0,0,0,0
+red apples on a tree with green leaves,"('apples', 'tree', 'leaves')",0,1,1,1,0,0,0,0,0,0
+red balls,"('balls',)",0,1,0,0,0,0,0,0,0,0
+"Renaissance portrayals of the Virgin Mary, seated in a loggia. Behind her is a hazy and seemingly isolated landscape imagined by the artist and painted using sfumato.","('portrayals', 'Virgin Mary', 'loggia', 'landscape')",1,0,1,1,1,1,0,2,1,0
+robots,"('robots',)",0,0,0,0,0,0,0,0,0,0
+robots meditating,"('robots',)",1,0,0,0,0,0,0,0,0,2
+robots meditating in a vipassana retreat,"('robots', 'vipassana retreat')",1,0,1,1,0,0,0,0,0,2
+Salvador Dal��,"('Salvador Dal��',)",0,0,0,0,0,0,0,2,0,0
+Salvador Dal�� with a robotic half face,"('Salvador Dal��', 'face')",0,0,1,0,0,0,0,2,0,2
+Saturn rises on the horizon.,"('Saturn', 'horizon')",1,0,0,1,0,0,0,0,0,2
+scraps of paper drifting in the wind,"('scraps of paper', 'wind')",1,0,0,1,0,0,0,0,0,0
+several lily pads without frogs,"('lily pads', 'frogs')",0,0,1,0,0,0,0,0,0,0
+several people putting their hands on a basketball,"('people', 'hands', 'basketball')",0,0,1,1,0,0,2,2,0,0
+several red lego blocks and one blue one,"('lego blocks',)",0,1,1,0,0,0,0,0,0,0
+Siberian husky playing the piano.,"('husky', 'piano')",1,0,0,0,0,1,0,0,0,2
+side view of a brown horse wearing a saddle. the number 55 is stamped in white on its rear flank.,"('view', 'horse', 'saddle', '55', 'flank')",1,1,1,1,0,0,0,0,0,0
+slices of avocado on a piece of toast,"('avocado', 'toast')",0,0,1,1,0,0,0,0,0,0
+slices of mango on a piece of toast,"('mango', 'toast')",0,0,1,1,0,0,0,0,0,0
+sneakers,"('sneakers',)",0,0,0,0,0,0,0,0,0,0
+snow covering the Great Pyramid,"('snow', 'Pyramid')",1,0,0,0,0,0,0,0,0,0
+Snow mountain and tree reflection in the lake,"('Snow mountain', 'tree', 'reflection', 'lake')",0,0,0,1,0,0,0,0,0,0
+space,"('space',)",0,0,0,0,0,0,0,0,0,0
+square blue apples on a tree with circular yellow leaves,"('apples', 'leaves', 'tree')",0,1,1,1,0,0,0,0,0,2
+square red apples on a tree with circular green leaves,"('apples', 'leaves', 'tree')",0,1,1,1,0,0,0,0,0,2
+Sunset over the sea,"('Sunset', 'sea')",0,0,0,1,0,0,0,0,0,0
+Sunset over the skyline of a city,"('Sunset', 'skyline', 'city')",0,0,1,1,0,0,0,0,0,0
+supercalifragilisticexpialidocious,"('supercalifragilisticexpialidocious',)",0,0,0,0,0,0,0,0,0,0
+Superman shaking hands with Spiderman,"('Superman', 'hands', 'Spiderman')",1,0,0,0,0,0,2,2,0,2
+Taj Mahal with its reflection. detailed charcoal sketch.,"('Taj Mahal', 'reflection')",0,0,0,0,1,0,0,0,0,0
+tall buildings seen through a window with rain on it,"('buildings', 'window', 'rain')",0,0,1,1,0,0,0,0,0,0
+teacup,"('teacup',)",0,0,0,0,0,0,0,0,0,0
+teacups surounding a kettle,"('teacups', 'kettle')",1,0,1,1,0,0,0,0,0,0
+ten children on a couch,"('children', 'couch')",0,0,1,1,0,0,0,2,0,0
+ten red apples,"('apples',)",0,1,1,0,0,0,0,0,0,0
+ten triangles and five squares on a black background,"('triangles', 'squares', 'background')",0,1,1,1,0,0,0,0,0,0
+ten wine bottles,"('bottles',)",0,0,1,0,0,0,0,0,0,0
+"The 1970s logo for a london-area football club called ""The Rumbury Wanderers""","('logo', 'club', 'The Rumbury Wanderers')",0,0,1,0,0,1,0,0,0,0
+The Alamo,"('Alamo',)",0,0,0,0,0,0,0,0,0,0
+The Alamo with bright white clouds above it,"('The Alamo', 'clouds')",0,1,0,1,0,0,0,0,0,0
+the back of a violin,"('back', 'violin')",0,0,1,0,0,0,0,0,0,0
+the Beatles crossing Abbey road,"('Beatles', 'Abbey road')",1,0,0,0,0,0,0,2,0,0
+The buildings of downtown Manhattan situated at below Mount Everest. The Great Pyramid is in the foreground.,"('buildings', 'downtown', 'Mount Everest', 'Pyramid')",0,0,0,1,0,1,0,0,0,2
+the city of London,"('London',)",0,0,0,0,0,0,0,0,0,0
+the city of London on Mars,"('city', 'Mars')",0,0,0,1,0,1,0,0,0,2
+the city of London on the moon,"('city', 'moon')",0,0,0,1,0,1,0,0,0,2
+The coach smiled at the player tossed the frisbee,"('coach', 'player', 'frisbee')",0,0,0,0,0,0,2,2,0,0
+The collision of two black holes in the center of a galaxy.,"('collision', 'black holes', 'galaxy')",0,1,1,1,0,0,0,0,0,0
+the cover of a book about gardening,"('book', 'gardening', 'cover')",0,0,1,0,0,0,0,0,0,0
+the cover of a book called 'Backpropaganda' by I.C. Gradients,"('cover', 'book', 'I.C. Gradients', 'Backpropaganda')",0,0,1,0,0,0,0,0,0,0
+the cover of The Beatle's album Revolver,"('cover', 'album')",0,0,0,0,0,0,0,0,0,0
+"The dog chased the cat, which ran up a tree. It waited at the bottom.","('dog', 'cat', 'tree')",0,0,1,1,0,0,0,0,0,0
+"The dog chased the cat, which ran up a tree. It waited at the top.","('dog', 'cat', 'tree')",0,0,1,1,0,0,0,0,0,0
+"the door of knowing, a portal brightly opening the way through darkness. abstract anime landscape oil painting.","('door', 'portal', 'painting', 'way')",1,1,1,0,1,0,0,0,0,0
+the Earth,"('Earth',)",0,0,0,0,0,0,0,0,0,0
+the Eiffel Tower,"('Eiffel Tower',)",0,0,0,0,0,0,0,0,0,0
+the Eiffel Tower in a desert,"('Eiffel Tower', 'desert')",0,0,1,1,0,0,0,0,0,2
+the Eiffel Tower in winter,"('Eiffel Tower',)",0,0,0,0,0,0,0,0,0,0
+the Empire State Building,"('Empire State Building',)",0,0,0,0,0,0,0,0,0,0
+the eye of the planet Jupiter,"('Jupiter', 'eye')",0,0,0,0,0,0,0,0,0,0
+the eyes of an owl,"('eyes', 'owl')",0,0,1,0,0,0,0,0,0,0
+the finale of a fireworks display,"('fireworks display',)",0,0,0,0,0,0,0,0,0,0
+the flag of the United Kingdom painted in rusty corrugated iron,"('flag', 'iron')",0,0,0,0,0,1,0,0,0,0
+The frog found itself in the newspaper,"('frog', 'newspaper')",0,0,0,1,0,0,0,0,0,2
+the geyser Old Faithful,"('geyser',)",0,0,0,0,0,0,0,0,0,0
+the grand canyon,"('canyon',)",0,0,0,0,0,0,0,0,0,0
+the grand canyon on a cloudy day,"('canyon', 'cloudy day')",0,0,0,0,0,0,0,0,0,0
+The Great Hypostyle Hall of Karnak. detailed charcoal sketch.,"('sketch', 'Hall')",0,0,0,0,1,1,0,0,0,0
+the Great Pyramid,"('Great Pyramid',)",0,0,0,0,0,0,0,0,0,0
+The Great Pyramid of Giza situated in front of Mount Everest,"('Pyramid', 'Mount Everest')",0,0,0,1,0,0,0,0,0,0
+the Great Wall,"('Great Wall',)",0,0,0,0,0,0,0,0,0,0
+the hands of a single person holding a basketball,"('hands', 'person', 'basketball')",1,0,1,1,0,0,2,2,0,0
+The horse raced past the barn fell,"('horse', 'barn')",0,0,0,1,0,0,0,0,0,0
+the International Space Station,"('Space Station',)",0,0,0,0,0,0,0,0,0,0
+the International Space Station flying in front of the moon,"('Space Station', 'moon')",1,0,0,1,0,0,0,0,0,0
+the Kremlin,"('Kremlin',)",0,0,0,0,0,0,0,0,0,0
+the Kremlin at night,"('Kremlin',)",0,0,0,0,0,0,0,0,0,0
+The large ball crashed right through the table because it was made of steel,"('ball', 'table', 'steel')",0,0,0,1,0,0,0,0,0,0
+The large ball crashed right through the table because it was made of styrofoam,"('ball', 'table', 'styrofoam')",0,0,0,1,0,0,0,0,0,0
+"the letters P A X forming a very simple outline of an elephant's shape.  the elephant is facing left. vector art, orange logo.","('P A X', 'outline', 'elephant', 'logo')",1,1,1,1,0,0,0,0,0,0
+The man who whistles tunes pianos.,"('man', 'pianos')",1,0,0,0,0,0,2,2,2,0
+the Millennium Wheel,"('Millennium Wheel',)",0,0,0,0,0,0,0,0,0,0
+the Millennium Wheel in a snow storm,"('Millennium Wheel', 'snow storm')",0,0,1,1,0,0,0,0,0,0
+The Millennium Wheel next to the Statue of Liberty. The Sagrada Familia church is also visible.,"('Millennium Wheel', 'Statue of Liberty', 'church')",0,0,0,1,0,0,0,2,1,0
+the mona lisa,"('mona lisa',)",0,0,0,0,0,0,0,2,1,0
+the Mona Lisa in the style of Minecraft,"('Mona Lisa', 'Minecraft')",0,0,0,0,0,0,0,2,1,0
+the mona lisa wearing a cowboy hat and screaming a punk song into a microphone,"('mona lisa', 'hat', 'microphone')",0,0,1,1,0,0,0,2,1,0
+the moon,"('moon',)",0,0,0,0,0,0,0,0,0,0
+the moon with a smiling face,"('moon', 'smiling face')",0,0,1,0,0,0,0,0,0,2
+The mouse the cat watches is jumping in the air.,"('mouse', 'cat', 'air')",1,0,0,1,0,0,0,0,0,0
+The old man the boat.,"('old man', 'boat')",0,0,0,0,0,0,0,2,2,0
+The Oriental Pearl,"('Oriental Pearl',)",0,0,0,0,0,0,0,0,0,0
+The Oriental Pearl in Chinese painting,"('Oriental Pearl', 'painting')",0,0,0,0,1,0,0,0,0,0
+The Oriental Pearl in oil painting,"('Oriental Pearl', 'painting')",0,0,0,1,1,0,0,0,0,0
+The Oriental Pearl in sketch style,"('sketch', 'Oriental Pearl')",0,0,0,0,1,0,0,0,0,0
+the Parthenon,"('Parthenon',)",0,0,0,0,0,0,0,0,0,0
+the Parthenon in front of the Great Pyramid,"('Parthenon', 'Pyramid')",0,0,0,1,0,0,0,0,0,0
+the planet Jupiter,"('Jupiter',)",0,0,0,0,0,0,0,0,0,0
+The raft floated down the river sank.,"('raft', 'river')",1,0,0,1,0,0,0,0,0,0
+The rat the cat the dog bit chased escaped.,"('rat', 'cat', 'dog')",0,0,0,0,0,0,0,0,0,0
+"The Rosetta Stone lying on the ground, covered in snow.","('Rosetta Stone', 'ground', 'snow')",1,0,0,1,0,0,0,0,0,0
+"the saying ""BE EXCELLENT TO EACH OTHER"" on a rough wall with a graffiti image of a green alien wearing a tuxedo.","('BE EXCELLENT TO EACH OTHER', 'wall', 'image', 'alien', 'tuxedo')",0,1,1,1,1,0,0,0,0,0
+"The saying ""BE EXCELLENT TO EACH OTHER"" written in a stained glass window.","('""BE EXCELLENT TO EACH OTHER""', 'window')",0,2,1,1,0,0,0,0,0,0
+"The saying ""BE EXCELLENT TO EACH OTHER"" written in faded paint on the hull of an old wooden boat and reflected in the water. Wide-angle lens.","('BE EXCELLENT TO EACH OTHER', 'paint', 'boat', 'water', 'Wide', 'hull')",0,0,1,1,0,0,0,0,0,0
+"The saying ""BE EXCELLENT TO EACH OTHER"" written on a red brick wall with a graffiti image of a green alien wearing a tuxedo. A yellow fire hydrant is on a sidewalk in the foreground.","('BE EXCELLENT TO EACH OTHER', 'wall', 'image', 'alien', 'tuxedo', 'hydrant', 'sidewalk', 'foreground')",1,1,1,1,1,0,0,0,0,0
+"The saying ""BE EXCELLENT TO EACH OTHER"" written with carved letters on driftwood.","('BE EXCELLENT TO EACH OTHER', 'letters', 'driftwood')",0,0,0,1,0,0,0,0,0,0
+the saying 'do unto others as they would do unto you' written on a white background,"('saying', 'background', 'do unto others as they would do unto you')",0,1,1,1,0,0,0,0,0,0
+The sculpture rolled off the shelf because it wasn't anchored,"('sculpture', 'shelf')",0,0,0,1,0,0,0,0,0,0
+The sculpture rolled off the shelf because it wasn't level,"('sculpture', 'shelf')",0,0,0,1,0,0,0,0,0,0
+the silhouette of an elephant,"('silhouette', 'elephant')",0,0,1,0,0,0,0,0,0,0
+the silhouette of an elephant on the full moon,"('silhouette', 'elephant', 'moon')",0,0,1,1,0,0,0,0,0,2
+the silhouette of the Milllenium Wheel at dusk,"('silhouette', 'dusk', 'Milllenium Wheel')",0,0,0,1,0,0,0,0,0,0
+the skyline of New York City,"('skyline', 'City')",0,0,0,0,0,1,0,0,0,0
+The Starry Night,"('Starry Night',)",0,0,0,0,0,0,0,0,0,0
+The Statue of Liberty,"('Statue of Liberty',)",0,0,0,0,0,0,2,2,1,0
+The Statue of Liberty in Minecraft,"('Statue of Liberty', 'Minecraft')",0,0,0,1,0,0,2,2,1,0
+the statue of Liberty next to the Washington Monument,"('statue of Liberty', 'Monument')",0,0,0,1,0,1,2,2,1,0
+The Statue of Liberty on a cloudy day,"('Statue of Liberty',)",0,0,0,0,0,0,2,2,1,0
+The Statue of Liberty surrounded by helicopters,"('Statue of Liberty ', 'helicopters')",0,0,0,1,0,0,2,2,1,0
+The Statue of Liberty with the face of an owl,"('The Statue of Liberty', 'owl')",0,0,1,0,0,0,0,2,0,2
+The Statue of Liberty with the Manhattan skyline in the background.,"('Statue of Liberty', 'skyline')",0,0,1,1,0,1,0,2,1,0
+the sun setting behind the Parthenon,"('sun setting', 'Parthenon')",0,0,0,1,0,0,0,0,0,0
+The sunset on the beach is wonderful,"('sunset', 'beach')",0,0,0,1,0,0,0,0,0,0
+the Sydney Opera House,"('Opera House',)",0,0,0,0,0,1,0,0,0,0
+"the Sydney Opera House with the Eiffel tower sitting on the right, and Mount Everest rising above","('Opera House', 'Eiffel tower', 'Mount Everest')",1,0,1,1,0,1,0,0,0,2
+the Taj Mahal at sunrise,"('sunrise', 'Taj Mahal')",0,0,0,0,0,0,0,0,0,0
+The trophy doesn't fit into the brown suitcase because it's too large,"('trophy', 'suitcase')",0,1,0,0,0,0,0,0,0,0
+The trophy doesn't fit into the brown suitcase because it's too small,"('trophy', 'suitcase')",0,1,0,0,0,0,0,0,0,0
+the United States flag next to the flag of Texas,"('United States flag', 'flag of Texas')",0,0,0,1,0,1,0,0,0,0
+the word 'mardefly' on a coffee mug,"('mardefly', 'mug')",0,0,1,1,0,0,0,0,0,0
+the word 'START',"('START',)",0,0,0,0,0,0,0,0,0,0
+the word 'START' on a blue t-shirt,"('START', 't-shirt')",0,1,1,1,0,0,0,0,0,0
+the word 'START' written above the word 'SMILING',"(""START'"", 'SMILING')",0,0,0,1,0,0,0,0,0,0
+the word 'START' written in chalk on a sidewalk,"('START', 'chalk', 'sidewalk')",0,0,1,1,0,0,0,0,0,0
+the word 'START' written on a street surface,"('surface', 'START', 'street')",0,0,1,1,0,0,0,0,0,0
+the words 'KEEP OFF THE GRASS',"('KEEP OFF THE GRASS',)",0,0,0,0,0,0,0,0,0,0
+the words 'KEEP OFF THE GRASS' on a black sticker,"('KEEP OFF THE GRASS', 'sticker')",0,1,1,1,0,0,0,0,0,0
+the words 'KEEP OFF THE GRASS' on a sign next to a lawn,"('KEEP OFF THE GRASS', 'sign', 'lawn')",0,0,1,1,0,0,0,0,0,0
+the words 'KEEP OFF THE GRASS' written on a brick wall,"('KEEP OFF THE GRASS', 'wall')",0,0,1,1,0,0,0,0,0,0
+three airplanes parked in a row at a terminal,"('airplanes', 'row', 'terminal')",0,0,1,1,0,0,0,0,0,0
+three black cats standing next to two orange cats,"('cats',)",1,1,1,1,0,0,0,0,0,0
+three chairs,"('chairs',)",0,0,1,0,0,0,0,0,0,0
+three children on a couch,"('children', 'couch')",0,0,1,1,0,0,0,2,0,0
+three elephants standing on top of each other,"('elephants',)",1,0,1,1,0,0,0,0,0,0
+three green glass bottles,"('bottles',)",0,1,1,0,0,0,0,0,0,0
+three green peppers,"('peppers',)",0,1,1,0,0,0,0,0,0,0
+three pickup trucks piled on top of each other,"('trucks',)",0,0,1,1,0,0,0,0,0,0
+three quarters view of a rusty old red pickup truck with white doors and a smashed windshield,"('view', 'truck', 'doors', 'windshield')",0,1,1,0,0,0,0,0,0,0
+three red lego blocks,"('blocks',)",0,1,1,0,0,0,0,0,0,0
+three small yellow boxes,"('boxes',)",0,1,1,0,0,0,0,0,0,0
+three small yellow boxes on a large blue box,"('boxes',)",0,1,1,1,0,0,0,0,0,0
+three violins lying on the floor,"('violins', 'floor')",1,0,1,1,0,0,0,0,0,0
+three wine bottles,"('bottles',)",0,0,1,0,0,0,0,0,0,0
+three yellow balls and two red boxes on a table,"('balls', 'boxes', 'table')",0,1,1,1,0,0,0,0,0,0
+Three-quarters front view of a blue 1977 Corvette coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Corvette', 'curve', 'road', 'valley')",1,1,1,1,0,1,0,0,0,0
+Three-quarters front view of a blue 1977 Ford F-150 coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Ford F-150', 'curve', 'road', 'valley')",1,1,1,1,0,1,0,0,0,0
+Three-quarters front view of a blue 1977 Porsche 911 coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Porsche 911', 'curve', 'road', 'valley')",1,1,1,1,0,0,0,0,0,0
+Three-quarters front view of a red 1997 Corvette coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Corvette', 'curve', 'road', 'valley')",1,1,1,1,0,1,0,0,0,0
+Three-quarters front view of a red 1997 Ford F-150 coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Ford F-150', 'curve', 'road', 'valley')",1,1,1,1,0,0,0,0,0,0
+Three-quarters front view of a red 1997 Porsche 911 coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Porsche 911', 'curve', 'road', 'valley')",1,1,1,1,0,0,0,0,0,0
+Three-quarters front view of a yellow 2017 Corvette coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Corvette', 'curve', 'road', 'valley')",1,1,1,1,0,0,0,0,0,0
+Three-quarters front view of a yellow 2017 Ford F-150 coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Ford F-150', 'curve', 'road ', 'valley')",1,1,1,1,0,0,0,0,0,0
+Three-quarters front view of a yellow 2017 Porsche 911 coming around a curve in a mountain road and looking over a green valley on a cloudy day.,"('view', 'Porsche 911', 'curve', 'road', 'valley')",1,1,1,1,0,0,0,0,0,0
+Tibetan priests ringing a bell,"('priests', 'bell')",1,0,1,0,0,1,2,2,0,0
+Times Square,"('Times Square',)",0,0,0,0,0,0,0,0,0,0
+Times Square at night,"('Square',)",0,0,0,0,0,0,0,0,0,0
+Times Square during the day,"('Square',)",0,0,0,0,0,0,0,0,0,0
+Times Square with thousands of dogs running around,"('Times Square', 'dogs')",1,0,1,1,0,0,0,0,0,0
+"To a squirrel, a dog gives an apple.","('squirrel', 'dog', 'apple')",1,0,1,0,0,0,0,0,0,2
+toy cars,"('toy cars',)",0,0,0,0,0,0,0,0,0,0
+trees seen through a car window on a rainy day,"('trees', 'car window')",0,0,1,1,0,0,0,0,0,0
+"trying to find my way in a big confusing world, abstract oil painting","('way', 'world', 'painting')",0,0,0,0,1,0,0,0,0,0
+two baseballs next to three tennis balls,"('baseballs', 'tennis balls')",0,0,1,1,0,0,0,0,0,0
+two baseballs to the left of three tennis balls,"('baseballs', 'tennis balls')",0,0,1,1,0,0,0,0,0,0
+two beat-up baseballs on either side of a yellow basketball,"('baseballs', 'basketball')",0,1,1,1,0,0,0,0,0,0
+two cats,"('cats',)",0,0,1,0,0,0,0,0,0,0
+two cats doing research,"('cats',)",1,0,1,0,0,0,0,0,0,2
+two chairs,"('chairs',)",0,0,1,0,0,0,0,0,0,0
+two chemtrails forming an X in blue sky,"('chemtrails', 'X', 'sky')",0,1,1,1,0,0,0,0,0,0
+"Two cups of coffee, one with latte art of a heart. The other has latte art of stars.","('coffee', 'latte art', 'heart', 'stars')",0,0,1,0,0,0,0,0,0,0
+"Two cups of coffee, one with latte art of a lovely princess. The other has latte art of a frog.","('coffee', 'latte art', 'princess', 'frog')",0,0,1,0,0,0,0,0,0,0
+"Two cups of coffee, one with latte art of a map of United States. The other has latte art of a map of Africa.","('coffee', 'map', 'latte art')",0,0,1,0,0,1,0,0,0,0
+"Two cups of coffee, one with latte art of the Eiffel tower. The other has latte art of the Statue of Liberty.","('coffee', 'latte art', 'Eiffel tower', 'the Statue of Liberty')",0,0,1,0,0,0,0,0,0,0
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.","('coffee', 'latte art', 'LOVE', 'PEACE')",0,0,1,1,0,0,0,0,0,0
+"Two cups of coffee, one with latte art of yin yang symbol. The other has latte art of a heart.","('coffee', 'latte art', 'symbol', 'heart')",0,0,1,0,0,0,0,0,0,0
+two frosted glass bottles,"('bottles',)",0,0,1,0,0,0,0,0,0,0
+two motorcycles facing each other,"('motorcycles',)",1,0,1,1,0,0,0,0,0,0
+two parallel chemtrails in blue sky,"('chemtrails', 'sky')",0,1,1,1,0,0,0,0,0,0
+two people facing each other,"('people',)",0,0,1,0,0,0,0,2,0,0
+two people facing the viewer,"('people', 'viewer')",1,0,1,0,0,0,0,2,0,0
+two pianos next to each other,"('pianos',)",0,0,1,1,0,0,0,0,0,0
+two red balls,"('balls',)",0,1,1,0,0,0,0,0,0,0
+two red balls on a table,"('balls', 'table')",0,1,1,1,0,0,0,0,0,0
+two red boxes,"('boxes',)",0,1,1,0,0,0,0,0,0,0
+two red flowers and three white flowers,"('flowers',)",0,1,1,0,0,0,0,0,0,0
+two runners crossing the finish line together,"('runners', 'finish line')",1,0,1,1,0,0,0,2,0,0
+two sets of identical twins,"('twins',)",0,0,1,0,0,0,0,2,0,0
+two small circles to the left of a red triangle that is on a green rectangle,"('circles', 'triangle', 'rectangle')",0,1,1,1,0,0,0,0,0,0
+two violins standing up,"('violins',)",1,0,1,0,0,0,0,0,0,0
+two violins standing up with their bows on the ground in front of them,"('violins', 'bows', 'ground')",1,0,1,1,0,0,0,0,0,0
+two wine bottles,"('bottles',)",0,0,1,0,0,0,0,0,0,0
+two wine bottles and three beer cans,"('bottles', 'beer cans')",0,0,1,0,0,0,0,0,0,0
+two wooden chairs and three metal chairs,"('chairs',)",0,0,1,0,0,0,0,0,0,0
+U.S. 101,"('101',)",0,0,0,0,0,1,0,0,0,0
+vibrant portrait painting of Salvador Dal�� with a robotic half face,"('face',)",0,0,1,0,0,0,0,2,0,2
+view from below of a tall white ladder with just one rung leaning up against a yellow brick wall,"('view', 'ladder', 'rung', 'wall')",1,1,1,1,0,0,0,0,0,0
+view of a clock tower from above,"('view', 'clock tower')",0,0,1,1,0,0,0,0,0,0
+view of a clock tower from below,"('view', 'clock tower')",0,0,1,1,0,0,0,0,0,0
+view of a clock tower on a cloudy day,"('view ', 'clock tower')",0,0,1,0,0,0,0,0,0,0
+view of a giraffe and a zebra in the middle of a field,"('view', 'giraffe', 'zebra', 'field')",0,0,1,1,0,0,0,0,0,0
+view of the Great Wall from its base,"('aerial view', 'the Great Wall')",0,0,0,1,0,0,0,0,0,0
+water,"('water',)",0,0,0,0,0,0,0,0,0,0
+waterfall,"('waterfall',)",0,0,0,0,0,0,0,0,0,0
+We painted the wall with cracks.,"('wall', 'cracks')",0,0,0,0,0,0,0,0,0,0
+weeds in the cracks of a sidewalk,"('cracks', 'sidewalk', 'weeds')",0,0,1,1,0,0,0,0,0,0
+wine bottles,"('bottles',)",0,0,0,0,0,0,0,0,0,0
+wood,"('wood',)",0,0,0,0,0,0,0,0,0,0
+Wood engraving of the Greek letter Omega,"('Wood engraving', 'letter', 'Omega')",0,0,0,0,0,1,0,0,0,0
+world's best brother t-shirt,"('t-shirt',)",0,0,0,0,0,0,0,0,0,0
+yin-yang,"('yin-yang',)",0,0,0,0,0,0,0,0,0,0
+Zoomed out view of a giraffe and a zebra in the middle of a field covered with colorful flowers,"('view', 'giraffe', 'zebra', 'field', 'flowers')",0,2,1,1,0,0,0,0,0,0

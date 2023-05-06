@@ -12,7 +12,7 @@
 [**mCLIPEval**](https://github.com/FlagOpen/FlagEval/tree/master/mCLIPEval) is a evaluation toolkit for vision-language models (such as CLIP, Contrastive Language–Image Pre-training).
 
 * Including Multilingual (12 languages) datasets and monolingual (English/Chinese) datasets.
-* Supporting for zeroshot classification, zeroshot retrieval and zeroshot composition tasks.
+* Supporting for Zero-shot classification, Zero-shot retrieval and zeroshot composition tasks.
 * Adapted to [FlagAI](https://github.com/FlagAI-Open/FlagAI) pretrained models ([AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP), [EVA-CLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP)), [OpenCLIP](https://github.com/mlfoundations/open_clip) pretrained models, [Chinese CLIP](https://github.com/OFA-Sys/Chinese-CLIP) models, [Multilingual CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) models, [Taiyi Series](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html) pretrained models, or customized models.
 * Data preparation from various resources, like [torchvision](https://pytorch.org/vision/stable/datasets.html), [huggingface](https://huggingface.co/datasets), [kaggle](https://www.kaggle.com/datasets), etc.
 * Visualization of evaluation results through leaderboard figures or tables, and detailed comparsions between two specific models.
@@ -39,8 +39,8 @@ Please refer to [mCLIPEval/README.md](https://github.com/FlagOpen/FlagEval/tree/
 
 [ImageEval-prompt](https://github.com/FlagOpen/FlagEval/blob/master/imageEval/README.md) is a set of prompts that evaluate text-to-image (T2I) models at a fine-grained level, including entity, style and detail. By conducting comprehensive evaluations at a fine-grained level, researchers can better understand the strengths and limitations of T2I models, in order to further improve their performance.
 
-* Including 1,624 English prompts and 339 Chinese prompts
-* For each prompt, we annotated three dimensions: entity, style, and detail. 
+* Including 1,624 English prompts and 339 Chinese prompts.
+* Each prompt is annotated using "double-blind annotation & third-party arbitration" approach, divided into three dimensions: entities, styles, and details.
 	* Entity dimension includes five sub-dimensions: object, state, color, quantity, and position; 
 	* Style dimension includes two sub-dimensions: painting style and cultural style; 
 	* Detail dimension includes four sub-dimensions: hands, facial features, gender, and illogical knowledge.

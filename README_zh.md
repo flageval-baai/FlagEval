@@ -42,16 +42,16 @@ pip install -r requirements.txt
 
 * 英文数据集来自 PartiPrompts benchmark 的 1624 条英文 Prompt，其中 339 条 Prompt 翻译成中文作为中文数据集。
 * 每条 Prompt 采取“双人背靠背标注+第三人仲裁”方式进行标注，分为实体、风格和细节三个维度：
-    * 实体包括五个考点：主体对象、状态、颜色、数量与位置；
-    * 风格包括两个考点：绘画风格与文化风格；
-    * 细节包括四个考点：手部、五官、性别与反常识。
+    * 实体包括 5 个子维度：主体对象、状态、颜色、数量与位置；
+    * 风格包括 2 个子维度：绘画风格与文化风格；
+    * 细节包括 4 个子维度：手部、五官、性别与反常识。
 
 更多细节请参考 [imageEVAL/README_zh.md](https://github.com/FlagOpen/FlagEval/blob/master/imageEval/README_zh.md) 
 
 
 ## 联系我们
 
-* 如果有关于FlagEval的意见，建议或错误报告，请提交[GitHub Issue](https://github.com/FlagOpen/FlagEval/issues) 或者邮件至 flageval@baai.ac.cn，让我们共同建设更好的FlagEval。
+* 如果有关于 FlagEval的意见，建议或错误报告，请提交[GitHub Issue](https://github.com/FlagOpen/FlagEval/issues) 或者邮件至 flageval@baai.ac.cn，让我们共同建设更好的FlagEval。
 * <font color="Red">**诚聘行业精英加入FlagEval团队。** </font>如果您有兴趣加入我们一起推进基础模型评测的工具，请联系 flageval@baai.ac.cn，期待您的加入！
 * <font color="Red">**欢迎共同建设FlagEval。** </font>如果您有新的任务或者新的数据或者新的工具希望加入FlagEval，请联系flageval@baai.ac.cn，期待与您合作，共同建设基础模型评测体系！
 

@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "flageval-serving"
+version = "0.1.0"
+description = ""
+authors = ["FlagEval <flageval@baai.ac.cn>"]
+readme = "README.md"
+packages = [{ include = "flageval" }]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flask = "^2.3.2"
+blinker = "^1.6.2"
+gunicorn = "^20.1.0"
+click = "^8.1.3"
+dataclasses-json = "^0.5.7"
+cached-property = "^1.5.2"
+gevent = "^22.10.2"
+requests = "^2.30.0"
+tqdm = "^4.65.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.scripts]
+flageval-serving = 'flageval.serving.cli:main'

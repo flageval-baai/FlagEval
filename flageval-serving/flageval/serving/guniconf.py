@@ -60,6 +60,9 @@ worker_connections = 102400
 # Set WSGI Application to FlagEval serving
 wsgi_app = "flageval.serving.app:app"
 
+# Workers silent for more than this many seconds are killed and restarted.
+timeout = 300
+
 # Write accesslog to stdout
 accesslog = "-"
 

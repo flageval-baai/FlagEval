@@ -99,6 +99,8 @@ class FlagEvalUploader:
                 for item in local_files
             ]
         })
+        if resp.status_code >= 400:
+            raise FlagEvalError(resp.status_code, resp.text)
         return resp.json()
 
     def _do_upload(self, item: File):

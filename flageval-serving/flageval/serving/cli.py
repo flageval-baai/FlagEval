@@ -98,7 +98,7 @@ def run(stage, model):
 
 
 @cli.command()
-@click.option("--host", default="http://120.92.108.238:8080/", help="FlagEval host.")
+@click.option("--host", default="https://flageval.baai.ac.cn/", help="FlagEval host.")
 @click.option("--token", required=True, help="Token to upload model.")
 @click.option("--followlinks", default=False, help="Follow links.")
 @click.argument("model_path", required=True)

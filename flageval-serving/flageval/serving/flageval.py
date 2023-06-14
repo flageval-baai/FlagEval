@@ -47,9 +47,15 @@ class FlagEvalUploader:
             self._create_remote_files(local_files)
             remote_files = self._list_remote_files()
 
-        for item in tqdm.tqdm(remote_files):
-            if not item.ks3_ready:
-                self._do_upload(item)
+        total_kb = sum(x.size_kb for x in remote_files)
+        progbar = tqdm.tqdm(total=total_kb, unit="KB")
+
+        for item in remote_files:
+            if item.ks3_ready:
+                progbar.update(item.size_kb)
+                continue
+            self._do_upload(item, progbar)
+        progbar.close()
 
     def _list_local_files(self) -> List[File]:
         results: List[File] = []
@@ -99,12 +105,16 @@ class FlagEvalUploader:
                 for item in local_files
             ]
         })
+        if resp.status_code >= 400:
+            raise FlagEvalError(resp.status_code, resp.text)
         return resp.json()
 
-    def _do_upload(self, item: File):
+    def _do_upload(self, item: File, progbar: tqdm.tqdm):
         url = f'{self.host}{self.CHUNKS_PATH.format(item.id_)}'
+        innerbar = tqdm.tqdm(total=item.size_kb, unit='KB', desc=item.filename)
+
         with open(item.path,'rb') as f:
-            for i, chunk in tqdm.tqdm(enumerate(item.chunks), desc=item.filename):
+            for i, chunk in enumerate(item.chunks):
                 buf = io.BytesIO()
                 if i + 1 < len(item.chunks):
                     content = f.read(chunk.size_kb * 1024)
@@ -113,6 +123,8 @@ class FlagEvalUploader:
                 buf.write(content)
                 buf.seek(0)
                 if chunk.ks3_ready:
+                    progbar.update(chunk.size_kb)
+                    innerbar.update(chunk.size_kb)
                     continue
 
                 files = {'file': buf}
@@ -131,3 +143,7 @@ class FlagEvalUploader:
                 r = resp.json()
                 if r['status'] != 200:
                     raise FlagEvalError(r)
+
+                progbar.update(chunk.size_kb)
+                innerbar.update(chunk.size_kb)
+        innerbar.close()

@@ -120,8 +120,8 @@ def _merge_local_settings(stage):
     try:
         for key, val in f.local_settings.__dict__.items():
             if not key.startswith("_") and key.isupper():
-                setattr(base, key, val)
-                click.echo(f"[LOCAL] Merge {key} = {getattr(base, key)}")
+                setattr(settings, key, val)
+                click.echo(f"[LOCAL] Merge {key} = {getattr(settings, key)}")
     except ImportError as e:
         click.echo(f"Merge local settings failed due to {e.args[0]}")
 

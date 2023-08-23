@@ -1,8 +1,12 @@
 import abc
+import logging
 
 from typing import Any
 
 from flask import Response, jsonify
+
+
+logger = logging.getLogger(__name__)
 
 
 class ModelService(metaclass=abc.ABCMeta):
@@ -18,6 +22,7 @@ class ModelService(metaclass=abc.ABCMeta):
             response = self.infer(request)
             return self.write_response(response)
         except Exception as e:
+            logger.error("Uncaught error", exc_info=True)
             response = jsonify({"code": 500, "message": e.args[0]})
             response.status_code = 500
             return response

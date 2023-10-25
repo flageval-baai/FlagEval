@@ -1,0 +1,39 @@
+{
+    "model_name": "swin_large_demo",
+    "try_run": true,
+    "is_rgb": true,
+    "output_channels": [192, 384, 768, 1536],
+    "output_dims": [4, 4, 4, 4],
+    "tasks": {
+        "classification": {
+            "train_batch_size": 128,
+            "val_batch_size": 128,
+            "out_indices": [3]
+        },
+        "segmentation": {
+            "train_batch_size": 8,
+            "val_batch_size": 1,
+            "out_indices": [0, 1, 2, 3]
+        },
+        "semi_supervised_classification": {
+            "train_batch_size": 32,
+            "val_batch_size": 128,
+            "out_indices": [3]
+        },
+        "depth_estimation": {
+            "train_batch_size": 8,
+            "val_batch_size": 1,
+            "out_indices": [0, 1, 2, 3]
+        },
+        "few_shot_classification": {
+            "train_batch_size": 128,
+            "val_batch_size": 128,
+            "out_indices": [3]
+        },
+        "retrieval": {
+            "train_batch_size": 180,
+            "val_batch_size": 180,
+            "out_indices": [3]
+        }
+    }    
+}

@@ -61,6 +61,8 @@ The sub-evaluation items of C-SEM are:
 Future iterations of the C-SEM benchmark will continue to evolve, covering more semantic understanding-related knowledge and forming a multi-level semantic understanding evaluation system. Meanwhile, the 【FlagEval large model evaluation platform](https://flageval.baai.ac.cn/#/trending) will integrate the latest versions promptly to enhance the comprehensiveness of evaluating Chinese capabilities of large language models.
 
 
+Please refer to [csem/README.md](https://github.com/FlagOpen/FlagEval/blob/master/csem/README.md) for more details.
+
 
 ## Contact us
 

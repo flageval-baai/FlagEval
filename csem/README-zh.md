@@ -1,4 +1,4 @@
-# C-Sem
+# C-SEM
 
 [English](./README.md)
 

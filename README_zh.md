@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 更多细节请参考 [imageEVAL/README_zh.md](https://github.com/FlagOpen/FlagEval/blob/master/imageEval/README_zh.md) 
 
-## C-SEM
+## 3. C-SEM
 
 C-SEM 针对当前大模型的可能存在的缺陷和不足，创新地构造多种层次、多种难度的评测数据， 并参考人类的语言思维习惯，考察模型在理解语义时的“思考”过程。当前开源的 C-SEM v1.0版本共包括四个子评测项，分别从词汇、句子两个级别评测模型的语义理解能力，通用性较强，适用于研究对照。
 

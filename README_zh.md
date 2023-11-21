@@ -48,6 +48,21 @@ pip install -r requirements.txt
 
 更多细节请参考 [imageEVAL/README_zh.md](https://github.com/FlagOpen/FlagEval/blob/master/imageEval/README_zh.md) 
 
+## C-SEM
+
+C-SEM 针对当前大模型的可能存在的缺陷和不足，创新地构造多种层次、多种难度的评测数据， 并参考人类的语言思维习惯，考察模型在理解语义时的“思考”过程。当前开源的 C-SEM v1.0版本共包括四个子评测项，分别从词汇、句子两个级别评测模型的语义理解能力，通用性较强，适用于研究对照。
+
+当前 C-SEM 的子评测项分别为
+
+* 词汇级的语义关系判断（LLSRC）
+* 句子级别的语义关系判断（SLSRC）
+* 词汇的多义理解问题（SLPWC）
+* 基础修饰知识检测（SLRFC）
+
+后续 C-SEM 评测基准将会持续迭代，覆盖更多语义理解相关知识，形成多层次的语义理解评测体系。同时，[FlagEval 大模型评测平台](https://flageval.baai.ac.cn/#/trending) 将在第一时间集成最新版本，加强对大语言模型的中文能力评测的全面性。
+
+更多细节请参考 [csem/README-zh.md](https://github.com/FlagOpen/FlagEval/blob/master/csem/README-zh.md) 
+
 
 ## 联系我们
 

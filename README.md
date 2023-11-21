@@ -53,7 +53,7 @@ Please refer to [mCLIPEval/README.md](https://github.com/FlagOpen/FlagEval/tree/
 
 Please refer to [imageEval/README.md](https://github.com/FlagOpen/FlagEval/blob/master/imageEval/README.md) for more details.
 
-## C-SEM
+## 3. C-SEM
 
 C-SEM innovatively constructs various levels and difficulties of evaluation data to address the potential flaws and inadequacies of current large models. It examines the models' "thinking" process in understanding semantics, referencing human language cognition habits. The currently open-source version, C-SEM v1.0, includes four sub-evaluation items, assessing models' semantic understanding abilities at both the lexical and sentence levels, offering broad applicability for research comparison.
 

@@ -47,6 +47,20 @@ Please refer to [mCLIPEval/README.md](https://github.com/FlagOpen/FlagEval/tree/
 
 Please refer to [imageEval/README.md](https://github.com/FlagOpen/FlagEval/blob/master/imageEval/README.md) for more details.
 
+## C-SEM
+
+C-SEM innovatively constructs various levels and difficulties of evaluation data to address the potential flaws and inadequacies of current large models. It examines the models' "thinking" process in understanding semantics, referencing human language cognition habits. The currently open-source version, C-SEM v1.0, includes four sub-evaluation items, assessing models' semantic understanding abilities at both the lexical and sentence levels, offering broad applicability for research comparison.
+
+The sub-evaluation items of C-SEM are:
+
+* Lexical Level Semantic Relationship Classification (LLSRC)
+* Sentence Level Semantic Relationship Classification (SLSRC)
+* Sentence Level Polysemous Words Classification (SLPWC)
+* Sentence Level Rhetoric Figure Classification (SLRFC).
+
+Future iterations of the C-SEM benchmark will continue to evolve, covering more semantic understanding-related knowledge and forming a multi-level semantic understanding evaluation system. Meanwhile, the 【FlagEval large model evaluation platform](https://flageval.baai.ac.cn/#/trending) will integrate the latest versions promptly to enhance the comprehensiveness of evaluating Chinese capabilities of large language models.
+
+
 
 ## Contact us
 

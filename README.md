@@ -5,7 +5,13 @@
 
 ### Overview
 
-**FlagEval** is an evaluation toolkit for AI large foundation models. Our goal is to explore and integrate **scientific**, **fair** and **open** foundation model evaluation benchmarks, methods and tools. FlagEval will support **multi-dimensional** evaluation (such as accuracy, efficiency, robustness, etc.) of foundation models in/cross different modalities (such as NLP, audio, CV and multimodal) in the future. We hope that through the evaluation of the foundation models, we can deepen the understanding of the foundation models and promote related technological innovation and industrial application.
+**FlagEval** is an open-source evaluation toolkit as well as an open platform for evaluation of large models. 
+
+FlagEval aims to cater to three principal evaluation subjects: foundational models, pre-training algorithms, and fine-tuning/compression algorithms. It encompasses four critical evaluation scenarios — Natural Language Processing (NLP), Computer Vision (CV), Audio, and Multimodal, alongside an abundant variety of downstream tasks. You can find more information on our official website [flageval.baai.ac.cn](https://flageval.baai.ac.cn/#/home). 
+
+We're committed to developing scientific, impartial, and clear benchmarks, methodologies, and tools. Our goal is to enable researchers to thoroughly evaluate the effectiveness of foundational models and training algorithms. In addition, we are exploring the use of AI techniques to enhance subjective assessments, increasing both the objectivity and efficiency of our evaluation processes.
+
+FlagEval open-source toolkit now contains follwing sub-projects.
 
 ## 1. mCLIPEval
 
@@ -46,6 +52,22 @@ Please refer to [mCLIPEval/README.md](https://github.com/FlagOpen/FlagEval/tree/
 	* Detail dimension includes four sub-dimensions: hands, facial features, gender, and illogical knowledge.
 
 Please refer to [imageEval/README.md](https://github.com/FlagOpen/FlagEval/blob/master/imageEval/README.md) for more details.
+
+## 3. C-SEM
+
+C-SEM innovatively constructs various levels and difficulties of evaluation data to address the potential flaws and inadequacies of current large models. It examines the models' "thinking" process in understanding semantics, referencing human language cognition habits. The currently open-source version, C-SEM v1.0, includes four sub-evaluation items, assessing models' semantic understanding abilities at both the lexical and sentence levels, offering broad applicability for research comparison.
+
+The sub-evaluation items of C-SEM are:
+
+* Lexical Level Semantic Relationship Classification (LLSRC)
+* Sentence Level Semantic Relationship Classification (SLSRC)
+* Sentence Level Polysemous Words Classification (SLPWC)
+* Sentence Level Rhetoric Figure Classification (SLRFC).
+
+Future iterations of the C-SEM benchmark will continue to evolve, covering more semantic understanding-related knowledge and forming a multi-level semantic understanding evaluation system. Meanwhile, the 【FlagEval large model evaluation platform](https://flageval.baai.ac.cn/#/trending) will integrate the latest versions promptly to enhance the comprehensiveness of evaluating Chinese capabilities of large language models.
+
+
+Please refer to [csem/README.md](https://github.com/FlagOpen/FlagEval/blob/master/csem/README.md) for more details.
 
 
 ## Contact us

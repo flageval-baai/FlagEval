@@ -4,6 +4,8 @@
     "is_rgb": true,
     "output_channels": [256, 512, 1024, 2048],
     "output_dims": [4, 4, 4, 4],
+    "mean": [123.675, 116.28, 103.53],
+    "std": [58.395, 57.12, 57.375],
     "tasks": {
         "classification": {
             "train_batch_size": 128,

@@ -2,6 +2,8 @@
     "model_name": "swin_large_demo",
     "try_run": true,
     "is_rgb": true,
+    "mean": [123.675, 116.28, 103.53],
+    "std": [58.395, 57.12, 57.375],
     "output_channels": [192, 384, 768, 1536],
     "output_dims": [4, 4, 4, 4],
     "tasks": {

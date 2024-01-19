@@ -1,0 +1,4 @@
+{
+    "model_name": "yolox_demo", 
+    "tasks": ["detection"]
+}

@@ -21,12 +21,14 @@ echo $FLAGEVAL_NODE_NUM
 # 输出结果的路径。如果get_res.py为输出结果json的文件，则可以写为:python get_res.py > $FLAGEVAL_OUTPUT_PATH
 echo $FLAGEVAL_OUTPUT_PATH
 
+# 如果训练数据过多，可以通过flageval-serving上传训练数据的压缩包，然后在此run.sh里面解压
+# tar -zxvf mydata.tar.gz &>/dev/null
 # 写你的训练逻辑
-# torchrun --nnodes=$FLAGEVAL_NODE_NUM test.py ...
+# torchrun --nnodes=$FLAGEVAL_NODE_NUM test.py ... > res.json
 echo "running..."
 
 # 如果是master节点，则上传结果到$FLAGEVAL_OUTPUT_PATH。
 if [ "x$FLAGEVAL_NODE" == "xmaster" ]; then
-    # 此处只是demo，"targets/detection.json"应该替换为实际结果
-    cp targets/detection.json $FLAGEVAL_OUTPUT_PATH
+    # 此处只是demo，"./res.json"应该替换为实际结果
+    cp ./res.json $FLAGEVAL_OUTPUT_PATH
 fi

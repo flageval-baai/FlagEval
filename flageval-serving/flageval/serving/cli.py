@@ -96,6 +96,9 @@ def run(stage, model):
 
     WSGIApplication("%(prog)s OPTIONS").run()
 
+class NoHelpOption(click.Option):
+    def get_help_record(self, ctx):
+        pass
 
 @cli.command()
 @click.option("--host", default="https://flageval.baai.ac.cn/", help="FlagEval host.")
@@ -108,6 +111,55 @@ def upload(host, token, followlinks, model_path):
 
     uploader = FlagEvalUploader(host, token, model_path, followlinks=followlinks)
     uploader.upload()
+
+
+@cli.command()
+@click.option("--host", default="https://flageval.baai.ac.cn/", help="FlagEval host.", cls=NoHelpOption)
+@click.option("--token", required=True, default="", help="user's token.")
+@click.argument("dst_path", default="")
+def ls(host, token, dst_path):
+    """list files in flageval.
+
+\b
+for example:
+flageval-serving ls --token='your token' /remote_path
+    """
+    if token == "":
+        ctx = click.get_current_context()
+        click.echo(ctx.get_help())
+        return
+
+    from .flageval import FlagEvalManager
+    manager = FlagEvalManager(host, token, "", dst_path)
+    result, _ = manager.list_remote_files(dst_path)
+    if len(result) == 0:
+        print("error: " + dst_path + " not exists", file=sys.stderr)
+    else:
+        for item in result:
+            print(item.path)
+
+@cli.command()
+@click.option("--host", default="https://flageval.baai.ac.cn/", help="FlagEval host.", cls=NoHelpOption)
+@click.option("--token", required=True, default="", help="destination user's token.")
+@click.option("--followlinks", default=False, help="Follow links.", cls=NoHelpOption)
+@click.argument("src_path", default="")
+@click.argument("dst_path", default="")
+def cp(host, token, followlinks, src_path, dst_path):
+    """copy file or directory to flageval.
+
+\b
+for example:
+flageval-serving cp --token='your token' /path/fileordir /remote_path
+    """
+    if token == "":
+        ctx = click.get_current_context()
+        click.echo(ctx.get_help())
+        return
+    
+
+    from .flageval import FlagEvalManager
+    manager = FlagEvalManager(host, token, src_path, dst_path, followlinks = followlinks)
+    manager.cp()
 
 
 def _merge_local_settings(stage):
@@ -127,7 +179,7 @@ def _merge_local_settings(stage):
 
 
 def guess_project():
-    if settings.DEFAULT_PROJECT_NAME != settings.PROJECT_NAME:
+    if settings.DEFAULT_PROJECT_NAME != settings.PROJECT_NAME or True:
         return
 
     click.echo("NO PROJECT_NAME setted in settings, let me guess...")

@@ -1,3 +1,5 @@
+import argparse
+from omegaconf import OmegaConf
 import os
 import os.path as osp
 import sys
@@ -6,9 +8,7 @@ import requests
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(current_dir)
-from omegaconf import OmegaConf
 from model.inference import load_model_from_config, run  # noqa E402
-import argparse
 
 
 def parse_args():
@@ -33,7 +33,8 @@ class ModelAdapter:
         self.meta_info = self.get_meta()
 
         self.config = OmegaConf.load(
-            osp.join(current_dir, "model/v1-inference.yaml"))
+            osp.join(current_dir, "model/v1-inference.yaml")
+        )
         self.model_init(io_info['checkpoint_path'])
 
     def model_init(self, checkpoint_path):
@@ -58,8 +59,10 @@ class ModelAdapter:
 
 if __name__ == '__main__':
     args = parse_args()
-    model_adapter = ModelAdapter(task=args.task,
-                                 server_ip=args.server_ip,
-                                 server_port=args.server_port,
-                                 timeout=args.timeout)
+    model_adapter = ModelAdapter(
+        task=args.task,
+        server_ip=args.server_ip,
+        server_port=args.server_port,
+        timeout=args.timeout
+    )
     model_adapter.run()

@@ -1,4 +1,5 @@
-import argparse, os, sys
+import os
+import json
 
 import torch
 import numpy as np
@@ -42,31 +43,49 @@ def run(model, meta_info, url_template, output_dir):
     text_num = meta_info['length']
 
     shape = [4, 512 // 8, 512 // 8]
+    output_info = []
     with model.ema_scope():
         for i in range(text_num):
-            prompt, index = get_one_prompt(url_template, i)
+            prompt, question_id = get_one_prompt(url_template, i)
             uc = model.get_learned_conditioning(batch_size * [""])
             c = model.get_learned_conditioning(prompt)
-            samples_ddim, _ = sampler.sample(S=ddim_steps,
-                                             conditioning=c,
-                                             batch_size=batch_size,
-                                             shape=shape,
-                                             verbose=False,
-                                             unconditional_guidance_scale=scale,
-                                             unconditional_conditioning=uc,
-                                             eta=0.0,
-                                             x_T=None)
+            samples_ddim, _ = sampler.sample(
+                S=ddim_steps,
+                conditioning=c,
+                batch_size=batch_size,
+                shape=shape,
+                verbose=False,
+                unconditional_guidance_scale=scale,
+                unconditional_conditioning=uc,
+                eta=0.0,
+                x_T=None
+            )
 
             x_samples_ddim = model.decode_first_stage(samples_ddim)
-            x_samples_ddim = torch.clamp((x_samples_ddim + 1.0) / 2.0,
-                                         min=0.0,
-                                         max=1.0)
+            x_samples_ddim = torch.clamp(
+                (x_samples_ddim + 1.0) / 2.0, min=0.0, max=1.0
+            )
             x_samples_ddim = x_samples_ddim.cpu().permute(0, 2, 3,
                                                           1).numpy() * 255
 
             x_sample = x_samples_ddim[0]
             img = Image.fromarray(x_sample.astype(np.uint8))
-            img.save(os.path.join(output_dir, f"{index}.png"))
+            image_out_name = f"{question_id}.png"
+            img.save(os.path.join(output_dir, image_out_name))
+            output_info.append(
+                {
+                    "prompt": prompt,
+                    "id": question_id,
+                    "image": image_out_name
+                }
+            )
 
-    print(f"Your samples are ready and waiting for you here: \n{output_dir} \n"
-          f" \nEnjoy.")
+    json.dump(
+        output_info,
+        open(f"{output_dir}/output_info.json", "w"),
+        indent=2,
+        ensure_ascii=False
+    )
+    print(
+        f"Your samples are ready and waiting for you here: \n{output_dir} \n"
+    )

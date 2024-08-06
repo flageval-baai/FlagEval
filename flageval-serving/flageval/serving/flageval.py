@@ -1,7 +1,8 @@
 import io
 import os
 from dataclasses import dataclass, field
-from typing import List, Dict
+from pathlib import Path
+from typing import List
 
 import requests
 import tqdm
@@ -17,7 +18,7 @@ class Chunk:
 
 @dataclass
 class File:
-    path: str
+    path: Path
     filename: str
     size_kb: int
     id_: int = 0
@@ -44,7 +45,7 @@ class FlagEvalUploader:
         self.token = token
         if not path.endswith("/"):
             path = f'{path}/'
-        self.path = path
+        self.path = Path(path).absolute()
         self.options = kwargs
 
     def upload(self):
@@ -66,12 +67,13 @@ class FlagEvalUploader:
 
     def _list_local_files(self) -> List[File]:
         results: List[File] = []
-        for root, dirs, files in os.walk(
+        for root, _dirs, files in os.walk(
                 self.path, followlinks=self.options.get('followlinks', False),
         ):
             for name in files:
-                path = os.path.join(root, name)
-                filename = path[len(self.path):]
+                path = Path(os.path.join(root, name)).absolute()
+                # +1 for the seperator /(Posix) or \(Windows)
+                filename = path.as_posix()[len(self.path.as_posix()) + 1:]
                 st_size = os.stat(path).st_size
                 results.append(File(path, filename, max(int(st_size / 1024), 1)))
         return results
@@ -82,7 +84,7 @@ class FlagEvalUploader:
         resp = requests.get(url, params={'token': self.token})
 
         for item in resp.json()['results']:
-            path = os.path.join(self.path, item['filename'])
+            path = Path(os.path.join(self.path, item['filename']))
             results.append(File(
                 path=path,
                 filename=item['filename'],
@@ -120,7 +122,7 @@ class FlagEvalUploader:
         url = f'{self.host}{self.CHUNKS_PATH.format(item.id_)}'
         innerbar = tqdm.tqdm(total=item.size_kb, unit='KB', desc=item.filename)
 
-        with open(item.path,'rb') as f:
+        with open(item.path, 'rb') as f:
             for i, chunk in enumerate(item.chunks):
                 buf = io.BytesIO()
                 if i + 1 < len(item.chunks):

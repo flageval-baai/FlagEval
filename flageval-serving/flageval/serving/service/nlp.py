@@ -39,6 +39,8 @@ class NLPEvalRequest:
     stop_sequences: List[str] = field(default_factory=list)
     """Stop generating once we hit one of these strings."""
 
+    extra: Dict[str, Any] = field(default_factory=dict)
+    """Extra parameters required by model."""
 
 
 @dataclass

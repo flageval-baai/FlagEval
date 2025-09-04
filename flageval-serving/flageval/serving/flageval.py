@@ -1,4 +1,5 @@
 import io
+import json
 import os
 from dataclasses import dataclass, field
 from typing import List, Dict
@@ -6,6 +7,7 @@ from typing import List, Dict
 import requests
 import tqdm
 import sys
+from retry import retry
 
 
 @dataclass
@@ -24,16 +26,31 @@ class File:
     ks3_ready: bool = False
     chunks: List[Chunk] = field(default_factory=list)
 
+    @property
+    def posix_filename(self):
+        from pathlib import PurePosixPath, PurePath
+        p = PurePath(self.filename)
+        return str(PurePosixPath(p))
+
 
 class FlagEvalError(Exception):
     pass
+
+
+class FlagEvalClientError(FlagEvalError):
+    pass
+
+
+class FlagEvalServerError(FlagEvalError):
+    pass
+
 
 def is_empty(string):
     if string is None or string == "":
         return True
     else:
         return False
-    
+
 
 class FlagEvalUploader:
     FILES_PATH = "/api/evaluations/models/files"
@@ -64,6 +81,7 @@ class FlagEvalUploader:
             self._do_upload(item, progbar)
         progbar.close()
 
+    @retry(exceptions=(FlagEvalServerError, json.JSONDecodeError), tries=5, delay=1, backoff=2)
     def _list_local_files(self) -> List[File]:
         results: List[File] = []
         for root, dirs, files in os.walk(
@@ -76,6 +94,7 @@ class FlagEvalUploader:
                 results.append(File(path, filename, max(int(st_size / 1024), 1)))
         return results
 
+    @retry(exceptions=(FlagEvalServerError, json.JSONDecodeError), tries=5, delay=1, backoff=2)
     def _list_remote_files(self) -> List[File]:
         results: List[File] = []
         url = f'{self.host}{self.FILES_PATH}'
@@ -100,20 +119,23 @@ class FlagEvalUploader:
             ))
         return results
 
+    @retry(exceptions=(FlagEvalServerError, json.JSONDecodeError), tries=5, delay=1, backoff=2)
     def _create_remote_files(self, local_files: List[File]):
         url = f'{self.host}{self.FILES_PATH}'
         resp = requests.post(url, json={
             'token': self.token,
             'files': [
                 {
-                    'filename': item.filename,
+                    'filename': item.posix_filename,
                     'sizeKb': item.size_kb,
                 }
                 for item in local_files
             ]
         })
+        if resp.status_code >= 500:
+            raise FlagEvalServerError(resp.status_code, resp.text)
         if resp.status_code >= 400:
-            raise FlagEvalError(resp.status_code, resp.text)
+            raise FlagEvalClientError(resp.status_code, resp.text)
         return resp.json()
 
     def _do_upload(self, item: File, progbar: tqdm.tqdm, is_update = 0):
@@ -133,28 +155,36 @@ class FlagEvalUploader:
                     progbar.update(chunk.size_kb)
                     innerbar.update(chunk.size_kb)
                     continue
-
-                files = {'file': buf}
-                values = {
-                    'chunk_num': chunk.num,
-                    'token': self.token,
-                    'is_update': is_update
-                }
-                resp = requests.post(
-                    url, files=files, params=values,
-                    headers={
-                        'Content-Disposition': f'attachment; filename="{item.filename}"',
-                    },
-                )
-                if resp.status_code >= 400:
-                    raise FlagEvalError(resp.status_code, resp.text)
-                r = resp.json()
-                if r['status'] != 200:
-                    raise FlagEvalError(r)
+                self._upload_chunk(item, buf, chunk, is_update=is_update)
 
                 progbar.update(chunk.size_kb)
                 innerbar.update(chunk.size_kb)
         innerbar.close()
+
+    @retry(exceptions=(FlagEvalServerError, json.JSONDecodeError), tries=5, delay=1, backoff=2)
+    def _upload_chunk(self, item: File, buf: io.BytesIO, chunk: Chunk, is_update: int = 0):
+        url = f'{self.host}{self.CHUNKS_PATH.format(item.id_)}'
+        files = {'file': buf}
+        values = {
+            'chunk_num': chunk.num,
+            'token': self.token,
+            'is_update': is_update
+        }
+        resp = requests.post(
+            url, files=files, params=values,
+            headers={
+                'Content-Disposition': f'attachment; filename="{item.posix_filename}"',
+            },
+        )
+        if resp.status_code >= 500:
+            raise FlagEvalServerError(resp.status_code, resp.text)
+        if resp.status_code >= 400:
+            raise FlagEvalClientError(resp.status_code, resp.text)
+        r = resp.json()
+        if r['status'] != 200:
+            raise FlagEvalServerError(r)
+        return r
+
 
 class FlagEvalManager(FlagEvalUploader):
     FILES_PATH1 = "/api/evaluations/manage/op_file"
@@ -190,7 +220,7 @@ class FlagEvalManager(FlagEvalUploader):
                 ]
             ))
         return results, resp["canSendTargets"]
-    
+
     def filter_path(self, path):
         if path.find(".") == 0:
             path = path[1:]
@@ -201,7 +231,7 @@ class FlagEvalManager(FlagEvalUploader):
         while len(path) > 0 and path[-1] == "/":
             path = path[:-1]
         return path
-    
+
     def rm(self):
         if is_empty(self.src_path):
             print("error: file path is empty", file=sys.stderr)
@@ -216,7 +246,7 @@ class FlagEvalManager(FlagEvalUploader):
                 print("service return error:", ret)
         else:
             print("service error:", resp.status_code, file=sys.stderr)
-    
+
     def cp(self):
         if is_empty(self.src_path):
             print("error: file path is empty", file=sys.stderr)
@@ -247,7 +277,7 @@ class FlagEvalManager(FlagEvalUploader):
                 continue
             self._do_upload(item, progbar, 1)
         progbar.close()
-    
+
     def _list_local_files(self) -> List[File]:
         results: List[File] = []
         rfiles, canSendTargets = self.list_remote_files(self.dst_path, 2)
@@ -288,19 +318,3 @@ class FlagEvalManager(FlagEvalUploader):
         else:
             print("error: " + self.src_path + " is not exist", file=sys.stderr)
         return results
-    
-    def _create_remote_files(self, local_files: List[File]):
-        url = f'{self.host}{self.FILES_PATH}'
-        resp = requests.post(url, json={
-            'token': self.token,
-            'files': [
-                {
-                    'filename': item.filename,
-                    'sizeKb': item.size_kb,
-                }
-                for item in local_files
-            ]
-        })
-        if resp.status_code >= 400:
-            raise FlagEvalError(resp.status_code, resp.text)
-        return resp.json()
